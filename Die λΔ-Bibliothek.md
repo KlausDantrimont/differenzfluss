@@ -1521,3 +1521,18 @@ Vielleicht entsteht eines Tages ein echtes Taxonomiemodell für den Differenzflu
 
 Wer damit etwas anfangen kann: wunderbar. Wer nicht: auch gut.
 Die Struktur fließt weiter.
+
+
+Impressum
+
+Titel: Die λΔ-Bibliothek
+Autor: Klaus Dantrimont Ort: Kaltenkirchen
+Jahr: 2025
+
+Alle Rechte vorbehalten.
+Dieser Essay darf für private, wissenschaftliche und nicht-kommerzielle Zwecke verwendet, zitiert und geteilt werden, sofern die Quelle genannt wird. Jegliche kommerzielle Nutzung, Vervielfältigung oder Bearbeitung bedarf der ausdrücklichen Zustimmung des Autors.
+
+Kontakt: klaus.dantrimont@itnovation.de
+
+Satz, Gestaltung und Struktur: [ggf. weitere Mitwirkende eintragen]
+Erstellt mit Unterstützung digitaler Werkzeuge und einem strukturbewussten Blick auf Sprache.
