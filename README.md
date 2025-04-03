@@ -17,7 +17,9 @@ Hier geht es um Begriffe, wie
 - Begriffe als Werkzeuge
 - Nutzung von KI als magisches Helferlein mit ungeahntem Potential
 
-Work in Progress
+Work in Progress ...
+
+- [Einleitung] (Einleitung.md)
 
 
 ## Käuflich erwerbbare Bücher:
