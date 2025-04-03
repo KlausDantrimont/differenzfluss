@@ -2,12 +2,22 @@
 
 Repo für diverse Texte im Kontext der Theorie des Differenzfluss
 
-Ich stehe auf den Schultern von Riesen, und habe nur passende Begriffe gesammelt und zusammengefügt, die mir freundlicherweise von anderen zur Verfügung gestellt wurden.
+Es ist ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen daraus. 
+
+Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
 - Paradox/Oszillator/Unentscheidbarkeit
 - Evolution/Mutation/Selektion/Mem
-- Relativität/Perspektive/Kontext
+- Relativität/Existenz/Perspektive/Kontext
 - ...
+- Stabilität/Wandel
+- Kopplung
+- Emergenz
+- Begriffe als Filter
+- Begriffe als Werkzeuge
+- Nutzung von KI als magisches Helferlein mit ungeahntem Potential
+
+Work in Progress
 
 
 ## Käuflich erwerbbare Bücher:
