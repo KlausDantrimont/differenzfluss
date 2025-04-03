@@ -19,21 +19,22 @@ Hier geht es um Begriffe, wie
 
 Work in Progress ...
 
-Worum geht's hier überhaupt?
+## Worum geht's hier genau?
 -[Einleitung](Einleitung.md)
 
-Beziehungen zu anderen Theorien und Konzepten
+## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften.md>)
 - [Konstruktive Brüche – Wo der Differenzfluss reißt](<Konstruktive Brüche – Wo der Differenzfluss reißt.md>)
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 - [Kausalität und Implikation als Ausdruck desselben Differenzflusses](<Kausalität und Implikation als Ausdruck desselben Differenzflusses.md>)
 
-Die Dft lässt sich mit Lambda-analoger Syntax formulieren
+## Die Dft lässt sich mit Lambda-analoger Syntax formulieren
+... und wandelt Touringmaschinen zu Protowesen
+- [Exposé Die Turingstruktur im Differenzfluss](<Exposé Die Turingstruktur im Differenzfluss.md>)
 - [Der Differenzfluss und das Lambda-Kalkül](<Der Differenzfluss und das Lambda-Kalkül.md>)
 - [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
-- [Exposé Die Turingstruktur im Differenzfluss](<Exposé Die Turingstruktur im Differenzfluss.md>)
 
-Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
+## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
 - [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
 - [Begriffe im Differenzfluss](<Begriffe im Differenzfluss.md>)
 - [Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
@@ -46,13 +47,10 @@ multidimensionale Betrachtung.md>)
 - [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
 - [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
 
-- [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)
+## Wesen / Innenansicht reflexiver Prozesse
 - [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine
-  
+- [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)  
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
-
-
-
 
 
 ## Käuflich erwerbbare Bücher:
