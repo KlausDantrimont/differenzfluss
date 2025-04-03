@@ -48,7 +48,7 @@ multidimensionale Betrachtung.md>)
 - [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
 
 ## Wesen / Innenansicht reflexiver Prozesse
-- [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine
+- [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung>)
 - [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)  
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
