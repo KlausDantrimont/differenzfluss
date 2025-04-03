@@ -19,7 +19,7 @@ Hier geht es um Begriffe, wie
 
 Work in Progress ...
 
-- [Einleitung] (Einleitung.md)
+- [Einleitung](Einleitung.md)
 
 
 ## Käuflich erwerbbare Bücher:
