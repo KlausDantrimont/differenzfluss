@@ -37,3 +37,5 @@ Diese Reformulierung öffnet neue Räume:
 Theoretische Informatiker:innen, formale Systemforscher:innen, Philosoph:innen des Geistes, Emergenztheoretiker:innen und alle, die sich für **Struktur im Werden** interessieren.
 
 ---
+
+siehe ==>  [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
