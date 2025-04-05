@@ -25,6 +25,7 @@ Work in Progress ...
 
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
+- [Zielgruppen](Zielgruppen.md)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften.md>)
