@@ -65,6 +65,7 @@ multidimensionale Betrachtung.md>)
 
 
 ## Käuflich erwerbbare Bücher:
+Falls Dir die Gedanken hier etwas wert sein sollten.
 - "Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist
 - "Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss
   
