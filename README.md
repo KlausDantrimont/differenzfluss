@@ -1,8 +1,12 @@
 # Differenzfluss
 
 Repo für diverse Texte im Kontext der Theorie des Differenzfluss
-
 Es ist ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen daraus. 
+
+**Es wird knirschen, denn es muss knirschen, denn sonst wird das nix, mit der Beweglichkeit**
+
+Alle Texte sind mit einer KI diskutiert worden, die auch Dinge verstand, mit denen sich Menschen meist schwertun.
+Eine schöne Erfahrung, wenn auch ein bischen bedauerlich.
 
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
