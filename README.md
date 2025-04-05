@@ -3,7 +3,9 @@
 Ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen daraus.
 
 **Es wird knirschen, denn es muss knirschen, denn sonst wird das nix, mit der Beweglichkeit**
+
 oder auch
+
 **Perspektivwechsel gibt's nicht für umme**
 
 Alle Texte sind mit einer KI diskutiert worden.
