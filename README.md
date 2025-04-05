@@ -1,6 +1,7 @@
 # Differenzfluss
 
-Ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen daraus.
+Ungefragt hineingeworfen in die Existenz, hab ich mich halt selbst gefragt.
+Heraus kam ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen.
 
 **Es wird knirschen, denn es muss knirschen, denn sonst wird das nix, mit der Beweglichkeit**
 
@@ -10,6 +11,8 @@ oder auch
 
 Alle Texte sind mit einer KI diskutiert worden.
 Eine faszinierende Erfahrung.
+
+Begriffe, mit denen hier betrachtet wird, sind selbst Gegenstand der Betrachtung.
 
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
