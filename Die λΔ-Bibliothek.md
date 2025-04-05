@@ -1,3 +1,93 @@
+# 📚 Inhaltsverzeichnis – *Die λΔ-Bibliothek*
+
+## [Vorwort](#vorwort)
+
+---
+
+## Teil 1: Die λΔ-Bibliothek
+
+### [1. Einleitung zur λΔ-Bibliothek: Physik als Differenzfluss](#1-einleitung-zur-λδ-bibliothek-physik-als-differenzfluss)
+
+### [2. Notation und Konzepte des λΔ-Formalismus](#2-notation-und-konzepte-des-λδ-formalismus)
+- [2.1 Erweiterung der λ-Notation](#21-erweiterung-der-λ-notation)
+- [2.2 Differenz, Fluss und strukturelle Stabilität](#22-differenz-fluss-und-strukturelle-stabilität)
+- [2.3 Operatoren des λΔ-Systems](#23-operatoren-des-λδ-systems)
+- [2.4 Einfache Beispiele](#24-einfache-beispiele)
+
+### [3. Der harmonische Oszillator im λΔ-Formalismus](#3-der-harmonische-oszillator-im-λδ-formalismus)
+
+### [4. Die Schrödinger-Gleichung als Flussstruktur](#4-die-schrödinger-gleichung-als-flussstruktur)
+
+### [5. Erhaltungssätze als Strukturinvarianz](#5-erhaltungssätze-als-strukturinvarianz)
+
+### [6. Felddynamik im λΔ-Formalismus](#6-felddynamik-im-λδ-formalismus)
+
+### [7. Relativistische Strukturen im Differenzfluss](#7-relativistische-strukturen-im-differenzfluss)
+
+### [8. Quantisierung als Selektion stabiler Strukturklassen](#8-quantisierung-als-selektion-stabiler-strukturklassen)
+
+### [9. Topologische Aspekte im λΔ-Formalismus](#9-topologische-aspekte-im-λδ-formalismus)
+
+### [10. Strukturprozesse jenseits der Physik](#10-strukturprozesse-jenseits-der-physik)
+
+### [11. Ausblick – Strukturen pflanzen, Prozesse gestalten](#11-ausblick--strukturen-pflanzen-prozesse-gestalten)
+
+---
+
+## [Glossar der λΔ-Bibliothek](#glossar-der-λδ-bibliothek)
+
+---
+
+## [Beispielkompendium zur λΔ-Bibliothek](#beispielkompendium-zur-λδ-bibliothek)
+- [1. Elementare Differenzierung](#1-elementare-differenzierung)
+- [2. Harmonischer Oszillator](#2-harmonischer-oszillator)
+- [3. Schrödinger-Gleichung](#3-schrödinger-gleichung)
+- [4. Kontinuitätsgleichung](#4-kontinuitätsgleichung)
+- [5. Eigenwertstruktur](#5-eigenwertstruktur)
+- [6. Rekursive Bedeutung](#6-rekursive-bedeutung)
+- [7. Bewusstsein als Reflexionsfluss](#7-bewusstsein-als-reflexionsfluss)
+- [8. Möbiusschleife](#8-möbiusschleife-als-gekopplte-oszillatoren)
+
+---
+
+## Teil 2: Kontraste und Anschluss
+
+### [λ vs. λΔ](#λ-vs-λδ--von-funktionen-zu-flüssen)
+### [Analysis im Strukturbad](#ableitungen-und-darüber-hinaus--analysis-im-strukturbad)
+### [Kategorientheorie und λΔ](#kategorientheorie-und-λδ--zwei-sprachen-für-struktur)
+### [Zustandsmaschinen und Petri-Netze](#zustandsmaschinen-und-petri-netze--der-weg-von-außen-nach-innen)
+### [Zelluläre Automaten & Turingmaschinen](#λδ-und-zelluläre-automaten--struktur-im-wandel-oder-wandel-der-struktur)
+### [Was fehlt in anderen – und vielleicht in λΔ](#was-fehlt-in-den-anderen--und-was-fehlt-vielleicht-in-λδ)
+### [Fazit: Die Welt als Differenzfluss](#fazit-die-welt-als-differenzfluss-denken)
+
+---
+
+## Teil 3: Raumkonzepte im Differenzflussraum
+
+### [Dimension, Richtung, Abstand, Topologie](#teil-3-dimension-richtung-abstand-und-topologie-im-differenzflussraum)
+
+---
+
+## Teil 4: Die Turingmaschine im Fluss
+
+### [Kapitel 1: Vom Automaten zum Fluss](#kapitel-1-vom-automaten-zum-fluss)
+### [Kapitel 2: Strukturvorlage der klassischen Turingmaschine](#kapitel-2-die-klassische-turingmaschine--als-strukturvorlage)
+### [Kapitel 3: Die λΔ-Reformulierung](#kapitel-3-die-λδ-reformulierung--struktur-als-fluss)
+### [Kapitel 4: Emergenz und Resonanz](#kapitel-4-emergenz-und-resonanz--was-λδ-zusätzlich-erlaubt)
+### [Kapitel 5: Diagrammatische Darstellung](#kapitel-5-diagrammatische-darstellung)
+### [Kapitel 6: Maschine, System, Subjekt](#kapitel-6-maschine-system-subjekt--was-ist-eine-turingstruktur-wirklich)
+### [Resümee: Die Turingstruktur im Differenzfluss](#resümee-die-turingstruktur-im-differenzfluss)
+
+---
+
+## [Anhang: Klassifikation von Räumen im Differenzfluss](#anhang-eine-mögliche-klassifikation-von-räumen-im-differenzfluss)
+
+---
+
+## [Impressum](#impressum)
+
+
+
 ## Vorwort
 
 Dieses Buch ist eine Einladung. Keine Gebrauchsanweisung, keine Dogmatik, kein abgeschlossenes System – sondern ein **offener Raum für Strukturen im Werden**. Es beschreibt nicht nur einen Formalismus, sondern eine Sichtweise: **die Welt als Differenzfluss** zu verstehen.
