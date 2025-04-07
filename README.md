@@ -45,12 +45,15 @@ Work in Progress ...
 - [Der Differenzfluss und das Lambda-Kalkül](<Der Differenzfluss und das Lambda-Kalkül.md>)
 - [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
 
+## Physik
+- [Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)](<Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz).md>)
+- [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](<Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik.md>)
+
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
 - [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
 - [Begriffe im Differenzfluss](<Begriffe im Differenzfluss.md>)
 - [Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
 
-multidimensionale Betrachtung.md>)
 - [Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss](<Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss.md>)
 - [Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
 
