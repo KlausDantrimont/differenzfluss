@@ -1,6 +1,6 @@
 # Differenzfluss
 
-Ungefragt hineingeworfen in die Existenz, hab ich mich halt selbst gefragt.
+Ungefragt hineingeworfen in die Existenz, hab ich mich halt gefragt.
 Heraus kam ein Versuch, eine Annahme, und ein Spiel mit den logischen Konsequenzen.
 
 **Es wird knirschen, denn es muss knirschen, denn sonst wird das nix, mit der Beweglichkeit**
