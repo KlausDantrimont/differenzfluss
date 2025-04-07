@@ -52,16 +52,17 @@ Work in Progress ...
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
 - [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
 - [Begriffe im Differenzfluss](<Begriffe im Differenzfluss.md>)
-- [Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
+- [Essay: Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
 
 - [Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss](<Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss.md>)
 - [Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
-
 - [Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz](<Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz.md>)
 - [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
-- [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
+- [Essay: Von der Theorie zur Praxis](<essay-Von der Theorie zur Praxis.md>)
+
 
 ## Wesen / Innenansicht reflexiver Prozesse
+- [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
 - [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung>)
 - [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)  
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
