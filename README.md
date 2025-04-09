@@ -46,7 +46,7 @@ Work in Progress ...
 - [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
 
 ## Physik
-- [Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)](<Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz).md>)
+- [Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)](<LeitsatzDerRekursivenReformulierbarkeit.md>)
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](<Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik.md>)
 
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
