@@ -49,6 +49,7 @@ Work in Progress ...
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
 
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
+- [Die Differenzierungsfluss-Theorie als positive Vision](<Die Differenzierungsfluss-Theorie als positive Vision.md>)
 - [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
 - [Begriffe im Differenzfluss](<Begriffe im Differenzfluss.md>)
 - [Essay: Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
