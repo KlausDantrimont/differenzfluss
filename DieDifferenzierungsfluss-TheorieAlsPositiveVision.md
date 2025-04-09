@@ -1,5 +1,6 @@
 # Die Differenzierungsfluss-Theorie als positive Vision
 
+
 ## Einleitung
 
 Die Differenzierungsfluss-Theorie ist weit mehr als ein theoretisches Modell zur Beschreibung von Strukturentstehung und Veränderung. Sie bietet eine grundlegende, positive Vision – für das Denken, für die Gesellschaft und für die Entwicklung von Bewusstsein. Sie schafft Klarheit, wo Komplexität herrscht, und ermutigt zur bewussten Gestaltung inmitten des ständigen Wandels.
