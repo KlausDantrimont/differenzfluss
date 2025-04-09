@@ -47,7 +47,7 @@ Work in Progress ...
 
 ## Physik
 - [Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)](<LeitsatzDerRekursivenReformulierbarkeit.md>)
-- [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](<Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik.md>)
+- [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
 
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
 - [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
