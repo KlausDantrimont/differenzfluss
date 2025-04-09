@@ -25,3 +25,4 @@ Anstelle starrer Wahrheiten liefert die Theorie flexible, strukturierende Werkze
 
 Die Differenzierungsfluss-Theorie verbindet analytische Klarheit mit ethischer Tiefe. Sie ist eine Einladung zur bewussten Teilnahme am Werden der Welt – achtsam, offen und gestaltungsfreudig. In einer Zeit wachsender Komplexität und Unsicherheit liefert sie nicht nur Erklärung, sondern auch Ermutigung: Alles lebt – im Fluss der Differenzen.
 
+---
