@@ -34,8 +34,8 @@ Work in Progress ...
 - [Zielgruppen](Zielgruppen.md)
 
 ## Beziehungen zu anderen Theorien und Konzepten
-- [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften.md>)
-- [Konstruktive Brüche – Wo der Differenzfluss reißt](<Konstruktive Brüche – Wo der Differenzfluss reißt.md>)
+- [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
+- [Konstruktive Brüche – Wo der Differenzfluss reißt](<KonstruktiveBrüche–WoDerDifferenzflussReißt.md>)
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 - [Kausalität und Implikation als Ausdruck desselben Differenzflusses](<Kausalität und Implikation als Ausdruck desselben Differenzflusses.md>)
 
