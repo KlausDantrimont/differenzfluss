@@ -1,4 +1,5 @@
 **Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)**
+---
 
 **Einleitung**
 Die klassische Physik beschreibt die Realität durch mathematische Gleichungen, die kontinuierliche Größen, Felder, Kräfte und Geometrien modellieren. Diese Gleichungen sind erfolgreich, aber sie basieren auf Annahmen wie Kontinuität, Ableitbarkeit und externer Zeitparameter. Die Differenzflusstheorie mit ihrem λΔ-Formalismus (lambda-delta) stellt eine alternative Beschreibung vor: Sie begreift physikalische Strukturen als emergente Muster rekursiver Differenzprozesse. 
