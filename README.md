@@ -3,29 +3,18 @@
 Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?
 
 **Es wird knirschen, denn es muss knirschen, denn sonst wird das nix, mit der Beweglichkeit**
-
 oder auch
-
 **Perspektivwechsel gibt's nicht für umme**
 
 Alle Texte sind mit einer KI diskutiert worden.
 Eine faszinierende Erfahrung.
 
-Begriffe, mit denen hier betrachtet wird, sind selbst Gegenstand der Betrachtung.
-
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
 - Paradox/Oszillator/Unentscheidbarkeit
-- Evolution/Mutation/Selektion/Mem
-- Relativität/Existenz/Perspektive/Kontext
-- ...
-- Stabilität/Wandel
-- Kopplung
-- Emergenz
-- Begriffe als Filter
-- Begriffe als Werkzeuge
+- Evolution/Mutation/Selektion/Mem, Relativität/Existenz/Perspektive/Kontext
+- Stabilität/Wandel, Kopplung, Emergenz, Begriffe als Filter, Begriffe als Werkzeuge
 - Nutzung von KI als magisches Helferlein mit ungeahntem Potential
-
 Work in Progress ...
 
 ## Worum geht's hier genau?
