@@ -58,7 +58,7 @@ Work in Progress ...
 - [Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
 - [Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz](<Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz.md>)
 - [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
-- [Essay: Von der Theorie zur Praxis](<essay-Von der Theorie zur Praxis.md>)
+- [Essay: Von der Theorie zur Praxis](<Essay-VonDerTheorieZurPraxis.md>)
 
 
 ## Wesen / Innenansicht reflexiver Prozesse
