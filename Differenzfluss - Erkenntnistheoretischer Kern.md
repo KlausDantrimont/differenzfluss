@@ -1,4 +1,5 @@
 # Titel: Differenzfluss - Erkenntnistheoretischer Kern 
+Klaus Dantrimont
 
 - Kapitel: Erkenntnis im Differenzfluss
 - Kapitel: Begriff und Struktur im Differenzfluss
