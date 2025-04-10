@@ -61,7 +61,7 @@ Work in Progress ...
 Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
 <br>Ich war noch nie ein Freund vieler Worte, und hab ja auch keine Ahnung ;-)
-- "Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist
-- "Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss
+- ["Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist](https://buchshop.bod.de/bootstrap-aus-dem-nichts-klaus-dantrimont-9783819276163)
+- ["Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)
   
 beide erschienen bei BoD
