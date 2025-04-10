@@ -18,11 +18,11 @@ Work in Progress ...
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
+- [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
 - [Konstruktive Brüche – Wo der Differenzfluss reißt](<KonstruktiveBrüche–WoDerDifferenzflussReißt.md>)
-- [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 - [Kausalität und Implikation als Ausdruck desselben Differenzflusses](<Kausalität und Implikation als Ausdruck desselben Differenzflusses.md>)
 
 ## Die Dft lässt sich mit Lambda-analoger Syntax formulieren
