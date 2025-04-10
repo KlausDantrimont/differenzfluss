@@ -20,6 +20,7 @@ Work in Progress ...
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
+- [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
