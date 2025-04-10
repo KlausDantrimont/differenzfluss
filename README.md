@@ -21,6 +21,7 @@ Work in Progress ...
 - [Zielgruppen](Zielgruppen.md)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
+- [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
