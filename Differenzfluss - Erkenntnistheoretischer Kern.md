@@ -1,11 +1,11 @@
-Titel: Differenzfluss - Erkenntnistheoretischer Kern 
+# Titel: Differenzfluss - Erkenntnistheoretischer Kern 
 
-Kapitel: Erkenntnis im Differenzfluss
-Kapitel: Begriff und Struktur im Differenzfluss
-Kapitel: Subjektivität im Differenzfluss
-Kapitel: Werte, Bedeutung und Bewusstsein im Differenzfluss
-Kapitel: Kollektive Realität und Kultur im Differenzfluss
-Kapitel: Erkenntnis als Flussprozess
+- Kapitel: Erkenntnis im Differenzfluss
+- Kapitel: Begriff und Struktur im Differenzfluss
+- Kapitel: Subjektivität im Differenzfluss
+- Kapitel: Werte, Bedeutung und Bewusstsein im Differenzfluss
+- Kapitel: Kollektive Realität und Kultur im Differenzfluss
+- Kapitel: Erkenntnis als Flussprozess
 
 
 **Kapitel: Erkenntnis im Differenzfluss**
