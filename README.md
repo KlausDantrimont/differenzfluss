@@ -1,6 +1,8 @@
 # Differenzfluss
 
 **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+<br>Abstrakter Quatsch?
+<br>Weit gefehlt!
 
 Alle Texte sind mit einer KI diskutiert worden.
 Eine faszinierende Erfahrung.
