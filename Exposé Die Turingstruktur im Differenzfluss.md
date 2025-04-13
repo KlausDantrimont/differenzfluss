@@ -38,4 +38,4 @@ Theoretische Informatiker:innen, formale Systemforscher:innen, Philosoph:innen d
 
 ---
 
-siehe ==>  [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
+siehe ==>  [Die λΔ-Bibliothek](<https://github.com/KlausDantrimont/differenzfluss/blob/main/Die%20%CE%BB%CE%94-Bibliothek.md#teil-4-die-touringmaschine-im-fluss>)
