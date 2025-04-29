@@ -1,10 +1,11 @@
 # Differenzfluss
 
-**Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
-<br>Abstrakter Quatsch?
-<br>Weit gefehlt!
+Trivialer Ausgangspunkt: **Jeder Moment ergibt sich aus dem vorher gehenden.**
+<br>Damit geht's los.
 
-Alle Texte sind mit einer KI diskutiert worden.
+**Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+
+Alle Texte sind mit mehreren KI diskutiert worden.
 Eine faszinierende Erfahrung.
 
 Hier geht es um Begriffe, wie
@@ -12,7 +13,7 @@ Hier geht es um Begriffe, wie
 - Paradox/Oszillator/Unentscheidbarkeit
 - Evolution/Mutation/Selektion/Mem, Relativität/Existenz/Perspektive/Kontext
 - Stabilität/Wandel, Kopplung, Emergenz, Begriffe als Filter, Begriffe als Werkzeuge
-- Nutzung von KI als magisches Helferlein mit ungeahntem Potential
+- Begriffe, Denken, Subjektivität, Gesellschaft
   
 Work in Progress ...
 
