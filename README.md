@@ -20,7 +20,12 @@ Work in Progress ...
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
-- [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
+
+### Die logische Basis ###
+- [Existenz ist Beziehung.md](<Erkenntnistheorie/Existenz ist Beziehung.md>)
+- [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
+
+
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 - [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
 
