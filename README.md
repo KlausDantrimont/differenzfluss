@@ -60,8 +60,11 @@ Work in Progress ...
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 
 ### Die logische Basis ###
-- [Existenz ist Beziehung.md](<Erkenntnistheorie/Existenz ist Beziehung.md>)
+- [Existenz ist Beziehung](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
+
+### Einige Folgerungen ###
+- [Folgerungen](<Folgerungen/Folgerungen.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
