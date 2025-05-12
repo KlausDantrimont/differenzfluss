@@ -1,12 +1,47 @@
 # Differenzfluss
 
-Trivialer Ausgangspunkt: **Jeder Moment ergibt sich aus dem vorher gehenden.**
-<br>Damit geht's los.
+Gedanklicher Startpunkt
+- Existenz ist Beziehung.
+- Jeder Moment entsteht aus dem vorhergehenden.
+- Was sich nicht erhält, vergeht.
 
+Oder einen Schritt weiter:
 **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
 
-Alle Texte sind mit mehreren KI diskutiert worden.
-Eine faszinierende Erfahrung.
+Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
+Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
+Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
+
+## Worum geht’s hier?
+Nun ja - um alles Mögliche.
+Aber im Grunde nur um eins: 
+- Warum ist es so, wie es ist - ganz grundsätzlich, ganz basal?
+- Was bleibt übrig, wenn man alles weglässt, bis man an die Grenze zum Absurden stößt?
+- Was sind die 'Atome' des Seins?
+- Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
+
+## Hirnwichserei?
+Ich hätte nicht gedacht, dass ich auf solche Fragen jemals sinnvolle Antworten finden würde.
+Pure Naivität hat mich nachdenken lassen.
+Offensichtlich eine hoffnungslose Zeitverschwendung.
+Und selbst wenn etwas dabei herauskäme – was sollte das schon sein? Wozu gut?
+
+Dann kam der Zufall.
+
+Begriffe, Konzepte, Denkwerkzeuge.
+<br>Übung, viel Übung – in Projekten als Softwareentwickler.
+<br>Und ein paar geniale Bücher, die ich lesen durfte:
+<br>„Das egoistische Gen“.
+<br>„Gödel, Escher, Bach“.
+
+Sie machten mir dreierlei klar:
+- Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
+- Man kann einzelne Aspekte ihrer Mechanik verstehen.
+- Und – „zufälligerweise“ – taucht überall Rekursion auf.
+Selbstbezüglichkeit. Dynamik im Loop.
+
+Den Rest hab ich mir dann zusammengereimt.
+Und nun bin ich hier.
 
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
@@ -14,20 +49,19 @@ Hier geht es um Begriffe, wie
 - Evolution/Mutation/Selektion/Mem, Relativität/Existenz/Perspektive/Kontext
 - Stabilität/Wandel, Kopplung, Emergenz, Begriffe als Filter, Begriffe als Werkzeuge
 - Begriffe, Denken, Subjektivität, Gesellschaft
+- und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
 
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
+- [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
+- [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 
 ### Die logische Basis ###
 - [Existenz ist Beziehung.md](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
-
-
-- [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
-- [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
