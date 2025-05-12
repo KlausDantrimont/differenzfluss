@@ -29,10 +29,10 @@ Und selbst wenn etwas dabei herauskäme – was sollte das schon sein? Wozu gut?
 Dann kam der Zufall.
 
 Begriffe, Konzepte, Denkwerkzeuge.
-Übung, viel Übung – in Projekten als Softwareentwickler.
-Und ein paar geniale Bücher, die ich lesen durfte:
-„Das egoistische Gen“.
-„Gödel, Escher, Bach“.
+<br>Übung, viel Übung – in Projekten als Softwareentwickler.
+<br>Und ein paar geniale Bücher, die ich lesen durfte:
+<br>„Das egoistische Gen“.
+<br>„Gödel, Escher, Bach“.
 
 Sie machten mir dreierlei klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
