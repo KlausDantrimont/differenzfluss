@@ -59,7 +59,3 @@
 ## 🗺️ **Meta-Folgerung: Welt als dynamisches Differenznetz**
 
 Die Welt ist kein statisches Ding, sondern ein **ständig fließender, sich selbst strukturierender Prozess**. Alles, was Bestand hat, ist ein *Knoten im Fluss* – stabil nur durch Rückbezüglichkeit, eingebettet in ein Netzwerk von Unterschieden.
-
----
-
-Möchtest du eine Visualisierung dieser Ableitungen (z. B. als Mindmap oder Gliederungsbaum)? Oder soll ich einzelne Punkte formal ausformulieren (z. B. als Axiome oder Theoreme)?
