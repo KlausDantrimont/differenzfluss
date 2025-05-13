@@ -62,6 +62,7 @@ Work in Progress ...
 ### Die logische Basis ###
 - [Existenz ist Beziehung](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
+- [Die Schlabunsentheorie](<Erkenntnistheorie/Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
 
 ### Einige Folgerungen ###
 - [Folgerungen](<Folgerungen/Folgerungen.md>)
