@@ -529,6 +529,7 @@ Erkenntnis vollzieht sich als Fluss – nicht linear, sondern rekursiv:
 6. **Rückmeldung** – Wirkung beobachten
 7. **Modellanpassung** – Lernen durch Rückfluss
 
+(6. 7.) überlappt mit (1. 2. 3.)
 Dieser Kreislauf ist die Grundlage für jede Form von Lernen – ob in biologischen, kognitiven oder sozialen Systemen.
 
 ---
