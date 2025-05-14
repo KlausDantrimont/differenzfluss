@@ -8,6 +8,11 @@ Gedanklicher Startpunkt
 Oder einen Schritt weiter:
 **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
 
+
+Disclaimer: **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen zeigen, bzw sind, ist nicht Standard in der Wissenschaftstheorie.**
+<br>Aber eine Behauptung der DFT.
+
+
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
