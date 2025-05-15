@@ -1,4 +1,4 @@
-# Begriffe im Differenzfluss
+#Begriffe im Differenzfluss
 
 ## Ein Essay über Stabilität im Strom
 
@@ -128,6 +128,8 @@ Ein Begriff ist nicht nur ein Werkzeug des Denkens – er ist auch ein Sinnesorg
 In der Differenzierungsfluss-Theorie ist Wahrnehmung nicht die passive Abbildung einer äußeren Welt, sondern ein aktiver Prozess der Differenzierung. Der Begriff fungiert hier als Filter und Formgeber zugleich: Er entscheidet mit, *wo* eine Grenze gezogen wird, *was* als Einheit wahrgenommen wird und *welche* Differenz als bedeutsam gilt.
 
 So wie das Auge nur sehen kann, was durch Netzhaut und visuelle Verarbeitung interpretierbar ist, kann der Geist nur wahrnehmen, was durch seine Begriffsstruktur hindurch Bedeutung erhält. Ein Kind, das zum ersten Mal einen „Hund“ sieht, sieht nicht bloß ein Tier – es lernt, eine bestimmte Struktur im Wahrnehmungsfluss als *Hund* zu unterscheiden. Erst der Begriff macht aus Vielfalt eine erkennbare Entität.
+
+==> Anhang: Die Möms
 
 Begriffe formen also unsere Welt, nicht nur im sprachlichen, sondern im kognitiven Sinn. Sie wirken wie Linse, Raster oder Maske – sie schärfen bestimmte Konturen und lassen andere verschwimmen. Und weil sie mit Erfahrung, Kultur und Sprache gekoppelt sind, ist jede Wahrnehmung bereits immer auch *gerahmt*.
 
@@ -268,4 +270,86 @@ Wer in Begriffen denkt, tanzt auf dem Fluss. Und wer den Fluss begrifflich spür
 Begriffe sind die temporären Inseln, auf denen Bewusstsein stehen kann – bevor es weiterzieht. Und wer sich auf sie einlässt, merkt irgendwann:
 > Die Welt ist nicht gemacht aus Dingen, sondern aus Unterschieden.  
 > Und was wir "Begriff" nennen, ist ein Name für den Moment, in dem ein Unterschied trägt.
+
+
+
+# Anhang
+
+---
+# Die Möms – Ein Gedankenexperiment zur Begriffsbildung im Differenzfluss
+
+---
+
+## 🎭 Ausgangsszene
+
+Ein Kind wächst in einem liebevollen, aber semantisch schlampigen Haushalt auf:
+Oder vielleicht sind Aussprache der Erwachsenen oder Gehör des Kinds gestört; vielleicht ist die Sprache in dieser Kultur nicht differenziert zu Kleintieren, vielleicht ist dies der Erstkontakt der Familie mit diesen Kleintieren...
+Wir nehmen an, das Kind hört von anderen immer nur "Möm", wenn eins der Kleintiere das Zimmer betritt.
+
+- Ein Hund betritt das Zimmer → „Möm“
+- Eine Katze kommt → „Möm“
+- Eine Ziege → „Möm“
+- Ein Schaf → „Möm“
+
+Alles, was vier Beine hat und lebendig wirkt, 
+wird vom Umfeld als "Möm" bezeichnet, und ist damit zunächst „Möm“.  
+Das Kind beobachtet.
+
+---
+
+## 🧠 Kindliche Intelligenz: Differenz durch Erfahrung
+
+Kinder sind intelligent – nicht, weil sie viel wissen,  
+sondern weil sie **wach** sind für Unterschiede, Muster, Effekte.
+
+Das Kind bemerkt:
+
+- Das (Katzen-)Möm kratzt.
+- Das (Hunde-)Möm ist kuschelig.
+- Das (Schaf-)Möm blökt seltsam.
+- Das (Ziegen-)Möm springt auf Tische.
+
+> All diese Erfahrungen sind **Differenzreize** im DFT-Sinn:  
+> Unterscheidbare Aspekte innerhalb eines ursprünglich ununterschiedenen Raums.
+
+---
+
+## 🗣 Entstehung von Begriffen aus Differenznot
+
+Das Kind hat einen inneren Zustand,  
+eine wachsende Struktur von Unterschieden.  
+Doch das Außen bleibt bei „Möm“.
+
+Also beginnt das Kind:
+
+- Die **Aussprache** von „Möm“ zu modulieren  
+  („Möm?“, „Möööm“, „Mömp“, …)  
+- **Gesten**, **Blicke**, **Tonlagen** zu nutzen  
+- Vielleicht: **eigene Wörter zu erfinden**  
+  („Möml“, „Mimm“, „Wöff“, „Kratz“)
+
+Nicht weil es „spielerisch kreativ“ ist,  
+sondern weil es **strukturell notwendig ist**,  
+den **inneren Differenzraum** irgendwie **nach außen** zu spiegeln.
+
+> So entstehen Begriffe:  
+> Aus dem Bedürfnis, **Stabilität in der Kommunikation** über Unterschiede herzustellen.
+
+---
+
+## 🌱 Fazit
+
+Dieses Szenario ist ein kleines Modell für:
+
+- Die **Entstehung von Sprache**
+- Die **Notwendigkeit von Begriffen**
+- Die **Grundfunktion von Kommunikation im Differenzraum**
+
+Es zeigt:
+
+> Begriffe sind nicht Etiketten,  
+> sondern **strukturierte Abgrenzungswerkzeuge**.  
+> Und jedes Kind wird – wenn es wachsen darf – irgendwann aus dem „Möm“-Universum herausdifferenzieren.
+
+Siehe auch **Wittgenstein**: *Die Bedeutung eines Worts ergibt sich aus der Regel seines Gebrauchs.*
 
