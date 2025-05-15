@@ -1,7 +1,9 @@
-#Begriffe im Differenzfluss
+# Begriffe im Differenzfluss
 
 ## Ein Essay über Stabilität im Strom
+Autor/DFT: Klaus Dantrimont
 
+Werkzeuge: chatgpt
 
 
 ### Inhaltsverzeichnis – Begriffe im Differenzfluss
