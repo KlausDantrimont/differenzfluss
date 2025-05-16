@@ -36,8 +36,8 @@ Das Ziel ist **transparente Selbstkultur** – eine bewusste Praxis des Denkens.
 | `toolfinder_dft.md` | Der Toolfinder basiert auf den Konzepten der DFT  |
 |||
 | `Wie man eine KI zum Toolfinder macht.md`|  KI-Briefing                 |
-| `Toolfinder_Grok3.md`|Was meint Grok3 zum Briefing? |
-| `Wie der Toolfinder meine Fähigkeiten erweitert – aus Sicht einer KI`| Was meint Chatgpt zum Briefing? |
+| `Grok3_über_den_toolfinder.md`|Was meint Grok3 zum Briefing? |
+| `Chatgpt_über_den_toolfinder.md`| Was meint Chatgpt zum Briefing? |
 
 ---
 
