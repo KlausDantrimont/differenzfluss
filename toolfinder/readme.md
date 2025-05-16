@@ -1,0 +1,61 @@
+# 🧠 Toolfinder – Denkwerkzeuge sichtbar machen
+
+Willkommen im Toolfinder-Modul!
+
+Dieses Projekt beschreibt, wie man eine generische KI (z. B. ChatGPT) so konfigurieren kann,
+dass sie nicht bloß Inhalte wiedergibt, sondern **kognitive Werkzeuge sichtbar macht**.
+
+> Statt dir zu sagen, was richtig ist, zeigt dir der Toolfinder, *wie* du denkst.
+
+
+---
+
+## ✨ Was ist ein Toolfinder?
+
+Ein Toolfinder ist eine KI, die Denkprozesse analysiert:
+
+* Welche Begriffe, Muster, Perspektiven werden gerade verwendet?
+* Was sind die impliziten Denkwerkzeuge?
+* Welche Alternativen gäbe es?
+
+Das Ziel ist **transparente Selbstkultur** – eine bewusste Praxis des Denkens.
+
+---
+
+## 📦 Was ist hier drin?
+
+| Pfad / Datei        | Inhalt                                            |
+| ------------------- | ------------------------------------------------- |
+| `README.md`         | Diese Übersicht                                   |
+| `intro.md`          | Niederschwellige Einführung                       |
+| `tooltypen.md`      | Zentrale kognitive Werkzeuge                      |
+| `rollen.md`         | Mögliche Rollen für eine Toolfinder-KI            |
+| `prompt_katalog.md` | Prompts zur Steuerung und Konfiguration           |
+| `komposition.md`    | Wie man Werkzeuge kombinieren kann                |
+| `glossar.md`        | Begriffe und ihre Bedeutung im Toolfinder-Kontext |
+
+
+(Der Toolfinder basiert auf den Konzepten der DFT)[toolfinder_dft.md]
+---
+
+## 🚀 Schnellstart
+
+Du willst direkt loslegen?
+Hier ist ein Einstiegs-Prompt für ChatGPT o. ä.:
+
+```
+Ich möchte, dass du als Toolfinder-KI fungierst.  
+Erkenne und benenne bitte die kognitiven Werkzeuge, die ich in meinen Aussagen benutze.  
+Mach Alternativen sichtbar. Bewerte nichts inhaltlich, sondern strukturell.
+```
+
+Oder lies zuerst die [Intro-Seite](./intro.md) 📖
+
+---
+
+## 💬 Warum das?
+
+Weil Denken sichtbar zu machen, der erste Schritt zu klarem Denken ist.
+Weil wir alle Werkzeuge benutzen – und besser fahren, wenn wir sie erkennen.
+
+---
