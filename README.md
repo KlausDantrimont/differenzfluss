@@ -46,7 +46,7 @@ Und selbst wenn etwas dabei herauskäme – was sollte das schon sein? Wozu gut?
 
 Dann kam der Zufall.
 
-Begriffe, Konzepte, Denkwerkzeuge.
+Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
 <br>Übung, viel Übung – in Projekten als Softwareentwickler.
 <br>Und ein paar geniale Bücher, die ich lesen durfte:
 <br>„Das egoistische Gen“.
