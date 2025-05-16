@@ -9,7 +9,11 @@ Oder einen Schritt weiter:
 **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
 
 
-Disclaimer: **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen zeigen, bzw sind, ist nicht Standard in der Wissenschaftstheorie.**
+Disclaimer: 
+- **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen zeigen, bzw sind, ist nicht Standard in der Wissenschaftstheorie.**
+- **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert. **
+
+
 <br>Aber eine Behauptung der DFT.
 
 
