@@ -7,6 +7,8 @@ dass sie nicht bloß Inhalte wiedergibt, sondern **kognitive Werkzeuge sichtbar 
 
 > Statt dir zu sagen, was richtig ist, zeigt dir der Toolfinder, *wie* du denkst.
 
+Ideen: Klaus Dantrimont
+<br>Fleißarbeit: Chatgpt, Grok, Klaus Dantrimont
 
 ---
 
