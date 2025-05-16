@@ -33,9 +33,8 @@ Das Ziel ist **transparente Selbstkultur** – eine bewusste Praxis des Denkens.
 | `prompt_katalog.md` | Prompts zur Steuerung und Konfiguration           |
 | `komposition.md`    | Wie man Werkzeuge kombinieren kann                |
 | `glossar.md`        | Begriffe und ihre Bedeutung im Toolfinder-Kontext |
+| `toolfinder_dft.md` | Der Toolfinder basiert auf den Konzepten der DFT  |
 
-
-(Der Toolfinder basiert auf den Konzepten der DFT)[toolfinder_dft.md]
 ---
 
 ## 🚀 Schnellstart
