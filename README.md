@@ -51,6 +51,7 @@ Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
 <br>Und ein paar geniale Bücher, die ich lesen durfte:
 <br>„Das egoistische Gen“.
 <br>„Gödel, Escher, Bach“.
+<br> und viele mehr.
 
 Sie machten mir dreierlei klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
