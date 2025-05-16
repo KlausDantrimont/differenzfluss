@@ -22,6 +22,9 @@ Ein Toolfinder ist eine KI, die Denkprozesse analysiert:
 
 Das Ziel ist **transparente Selbstkultur** – eine bewusste Praxis des Denkens.
 
+
+Der Toolfinder ist ein kognitives Werkzeug für Ki und für Menschen.
+
 ---
 
 ## 📦 Was ist hier drin?
