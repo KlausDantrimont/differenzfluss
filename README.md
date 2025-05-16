@@ -97,8 +97,7 @@ Work in Progress ...
 
 
 ## Physik
-- [Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)](<LeitsatzDerRekursivenReformulierbarkeit.md>)
-- [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
+- [Der Differenzfluss und die Physik](physik/readme.md)
 
 ## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
 - [Die Differenzierungsfluss-Theorie als positive Vision](DieDifferenzierungsflussTheorieAlsPositiveVision.md)
