@@ -10,7 +10,7 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 
 * [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
 
-* [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung>)
+* [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung.md>)
 
 * [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)
 
