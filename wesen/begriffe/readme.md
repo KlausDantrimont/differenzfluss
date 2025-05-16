@@ -38,3 +38,6 @@ Eine Untersuchung der **Metapher** als verdichtete Bewegung im Raum der Bedeutun
 Der Text zeigt, wie Metaphern als **dynamische Brücken zwischen Begriffsräumen** wirken – und damit nicht nur Sprache, sondern auch Denken selbst formen und verschieben.
 
 [Essay: Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
+
+---
+<sub> Teilprojekt der Differenzierungsfluss-Theorie – zur Beleuchtung des Begriffs 'Begriff' </sub>
