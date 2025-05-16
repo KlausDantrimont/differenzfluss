@@ -118,7 +118,7 @@ Work in Progress ...
 
 
 ## Tools
-- [Der Toolfinder basiert auf den Konzepten der DFT](toolfinder/toolfinder_dft.md)
+- [Toolfinder - Kognitives Toolkit](toolfinder/toolfinder_dft.md)
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
