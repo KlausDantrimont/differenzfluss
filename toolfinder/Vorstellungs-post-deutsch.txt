@@ -1,0 +1,20 @@
+Ich stelle vor: den Toolfinder
+
+📍 https://github.com/KlausDantrimont/differenzfluss/tree/main/toolfinder
+
+Der Toolfinder ist ein Briefing für KIs – damit sie sich auf andere Weise nützlich machen können.
+Ein Proof of Concept für die Anwendbarkeit der Differenzfluss-Theorie.
+Ein Vokabular – für die KI. Und für den Menschen.
+Eine Brille. Eine Perspektive. Eine Dimension. Ein WhatEver.
+
+Der Toolfinder macht sichtbar, was vorher diffus war.
+Er zeigt, _wie_ wir denken – nicht _was_ wir denken.
+Und er kostet nichts.
+
+Fragt einfach die KI eures Vertrauens:
+Ob sie das kennt.
+Ob sie euch das erklären kann.
+Oder ob sie bereit ist, es zu lernen.
+
+Gern geschehen.
+Klaus
