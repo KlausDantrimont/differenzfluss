@@ -13,6 +13,9 @@ Formulierung des Leitsatzes:
 
 Erster Ansatz, ins Detail zu gehen.
 <br>**Obacht!*  Bin kein Physiker, bzw. nicht sehr tief drin in den Details.
-<br>Die Strukturelle Passung hat mich dennoch ermutigt, diesen Versuch zu wagen.
+<br>Ich bin Informatiker, ich kann abstrahieren.
+<br>Die Strukturelle Passung hat mich ermutigt, diesen Versuch zu wagen.
+<br>Und die Zustimmung jeder KI, der ich die Idee vorlegte.
 <br>Der geneigte Leser ist aufgefordert, die Plausibilität oder Korrektheit selbst zu durchdenken.
+<br>Für mich jedenfalls passts ;-)
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
