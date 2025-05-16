@@ -93,7 +93,7 @@ Work in Progress ...
 - [Kausalität und Implikation als Ausdruck desselben Differenzflusses](<Kausalität und Implikation als Ausdruck desselben Differenzflusses.md>)
 
 ## Die Dft lässt sich mit Lambda-analoger Syntax formulieren
-- [... und wandelt Touringmaschinen zu Protowesen](delta-lambda/readme.md)
+- [... und wandelt Touringmaschinen zu Protowesen](<delta-lambda/readme.md>)
 
 
 ## Physik
