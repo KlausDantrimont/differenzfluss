@@ -99,27 +99,20 @@ Work in Progress ...
 ## Physik
 - [Der Differenzfluss und die Physik](physik/readme.md)
 
-## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
-- [Die Differenzierungsfluss-Theorie als positive Vision](DieDifferenzierungsflussTheorieAlsPositiveVision.md)
-- [Begriffe als Werkzeuge – Denken heißt Schneiden](<Begriffe als Werkzeuge – Denken heißt Schneiden.md>)
-- [Begriffe im Differenzfluss](<Begriffe im Differenzfluss.md>)
-- [Essay: Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
 
-- [Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss](<Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss.md>)
-- [Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
-- [Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz](<Kulturelle Werkzeuge im Differenzfluss – Organisation, Konfliktlösung und Resilienz.md>)
-- [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
+## Gesellschaft/Kultur/Sprache/Begriffe/Reflexion
+- [Wesen](wesen/readme.md)
+- [Begriffe](wesen/begriffe/readme.md)
+- [Kommunikation](wesen/kommunikation/readme.md)
+
 - [Essay: Von der Theorie zur Praxis](<Essay-VonDerTheorieZurPraxis.md>)
 
-
-## Wesen / Innenansicht reflexiver Prozesse
-- [Rekursive Differenzierungsmaschinen – Ein universelles Prinzip](<Rekursive Differenzierungsmaschinen – Ein universelles Prinzip.md>)
-- [Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung](<Existenz als Wunder im Raum der Möglichkeiten – Eine multidimensionale Betrachtung>)
-- [Das verborgene Leid – Warum Selbsterkenntnis heilsam ist](<Das verborgene Leid – Warum Selbsterkenntnis heilsam ist.md>)  
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
 
 ## Toolfinder
+**Schubst die KI **
+**vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
 
