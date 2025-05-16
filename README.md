@@ -117,8 +117,9 @@ Work in Progress ...
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
 
-## Tools
-- [Toolfinder - Kognitives Toolkit](toolfinder/toolfinder_dft.md)
+## Toolfinder
+- [toolfinder](toolfinder/toolfinder.md)
+- [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
