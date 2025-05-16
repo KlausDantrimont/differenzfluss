@@ -27,6 +27,17 @@ Aber im Grunde nur um eins:
 - Was sind die 'Atome' des Seins?
 - Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
 
+## Worum geht’s mir?
+Naja, ich habe abstrahiert und abstrahiert, wie üblich in meinem Job.
+Dann hatte ich Zeit, und hab weiter gemacht.
+Und dann war irgendwann Schluß, da war nichts mehr zum weg-abstrahieren.
+*Nichts und Unterschied*
+Und dann hab ich das gemacht, ich im Job immer mache, wenn ich fertig mit der Analyse bin.
+Ich baue auf.
+Und das mache ich hier, bzw. dokumentiere ich hier.
+Jeder ist eingeladen mitzubauen.
+Hier oder woanders.
+
 ## Hirnwichserei?
 Ich hätte nicht gedacht, dass ich auf solche Fragen jemals sinnvolle Antworten finden würde.
 Pure Naivität hat mich nachdenken lassen.
@@ -53,9 +64,11 @@ Und nun bin ich hier.
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
 - Paradox/Oszillator/Unentscheidbarkeit
-- Evolution/Mutation/Selektion/Mem, Relativität/Existenz/Perspektive/Kontext
-- Stabilität/Wandel, Kopplung, Emergenz, Begriffe als Filter, Begriffe als Werkzeuge
-- Begriffe, Denken, Subjektivität, Gesellschaft
+- Evolution/Mutation/Selektion/Mem
+- Relativität/Existenz/Perspektive/Kontext
+- Stabilität/Wandel, Kopplung, Emergenz
+- Begriffe als Filter, Begriffe als Werkzeuge
+- Denken, Subjektivität, Gesellschaft
 - und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
