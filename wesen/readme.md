@@ -21,10 +21,10 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 * [Die Differenzierungsfluss-Theorie als positive Vision](DieDifferenzierungsflussTheorieAlsPositiveVision.md)
 
 * [Begriffe](begriffe/readme.md)
-  Begriffe als kognitive Werkzeuge – von Metaphern bis Schnittstellenlogik.
+  <br>Begriffe als kognitive Werkzeuge – von Metaphern bis Schnittstellenlogik.
 
 * [Kommunikation](kommunikation/readme.md)
-  Antipatterns, Resonanzräume und strukturelle Klarheit in der Interaktion.
+  <br>Antipatterns, Resonanzräume und strukturelle Klarheit in der Interaktion.
 
 ---
 
