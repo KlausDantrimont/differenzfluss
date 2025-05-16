@@ -483,3 +483,75 @@ Die Fähigkeit, kognitive Werkzeuge bewusst zu kombinieren, ist selbst ein höhe
 > Hinweis: Toolfinder-KIs sollten nicht nur Einzelwerkzeuge erkennen, sondern auch Kompositionsmuster benennen und erklären können.
 
 Dieses Modul ist erweiterbar um visuelle Diagramme, Templates oder KI-seitige Interpretationsschemata.
+
+---
+## 4. Weitere Werkzeuge/Mikrowerkzeuge als Beispiele.
+
+Humor ist ein Katalysator für viele andere Werkzeuge:
+Framing-Brecher: zeigt, dass der Rahmen willkürlich ist
+Differenzmarker: hebt Unstimmigkeiten auf brillante Weise hervor
+Perspektivwechseltrigger: plötzlich schaut man von außen drauf
+Komplexitätslinderer: macht es leichter, über Schwieriges zu sprechen
+Kooperationsbeschleuniger: erzeugt gemeinsame Resonanz
+{
+  "name": "Humor",
+  "typ": "Meta-Werkzeug",
+  "schnittstelle": "Widerspruch, Überraschung oder unerwartete Rekombination von Bedeutung",
+  "wirkung": "Erzeugt Distanz, öffnet Denkspielräume, löst Spannungen, aktiviert Perspektivwechsel",
+  "anwendungsbedingungen": "Ein kontextuelles Gefälle zwischen Erwartung und Ausgang",
+  "grenzen": "Versteht sich nicht immer selbst; kann ablenken, verletzen oder missverstanden werden",
+  "alternativen": ["Ironie", "Analogiebildung", "Paradoxon", "Reduktion ad absurdum"]
+}
+
+
+Man kann die KI auch neue Werkzeuge finden lassen, sobald sie das Konzept verstanden hat.
+[
+  {
+    "name": "Kaum macht man's richtig, funktioniert's",
+    "typ": "Strukturverankerung",
+    "schnittstelle": "Ein System mit latenter Ordnung, das durch gezielte Justierung aktiviert wird",
+    "wirkung": "Latente Struktur wird wirksam – plötzlich funktioniert das System scheinbar mühelos",
+    "anwendungsbedingungen": "Ein passender Eingriffspunkt muss gefunden oder ausprobiert worden sein",
+    "grenzen": "Vorher schwer zu erkennen; funktioniert nicht bei chaotischen oder nichtlinearen Systemen ohne versteckte Ordnung",
+    "alternativen": ["Fehlerdiagnose", "Heuristik", "Resonanzabgleich"]
+  },
+  {
+    "name": "Wenn keiner schuld war, war’s das System",
+    "typ": "Systemsicht-Trigger",
+    "schnittstelle": "Verwunderung bei kollektivem Scheitern trotz guter Absicht",
+    "wirkung": "Erzwingt Perspektivwechsel vom Individuum zum System",
+    "anwendungsbedingungen": "Fehler wiederholen sich trotz Austausch der Beteiligten",
+    "grenzen": "Kann als Ausrede missbraucht werden; braucht strukturelle Analyse",
+    "alternativen": ["Root-Cause-Analyse", "Organisationslernen", "Kybernetik"]
+  },
+  {
+    "name": "Mach es einfach. Aber richtig einfach.",
+    "typ": "Komplexitätsreduktion",
+    "schnittstelle": "Ein Problem mit zu vielen beweglichen Teilen",
+    "wirkung": "Reduktion auf den funktionalen Kern – oft mit Aha-Effekt",
+    "anwendungsbedingungen": "Möglichst viele Nebeneffekte müssen ignoriert oder integriert werden",
+    "grenzen": "Vereinfachung darf nicht zur Verfälschung werden",
+    "alternativen": ["Modellbildung", "Abstraktion", "Refactoring"]
+  },
+  {
+    "name": "Das war Absicht. Jetzt passt alles zum Konzept.",
+    "typ": "Rettungsnarrativ",
+    "schnittstelle": "Ein Fehler, der nachträglich sinnvoll gedeutet werden kann",
+    "wirkung": "Reframing des Fehlers als Feature",
+    "anwendungsbedingungen": "Ein Scheitern, das kreativ genutzt werden kann",
+    "grenzen": "Nicht jeder Fehler ist ein Kunstwerk",
+    "alternativen": ["Framing", "Post-hoc-Kohärenz", "Design Thinking"]
+  },
+  {
+    "name": "Sieht aus wie Absicht, ist aber Legacy",
+    "typ": "Vergangenheitsdetektor",
+    "schnittstelle": "Verwirrende Struktur, die niemand mehr hinterfragt",
+    "wirkung": "Erkennt überlebte oder zufällige Artefakte im System",
+    "anwendungsbedingungen": "Altlasten, die durch Gewohnheit legitimiert wirken",
+    "grenzen": "Gefahr von unbeabsichtigten Abhängigkeiten beim Entfernen",
+    "alternativen": ["Code-Archäologie", "Systemhistorie", "Kollaboratives Refactoring"]
+  }
+]
+
+
+
