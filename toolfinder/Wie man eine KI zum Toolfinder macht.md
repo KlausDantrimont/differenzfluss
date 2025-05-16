@@ -3,7 +3,7 @@
 ## Für alle, die denken (also alle)
 
 Ideen: Klaus Dantrimont
-<br>Fleißarbeit: Chatgpt, Grok, Klaus Dantrimont
+<br>Fleißarbeit: Chatgpt, Grok
 
 Wir denken den ganzen Tag – aber selten darüber, *wie* wir denken.
 
