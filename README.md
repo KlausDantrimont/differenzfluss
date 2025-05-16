@@ -118,7 +118,7 @@ Work in Progress ...
 
 
 ## Toolfinder
-- [toolfinder](toolfinder/toolfinder.md)
+- [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
 
 ## Käuflich erwerbbare Bücher:
