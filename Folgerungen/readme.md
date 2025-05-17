@@ -22,7 +22,3 @@ Konkrete Nutzung der DFT als Werkzeug – in Bereichen wie Kommunikation, Gesell
 ### 📄 [Kausalität und Implikation als Ausdruck desselben Differenzflusses](Kausalität%20und%20Implikation%20als%20Ausdruck%20desselben%20Differenzflusses.md)
 
 Eine Untersuchung der strukturellen Gemeinsamkeiten zwischen Ursache-Wirkung und logischer Folgerung – im Licht einer differenztheoretischen Perspektive.
-
----
-
-Wenn du willst, kann ich dir die Links im Markdown noch robuster machen (z. B. URL-kodiert wie oben), oder mit einer kleinen Grafik ergänzen.
