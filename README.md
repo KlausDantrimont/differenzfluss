@@ -37,15 +37,15 @@ Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, 
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
 
 ### Worum geht’s mir?
-    Als Softwareentwickler lernt man zu abstrahieren. 
-    Das kann zur Gewohnheit werden.
-    Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
-    <br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
-    <br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
-    Meine Konstruktion dokumentiere ich hier.
-    Keine Ahnung, ob's 'stimmt'.
-    Selberdenken ist angesagt.
-    Ich kann nur die Landschaft zeigen, gucken muss man selbst.    
+Als Softwareentwickler lernt man zu abstrahieren. 
+Das kann zur Gewohnheit werden.
+Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
+<br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
+<br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
+Meine Konstruktion dokumentiere ich hier.
+Keine Ahnung, ob's 'stimmt'.
+Selberdenken ist angesagt.
+Ich kann nur die Landschaft zeigen, gucken muss man selbst.    
 
 
 ### Worum geht’s hier?
