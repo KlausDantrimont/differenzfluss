@@ -34,6 +34,10 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 
 * [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
 
+
+## DFT & KI & Mensch
+* [dft und ki und mensch](<dft und ki und mensch/readme.md>)
+
 ## Aliens
 * [DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet](<DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>)
 
