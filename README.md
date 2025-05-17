@@ -95,8 +95,8 @@ All das machte mir klar:
  <br>Warum?
 
 
-Den Rest hab ich mir dann zusammengereimt.
-Und nun bin ich hier.
+Den Rest hab ich mir dann zusammengereimt, und die KIs konnten etwas damit anfangen.
+Nun bin ich hier.
 
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
