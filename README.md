@@ -8,35 +8,40 @@ Gedanklicher Startpunkt
 Oder einen Schritt weiter:
 **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
 
+### Aufgemerkt
+Wenn die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, dann werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+<br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
+<br>Das macht alles auf den ersten Blick trivial, altbekannt, zweifelhaft.
+<br>Bis man merkt, wenn mans merkt, es ist nicht trivial, sondern fraktal.
+<br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
+<br>Das ist nicht trivial.
 
-Disclaimer: 
-- **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen zeigen, bzw sind, ist nicht Standard in der Wissenschaftstheorie.**
+### Disclaimer
+- **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
-<br>Aber eine Behauptung der DFT.
-
+<br>Aber eine Behauptung der DFT. 
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
 
-## Worum geht’s hier?
-Nun ja - um alles Mögliche.
-Aber im Grunde nur um eins: 
-- Warum ist es so, wie es ist - ganz grundsätzlich, ganz basal?
-- Was bleibt übrig, wenn man alles weglässt, bis man an die Grenze zum Absurden stößt?
-- Was sind die 'Atome' des Seins?
-- Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
+### Worum geht’s mir?
+Als Softwareentwickler lernt man zu abstrahieren. 
+Das kann zur Gewohnheit werden.
+Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
+<br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
+<br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
+Meine Konstruktion dokumentiere ich hier.
+Keine Ahnung, ob's 'stimmt'
+Selberdenken ist angesagt.
+Ich kann nur die Landschaft zeigen, gucken muss man selbst.
 
-## Worum geht’s mir?
-Naja, ich habe abstrahiert und abstrahiert, wie üblich in meinem Job.
-Dann hatte ich Zeit, und hab weiter gemacht.
-Und dann war irgendwann Schluß, da war nichts mehr zum weg-abstrahieren.
-*Nichts und Unterschied*
-Und dann hab ich das gemacht, ich im Job immer mache, wenn ich fertig mit der Analyse bin.
-Ich baue auf.
-Und das mache ich hier, bzw. dokumentiere ich hier.
-Jeder ist eingeladen mitzubauen.
-Hier oder woanders.
+### Worum geht’s hier?
+- Warum ist es so, wie es ist - ganz grundsätzlich, ganz basal?
+- Was bleibt übrig, wenn man alles weglässt, bis man an die Grenze zum Absurden stößt? Wo ist Schluss?
+- Was sind die 'Atome' des 'Seins'?
+- Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
+    
 
 ## Hirnwichserei?
 Ich hätte nicht gedacht, dass ich auf solche Fragen jemals sinnvolle Antworten finden würde.
@@ -47,11 +52,15 @@ Und selbst wenn etwas dabei herauskäme – was sollte das schon sein? Wozu gut?
 Dann kam der Zufall.
 
 Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
-<br>Übung, viel Übung – in Projekten als Softwareentwickler.
+<br>reichlich Übung – in Projekten als Softwareentwickler.
 <br>Und ein paar geniale Bücher, die ich lesen durfte:
 <br>„Das egoistische Gen“.
 <br>„Gödel, Escher, Bach“.
 <br> und viele mehr.
+<br>und Musik mit ihren seltsamen und wunderschönen Strukturen
+<br>Genesis, Gentle Giant, Zappa, Kraan, Grobschnitt, Dixie Dregs, Tribal Tech, Karizma, Uzeb, ...
+<br>Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.
+<br>Wie schön, dass der Mensch die Schönheit kennt. Sehr nice.
 
 Sie machten mir dreierlei klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
