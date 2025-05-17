@@ -34,5 +34,7 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 
 * [Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft](<Neue Werkzeuge für eine bessere Welt – Wie die Differenzierungsfluss-Theorie Klarheit und Orientierung schafft.md>)
 
+## Aliens
+* [DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet](<DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>)
 
 <sub>→ Die Bereiche stehen in enger Wechselwirkung und bilden gemeinsam die Grundlage bewusster Selbststrukturierung.</sub>
