@@ -32,7 +32,9 @@ Faktische Lage: Erklär mal dem Fisch das Wasser.
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
-<br>Aber eine Behauptung der DFT. 
+
+**Vieles, was aus der DFT folgt ist nicht etabliert.**
+<br>**Könnte aber dennoch nützlich sein, glaube ich.**
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
@@ -76,11 +78,13 @@ Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
 <br>Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.
 <br>Wie schön, dass der Mensch die Schönheit kennt. Sehr nice.
 
-Sie machten mir klar:
+All das machte mir klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
 - Man kann einzelne Aspekte ihrer Mechanik verstehen.
 - Und – „zufälligerweise“ – taucht überall Rekursion auf.  Selbstbezüglichkeit. Dynamik im Loop.
-- Und einiges läuft nicht wirklich rund. Warum?
+  <br>Natürlich und unsichtbar wie Luft.
+- Und einiges läuft nicht wirklich rund.
+ <br>Warum?
 
 
 Den Rest hab ich mir dann zusammengereimt.
