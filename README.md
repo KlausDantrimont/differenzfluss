@@ -30,7 +30,7 @@ War keine Absicht.
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
-<br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+<br>Unkenntniss dieser Muster kann vermeidbare Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
 
