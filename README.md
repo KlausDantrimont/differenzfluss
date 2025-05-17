@@ -7,24 +7,26 @@ Gedanklicher Startpunkt
 
 Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
     
-<br>    **Alle Text sind nach bestem Wissen und Gewissen verfasst.**
-<br>    **Alle Behauptungen versuche ich nach Kräften zu begründen.**
-<br>    **KI wurde möglichst kreativ eingesetzt, um die Thesen zu kritisieren.**
-    
+**Alle Text sind nach bestem Wissen und Gewissen verfasst.**
+<br>**Alle Behauptungen versuche ich nach Kräften zu begründen.**
+<br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
+
 
 ### Aufgemerkt
 **Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
 <br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
-<br>Das macht alles auf den ersten Blick trivial, altbekannt, zweifelhaft.
+<br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
-<br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".
+<br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
 <br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+<br>Muss dat?
+<br>Eben!
 
-Meine gefühlte Lage: Erklär mal dem Fisch das Wasser.
+Faktische Lage: Erklär mal dem Fisch das Wasser.
 
 
 ### Disclaimer
@@ -95,6 +97,14 @@ Hier geht es um Begriffe, wie
 - und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
+
+## Methode:
+Basis-Algorithmus:
+- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen?
+- Schritt 2: gehe zu Schritt 1
+  
+Peng.
+    
 
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
