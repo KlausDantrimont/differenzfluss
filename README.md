@@ -101,7 +101,6 @@ Work in Progress ...
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
 - [Konstruktive Brüche – Wo der Differenzfluss reißt](<KonstruktiveBrüche–WoDerDifferenzflussReißt.md>)
-- [Kausalität und Implikation als Ausdruck desselben Differenzflusses](<Kausalität und Implikation als Ausdruck desselben Differenzflusses.md>)
 
 ## Die Dft lässt sich mit Lambda-analoger Syntax formulieren
 - [... und wandelt Touringmaschinen zu Protowesen](<lambda-delta/readme.md>)
