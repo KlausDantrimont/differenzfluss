@@ -62,11 +62,12 @@ Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
 <br>Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.
 <br>Wie schön, dass der Mensch die Schönheit kennt. Sehr nice.
 
-Sie machten mir dreierlei klar:
+Sie machten mir klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
 - Man kann einzelne Aspekte ihrer Mechanik verstehen.
-- Und – „zufälligerweise“ – taucht überall Rekursion auf.
-Selbstbezüglichkeit. Dynamik im Loop.
+- Und – „zufälligerweise“ – taucht überall Rekursion auf.  Selbstbezüglichkeit. Dynamik im Loop.
+- Und einiges läuft nicht wirklich rund. Warum?
+
 
 Den Rest hab ich mir dann zusammengereimt.
 Und nun bin ich hier.
