@@ -21,6 +21,8 @@ Wenn die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, dann werden 
 <br>Bis man merkt, wenn mans merkt, es ist nicht trivial, sondern fraktal.
 <br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
+<br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
