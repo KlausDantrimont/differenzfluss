@@ -5,23 +5,26 @@ Gedanklicher Startpunkt
 - Jeder Moment entsteht aus dem vorhergehenden.
 - Was sich nicht erhält, vergeht.
 
-Oder einen Schritt weiter: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
-
-**Alle Text sind nach bestem Wissen und Gewissen verfasst.**
-
-**Alle Behauptungen versuche ich nach Kräften zu begründen.**
-
-**KI wurde möglichst kreativ eingesetzt, um die Thesen zu kritisieren.**
-
+Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+    
+<br>    **Alle Text sind nach bestem Wissen und Gewissen verfasst.**
+<br>    **Alle Behauptungen versuche ich nach Kräften zu begründen.**
+<br>    **KI wurde möglichst kreativ eingesetzt, um die Thesen zu kritisieren.**
+    
 
 ### Aufgemerkt
-Wenn die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, dann werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+<br>Die DFT stimmt vielem zu.
 <br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
 <br>Das macht alles auf den ersten Blick trivial, altbekannt, zweifelhaft.
-<br>Bis man merkt, wenn mans merkt, es ist nicht trivial, sondern fraktal.
+<br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
+<br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".
+<br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
 <br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+
+Meine gefühlte Lage: Erklär mal dem Fisch das Wasser.
 
 
 ### Disclaimer
@@ -42,7 +45,7 @@ Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
     Meine Konstruktion dokumentiere ich hier.
     Keine Ahnung, ob's 'stimmt'.
     Selberdenken ist angesagt.
-    Ich kann nur die Landschaft zeigen, gucken muss man selbst.
+    Ich kann nur die Landschaft zeigen, gucken muss man selbst.    
 
 
 ### Worum geht’s hier?
