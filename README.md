@@ -21,7 +21,7 @@ Peng.
 War keine Absicht.
 
 ### Aufgemerkt
-**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit *notwendig* mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
 <br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
 <br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
