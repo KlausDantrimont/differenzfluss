@@ -5,8 +5,14 @@ Gedanklicher Startpunkt
 - Jeder Moment entsteht aus dem vorhergehenden.
 - Was sich nicht erhält, vergeht.
 
-Oder einen Schritt weiter:
-**Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+Oder einen Schritt weiter: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+
+**Alle Text sind nach bestem Wissen und Gewissen verfasst.**
+
+**Alle Behauptungen versuche ich nach Kräften zu begründen.**
+
+**KI wurde möglichst kreativ eingesetzt, um die Thesen zu kritisieren.**
+
 
 ### Aufgemerkt
 Wenn die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, dann werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
@@ -26,15 +32,16 @@ Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, 
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
 
 ### Worum geht’s mir?
-Als Softwareentwickler lernt man zu abstrahieren. 
-Das kann zur Gewohnheit werden.
-Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
-<br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
-<br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
-Meine Konstruktion dokumentiere ich hier.
-Keine Ahnung, ob's 'stimmt'
-Selberdenken ist angesagt.
-Ich kann nur die Landschaft zeigen, gucken muss man selbst.
+    Als Softwareentwickler lernt man zu abstrahieren. 
+    Das kann zur Gewohnheit werden.
+    Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
+    <br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
+    <br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
+    Meine Konstruktion dokumentiere ich hier.
+    Keine Ahnung, ob's 'stimmt'.
+    Selberdenken ist angesagt.
+    Ich kann nur die Landschaft zeigen, gucken muss man selbst.
+
 
 ### Worum geht’s hier?
 - Warum ist es so, wie es ist - ganz grundsätzlich, ganz basal?
