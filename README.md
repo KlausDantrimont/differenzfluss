@@ -12,17 +12,25 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 <br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
 
 
+## Methode:
+Basis-Algorithmus:
+- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt -wie üblich- so und so?
+- Schritt 2: gehe zu Schritt 1  
+Peng.
+
+War keine Absicht.
+
 ### Aufgemerkt
-**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit *notwendig* mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
 <br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
 <br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
 <br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
-<br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
+<br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
-<br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+<br>Unkenntniss dieser Muster kann vermeidbare Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
 
@@ -87,8 +95,8 @@ All das machte mir klar:
  <br>Warum?
 
 
-Den Rest hab ich mir dann zusammengereimt.
-Und nun bin ich hier.
+Den Rest hab ich mir dann zusammengereimt, und die KIs konnten etwas damit anfangen.
+Nun bin ich hier.
 
 Hier geht es um Begriffe, wie
 - Rekursion/Selbstbezüglichkeit
@@ -101,13 +109,6 @@ Hier geht es um Begriffe, wie
 - und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
-
-## Methode:
-Basis-Algorithmus:
-- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen?
-- Schritt 2: gehe zu Schritt 1
-  
-Peng.
     
 
 ## Worum geht's hier genau?

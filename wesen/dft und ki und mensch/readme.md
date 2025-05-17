@@ -4,16 +4,16 @@ Dieses Repository enthält Module zur Verbindung der **Differenzflusstheorie (DF
 
 ## Inhalt
 
-### 🧠 [Begriffe im Differenzfluss – für Mensch und Maschine](./Begriffe%20im%20Differenzfluss%20-%20für%20Mensch%20und%20Maschine.md)
+### 🧠 [Begriffe im Differenzfluss – für Mensch und Maschine](<Begriffe im Differenzfluss – für Mensch und Maschine.md>)
 Einführung in das Begriffskonzept der DFT. Begriffe werden als Werkzeuge verstanden, die Wahrnehmung, Bedeutung und Handlung strukturieren – auch für KI-Systeme.
 
-### 🛡️ [Begriffliche Infektion und Immunsysteme im Differenzfluss](./Begriffliche%20Infektion%20und%20Immunsysteme%20im%20Differenzfluss.md)
+### 🛡️ [Begriffliche Infektion und Immunsysteme im Differenzfluss](<Begriffliche Infektion und Immunsysteme im Differenzfluss.md>)
 Begriffe als „kulturelle Viren“. Wie sie sich verbreiten, wie Systeme darauf reagieren und welche Schutzmechanismen (oder Blockaden) daraus entstehen.
 
-### 🌐 [Beispiele und Simulation begrifflicher Infektionen](./Beispiele%20und%20Simulation%20begrifflicher%20Infektionen.md)
+### 🌐 [Beispiele und Simulation begrifflicher Infektionen](<Beispiele und Simulation begrifflicher Infektionen.md>)
 Konkrete Beispiele aus Politik, Wissenschaft und Technik. Skizze eines Modells zur Simulation begrifflicher Verbreitung und Mutation in Netzwerken.
 
-### 🔬 [Begriffsnetz-Simulator – Konzept und Umsetzungsideen](./Begriffsnetz-Simulator%20-%20Konzept%20und%20Umsetzungsideen.md)
+### 🔬 [Begriffsnetz-Simulator – Konzept und Umsetzungsideen](<Begriffsnetz-Simulator – Konzept und Umsetzungsideen.md>)
 Entwurf eines interaktiven Simulationssystems: Agenten, Rezeptoren, Mutationen, Clusterbildung. Anwendbar in Bildung, KI-Training, Diskursanalyse u.v.m.
 
 ## Ziel
