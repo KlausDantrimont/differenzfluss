@@ -12,6 +12,14 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 <br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
 
 
+## Methode:
+Basis-Algorithmus:
+- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt -wie üblich- so und so?
+- Schritt 2: gehe zu Schritt 1  
+Peng.
+
+War keine Absicht.
+
 ### Aufgemerkt
 **Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
@@ -101,13 +109,6 @@ Hier geht es um Begriffe, wie
 - und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
-
-## Methode:
-Basis-Algorithmus:
-- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen?
-- Schritt 2: gehe zu Schritt 1
-  
-Peng.
     
 
 ## Worum geht's hier genau?
