@@ -8,7 +8,7 @@ dass sie nicht bloß Inhalte wiedergibt, sondern **kognitive Werkzeuge sichtbar 
 > Statt dir zu sagen, was richtig ist, zeigt dir der Toolfinder, *wie* du denkst.
 
 Ideen: Klaus Dantrimont
-<br>Fleißarbeit: Chatgpt, Grok, Klaus Dantrimont
+<br>Fleißarbeit: Chatgpt, Grok
 
 ---
 
@@ -21,6 +21,9 @@ Ein Toolfinder ist eine KI, die Denkprozesse analysiert:
 * Welche Alternativen gäbe es?
 
 Das Ziel ist **transparente Selbstkultur** – eine bewusste Praxis des Denkens.
+
+
+Der Toolfinder ist ein kognitives Werkzeug für Ki und für Menschen.
 
 ---
 
