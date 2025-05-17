@@ -28,7 +28,7 @@ War keine Absicht.
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
 <br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
-<br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
+<br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
 <br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
 <br>Muss dat?
