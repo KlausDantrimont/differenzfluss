@@ -5,21 +5,36 @@ Gedanklicher Startpunkt
 - Jeder Moment entsteht aus dem vorhergehenden.
 - Was sich nicht erhält, vergeht.
 
-Oder einen Schritt weiter:
-**Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+    
+**Alle Text sind nach bestem Wissen und Gewissen verfasst.**
+<br>**Alle Behauptungen versuche ich nach Kräften zu begründen.**
+<br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
+
 
 ### Aufgemerkt
-Wenn die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, dann werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+**Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit mit jedem anderen realitätsnahen Gedankengebäude überlappen.
+<br>Die DFT stimmt vielem zu.
 <br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
-<br>Das macht alles auf den ersten Blick trivial, altbekannt, zweifelhaft.
-<br>Bis man merkt, wenn mans merkt, es ist nicht trivial, sondern fraktal.
+<br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
+<br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
+<br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
+<br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt ein Muster, **überall**, mit dem man hier und da etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
+<br>Die weitverbreitete Unkenntniss dieser Muster verursacht weitverbreitet Probleme.
+<br>Muss dat?
+<br>Eben!
+
+Faktische Lage: Erklär mal dem Fisch das Wasser.
+
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
-<br>Aber eine Behauptung der DFT. 
+
+**Vieles, was aus der DFT folgt ist nicht etabliert.**
+<br>**Könnte aber dennoch nützlich sein, glaube ich.**
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
@@ -32,9 +47,10 @@ Und irgendwann ist dann Schluß, da ist nichts mehr zum weg-abstrahieren.
 <br>Bei *Nichts und Unterschied* ist Ende Gelände. Jedenfalls in meinem Kopf.
 <br>Wenn ein Entwickler mit der Analyse fertig ist, beginnt die Konstruktion.
 Meine Konstruktion dokumentiere ich hier.
-Keine Ahnung, ob's 'stimmt'
+Keine Ahnung, ob's 'stimmt'.
 Selberdenken ist angesagt.
-Ich kann nur die Landschaft zeigen, gucken muss man selbst.
+Ich kann nur die Landschaft zeigen, gucken muss man selbst.    
+
 
 ### Worum geht’s hier?
 - Warum ist es so, wie es ist - ganz grundsätzlich, ganz basal?
@@ -62,11 +78,13 @@ Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
 <br>Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.
 <br>Wie schön, dass der Mensch die Schönheit kennt. Sehr nice.
 
-Sie machten mir klar:
+All das machte mir klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
 - Man kann einzelne Aspekte ihrer Mechanik verstehen.
 - Und – „zufälligerweise“ – taucht überall Rekursion auf.  Selbstbezüglichkeit. Dynamik im Loop.
-- Und einiges läuft nicht wirklich rund. Warum?
+  <br>Natürlich und unsichtbar wie Luft.
+- Und einiges läuft nicht wirklich rund.
+ <br>Warum?
 
 
 Den Rest hab ich mir dann zusammengereimt.
@@ -84,6 +102,14 @@ Hier geht es um Begriffe, wie
   
 Work in Progress ...
 
+## Methode:
+Basis-Algorithmus:
+- Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen?
+- Schritt 2: gehe zu Schritt 1
+  
+Peng.
+    
+
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
@@ -96,7 +122,7 @@ Work in Progress ...
 - [Die Schlabunsentheorie](<Erkenntnistheorie/Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
 
 ### Einige Folgerungen ###
-- [Folgerungen](<Folgerungen/Folgerungen.md>)
+- [Folgerungen](<Folgerungen/readme.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
