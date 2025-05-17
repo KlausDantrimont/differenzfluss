@@ -1,5 +1,3 @@
----
-
 ## 🧩 **Kernannahmen der Differenzfluss-Theorie (DFT)**
 
 1. **Existenz ist Beziehung / Differenz ist Sein.**
