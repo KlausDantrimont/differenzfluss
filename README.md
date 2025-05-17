@@ -96,7 +96,7 @@ Work in Progress ...
 - [Die Schlabunsentheorie](<Erkenntnistheorie/Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
 
 ### Einige Folgerungen ###
-- [Folgerungen](<Folgerungen/Folgerungen.md>)
+- [Folgerungen](<Folgerungen/readme.md>)
 
 ## Beziehungen zu anderen Theorien und Konzepten
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
