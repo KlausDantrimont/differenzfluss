@@ -153,7 +153,7 @@ Work in Progress ...
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
 
 ## PlingX (Baby des Tages)
-- [Ein Format für Erkenntnis](PlinX/readme.md)
+- [Ein Format für Erkenntnis](PlingX/readme.md)
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
