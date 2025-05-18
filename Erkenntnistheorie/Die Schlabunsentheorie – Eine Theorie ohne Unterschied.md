@@ -6,6 +6,8 @@
 
 Frage an die DFT/KI: Warum gibt es keine Schlabunsentheorie, die Pomellanten verbömmelt?
 
+Oder: Was ist eine Theorie?
+
 
 ## Die Schlabunsentheorie – Eine Theorie ohne Unterschied
 
