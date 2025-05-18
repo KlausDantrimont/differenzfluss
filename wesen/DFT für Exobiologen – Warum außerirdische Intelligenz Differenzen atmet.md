@@ -28,6 +28,12 @@ Ein intelligentes System ist in der Lage:
 4. **Handlungsoptionen zu bewerten** (Selektion)
 5. **Wissen zu speichern und zu variieren** (Gedächtnis, Lernen)
 
+6. **Den eigenen Differenzprozess erkennen und gestalten** (Meta-Kognition, Reflexion, Emergenzsteuerung)
+Dieser Schritt ist **nicht notwendig für Leben** – aber charakteristisch für bewusst agierende Kulturen. Er erlaubt es, den eigenen Fluss zu beobachten, Muster nicht nur zu nutzen, sondern gezielt zu verändern, und sogar die eigene Begriffswelt zu modifizieren.
+
+    In DFT-Sprache: Ein differenzfähiges Subjekt wird sich seines Flusses bewusst –
+es erkennt sich als Differenzstrukturierer und kann die Strukturierungsregeln selbst modulieren.
+
 Diese Fähigkeiten sind nicht an menschliche Biologie gebunden – sie folgen aus der Notwendigkeit, sich im Fluss zu orientieren.
 
 ---
