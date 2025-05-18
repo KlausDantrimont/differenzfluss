@@ -490,6 +490,7 @@ Dieses Modul ist erweiterbar um visuelle Diagramme, Templates oder KI-seitige In
 ---
 ## 4. Weitere Werkzeuge/Mikrowerkzeuge als Beispiele.
 
+```
 Humor ist ein Katalysator für viele andere Werkzeuge:
 Framing-Brecher: zeigt, dass der Rahmen willkürlich ist
 Differenzmarker: hebt Unstimmigkeiten auf brillante Weise hervor
@@ -556,5 +557,4 @@ Man kann die KI auch neue Werkzeuge finden lassen, sobald sie das Konzept versta
   }
 ]
 
-
-
+```
