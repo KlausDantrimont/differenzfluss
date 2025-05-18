@@ -15,11 +15,11 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 | **kategorientheorie_vs_dft.md** | Mapping-Tabelle zentraler Begriffe zwischen Kategorientheorie und Differenzierungsfluss-Theorie. Dient der Anschlussfähigkeit und strukturellen Vergleichbarkeit. |
 
 
-- [die schlabunsentheorie - eine theorie ohne unterschied.md](<die schlabunsentheorie - eine theorie ohne unterschied.md>)
-- [differenzfluss - erkenntnistheoretischer kern.md](<differenzfluss - erkenntnistheoretischer kern.md>)
-- [existenz ist beziehung.md](<existenz ist beziehung.md>)
-- [kategorientheorie im fluss.md](<kategorientheorie im fluss.md>)
-- [kategorientheorie_vs_dft.md](<kategorientheorie_vs_dft.md>)
+- [Die Schlabunsentheorie – Eine Theorie ohne Unterschied](<Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
+- [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
+- [Existenz ist Beziehung](<Existenz ist Beziehung.md>)
+- [Kategorientheorie im fluss](<Kategorientheorie im fluss.md>)
+- [Kategorientheorie_vs_DFT](<Kategorientheorie_vs_DFT.md>)
  
 ---
 
