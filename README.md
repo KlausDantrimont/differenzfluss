@@ -68,6 +68,8 @@ Ich kann nur die Landschaft zeigen, gucken muss man selbst.
 - Was bleibt übrig, wenn man alles weglässt, bis man an die Grenze zum Absurden stößt? Wo ist Schluss?
 - Was sind die 'Atome' des 'Seins'?
 - Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
+- 
+- Was mache ich mit den Antworten?
     
 
 ## Hirnwichserei?
