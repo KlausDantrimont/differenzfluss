@@ -4,7 +4,7 @@ Bevor man den Dicken macht könnte man sich fragen: Was ist eine Theorie?
 
 Oder man Schlabunst. Das geht auch. Irgendwie.
 
-Frage an die DFT/KI: Warum gibt es keine Schlabunsentheorie, die Pomellanten verbömmelt?
+Frage an die DFT/KI: **Warum gibt es keine Schlabunsentheorie, die Pomellanten verbömmelt?**
 
 
 ## Die Schlabunsentheorie – Eine Theorie ohne Unterschied
