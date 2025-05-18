@@ -23,8 +23,10 @@ War keine Absicht.
 ### Aufgemerkt
 **Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit *notwendig* mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
-<br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
+<br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert. 
+<br>In deren Sprache, aus deren Perspektive. Spezialisiert auf deren Problem und effektiv.
 <br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
+<br>"Alles Fließt" - Na Hammer
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
 <br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
