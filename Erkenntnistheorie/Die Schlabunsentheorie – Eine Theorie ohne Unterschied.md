@@ -1,6 +1,6 @@
 # 📄 Anhang für fortgeschritten Unsinn
 
-Bevor man den Dicken macht könnte man sich fragen: Was ist eine Theorie?
+Bevor man den Dicken macht, könnte man sich fragen: Was ist eine Theorie?
 
 Oder man Schlabunst. Das geht auch. Irgendwie, vielleicht, nee, oder wohl eher nicht.
 
