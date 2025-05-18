@@ -47,7 +47,7 @@ Fun Fact: Erklär mal dem Fisch das Wasser.
 
 **Vieles, was aus der DFT folgt ist nicht etabliert.**  -  **So What?**
 
-Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
+Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitdenker.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
 
