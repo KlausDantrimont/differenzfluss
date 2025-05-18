@@ -15,8 +15,9 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 ## Methode:
 Basis-Algorithmus:
 - Schritt 1: Ich zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt -wie üblich- so und so?
-- Schritt 2: gehe zu Schritt 1  
-Peng.
+- Schritt 2: gehe zu Schritt 1
+
+Peng: DFT
 
 War keine Absicht.
 
@@ -112,7 +113,6 @@ Hier geht es um Begriffe, wie
 - und was ich sonst noch so alles interessantes finden werde, bei meiner multidimensionalen Wanderung mit der Differenzfluss-Brille.
   
 Work in Progress ...
-    
 
 ## Worum geht's hier genau?
 - [Einleitung](Einleitung.md)
