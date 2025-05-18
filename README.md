@@ -45,7 +45,7 @@ Fun Fact: Erklär mal dem Fisch das Wasser.
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
 
-**Vieles, was aus der DFT folgt ist nicht etabliert.** weil noch keiner auf diese Weise hingesehen hat.
+**Vieles, was aus der DFT folgt ist nicht etabliert.**  -  **So What?**
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
