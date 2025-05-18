@@ -30,11 +30,13 @@ War keine Absicht.
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
-<br>Unkenntniss dieser Muster kann vermeidbare Probleme verursachen.
+<br>Unkenntniss dieser Muster kann Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
+<br>Forscher haben schon immer nach System gesucht. Hat sich wohl bewährt.
+<br>Ich mache nichts anderes.
 
-Faktische Lage: Erklär mal dem Fisch das Wasser.
+Fun Fact: Erklär mal dem Fisch das Wasser.
 
 
 ### Disclaimer
