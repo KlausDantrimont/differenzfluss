@@ -1,12 +1,10 @@
-
----
-
 # 📄 Anhang für fortgeschritten Unsinn
 
+Bevor man den Dicken macht könnte man sich fragen: Was ist eine Theorie?
+
+Oder man Schlabunst, geht auch, irgendwie.
 
 Frage an die DFT/KI: Warum gibt es keine Schlabunsentheorie, die Pomellanten verbömmelt?
-
-Oder: Was ist eine Theorie?
 
 
 ## Die Schlabunsentheorie – Eine Theorie ohne Unterschied
