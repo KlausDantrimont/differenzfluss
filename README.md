@@ -11,6 +11,7 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 <br>**Alle Behauptungen versuche ich nach Kräften zu begründen.**
 <br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
 
+Ich kann denken und irren.
 
 ## Methode:
 Basis-Algorithmus:
