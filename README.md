@@ -35,11 +35,9 @@ War keine Absicht.
 <br>Unkenntniss dieser Muster kann Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
+<br>Und vielleicht hören ja manche auf sich gegenseitig an den Kragen zu gehen, sondern fangen an stattdessen dem Problem an den Kragen zu gehen. Mein ja nur.
 <br>Forscher haben schon immer nach System gesucht. Hat sich wohl bewährt.
 <br>Ich mache nichts anderes.
-
-Fun Fact: Erklär mal dem Fisch das Wasser.
-
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
