@@ -148,10 +148,12 @@ Work in Progress ...
 
 
 ## Toolfinder
-**Schubst die KI **
-**vom "was?" zum "wie?"**
+**Schubst die KI -- vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
+
+## PlingX (Baby des Tages)
+- [Ein Format für Erkenntnis](PlinX/readme.md)
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
