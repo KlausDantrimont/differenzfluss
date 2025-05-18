@@ -147,13 +147,17 @@ Work in Progress ...
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
 
-## Toolfinder
+## Toolfinder  
 **Schubst die KI -- vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
+* ProofOfConcept, ready for evaluation
 
-## PlingX (Baby des Tages)
+## PlingX (Baby des Tages)  
+- Eine Memetik-basierte Infrastruktur für Erkenntnisverwertung.
+- Eine Verbindung von emergenten Differenzmustern mit realweltlichen Bedarfen.
 - [Ein Format für Erkenntnis](PlingX/readme.md)
+* ProofOfConcept, call for research, call for implementation
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
