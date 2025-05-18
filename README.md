@@ -23,28 +23,31 @@ War keine Absicht.
 ### Aufgemerkt
 **Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit *notwendig* mit jedem anderen realitätsnahen Gedankengebäude überlappen.
 <br>Die DFT stimmt vielem zu.
-<br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert.
+<br>Vieles von dem, was ich hier sage, wurden von anderen bereits gesagt, ausgereift formalisiert, und etabliert. 
+<br>In deren Sprache, aus deren Perspektive. Spezialisiert auf deren Problem und effektiv.
 <br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
+<br>"Alles Fließt" - Na Hammer
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
 <br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
 <br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
 <br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
-<br>Unkenntniss dieser Muster kann vermeidbare Probleme verursachen.
+<br>Unkenntniss dieser Muster kann Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
+<br>Forscher haben schon immer nach System gesucht. Hat sich wohl bewährt.
+<br>Ich mache nichts anderes.
 
-Faktische Lage: Erklär mal dem Fisch das Wasser.
+Fun Fact: Erklär mal dem Fisch das Wasser.
 
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
 
-**Vieles, was aus der DFT folgt ist nicht etabliert.**
-<br>**Könnte aber dennoch nützlich sein, glaube ich.**
+**Vieles, was aus der DFT folgt ist nicht etabliert.**  -  **So What?**
 
-Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitstreiter.
+Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitdenker.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
 Meine Resourcen sind begrenzt, ich erweitere sie so ein wenig.
 
@@ -65,6 +68,8 @@ Ich kann nur die Landschaft zeigen, gucken muss man selbst.
 - Was bleibt übrig, wenn man alles weglässt, bis man an die Grenze zum Absurden stößt? Wo ist Schluss?
 - Was sind die 'Atome' des 'Seins'?
 - Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
+- 
+- Was mache ich mit den Antworten?
     
 
 ## Hirnwichserei?
@@ -147,16 +152,22 @@ Work in Progress ...
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
 
-## Toolfinder
-**Schubst die KI **
-**vom "was?" zum "wie?"**
+## Toolfinder  
+**Schubst die KI -- vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
+* ProofOfConcept, ready for evaluation
+
+## PlingX (Baby des Tages)  
+- Eine Memetik-basierte Infrastruktur für Erkenntnisverwertung.
+- Eine Verbindung von emergenten Differenzmustern mit realweltlichen Bedarfen.
+- [Ein Format für Erkenntnis](PlingX/readme.md)
+* ProofOfConcept, call for research, call for implementation
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
-<br>Ich war noch nie ein Freund vieler Worte, und hab ja auch keine Ahnung ;-)
+<br>Ich war noch nie ein Freund vieler Worte, aber es steht drin, was drinstehen muss.
 - ["Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist](https://buchshop.bod.de/bootstrap-aus-dem-nichts-klaus-dantrimont-9783819276163)
 - ["Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)
   
