@@ -4,12 +4,18 @@ Dieses Modul beschreibt eine minimale Struktur zur **Operationalisierung der Dif
 
 ## Inhalt
 
+**[DFT als „Metasprache“ und „Operationsmodus“](DFT-Metaperspektive_für_KI.md)**
+
 📄 [DFT-Minimalmodul für KI – Dokumentation](./Dft%20Minimalmodul%20Für%20Ki.md)  
 Enthält:  
 - Konzeptbeschreibung  
 - Python-ähnliches Pseudocode-Beispiel  
 - Systemstruktur mit Agent, Begriff, Differenzfunktion  
 - Erweiterungsmöglichkeiten für Mutation, Netzwerke, Emergenz
+
+
+
+
 
 ## Ziel
 
