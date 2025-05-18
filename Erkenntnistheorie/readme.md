@@ -13,6 +13,7 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 | **existenz ist beziehung.md** | Untersuchung des Begriffs „Existenz“ als relationale Eigenschaft in einem dynamischen Differenznetz. |
 | **kategorientheorie im fluss.md** | Erste Annäherung an eine Interpretation der Kategorientheorie aus Sicht der DFT. |
 | **kategorientheorie_vs_dft.md** | Mapping-Tabelle zentraler Begriffe zwischen Kategorientheorie und Differenzierungsfluss-Theorie. Dient der Anschlussfähigkeit und strukturellen Vergleichbarkeit. |
+| **Plausibilitätsanalyse_DFT.md** | Überlegungen zur Plausibilität der Differenzierungsfluss-Theorie (DFT)|
 
 
 - [Die Schlabunsentheorie – Eine Theorie ohne Unterschied](<Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
@@ -20,7 +21,7 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 - [Existenz ist Beziehung](<Existenz ist Beziehung.md>)
 - [Kategorientheorie im fluss](<Kategorientheorie im fluss.md>)
 - [Kategorientheorie_vs_DFT](<Kategorientheorie_vs_DFT.md>)
- 
+- [Plausibilitätsanalyse_DFT.md](<Plausibilitätsanalyse_DFT.md>)
 ---
 
 ## 🧩 Zentrale Perspektive
