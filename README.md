@@ -7,9 +7,10 @@ Gedanklicher Startpunkt
 
 Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
     
-**Alle Text sind nach bestem Wissen und Gewissen verfasst.**
-<br>**Alle Behauptungen versuche ich nach Kräften zu begründen.**
-<br>**KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.**
+- Alle Text sind nach bestem Wissen und Gewissen verfasst.
+- Alle Behauptungen versuche ich nach Kräften zu begründen.
+- KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.
+- Mein Sandkasten. Ich darf hier spielen. Pass auf, wo Du hin trittst. Ich hab Pflaster.
 
 Ich kann denken und irren.
 
