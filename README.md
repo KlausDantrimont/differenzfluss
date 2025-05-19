@@ -48,7 +48,7 @@ War keine Absicht.
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
 - **Die spezifische Aussage „Zeit ist die rekursive Dimension“ ist nicht allgemein bekannt oder etabliert.**
 
-**Vieles, was aus der DFT folgt ist nicht etabliert.**  -  **So What?**
+**Vieles, was aus der DFT folgt ist nicht etabliert.**  -  **So What?**  - es ist eben eine andere Brille
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden, mangels humaner Kritiker oder Mitdenker.
 Ich bin Softwareentwickler, und lasse das KleinKlein gerne den Computer machen, soweit möglich.
