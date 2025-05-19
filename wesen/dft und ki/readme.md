@@ -6,7 +6,7 @@ Dieses Modul beschreibt eine minimale Struktur zur **Operationalisierung der Dif
 
 📄 **[DFT als „Metasprache“ und „Operationsmodus“](DFT-Metaperspektive_für_KI.md)**
 
-📄 [DFT-Minimalmodul für KI – Dokumentation](./Dft%20Minimalmodul%20Für%20Ki.md)  
+📄 [DFT-Minimalmodul für KI](<DFT-Minimalmodul für KI – Operationalisierung der Differenzierungsfluss-Theorie.md>)  
 Enthält:  
 - Konzeptbeschreibung  
 - Python-ähnliches Pseudocode-Beispiel  
