@@ -37,5 +37,6 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 
 ## Aliens
 * [DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet](<DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>)
+* [DFT für Exobiologen - Fermi im Fluss](<DFT für Exobiologen - Fermi im Fluss.md>)
 
 <sub>→ Die Bereiche stehen in enger Wechselwirkung und bilden gemeinsam die Grundlage bewusster Selbststrukturierung.</sub>
