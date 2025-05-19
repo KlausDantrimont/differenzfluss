@@ -13,6 +13,9 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 
 Ich kann denken und irren.
 
+Hier kommt jetzt erstmal Kontext-Gelaber, wen's interessiert:
+**[Zur Sache gehts weiter unten](README.md#worum-gehts-hier)**
+
 ## Methode:
 Basis-Algorithmus:
 - Schritt 1: Mensch zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt -wie üblich- so und so?
@@ -31,15 +34,15 @@ War keine Absicht.
 <br>"Alles Fließt" - Na Hammer
 <br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
 <br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
-<br>Bis man merkt - wenn mans merkt - es ist nicht trivial, sondern **fraktal**.
+<br>Bis man merkt - wenn mans merkt - es ist **nicht trivial, sondern fraktal**.
 <br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
 <br>Das ist nicht trivial.
 <br>Unkenntniss dieser Muster kann Probleme verursachen.
 <br>Muss dat?
 <br>Eben!
-<br>Und vielleicht hören ja manche auf sich gegenseitig an den Kragen zu gehen, sondern fangen an stattdessen dem Problem an den Kragen zu gehen. Mein ja nur.
+<br>Und vielleicht hören ja manche auf sich gegenseitig an den Kragen zu gehen, sondern fangen an stattdessen dem Problem an den Kragen zu gehen. Mein ja nur. Ich bin naiv.
 <br>Forscher haben schon immer nach System gesucht. Hat sich wohl bewährt.
-<br>Ich mache nichts anderes.
+<br>Ich versuche nichts anderes.
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
@@ -80,16 +83,19 @@ Und selbst wenn etwas dabei herauskäme – was sollte das schon sein? Wozu gut?
 
 Dann kam der Zufall.
 
-Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.
-<br>reichlich Übung – in Projekten als Softwareentwickler.
-<br>Und ein paar geniale Bücher, die ich lesen durfte:
-<br>„Das egoistische Gen“.
-<br>„Gödel, Escher, Bach“.
-<br> und viele mehr.
-<br>und Musik mit ihren seltsamen und wunderschönen Strukturen
-<br>Genesis, Gentle Giant, Zappa, Kraan, Grobschnitt, Dixie Dregs, Tribal Tech, Karizma, Uzeb, ...
-<br>Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.
-<br>Wie schön, dass der Mensch die Schönheit kennt. Sehr nice.
+Und es kamen Begriffe, Konzepte, Denkwerkzeuge, Kopfschmerzen.\
+reichlich Übung – in Projekten als Softwareentwickler.\
+Und ein paar geniale Bücher, die ich lesen durfte:\
+"Das egoistische Gen"\
+"Gödel, Escher, Bach"\
+und viele mehr\
+Und Musik mit ihren seltsamen und wunderschönen Strukturen\
+Genesis, Gentle Giant, Zappa, Kraan, Grobschnitt, Dixie Dregs, Tribal Tech, Karizma, Uzeb, ...\
+Kunst überhaupt; zu welch großartigen Dingen Menschen in der Lage sind, ist mir völlig unbegreiflich.\
+Wie schön, dass der Mensch die Schönheit kennt.\
+Sehr nice.
+
+Also die Einflüsse haben sich geläppert.
 
 All das machte mir klar:
 - Diese Welt ist ein sagenhaftes Wunder. Abgefahren bis ins Letzte. Einfach nur: Wow.
