@@ -1,6 +1,6 @@
 # Übersicht: Theoreme der Differenzierungsfluss-Theorie (DFT)
 
-Dies ist die zentrale Sammlung aller bisher formulierten Theoreme der DFT, sortiert nach Bereichen. Jedes Theorem erhält ein separates Dokument zur genaueren Ausarbeitung.
+Dies ist die zentrale Sammlung aller bisher formulierten Theoreme der DFT, sortiert nach Bereichen. Jedes Theorem erhält später ein separates Dokument zur genaueren Ausarbeitung.
 
 ---
 
