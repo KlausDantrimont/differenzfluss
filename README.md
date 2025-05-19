@@ -13,7 +13,7 @@ Oder: **Was, wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse absp
 
 Ich kann denken und irren.
 
-Hier kommt jetzt erstmal Kontext-Gelaber, wen's interessiert:
+Hier kommt jetzt erstmal Kontext, für den, den's interessiert:
 **[Zur Sache gehts weiter unten](README.md#worum-gehts-hier-genau)**
 
 ## Methode:
