@@ -19,7 +19,7 @@ Hier kommt jetzt erstmal Kontext, für den, den's interessiert:
 
 ## Methode:
 Basis-Algorithmus:
-- Schritt 1: Mensch zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt -wie üblich- so und so?
+- Schritt 1: Mensch zur KI: Guck mal hier, guck mal da. Könnte man das nicht so und so sehen, anstatt so und so?
 - Schritt 2: gehe zu Schritt 1
 
 Peng: DFT
