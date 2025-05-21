@@ -14,7 +14,7 @@ Sie zeigt, wie bestimmte Muster von Missverständnis, Selbstschutz oder Machterh
 Eine Sammlung typischer Störungen in der persönlichen Kommunikation – von Ausweichlogik über Kategorienfehler bis zu versteckten Machtmustern.
 Jedes Antipattern ist beschrieben mit Beispiel, Ursache und einem Hinweis auf mögliche Auflösung im Sinne des Differenzflusses.
 
-[Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss](<Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss.md>)
+[Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
 
 ---
 
@@ -24,7 +24,7 @@ Ausweitung des Blicks auf kollektive Kommunikation:
 Welche strukturellen Missverständnisse und dysfunktionalen Muster prägen öffentliche Diskurse, politische Auseinandersetzungen und kulturelle Narrative?
 Auch hier: Muster, Beispiele, differenztheoretische Analyse – und ein Fokus auf Resonanzerzeugung statt Eskalation.
 
-[Kommunikations-Antipatterns im Differenzfluss](<Kommunikations-Antipatterns im Differenzfluss.md>)
+[Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss](<Gesellschaftliche Kommunikations-Antipatterns im Differenzfluss.md>)
 
 ---
 
