@@ -19,7 +19,7 @@ Ich kann denken und irren.
   
 Work in Progress ...
 
-## Wie die DFT entstand
+## Wer hat's erfunden?
 - [Meta_Ko-Kreation_DFT.md](Meta_Ko-Kreation_DFT.md) – Reflexion über Urheberschaft und Rollenverteilung bei der Entstehung der DFT.
 
 
