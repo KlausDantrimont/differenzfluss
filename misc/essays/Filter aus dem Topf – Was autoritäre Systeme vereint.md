@@ -2,7 +2,7 @@
 
 Rechts? Links? Religiös? Säkular?  
 Man kann sich darüber streiten, welches System gefährlicher ist. Aber man kann auch einen anderen Weg wählen: **Man wirft sie alle in einen Topf.**
-
+ 
 Steinzeit-Rudel, Faschismus, (National)sozialismus, Kommunismus, Islamismus, christlicher Feudalismus, Sekten, Mafia – auf den ersten Blick völlig unterschiedlich. Doch wenn man die ideologischen Etiketten abwäscht und den Bodensatz betrachtet, bleibt etwas anderes übrig: **Struktur**.
 
 ## Die Rudelstruktur
