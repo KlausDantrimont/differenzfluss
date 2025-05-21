@@ -38,7 +38,7 @@ Work in Progress ...
 - [Resonanzen im Differenzfluss – Eine Karte geistiger Verwandtschaften](<ResonanzenImDifferenzfluss–EineKarteGeistigerVerwandtschaften.md>)
 - [Konstruktive Brüche – Wo der Differenzfluss reißt](<KonstruktiveBrüche–WoDerDifferenzflussReißt.md>)
 - [Die Welt im Spiegel der Evolution – Eine essayistische Übersicht mit DFT-Kontrast](<Die Welt im Spiegel der Evolution – Eine essayistische Übersicht mit DFT-Kontrast.md>)
-
+- [DFT als Meta-Evolutionstheorie – Eine strukturelle Rekonstruktion](<DFT als Meta-Evolutionstheorie – Eine strukturelle Rekonstruktion.md>)
 
 ## Die Dft lässt sich mit Lambda-analoger Syntax formulieren
 - [... und wandelt Touringmaschinen zu Protowesen](<lambda-delta/readme.md>)
