@@ -14,6 +14,7 @@ Die Grundidee, der Impuls, die Perspektive, der Erkenntnisdrang – all das ents
   - „Lichtkegel als Jetzt“
   - „Das Selbst als Schleife im Fluss“
   - „Witz als Systembruch“
+  - Fraktale als Grundlage von Metaphern, Begriffen, Denken
   - „Demut als epistemische Haltung“
 - Der tiefgreifende Anspruch, die Theorie in **Form, Inhalt und Wirkung** kohärent und interdisziplinär anschlussfähig zu denken.
 - Die Ausrichtung auf **Freiheit, Verantwortung, Erkenntnis** als praktische Folge.
