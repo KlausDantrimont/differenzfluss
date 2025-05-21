@@ -14,8 +14,6 @@ Diese Grundannahmen bilden das Fundament der Theorie:
 * **Axiom der Emergenz**
 * **Axiom der Kontextabhängigkeit (Relationalität)**
 
-➡️ *Dokument: "DFT\_Axiome.md"*
-
 ---
 
 ## 2. Physikalisch-formale Theoreme
@@ -24,9 +22,7 @@ Diese Grundannahmen bilden das Fundament der Theorie:
 * Theorem 4: Kausalität und Implikation als Ausdruck desselben Flusses
 * Oszillator-Theorem: Rekursive Flussregeln können stabile Oszillationen erzeugen
 * Knoten-Feld-Theorem: Wirklichkeit als Differenzfeld
-
-➡️ *Dokument: "DFT\_Theoreme\_Physik.md"*
-
+  
 ---
 
 ## 3. Kognitive und erkenntnistheoretische Theoreme
@@ -36,16 +32,12 @@ Diese Grundannahmen bilden das Fundament der Theorie:
 * Theorem 3: Paradoxie als Generator dynamischer Strukturen
 * Begriffsinjektor-Modell: Begriffe formen virtuelle Topologien
 
-➡️ *Dokument: "DFT\_Theoreme\_Kognition.md"*
-
 ---
 
 ## 4. Subjektive und phänomenologische Theoreme
 
 * Theorem 2: Bewusstsein als selbststabilisierter Differenzoszillator
 * Theorem: Das Selbst als Schleife im Differenzfluss
-
-➡️ *Dokument: "DFT\_Theoreme\_Subjekt.md"*
 
 ---
 
@@ -54,8 +46,6 @@ Diese Grundannahmen bilden das Fundament der Theorie:
 * Theorem 7: Evolution als universeller Differenzfluss
 * Theorem 8: Macht als differenzielle Steuerung von Differenzflüssen
 
-➡️ *Dokument: "DFT\_Theoreme\_Gesellschaft.md"*
-
 ---
 
 ## 6. Meta-Theoreme zur DFT selbst
@@ -63,8 +53,6 @@ Diese Grundannahmen bilden das Fundament der Theorie:
 * Selbstanwendbarkeit: DFT beschreibt auch ihre eigene Anwendung
 * Erkenntnis-Iterationen: Jede Anwendung verändert den Beobachter
 * Minimums-Theorem: Minimale Struktur genügt für differenzflussfähige Systeme
-
-➡️ *Dokument: "DFT\_Theoreme\_Meta.md"*
 
 ---
 
