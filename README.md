@@ -29,7 +29,7 @@ Work in Progress ...
 - [Die Schlabunsentheorie](<Erkenntnistheorie/Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)   ---  First things first
 - [Existenz ist Beziehung](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
-- [Axiome & Theoreme der Differenzierungsfluss-Theorie (DFT)](<Theoreme der Differenzierungsfluss-Theorie (DFT).md>)
+- [Axiome & Theoreme der Differenzierungsfluss-Theorie (DFT)](<dft/Theoreme der Differenzierungsfluss-Theorie (DFT).md>)
 
 ### Einige Folgerungen ###
 - [Folgerungen](<Folgerungen/readme.md>)
