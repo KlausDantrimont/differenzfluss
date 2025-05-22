@@ -69,11 +69,15 @@ Work in Progress ...
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
 * ProofOfConcept, ready for evaluation
 
-## PlingX (Baby des Tages)  
+## PlingX 
 - Eine Memetik-basierte Infrastruktur für Erkenntnisverwertung.
 - Eine Verbindung von emergenten Differenzmustern mit realweltlichen Bedarfen.
 - [Ein Format für Erkenntnis](PlingX/readme.md)
 * ProofOfConcept, call for research, call for implementation
+
+## Orakel
+- [DFT für AI für Analyse- und Prognosezwecke](orakel/readme.md)
+
 
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
