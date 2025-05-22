@@ -55,7 +55,7 @@ Eine brauchbare DFT-Vorhersage sollte idealerweise:
 
 Die Differenzierungsfluss-Theorie entfaltet ihre Stärke im **Denken in Dynamik**. Ihre Vorhersagen wirken wie strukturelle Kompasse in komplexen Landschaften – sie zeigen nicht den Weg, aber die Richtung, in der Wandel möglich, wahrscheinlich oder gefährlich wird. Das ist keine Allwissenheit – aber ein erstaunlich nützliches **epistemisches Werkzeug**.
 
-> Wer sich fragt, was sein System wirklich stabil hält, wo es versagen könnte, und wie Wandel gestaltbar wird, findet in der DFT keine einfachen Antworten – aber die richtigen Fragen.
+> Wer sich fragt, was sein System wirklich stabil hält, wo es versagen könnte, und wie Wandel gestaltbar wird, findet in der DFT keine einfachen Antworten – **aber die richtigen Fragen**.
 
 
 
