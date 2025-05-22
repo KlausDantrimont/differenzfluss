@@ -62,7 +62,9 @@ Work in Progress ...
 
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
-
+-----------------------
+# Anwendungsbeispiele
+-----------------------
 ## Toolfinder  
 **Schubst die KI -- vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
@@ -79,6 +81,7 @@ Work in Progress ...
 - [DFT für AI für Analyse- und Prognosezwecke](orakel/readme.md)
 
 
+------------
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
