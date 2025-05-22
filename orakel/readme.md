@@ -5,7 +5,7 @@ Dieses Verzeichnis enthält eine strukturierte Einführung in die Differenzierun
 Ziel ist es, die DFT nicht nur beschreibbar, sondern **nutzbar** zu machen: als Modell zur Analyse, Prognose, Stabilisierung und Emergenzsteuerung dynamischer Systeme.
 
 ---
-
+[DFT für Maschinen – Eine strukturelle Einführung.txt](<DFT für Maschinen – Eine strukturelle Einführung.md>)
 ## 📘 Enthaltene Kapitel
 
 1. **Kapitel 1: Ziel und Wesen der Theorie**
