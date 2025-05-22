@@ -63,25 +63,34 @@ Work in Progress ...
 - [Werkzeugkasten „Rekursive Augenöffner“](<Werkzeugkasten „Rekursive Augenöffner“.md>)
 
 -----------------------
+
 # Anwendungsbeispiele
------------------------
+
 ## Toolfinder  
 **Schubst die KI -- vom "was?" zum "wie?"**
 - [toolfinder](toolfinder/readme.md)
 - [Von der DFT zum Toolfinder](toolfinder/toolfinder_dft.md)
-* ProofOfConcept, ready for evaluation
+
+ProofOfConcept, ready for evaluation
+
+---
 
 ## PlingX 
 - Eine Memetik-basierte Infrastruktur für Erkenntnisverwertung.
 - Eine Verbindung von emergenten Differenzmustern mit realweltlichen Bedarfen.
 - [Ein Format für Erkenntnis](PlingX/readme.md)
-* ProofOfConcept, call for research, call for implementation
+
+ProofOfConcept, call for research, call for implementation
+
+---
 
 ## Orakel
 - [DFT für AI für Analyse- und Prognosezwecke](orakel/readme.md)
 
+ProofOfConcept, ready for evaluation
 
 ------------
+
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
