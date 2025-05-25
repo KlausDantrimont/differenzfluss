@@ -20,7 +20,7 @@
 | **Terminales Objekt**       | Endzustand einer Differenzverfeinerung                      | maximale Stabilisierung |
 | **Initiales Objekt**        | Anfangspunkt einer Differenzentfaltung                      | „reines Unterschiedenes“ |
 | **Adjungierte Funktoren**   | komplementäre Projektionen von Flüssen                      | Dualität zweier Betrachtungsweisen |
-| **Yoneda-Lemma**            | Bedeutung durch Beziehungsmuster                            | ein Begriff ist, was er mit anderen unterscheidet |
+| **Yoneda-Lemma**            | Bedeutung durch Beziehungsmuster                            | ein Begriff ist, was ihn von anderen unterscheidet |
 | **Natürliche Transformation** | differenzsensibler Fluss zwischen Flussabbildungen         | Resonanz zwischen Projektionsmodi |
 | **Enriched Category**       | Differenzflüsse mit zusätzlicher Metastruktur               | z. B. Gewichtung, Kontextdichte |
 
