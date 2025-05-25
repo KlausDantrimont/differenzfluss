@@ -45,6 +45,7 @@ Ich kann nur die Landschaft zeigen, gucken muss man selbst.
 - Wo zum Kuckuck bin ich hier gelandet - und was läuft hier eigentlich?
 - 
 - Was mache ich mit den Antworten?
+- Wieso lande ich bei Stabilität und Erkenntnis als wesentlichen Themen?
     
 
 ## Hirnwichserei?
