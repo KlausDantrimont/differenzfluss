@@ -99,3 +99,6 @@ Meine ersten Versuche als Autor :-)
 - ["Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)
   
 beide erschienen bei BoD
+
+## kontakt
+mailto: klaus(dot)dantrimont(at)itnovation.de
