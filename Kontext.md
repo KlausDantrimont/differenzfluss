@@ -11,22 +11,10 @@ War keine Absicht.
 
 ### Aufgemerkt
 **Wenn** die **DFT** (Differenzflusstheorie) *Wirklichkeit* beschreibt, **dann** werden ihre Konsequenzen explizit oder implizit *notwendig* mit jedem anderen realitätsnahen Gedankengebäude überlappen.
-<br>Die DFT stimmt vielem zu.
-<br>Vieles von dem, was ich hier sage, wurden sicher von anderen bereits gesagt, ausgereift formalisiert, und etabliert. 
-<br>In deren Sprache, aus deren Perspektive. Spezialisiert auf deren Problem und effektiv.
-<br>Das macht vieles auf den ersten Blick trivial, altbekannt, zweifelhaft.
-<br>"Alles Fließt" - Na Hammer
-<br>Auf der anderen Seite ist das Konzept zuanfangs sehr abstrakt.
-<br>Es wirkt wie ein intellektuelles "Mit Kanonen auf Spatzen Schießen".   
-<br>Bis man merkt - wenn mans merkt - es ist **nicht trivial, sondern fraktal**.
-<br>Es gibt Muster, **überall**, mit denen man hier und da, und manchmal ganz woanders, etwas anfangen kann, ganz praktisch.
-<br>Das ist nicht trivial.
-<br>Unkenntniss dieser Muster kann Probleme verursachen.
-<br>Muss dat?
-<br>Eben!
-<br>Und vielleicht hören ja manche auf sich gegenseitig an den Kragen zu gehen, sondern fangen an stattdessen dem Problem an den Kragen zu gehen. Mein ja nur. Ich bin naiv.
-<br>Forscher haben schon immer nach System gesucht. Hat sich wohl bewährt.
-<br>Ich versuche nichts anderes.
+
+**Die DFT betrachtet die Realität als Produkt evolutionärer Prozesse**\
+Sie fokussiert auf diesen Aspekt.\
+Und zieht durch.
 
 ### Disclaimer
 - **Die Idee, dass alles, daher *auch alle Disziplinen* fraktale, evolutionäre Strukturen sind, und behandeln, ist nicht Standard in der Wissenschaftstheorie.**
