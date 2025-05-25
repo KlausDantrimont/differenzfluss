@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="S-eFEipHHQh1lSzjsUjdmXEdaKVDqfoN-my3OcM_Dn0" />
 # Differenzfluss
 
 Gedanklicher Startpunkt
