@@ -7,14 +7,12 @@ Gedanklicher Startpunkt
 - Jeder Moment entsteht aus dem vorhergehenden.
 - Was sich nicht erhält, vergeht.
 
-Oder: **Was wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
-    
-- Alle Texte sind nach bestem Wissen und Gewissen verfasst.
-- Alle Behauptungen versuche ich nach Kräften zu begründen.
-- KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.
-- Mein Sandkasten. Ich darf hier spielen. Offene Baustelle. Pass auf, wo Du hin trittst. Ich hab Pflaster.
-
-Ich kann denken und irren.
+**Was wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**\
+[Alle Texte sind nach bestem Wissen und Gewissen verfasst.\
+Alle Behauptungen versuche ich nach Kräften zu begründen.\
+KI wurde möglichst kreativ eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.\
+Mein Sandkasten. Ich darf hier spielen. Offene Baustelle. Pass auf, wo Du hin trittst. Ich hab Pflaster.\
+Ich kann denken und irren.]
 
 [Kontext Informationen](Kontext.md)
 
