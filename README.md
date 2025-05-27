@@ -16,15 +16,9 @@ Ich kann denken und irren.]
 
 [Kontext Informationen](Kontext.md)
 
-  
-Work in Progress ...
 
-## Wer hat's erfunden?
-- [Meta_Ko-Kreation_DFT.md](Meta_Ko-Kreation_DFT.md) – Reflexion über Urheberschaft und Rollenverteilung bei der Entstehung der DFT.
-
-
-
-## Worum geht's hier genau?
+## Worum geht's hier genau? 
+Die DFT ist die Anwendung der Evolutionstheorie auf **Alles**
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
 - [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
@@ -90,7 +84,10 @@ ProofOfConcept, call for research, call for implementation
 ProofOfConcept, ready for evaluation
 
 ------------
+## Wer hat's erfunden?
+- [Meta_Ko-Kreation_DFT.md](Meta_Ko-Kreation_DFT.md) – Reflexion über Urheberschaft und Rollenverteilung bei der Entstehung der DFT.
 
+---
 ## Käuflich erwerbbare Bücher:
 Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
