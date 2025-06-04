@@ -2,7 +2,8 @@
 
 # Differenzfluss
 
-Gedanklicher Startpunkt: **Was wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**
+Startpunkt: **Was wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**\
+Zwischenergebnis: **Dann wäre alles fließend und Strukturiert**
 
 [Alle Texte sind nach bestem Wissen und Gewissen verfasst.\
 Alle Behauptungen versuche ich nach Kräften zu begründen.\
