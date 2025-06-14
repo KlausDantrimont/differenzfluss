@@ -2,14 +2,6 @@
 
 # Differenzfluss
 
-Startpunkt: **Was wäre, wenn alle Phänomene sich innerhalb rekursiver Prozesse abspielen?**\
-Zwischenergebnis: **Dann wäre alles fließend und Strukturiert**
-
-[Alle Texte sind nach bestem Wissen und Gewissen verfasst.\
-Alle Behauptungen versuche ich nach Kräften zu begründen.\
-KI wurde eingesetzt, um die Thesen zu erarbeiten, anzuwenden, zu kritisieren, Überlappungen und Widersprüche zu finden.\
-Ich kann denken und irren.]
-
 [Differenzfluss für Anfänger.md](<Differenzfluss für Anfänger.md>)
 
 [Kontext Informationen](Kontext.md)
