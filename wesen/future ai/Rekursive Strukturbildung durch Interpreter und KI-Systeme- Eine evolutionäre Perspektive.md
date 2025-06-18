@@ -44,8 +44,3 @@ Rekursive Systeme – ob in Form von Compilern, KI-Architekturen oder gesellscha
 
 ---
 
-Möchtest du:
-
-* eine kürzere Version für ein Abstract?
-* eine LaTeX-Fassung?
-* eine Visualisierung dazu?
