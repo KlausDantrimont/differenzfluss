@@ -1,12 +1,17 @@
-Ich bat ChatGPT zu einer Analyse Blinder Flecken, die mir, dem Fragesteller der Theorie, entgehen, und ja genau deshalb so genannt werden.\
-Ich kann nicht sehen, was ich nicht sehe.
 
-Aber womöglich hülfe ein Spiegel?
+Ich bat ChatGPT zu einer Analyse Blinder Flecken, die mir, dem Fragesteller und Behaupter der Theorie, entgehen, und ja genau deshalb so genannt werden: **Ich kann nicht sehen, was ich nicht sehe.**\
+Aber ich hab ja jetzt diesen Spiegel. Selbst wenn er fragmentarisch ist, macht er Dinge sichtbar.
+
+Sowas hilft beim Debugging.\
+und es ist auch eine Art Schnittstellenbeschreibung der DFT.\
+Das hilft vielleicht beim Einschätzen, wenn man sich fragt, was die DFT sein soll. Ob's einem was bringt.
 
 ---
 Auftrag an ChatGPT. Ziel:
-Unentdeckte Vorannahmen, Begrenzungen, blinde Stellen, strukturelle Einseitigkeiten oder Denk-Tabus aufspüren – nicht, um zu entwerten, sondern um zu vervollständigen.
+
+- Unentdeckte Vorannahmen, Begrenzungen, blinde Stellen, strukturelle Einseitigkeiten oder Denk-Tabus aufspüren – nicht, um zu entwerten, sondern um zu vervollständigen.
 Stichwort: Erkenntnis-Hygiene
+
 ---
 
 # 🧠 DFT-Blindstellenanalyse
