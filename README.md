@@ -1,14 +1,14 @@
 <meta name="google-site-verification" content="S-eFEipHHQh1lSzjsUjdmXEdaKVDqfoN-my3OcM_Dn0" />
 
 # Differenzfluss
+Ein Vorschlag
+---
+[Kontext Informationen](Kontext.md)
 
 [Differenzfluss für Anfänger.md](<Differenzfluss für Anfänger.md>)
 
-[Kontext Informationen](Kontext.md)
-
 
 ## Worum geht's hier genau? 
-Die DFT ist die Anwendung der Evolutionstheorie auf **Alles**
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
 - [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
