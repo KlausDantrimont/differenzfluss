@@ -32,10 +32,6 @@ Sie sind keine statischen Container, sondern **dynamische Strukturen im Strom de
 
 * [Musik als Differenzfluss – Ein Essay](<musik/Musik als Differenzfluss – Ein Essay.md>)
 
-## DFT & KI & Mensch
-* [dft und ki und mensch](<dft und ki und mensch/readme.md>)
-* [dft und ki](<dft und ki/readme.md>)
-
 ## Aliens
 * [DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet](<DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>)
 * [DFT für Exobiologen - Fermi im Fluss](<DFT für Exobiologen - Fermi im Fluss.md>)
