@@ -40,7 +40,7 @@ Und Fragen, wie:
 
 und hab damit mit der KI diskutiert.
 
-Hab chatgpt gefragt, ob es sich erinnert, was ich gefragt habe.\
+Hab ChatGPT gefragt, ob es sich erinnert, was ich gefragt habe.\
 Die Liste stimmt nicht genau, aber so ungefähr.\
 Im Grunde ein Abklopfen von Begriffen.
 
