@@ -3,12 +3,13 @@
 # Differenzfluss
 Ein Vorschlag
 ---
-[Kontext Informationen](Kontext.md)
 
-[Differenzfluss für Anfänger.md](<Differenzfluss für Anfänger.md>)
+Und ja: die Strukturierung könnte deutlich besser sein. Irgendwann ist sie's vielleicht.
 
+---
 
-## Worum geht's hier genau? 
+- [Kontext Informationen](Kontext.md)
+- [Differenzfluss für Anfänger.md](<Differenzfluss für Anfänger.md>)
 - [Einleitung](Einleitung.md)
 - [Zielgruppen](Zielgruppen.md)
 - [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
@@ -19,6 +20,10 @@ Ein Vorschlag
 - [Existenz ist Beziehung](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
 - [Axiome & Theoreme der Differenzierungsfluss-Theorie (DFT)](<dft/Theoreme der Differenzierungsfluss-Theorie (DFT).md>)
+
+### Blinden Flecken auf der Spur
+"Die Karte ist nicht die Landschaft"
+- [DFT-Blindstellenanalyse](<DFT-Blindstellenanalyse.md>)
 
 ### Einige Folgerungen ###
 - [Folgerungen](<Folgerungen/readme.md>)
