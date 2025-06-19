@@ -6,6 +6,8 @@ Sowas hilft beim Debugging.\
 und es ist auch eine Art Schnittstellenbeschreibung der DFT.\
 Das hilft vielleicht beim Einschätzen, wenn man sich fragt, was die DFT sein soll. Ob's einem was bringt.
 
+Meine Antworten zu den Fragen muss ich erst noch durchdenken. Alter Mann ist kein D-Zug.
+
 ---
 Auftrag an ChatGPT. Ziel:
 
