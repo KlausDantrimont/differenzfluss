@@ -4,7 +4,7 @@
 Ein Vorschlag
 ---
 
-Und ja: die Strukturierung könnte deutlich besser sein. Irgendwann ist sie's vielleicht.
+Und ja: die Strukturierung könnte deutlich besser sein. Irgendwann ist sie's vielleicht. Wenn ich mal Zeit habe ;-)
 
 ---
 
