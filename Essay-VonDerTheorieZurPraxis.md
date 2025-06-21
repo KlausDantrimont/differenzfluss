@@ -22,7 +22,7 @@ Die Kraft der Differenzflusstheorie zeigt sich in ihrer Fähigkeit, scheinbar di
 
 ### 1. Unternehmenskommunikation und Berichtskultur
 
-In einem Konzern wird eine Kultur etabliert, in der es als überlebenswichtig gilt, nur positive Ergebnisse an die nächsthöhere Instanz zu melden. Dies führt dazu, dass Berichte systematisch geschönt wurden – ein Konflikt zwischen gelebter Realität und intern kommunizierter Erfolgsmelodie. 
+In einem Konzern wird eine Kultur etabliert, in der es als überlebenswichtig gilt, nur positive Ergebnisse an die nächsthöhere Instanz zu melden. Dies führt dazu, dass Berichte bevorzugt positiv kommuniziert werden – ein Konflikt zwischen gelebter Realität und intern kommunizierter Erfolgsmelodie. 
 
 - **Differenz:** Die Kluft zwischen tatsächlichem Projektfortschritt und dem idealisierten Statusbericht.
 - **Fluss:** Ein gefilterter Informationsfluss, der nur „funktionierende“ Nachrichten weiterleitet, während kritische Informationen unterdrückt werden.
