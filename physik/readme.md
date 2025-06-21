@@ -13,7 +13,7 @@ Formulierung des Leitsatzes:
 
 Erster Ansatz, ins Detail zu gehen.
 <br>**Obacht!*  Bin kein Physiker, bzw. nicht sehr tief drin in den Details.
-<br>Ich bin Informatiker, ich kann abstrahieren.
+<br>Ich bin Informatiker.
 <br>Die Strukturelle Passung hat mich ermutigt, diesen Versuch zu wagen.
 <br>Und die Zustimmung jeder KI, der ich die Idee vorlegte.
 <br>Der geneigte Leser ist aufgefordert, die Plausibilität selbst zu durchdenken.
