@@ -16,6 +16,7 @@ Erster Ansatz, ins Detail zu gehen.
 <br>Ich bin Informatiker.
 <br>Die Strukturelle Passung hat mich ermutigt, diesen Versuch zu wagen.
 <br>Und die Zustimmung jeder KI, der ich die Idee vorlegte.
-<br>Der geneigte Leser ist aufgefordert, die Plausibilität selbst zu durchdenken.
+<br>Der geneigte Leser ist aufgefordert, die Plausibilität selbst zu durchdenken.\
+Die Meinung von Physikern wäre super spannend.
 
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
