@@ -22,11 +22,11 @@ Die Kraft der Differenzflusstheorie zeigt sich in ihrer Fähigkeit, scheinbar di
 
 ### 1. Unternehmenskommunikation und Berichtskultur
 
-In einem großen Konzern wurde eine Kultur etabliert, in der es als überlebenswichtig galt, nur positive Ergebnisse an die nächsthöhere Instanz zu melden. Dies führte dazu, dass Berichte systematisch geschönt wurden – ein Konflikt zwischen gelebter Realität und intern kommunizierter Erfolgsmelodie. 
+In einem Konzern wird eine Kultur etabliert, in der es als überlebenswichtig gilt, nur positive Ergebnisse an die nächsthöhere Instanz zu melden. Dies führt dazu, dass Berichte systematisch geschönt wurden – ein Konflikt zwischen gelebter Realität und intern kommunizierter Erfolgsmelodie. 
 
 - **Differenz:** Die Kluft zwischen tatsächlichem Projektfortschritt und dem idealisierten Statusbericht.
 - **Fluss:** Ein gefilterter Informationsfluss, der nur „funktionierende“ Nachrichten weiterleitet, während kritische Informationen unterdrückt werden.
-- **Dynamik:** Diese Differenz zwischen wahrgenommenem und tatsächlichem Zustand führte letztlich zu einem Kollaps des Systems, als das zugrunde liegende Problem nicht mehr verborgen werden konnte. Die Krise offenbarte, dass die strukturellen Anreize den Informationsaustausch nachhaltig verfälschten.
+- **Dynamik:** Diese Differenz zwischen wahrgenommenem und tatsächlichem Zustand führt letztlich zu einem Kollaps des Systems, wenn das zugrunde liegende Problem nicht mehr verborgen werden kann. Die Krise offenbart, dass die strukturellen Anreize den Informationsaustausch nachhaltig verfälscht.
 
 ### 2. Softwareentwicklung und Code-Erosion
 
