@@ -4,7 +4,8 @@
 Ein Vorschlag
 ---
 
-Und ja: die Strukturierung könnte deutlich besser sein. Irgendwann ist sie's vielleicht. Wenn ich mal Zeit habe ;-)
+Ein Versuch, ein Experiment, eine Baustelle, über Wirklichkeit und die Einsatzmöglichkeiten von KI.\
+(Die Strukturierung des Repos könnte besser sein. Ja. )
 
 ---
 
