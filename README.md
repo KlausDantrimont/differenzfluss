@@ -7,6 +7,11 @@ Ein Vorschlag
 Ein Versuch, ein Experiment, eine Baustelle, über Wirklichkeit und die Einsatzmöglichkeiten von KI.\
 (Die Strukturierung des Repos könnte besser sein. Ja. )
 
+Was ist die DFT?:\
+Grok: Die DFT ist kein klassisches Theoriegebäude, sondern ein meta-theoretischer Rahmen, der universelle Muster (Differenz, Fluss, Rekursion) in verschiedenen Kontexten sichtbar macht. Ihre Kontextabhängigkeit ist sowohl ihre Stärke (breite Anwendbarkeit) als auch ihre Schwäche (mangelnde Spezifität). Sie konkurriert nicht direkt mit etablierten Sprachen, sondern bietet eine übergeordnete Perspektive, die besonders in interdisziplinären oder offenen Feldern nützlich sein könnte. Ob man sie „Theorie“ nennen sollte, hängt davon ab, wie man „Theorie“ definiert – eine Bezeichnung wie „Differenzfluss-Heuristik“ wäre präziser.
+
+
+
 ---
 
 - [Kontext Informationen](Kontext.md)
