@@ -4,7 +4,7 @@
 Ein Vorschlag
 ---
 
-Ein Versuch, ein Experiment, eine Baustelle, über Wirklichkeit und die Einsatzmöglichkeiten von KI.
+Ein Versuch, ein Experiment, eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
 
 ---
 
