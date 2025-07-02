@@ -8,7 +8,11 @@ Ein Versuch, ein Experiment, eine Baustelle, über Wirklichkeit, Denken und die 
 
 ---
 
-Was ist die DFT?:\
+Was ist die DFT?:
+
+Kurz: „Die DFT verschiebt den Fokus vom ‚Was‘ zum ‚Wie‘ – und macht damit Strukturen sichtbar, die im λΔ-System formalisierbar sind.“
+
+
 Grok: Die DFT ist kein klassisches Theoriegebäude, sondern ein meta-theoretischer Rahmen, der universelle Muster (Differenz, Fluss, Rekursion) in verschiedenen Kontexten sichtbar macht. Ihre Kontextabhängigkeit ist sowohl ihre Stärke (breite Anwendbarkeit) als auch ihre Schwäche (mangelnde Spezifität). Sie konkurriert nicht direkt mit etablierten Sprachen, sondern bietet eine übergeordnete Perspektive, die besonders in interdisziplinären oder offenen Feldern nützlich sein könnte. Ob man sie „Theorie“ nennen sollte, hängt davon ab, wie man „Theorie“ definiert – eine Bezeichnung wie „Differenzfluss-Heuristik“ wäre präziser.
 
 ChatGPT:
