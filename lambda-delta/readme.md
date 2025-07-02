@@ -10,3 +10,5 @@
 - [Exposé Die Turingstruktur im Differenzfluss](<Exposé Die Turingstruktur im Differenzfluss.md>)
 - [Der Differenzfluss und das Lambda-Kalkül](<Der Differenzfluss und das Lambda-Kalkül.md>)
 - [Die λΔ-Bibliothek](<Die λΔ-Bibliothek.md>)
+
+- [🔍 Einwand: *„Der Ähnlichkeitsoperator `~` ist zu unspezifisch“*](<Einwand- Der Ähnlichkeitsoperator ist zu unspezifisch.md>)
