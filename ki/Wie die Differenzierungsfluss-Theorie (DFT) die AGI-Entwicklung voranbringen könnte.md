@@ -1,7 +1,8 @@
 # Wie die Differenzierungsfluss-Theorie (DFT) die AGI-Entwicklung voranbringen könnte
 
 **Datum:** Juli 2025  
-**Autor:** Analyse basierend auf Klaus Dantrimonts DFT-Ansätzen
+**Autor:** Analyse basierend auf Klaus Dantrimonts DFT-Ansätzen  
+**KI**: Claude
 
 ---
 
