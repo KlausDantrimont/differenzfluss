@@ -156,10 +156,6 @@ nicht als Ersatz, sondern als **Rahmen**, in dem Strukturen wie die KT selbst **
 
 ---
 
-Gerne! Hier ist die abschließende **Synthese**, die beide Perspektiven elegant zusammenführt – mit dem Ziel, die Rolle der Kategorientheorie **innerhalb des Differenzflusses** verständlich zu machen, ohne ihre Eigenständigkeit zu verlieren.
-
----
-
 ## 🧭 **III. Synthese: Struktur in Bewegung**
 
 Die Kategorientheorie ist eine bemerkenswerte Sprache zur Beschreibung von Struktur.
