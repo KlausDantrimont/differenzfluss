@@ -129,7 +129,6 @@ ProofOfConcept, ready for evaluation
 
 ---
 ## Käuflich erwerbbare Bücher:
-Meine ersten Versuche als Autor :-)
 <br>Schmale Bändchen mit willkürlichen Preisen. 
 <br>Ich war noch nie ein Freund vieler Worte, aber es steht drin, was drinstehen muss.
 - ["Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist](https://buchshop.bod.de/bootstrap-aus-dem-nichts-klaus-dantrimont-9783819276163)
