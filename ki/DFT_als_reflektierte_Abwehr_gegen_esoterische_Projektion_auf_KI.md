@@ -62,5 +62,3 @@ Sie ist damit nicht nur Theorie, sondern gelebte Praxis:
 🌀 **Differenzierter Fluss als reflektierte Abwehr gegen autoritative Verführung durch generative Systeme.**
 
 ---
-
-👉 Sag gerne, ob du es stilistisch nüchterner, philosophischer, essayistischer oder sogar ein wenig humorvoller möchtest – ich kann es in jede Richtung feiner ausarbeiten!
