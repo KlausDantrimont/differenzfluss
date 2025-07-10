@@ -1,5 +1,7 @@
 # Die Differenzflusstheorie bietet neue Ansätze, um über das Denken nachzudenken
 
+- [DFT als reflektierte Abwehr gegen esoterische Projektion auf KI](DFT_als_reflektierte_Abwehr_gegen_esoterische_Projektion_auf_KI.md)
+
 - [dft und ki](<dft und ki>)
 
 - [future ai](<future ai>)
