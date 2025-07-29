@@ -81,7 +81,7 @@ Ziel: Systeme dynamisch anpassen, ohne instabil zu werden.
 ---
 
 ## 4. Lizenz & Kollaboration
-Das Toolset ist **Open Source** und steht unter der [MIT-Lizenz](LICENSE).  
+Das Toolset ist **Open Source** .
 Beiträge, Erweiterungen und Forks sind willkommen.  
 Ziel: **Gemeinsam eine Aufklärung 2.0 gestalten, die lernfähig und resilient bleibt.**
 
