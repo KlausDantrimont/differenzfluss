@@ -20,13 +20,14 @@ Die DFT bietet:
 
 ## 2. Diagramm: DFT-Prinzip → Mechanismus → Gesellschaftseffekt
 
-|DFT| Aufklärung 2.0| Gesellschafteffekt|
+|DFT| Aufklärung 2.0| Gesellschaftseffekt|
+|-|-|-|
 |Metastrukturen aus Differenz|Erkennen von Ordnung und Dynamik|Kritisches Denken als Grundfertigkeit |
 |Natur und Geistenswissenschaften integrieren|Brücken zwischen Disziplinen|Offene Lernlandschaften|
 |Framing-Analyse und Mustererkennung|Manipulation und Ideologie entlarven|Informations-resilienz|
 |Rekursion und Netzwerke|Feedback, dezentrale Strukturen|Flexible und adaptive Institutionen|
 
-Das Diagramm zeigt, wie sich aus DFT-Prinzipien konkrete gesellschaftliche Wirkungen ableiten lassen.
+Die Tabelle zeigt, wie sich aus DFT-Prinzipien konkrete gesellschaftliche Wirkungen ableiten lassen.
 
 ---
 
