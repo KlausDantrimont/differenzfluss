@@ -7,7 +7,7 @@ Die folgenden Tabellen zeigen die **vier Hauptkategorien** des Toolsets und ihre
 
 ## 1. Struktur als Übersicht (ASCII-Map)
 
-
+```
 +-------------------+
 \|   ERKENNEN        |
 \|  (Strukturen)     |
