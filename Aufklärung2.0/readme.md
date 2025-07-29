@@ -39,7 +39,7 @@ Dieses Projekt ist **offen für Beiträge**:
 
 ## 📜 Lizenz
 
-Die Inhalte stehen unter der [MIT-Lizenz](../LICENSE).  
+Die Inhalte sind open source. Nimm Dir, was Du brauchst.
 Ziel: Eine **freie, kollaborative Plattform** zur Entwicklung einer Aufklärung 2.0, die lernfähig und adaptiv bleibt.
 
 ---
