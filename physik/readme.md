@@ -1,3 +1,7 @@
+
+
+
+
 # Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)
 
 Die klassische Physik beschreibt die Realität durch mathematische Gleichungen, die kontinuierliche Größen, Felder, Kräfte und Geometrien modellieren. 
@@ -20,3 +24,11 @@ Erster Ansatz, ins Detail zu gehen.
 Die Meinung von Physikern wäre super spannend.
 
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
+
+
+# Hilbertraum
+
+## Der Hilbertraum als linearer Spezialfall nichtlinearer Zustandsräume
+Differenzfluss als Meta-Struktur der Quantenmechanik
+
+< [DFT Hilbertraum](DFT-Hilbertraum.md)
