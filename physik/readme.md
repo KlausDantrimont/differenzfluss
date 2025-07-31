@@ -26,9 +26,7 @@ Die Meinung von Physikern wäre super spannend.
 - [Abstract - Physik aus Differenzen – Ein rekursiver Zugang zur Dynamik](Abstract-PhysikAusDifferenzen–EinRekursiverZugangZurDynamik.md)
 
 
-# Hilbertraum
-
-## Der Hilbertraum als linearer Spezialfall nichtlinearer Zustandsräume
+# Der Hilbertraum als linearer Spezialfall nichtlinearer Zustandsräume
 Differenzfluss als Meta-Struktur der Quantenmechanik
 
-< [DFT Hilbertraum](DFT-Hilbertraum.md)
+- [DFT Hilbertraum](DFT-Hilbertraum.md)
