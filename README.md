@@ -84,7 +84,42 @@ Vielleicht lässt sich ihre Essenz in einen Satz fassen:
 
 So öffnet sie nicht ein fertiges System, sondern eine Haltung: **Die Welt zu lesen als Strom der Unterschiede** – und jede Erkenntnis als neuen Wirbel im unendlichen Wasser.
 
-![dft-manifest](dft-manifest.png)
+---
+
+# **Manifest des Differenzflusses**
+
+*(10 Sätze für Navigation im Strom der Unterschiede)*
+
+1. **Alles fließt.**
+   Stabilität ist nur eine Form, die der Fluss für eine Zeit annimmt.
+
+2. **Dinge sind Wirbel.**
+   Jedes Objekt, jede Struktur ist ein verdichteter Unterschied – gehalten von Kräften in Bewegung.
+
+3. **Erkenntnis ist Navigation.**
+   Wissen ist kein Besitz, sondern die Fähigkeit, im Fluss zu steuern.
+
+4. **Wahrheit ist Kohärenz im Augenblick.**
+   Sie besteht, solange Modell und Welt miteinander schwingen.
+
+5. **Begriffe sind Inseln.**
+   Sie geben Halt, aber sie sind nicht das Land selbst – sie entstehen und verschwinden mit den Strömungen.
+
+6. **Das Ich ist ein Spiegel im Strom.**
+   Subjektivität ist der Fluss, der beginnt, sich selbst zu sehen.
+
+7. **Kultur ist ein gemeinsames Flussbett.**
+   Sprache, Werte, Symbole – all dies sind Stabilitäten, die wir miteinander graben.
+
+8. **Irrtum ist eine Einladung.**
+   Jede Abweichung ist eine neue Differenz mit Lernpotenzial.
+
+9. **Die Theorie ist kein Damm.**
+   Sie ist ein Floß – beweglich, offen, veränderbar mit dem Lauf des Flusses.
+
+10. **Bleibe im Fluss – und finde Form im Werden.**
+    Erkennen heißt, die Strömung zu lesen, ohne den Fluss zu versteinern.
+
 ---
 
 - [Kontext Informationen](Kontext.md)
