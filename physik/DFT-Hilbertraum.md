@@ -16,20 +16,20 @@ Diese Erweiterung bietet einen konsistenten Rahmen, um Phänomene wie Dekohären
 
 ## **Notationstabelle – „Hilbertraum im Licht des Differenzflusses“**
 
-| Symbol / Ausdruck                     | Bedeutung (QM)                                      | Bedeutung (DFT)                                                | Bemerkung                                                        |                                   |
-| ------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------- |
-| $\mathcal{H}$                         | Hilbertraum (komplex, vollständig, inneres Produkt) | Spezieller Teilraum des Differenzraums $\mathcal{D}$           | In DFT ist $\mathcal{H} \subset \mathcal{D}$                     |                                   |
-| $\mathcal{D}$                         | –                                                   | Allgemeiner Differenzraum (nichtlinear, nichtmetrisch möglich) | DFT erweitert $\mathcal{H}$                                      |                                   |
-| (                                     | \psi\rangle)                                        | Zustandsvektor in $\mathcal{H}$                                | Differenzkonfiguration im Spezialfall $\Delta \in \mathcal{D}$   | QM-Zustände als Spezialfälle      |
-| $\Delta$                              | –                                                   | Allgemeiner DFT-Zustand                                        | Kann linear oder nichtlinear repräsentiert werden                |                                   |
-| (\langle \phi                         | \psi \rangle)                                       | Inneres Produkt (Ähnlichkeit)                                  | Spezialfall von $S(\Delta_a, \Delta_b)$                          | Born’sches Gesetz als Spezialfall |
-| $S(\Delta_a, \Delta_b)$               | –                                                   | DFT-Ähnlichkeitsoperator                                       | Kontextabhängig, verallgemeinert inneres Produkt                 |                                   |
-| ({                                    | e\_i\rangle })                                      | Orthonormalbasis                                               | Basis-Differenzen $\{\delta_i\}$                                 | In DFT nicht zwingend orthogonal  |
-| $\hat{O}$                             | Operator auf $\mathcal{H}$                          | Fluss-/Transformationsoperator $F_\Delta$                      | Nichtlinearität möglich                                          |                                   |
+| Symbol / Ausdruck  | Bedeutung (QM) | Bedeutung (DFT)  | Bemerkung     |   
+| ---- | ------- | -------- | ------------ |
+| $\mathcal{H}$   | Hilbertraum (komplex, vollständig, inneres Produkt) | Spezieller Teilraum des Differenzraums $\mathcal{D}$           | In DFT ist $\mathcal{H} \subset \mathcal{D}$                     |                                   |
+| $\mathcal{D}$   | –                                                   | Allgemeiner Differenzraum (nichtlinear, nichtmetrisch möglich) | DFT erweitert $\mathcal{H}$                                      |                                   |
+| ( \psi\rangle) |     Zustandsvektor in $\mathcal{H}$   | Differenzkonfiguration im Spezialfall $\Delta \in \mathcal{D}$   | QM-Zustände als Spezialfälle      |
+| $\Delta$ | –                                                   | Allgemeiner DFT-Zustand                                        | Kann linear oder nichtlinear repräsentiert werden      |     |
+| (\langle \phi  \psi \rangle)  | Inneres Produkt (Ähnlichkeit)  | Spezialfall von $S(\Delta_a, \Delta_b)$             | Born’sches Gesetz als Spezialfall |
+| $S(\Delta_a, \Delta_b)$               | –             | DFT-Ähnlichkeitsoperator                                       | Kontextabhängig, verallgemeinert inneres Produkt                 |                                   |
+| ({   e\_i\rangle }) | Orthonormalbasis  | Basis-Differenzen $\{\delta_i\}$   | In DFT nicht zwingend orthogonal  |
+| $\hat{O}$  | Operator auf $\mathcal{H}$                          | Fluss-/Transformationsoperator $F_\Delta$                      | Nichtlinearität möglich                                          |                                   |
 | $i \hbar \frac{\partial}{\partial t}$ | Generator unitärer Zeitentwicklung                  | Spezialfall von $F_\Delta$                                     | DFT erlaubt nichtlineare oder dynamische Basen                   |                                   |
-| $F_\Delta[\Delta]$                    | –                                                   | DFT-Flussoperator                                              | Kann als Verallgemeinerung von $\hat{H}$ betrachtet werden       |                                   |
-| $\Delta^*$                            | –                                                   | DFT-Fixpunkt                                                   | Entspricht Eigenzustand in $\mathcal{H}$                         |                                   |
-| (P\_i = \langle e\_i                  | \psi \rangle)                                       | Projektion auf Basisvektor                                     | $P_i^\Delta = S(\delta_i, \Delta)$ Projektion auf Differenzbasis | DFT erlaubt dynamische Basen      |
+| $F_\Delta[\Delta]$  | –                                                   | DFT-Flussoperator                                              | Kann als Verallgemeinerung von $\hat{H}$ betrachtet werden       |                                   |
+| $\Delta^*$   | –                                                   | DFT-Fixpunkt                                                   | Entspricht Eigenzustand in $\mathcal{H}$                         |                                   |
+| (P\_i = \langle e\_i \psi \rangle)                                       | Projektion auf Basisvektor                                     | $P_i^\Delta = S(\delta_i, \Delta)$ Projektion auf Differenzbasis | DFT erlaubt dynamische Basen      |
 
 ---
 
