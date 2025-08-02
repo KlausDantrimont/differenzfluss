@@ -1,6 +1,6 @@
 
 
-
+** Hier wirds besonders spekulativ. Ich bin kein Physiker. **
 
 # Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)
 
