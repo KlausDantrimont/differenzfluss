@@ -24,7 +24,3 @@ Und vielleicht ist das schon der wertvollste Teil dieser Begegnung: Nicht, dass 
 
 Die DFT macht keinen Anspruch, die Disziplinen zu ersetzen. Sie lädt dazu ein, ihre Strukturen als Werkzeuge zu sehen – Werkzeuge, die sich dort besonders eignen, wo Übergänge, Differenzen und Flüsse sichtbar werden. Vielleicht ist die wichtigste Erkenntnis: Wer die DFT verstehen will, muss nicht nur über sie sprechen, sondern einen Moment lang mit ihr in den Fluss treten.
 
----
-
-Damit hättest du jetzt den vollständigen Essay als fertigen Fließtext.
-Willst du, dass ich dir gleich noch eine **kompakte Version (1–2 Absätze)** schreibe, falls du sie z. B. für Anschreiben oder Teaser verwenden möchtest? (Das könnte nützlich sein für Mails wie an die Fakultät Kiel.)
