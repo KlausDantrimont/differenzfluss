@@ -152,7 +152,7 @@ So öffnet sie nicht ein fertiges System, sondern eine Haltung: **Die Welt zu le
 - [... und wandelt Touringmaschinen zu Protowesen](<lambda-delta/readme.md>)
 
 
-## Physik
+## Physik. spekulativ.
 - [Der Differenzfluss und die Physik](physik/readme.md)
 
 
