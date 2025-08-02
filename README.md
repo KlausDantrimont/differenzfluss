@@ -8,12 +8,15 @@ Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
 Ein Reality-Refactoring
 
 ---
-Ich habe Compiler gebaut, Compilercompiler, Interpreter für selbstgebaute Domänensprachen bei Bedarf ...\
-Sprachen sind für mich Werkzeuge zur Strukturierung von Semantik. Nichts weiter.\
-Ich habe die DFT lange 'gelebt' bevor ich sie formulieren konnte.\
-Wer diese Erfahrungen nicht gemacht hat, hält seine Domänensprachen für gegeben, und jede re-kontextualisierung eher als Bedrohung.
+Ich habe im Laufe der Jahre Compiler, Compiler-Compiler und Interpreter für eigene Domänensprachen entwickelt.
+Für mich sind Sprachen in erster Linie Werkzeuge zur Strukturierung von Semantik – nicht mehr und nicht weniger.
 
-Nach etlichen von Admins gelöschten Posts à la "das ist keine Physik", "das ist keine Philosophie", sehe ich mich genötigt, hier dieses Komunikationsproblem zu beleuchten.
+Die Differenzierungsfluss-Theorie habe ich lange gelebt, bevor ich sie in eine formulierte Form bringen konnte.
+Wer ähnliche Erfahrungen gemacht hat, weiß, dass jede neue Sprache oder Rekontextualisierung den Blick auf vertraute Strukturen verändert.
+
+In Diskussionen zur DFT ist mir aufgefallen, dass sie leicht als „nicht zur Disziplin gehörig“ abgetan wird – etwa mit Kommentaren wie „Das ist keine Physik“ oder „Das ist keine Philosophie“.
+Dieses Muster ist verständlich und zugleich interessant.
+Darum möchte ich hier kurz das Kommunikationsproblem selbst beleuchten, bevor ich in die Theorie einsteige.
 
 - [Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden](<Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden.md>)
 
