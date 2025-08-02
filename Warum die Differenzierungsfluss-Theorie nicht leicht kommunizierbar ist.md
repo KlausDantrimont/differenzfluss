@@ -1,5 +1,3 @@
----
-
 ## **Warum die Differenzierungsfluss-Theorie nicht leicht kommunizierbar ist – und warum das interessant ist**
 
 Die Differenzierungsfluss-Theorie ist keine Physik. Sie ist auch keine Philosophie, keine Mathematik, keine Kognitionswissenschaft. Und genau hier beginnt das Kommunikationsproblem – und vielleicht auch ihre größte Stärke.
