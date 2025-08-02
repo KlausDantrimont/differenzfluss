@@ -4,10 +4,20 @@
 Ein Vorschlag\
 Ein Versuch\
 Ein Experiment\
-Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
-
+Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.\
 Ein Reality-Refactoring
 
+---
+Ich habe Compiler gebaut, Compilercompiler, Interpreter für selbstgebaute Domänensprachen bei Bedarf ...\
+Sprachen sind für mich Werkzeuge zur Strukturierung von Semantik. Nichts weiter.\
+Ich habe die DFT lange 'gelebt' bevor ich sie formulieren konnte.\
+Wer diese Erfahrungen nicht gemacht hat, hält seine Domänensprachen für gegeben, und jede re-kontextualisierung eher als Bedrohung.
+
+Nach etlichen von Admins gelöschten Posts à la "das ist keine Physik", "das ist keine Philosophie", sehe ich mich genötigt, hier dieses Komunikationsproblem zu beleuchten.
+
+- [Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden](<Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden.md>)
+
+- [Warum die Differenzierungsfluss-Theorie nicht leicht kommunizierbar ist](<Warum die Differenzierungsfluss-Theorie nicht leicht kommunizierbar ist.md>)
 ---
 
 # **„Im Strom der Unterschiede – Ein Vorwort zur Differenzfluss-Theorie“**
