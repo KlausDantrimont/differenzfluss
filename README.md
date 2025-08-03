@@ -134,6 +134,10 @@ So öffnet sie nicht ein fertiges System, sondern eine Haltung: **Die Welt zu le
     Erkennen heißt, die Strömung zu lesen, ohne den Fluss zu versteinern.
 
 ---
+Interessanterweise gibt es andere, die in ähnliche Richtungen denken.\
+Vielleicht ist die Zeit einfach reif für eine relationale Ontologie.
+- [The Genesis Structure of the Information Universe](https://binarymath.dw.cash/docs/genesis-unified-theory-en)
+---
 
 - [Kontext Informationen](Kontext.md)
 - [Differenzfluss für Anfänger.md](<Differenzfluss für Anfänger.md>)
