@@ -40,12 +40,6 @@ um ein anderes Verständnis von Welt.
 
 ---
 
-Wenn du magst, kann ich das Vorwort auch mit einem passenden Zitat eröffnen.
-Möchtest du eins hinzufügen – oder selbst eines wählen?
-
-
----
-
 ## **1. Die Vertrautheit der Zeit**
 
 Ich sitze am Küchentisch.
