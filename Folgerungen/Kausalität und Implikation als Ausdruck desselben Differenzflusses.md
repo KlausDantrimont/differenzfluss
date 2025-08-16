@@ -12,7 +12,7 @@ Kausalität und Implikation erscheinen auf den ersten Blick als unterschiedliche
 
 Und doch teilen sie eine gemeinsame strukturelle Essenz: 
 
-Beide sind **gerichtete Relationen**, beide erzeugen **Richtung** in einem Möglichkeitsraum. Beide verbinden ein "Vorher" mit einem "Nachher" – nicht symmetrisch, sondern asymmetrisch. Ein Unterschied wird weitergegeben, ein Zustand verändert sich – sei es logisch oder physisch.
+Beide sind **gerichtete Relationen**, beide erzeugen **Richtung** in einem Möglichkeitsraum. Beide verbinden ein "Vorher" mit einem "Nachher", ein "Wenn" mit einem "Dann" – nicht symmetrisch, sondern asymmetrisch. Ein Unterschied wird weitergegeben, ein Zustand verändert sich – sei es logisch oder physisch.
 
 Diese Gemeinsamkeit lässt sich in der Sprache des Differenzierungsflusses fassen:
 
