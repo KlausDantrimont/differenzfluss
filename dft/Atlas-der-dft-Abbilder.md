@@ -199,41 +199,6 @@ Im Licht der DFT erscheint Selbstentwicklung nicht als linearer Fortschritt, son
 
 Für den Atlas bedeutet dieses Feld: Die DFT ist nicht nur Theorie der Natur, sondern auch eine Theorie des **subjektiven Werdens**. Sie verbindet äußere und innere Prozesse und zeigt, dass das Selbst selbst ein stabilisiertes Muster im Strom der Differenzen ist.
 
-
----
-
-# Psychologie und Selbstentwicklung im Licht der Differenzierungsfluss-Theorie
-
-## 1. Einführung
-
-Die Psychologie erforscht das Denken, Fühlen und Handeln des Menschen. Ein zentrales Feld ist die Selbstentwicklung: Wie entsteht ein stabiles Selbstbild? Wie verändert und entfaltet sich Persönlichkeit über die Zeit? Die Differenzierungsfluss-Theorie (DFT) bietet hier eine Struktur, um Entwicklungsprozesse als **rekursive Schleifen von Differenzen** zu verstehen, die in Stabilisierung und Wachstum münden.
-
-## 2. DFT-Abbild
-
-* **Differenz:** Entwicklung beginnt mit einem Unterschied zwischen aktuellem Zustand (Ist) und einem vorgestellten oder geforderten Zustand (Soll). Diese Diskrepanz erzeugt Spannung.
-* **Fluss:** Aus dieser Spannung entsteht Bewegung – Lernen, Handeln, Reflektieren. Das Selbst verändert sich entlang seiner eigenen Differenzen.
-* **Stabilisierung:** Neue Muster, Gewohnheiten oder Einsichten verankern sich. Ein neues Gleichgewicht entsteht, das jedoch wieder Ausgangspunkt für neue Differenzierungen wird.
-
-So zeigt sich Selbstentwicklung als permanenter Differenzfluss: Unterschiede treiben Veränderung, Veränderungen bilden neue Stabilität, die wiederum differenzierbar wird.
-
-## 3. Beispiele
-
-* **Lernen einer Fähigkeit:** Wer ein Instrument erlernt, erlebt den Unterschied zwischen gewünschtem Klang und tatsächlichem Ergebnis. Übung (Fluss) reduziert die Differenz, bis Fertigkeit entsteht (Stabilisierung).
-* **Identitätsentwicklung:** Jugendliche vergleichen sich mit Vorbildern. Die Differenz erzeugt Orientierung und Veränderung, die schließlich zu einer stabileren Selbstdefinition führt.
-* **Therapieprozess:** Psychotherapie nutzt bewusst die Differenz zwischen aktuellem Leiden und einem gewünschten Zustand der Autonomie. Durch Gespräche und Übungen entsteht ein Fluss, der zur Stabilisierung neuer Selbstmuster führt.
-
-## 4. Besonderheiten und Brüche
-
-* **Subjektive Steuerung:** Im Unterschied zu biologischer Evolution kann das psychische System Differenzen bewusst setzen (z. B. Ziele, Werte). Dadurch wird der Fluss intentional gelenkt.
-* **Selbstreferenz:** Das Selbst beobachtet und gestaltet sich selbst. Diese Rückkopplung ist ein Paradebeispiel für rekursive Strukturen.
-* **Bruchstelle – Pathologie:** Instabile Selbstbilder können Flüsse blockieren (Stagnation) oder chaotisch machen (Identitätsdiffusion). Die DFT hilft hier, Stabilität und Instabilität als zwei Seiten desselben Prinzips zu begreifen.
-
-## 5. Nutzen und Ausblick
-
-Im Licht der DFT erscheint Selbstentwicklung nicht als linearer Fortschritt, sondern als zyklischer Prozess von **Unterschieden, Bewegungen und neuen Balancen**. Diese Perspektive kann psychologische Praxis bereichern, da sie Entwicklung nicht auf Endziele fixiert, sondern als offenen Fluss versteht.
-
-Für den Atlas bedeutet dieses Feld: Die DFT ist nicht nur Theorie der Natur, sondern auch eine Theorie des **subjektiven Werdens**. Sie verbindet äußere und innere Prozesse und zeigt, dass das Selbst selbst ein stabilisiertes Muster im Strom der Differenzen ist.
-
 ---
 
 # Mathematik im Licht der Differenzierungsfluss-Theorie
@@ -472,40 +437,6 @@ So erscheinen soziale Systeme als konkrete Realisierung des DFT-Prinzips: Unters
 Im Licht der DFT zeigt sich die Systemtheorie als besonders nahestehendes Feld: Sie beschreibt präzise, wie Differenz, Fluss und Stabilisierung soziale Systeme hervorbringen. Der Atlas kann hier verdeutlichen, dass DFT nicht im Widerspruch zu Luhmann steht, sondern eine **Verallgemeinerung** seiner Grundidee darstellt – anwendbar auf Natur, Kultur und Bewusstsein gleichermaßen.
 
 Für den Atlas bedeutet dies: Luhmann liefert ein starkes Bindeglied zwischen DFT und Sozialwissenschaften. Wer mit der Systemtheorie vertraut ist, findet hier sofort Anschluss.
-
----
-
-# Kategorientheorie im Licht der Differenzierungsfluss-Theorie
-
-## 1. Einführung
-
-Die Kategorientheorie ist ein Zweig der Mathematik, der nicht primär mit Objekten, sondern mit Relationen arbeitet. Sie fragt: Wie hängen Strukturen zusammen, unabhängig von ihrem konkreten Inhalt? Morphismen (Abbildungen) sind dabei grundlegender als die Objekte, die sie verbinden. Im Licht der Differenzierungsfluss-Theorie (DFT) zeigt sich die Kategorientheorie als ein **formales Abbild des Differenzflusses** selbst.
-
-## 2. DFT-Abbild
-
-* **Differenz:** Objekte existieren nur in Abgrenzung voneinander und durch ihre Relationen.
-* **Fluss:** Morphismen verbinden Objekte, ihre Komposition erzeugt gerichtete Strukturen.
-* **Stabilisierung:** Funktoren und natürliche Transformationen sichern Kohärenz über ganze Kategorien hinweg.
-
-Damit spiegelt die Kategorientheorie die DFT fast direkt: Nicht die Dinge selbst, sondern die Unterschiede und Übergänge sind konstitutiv.
-
-## 3. Beispiele
-
-* **Komposition von Morphismen:** f: A → B, g: B → C. Differenz (A ≠ B ≠ C) → Fluss (f und g) → Stabilisierung (g∘f als neue Abbildung).
-* **Produkt und Koprodukt:** Konstruktionen, die Differenzen zwischen Objekten durch strukturierte Verknüpfung in stabilen Formen fassen.
-* **Dualität:** Jede Kategorie hat ein Spiegelbild, in dem Pfeile umgekehrt werden. Differenz und Fluss erscheinen symmetrisch.
-
-## 4. Besonderheiten und Brüche
-
-* **Höhe der Abstraktion:** Kategorientheorie macht Differenzen sichtbar, aber auf einer extrem abstrakten Ebene. Das erschwert Zugänglichkeit, zeigt jedoch die universelle Gültigkeit des Prinzips.
-* **Selbstähnlichkeit:** Kategorien können Kategorien von Kategorien bilden (2-Kategorien usw.). Diese rekursiven Schichtungen entsprechen dem fraktalen Charakter des Differenzflusses.
-* **Bruchstelle – Inhalt vs. Form:** Während Kategorientheorie Form betont, sieht die DFT auch materielle und dynamische Inhalte. Beide ergänzen sich, sind aber nicht identisch.
-
-## 5. Nutzen und Ausblick
-
-Im Licht der DFT wird Kategorientheorie zur **formalen Schwesterdisziplin**: Sie zeigt, dass die Welt der Mathematik bereits eine Sprache für Differenzen und Flüsse kennt. Damit liefert sie Werkzeuge, um die DFT präziser zu formulieren und mit bestehenden mathematischen Theorien zu verbinden.
-
-Für den Atlas bedeutet dies: Wer Kategorientheorie kennt, findet in der DFT ein inhaltliches Gegenstück – eine Theorie, die dieselbe Struktur in Natur, Kultur und Bewusstsein sichtbar macht.
 
 ---
 
