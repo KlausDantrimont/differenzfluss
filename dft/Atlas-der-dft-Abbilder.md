@@ -1,5 +1,12 @@
 # 🌐 Atlas der DFT-Abbilder (Prototyp)
 
+Willkommen zum Atlas der Differenzierungsfluss-Theorie
+Stellen Sie sich vor, die Welt wäre ein Fluss – nicht aus Wasser, sondern aus Unterschieden. Alles, was existiert, entsteht aus diesen Unterschieden: zwischen hell und dunkel, zwischen Ist und Soll, zwischen einem Ton und dem nächsten. Die Differenzierungsfluss-Theorie (DFT) ist ein Schlüssel, um diesen Fluss zu verstehen. Sie zeigt, wie Unterschiede (Differenz) Bewegung erzeugen (Fluss) und wie diese Bewegung in stabilen Mustern (Stabilisierung) mündet – nur um wieder neue Unterschiede zu schaffen. Es ist ein Kreislauf, der in der Natur, im Denken, in der Kunst und im Alltag wirkt.
+Dieser Atlas ist eine Landkarte dieser Idee. Er nimmt Sie mit auf eine Reise durch verschiedene Felder – von der Evolution über die Musik bis zur Wirtschaft – und zeigt, wie die DFT überall dieselben Muster findet: Unterschiede, die fließen und sich verfestigen. Jeder Abschnitt ist ein Fenster in eine Disziplin, aber auch ein Spiegel für die universelle Logik der DFT. Egal, ob Sie Wissenschaftler, Künstler oder neugieriger Alltagsforscher sind – der Atlas lädt Sie ein, die Welt als Netzwerk von Differenzflüssen zu sehen.
+Die DFT ist keine fertige Lehre, sondern ein Prototyp des Denkens. Sie sitzt „zwischen allen Stühlen“, verbindet Disziplinen, ohne sie zu ersetzen. Dieser Atlas ist kein Abschluss, sondern ein Anfang: eine Einladung, die Flüsse der Unterschiede zu erkunden, zu hinterfragen und weiterzudenken. Tauchen Sie ein – und lassen Sie sich von den Strömen mitreißen!
+
+---
+
 | **Disziplin / Feld**                    | **DFT-Abbild**                                                     | **Beispiel**                                           | **Besonderheit / Bruch**                                  |
 | --------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------------- |
 | Evolutionstheorie                       | Replikation, Variation, Selektion = Differenz im Fluss             | Mutation → neue Form → Selektion                       | Keine Zielrichtung, nur lokale Stabilität                 |
