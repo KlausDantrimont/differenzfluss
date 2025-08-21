@@ -1,6 +1,6 @@
 # Warum sollte ich das lesen?
 
-Dieses Projekt richtet sich an verschiedene Leser\:innen – jede Gruppe findet ihren eigenen Grund, hier einzusteigen:
+Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren eigenen Grund, hier einzusteigen:
 
 * **Philosoph\:innen** → Klassische Fragen wie Zeit, Sein und Subjektivität werden im Licht rekursiver Strukturen neu gedacht.
 * **Naturwissenschaftler\:innen & Mathematiker\:innen** → Ein konsistentes Muster verbindet Physik, Biologie, Chemie und Mathematik auf interdisziplinäre Weise.
