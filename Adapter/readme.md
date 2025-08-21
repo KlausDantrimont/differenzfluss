@@ -54,24 +54,24 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 - [Adapter-Kommunikation.md](<Adapter-Kommunikation.md>)
 
 - Medien im Differenzfluss – Kommunikation als Flussstörung und Brückenschlag.\
-[Adapter-Medien.md](<Adapter-Medien.md>)
-- [Adapter-Gesellschaft.md](<Adapter-Gesellschaft.md>)
-- [Adapter-Gesellschaft-Politik.md](<Adapter-Gesellschaft-Politik.md>)
+[Adapter–Medien.md](<Adapter-Medien.md>)
+- [Adapter–Gesellschaft.md](<Adapter-Gesellschaft.md>)
+- [Adapter–Gesellschaft-Politik.md](<Adapter-Gesellschaft-Politik.md>)
 
 - Kunst im Differenzfluss – Kunst als Resonanz- und Differenzspiel, nicht bloß Abbild.\
-[Adapter-Kunst.md](<Adapter-Kunst.md>)
-- [Adapter-Musik.md](<Adapter-Musik.md>)
+[Adapter–Kunst.md](<Adapter-Kunst.md>)
+- [Adapter–Musik.md](<Adapter-Musik.md>)
 
 
 - Technik im Differenzfluss – Maschinen als explizit gebaute Differenznetzwerke.\
-[Adapter-Technik.md](<Adapter-Technik.md>)
-- [Adapter-Wissenschaft-und-Mathematik.md](<Adapter-Wissenschaft-und-Mathematik.md>)
+[Adapter–Technik.md](<Adapter-Technik.md>)
+- [Adapter–Wissenschaft-und-Mathematik.md](<Adapter-Wissenschaft-und-Mathematik.md>)
 
 
 - Naturwissenschaften – Von Geologie bis Kosmos: rekursive Muster in der Natur.\
-[Adapter-Geologie-und-Kosmos.md](<Adapter-Geologie-und-Kosmos.md>)
-- [Adapter-Astrobiologie.md](<Adapter-Astrobiologie.md>)
-- [Adapter-Biologie.md](<Adapter-Biologie.md>)
+[Adapter–Geologie-und-Kosmos.md](<Adapter-Geologie-und-Kosmos.md>)
+- [Adapter–Astrobiologie.md](<Adapter-Astrobiologie.md>)
+- [Adapter–Biologie.md](<Adapter-Biologie.md>)
 - [Adapter-Physik.md](<Adapter-Physik.md>)
 - [Adapter-Chemie.md](<Adapter-Chemie.md>)
 
