@@ -1,4 +1,16 @@
-# README – Adapter-Ordner
+# Warum sollte ich das lesen?
+
+Dieses Projekt richtet sich an verschiedene Leser\:innen – jede Gruppe findet ihren eigenen Grund, hier einzusteigen:
+
+* **Philosoph\:innen** → Klassische Fragen wie Zeit, Sein und Subjektivität werden im Licht rekursiver Strukturen neu gedacht.
+* **Naturwissenschaftler\:innen & Mathematiker\:innen** → Ein konsistentes Muster verbindet Physik, Biologie, Chemie und Mathematik auf interdisziplinäre Weise.
+* **Techniker\:innen & KI-Forschende** → Rekursive Prinzipien werden als Denkwerkzeug für Algorithmen, Systeme und künstliche Intelligenz sichtbar.
+* **Künstler\:innen & Kreative** → Kunst erscheint als aktives Differenzspiel – ein Experimentierfeld für Resonanz, Variation und Fraktalität.
+* **Gesellschaftlich Interessierte** → Macht, Kultur und Kommunikation lassen sich als rekursive Netze verstehen – mit neuen Einsichten in Resilienz und Wandel.
+* **Neugierige & allgemein Lesende** → Der Alltag wird neu lesbar: überall taucht ein roter Faden von Mustern auf, die Staunen ermöglichen.
+
+---
+
 
 ## Zweck (Sachebene)
 
