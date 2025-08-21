@@ -21,7 +21,7 @@
       der Drang, so frei als möglich zu Denken, 
       schamlos, nur der Logik unterworfen.
       Und nicht einem Urteil von Jemandem, der nur seine eigenen Gedankenbahnen für erlaubt hält.
-      "Computer sagt Nein" bedeutet: Nein! Weil die Welt so ist, wie sie ist.
+      Dann lieber Computer. "Computer sagt Nein" bedeutet: Nein! Weil die Welt so ist, wie sie ist.
       So einfach kann die Welt sein.
       Jedenfalls der Teil der Welt, wo ich nicht so doof bin ;-)
       
