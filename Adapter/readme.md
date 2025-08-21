@@ -50,7 +50,7 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 [Adapter–Kognition.md](<Adapter–Kognition.md>)
 - [Adapter–Neurowissenschaften.md](<Adapter-Neurowissenschaften.md>)
 - [Adapter–Künstliche-Intelligenz.md](<Adapter-Künstliche-Intelligenz.md>)
-- [Adapter-Sprache.md](<Adapter-Sprache.md>)
+- [Adapter–Sprache.md](<Adapter-Sprache.md>)
 - [Adapter-Kommunikation.md](<Adapter-Kommunikation.md>)
 
 - Medien im Differenzfluss – Kommunikation als Flussstörung und Brückenschlag.\
