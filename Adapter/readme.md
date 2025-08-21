@@ -48,8 +48,8 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
 - Kognition & Erkenntnis – Denken als Differenzmaschine zwischen Wahrnehmung und Welt.\
 [Adapter–Kognition.md](<Adapter–Kognition.md>)
-- [Adapter-Neurowissenschaften.md](<Adapter-Neurowissenschaften.md>)
-- [Adapter-Künstliche-Intelligenz.md](<Adapter-Künstliche-Intelligenz.md>)
+- [Adapter–Neurowissenschaften.md](<Adapter-Neurowissenschaften.md>)
+- [Adapter–Künstliche–Intelligenz.md](<Adapter-Künstliche-Intelligenz.md>)
 - [Adapter-Sprache.md](<Adapter-Sprache.md>)
 - [Adapter-Kommunikation.md](<Adapter-Kommunikation.md>)
 
