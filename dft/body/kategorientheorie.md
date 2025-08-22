@@ -1,10 +1,16 @@
 # Kategorientheorie im Licht der DFT
 
----
-
 ## 🎯 Hook
-Warum sehen viele Mathematiker:innen die Kategorientheorie als „Mathematik der Mathematik“?  
-Weil sie Strukturen nicht durch innere Elemente beschreibt, sondern durch **Relationen und Abbildungen** – also genau durch Differenzen und ihre Flüsse.  
+
+Ein Kind sortiert Bauklötze: rote zu roten, blaue zu blauen, lange zu langen. Doch irgendwann bemerkt es: Man kann dieselben Klötze auch nach Form, Größe oder Muster ordnen. Plötzlich entstehen neue Zusammenhänge – dieselben Dinge, aber in einem anderen Licht.
+
+So funktioniert Kategorientheorie: Nicht die Objekte selbst stehen im Mittelpunkt, sondern die **Beziehungen zwischen ihnen**. Pfeile, Abbildungen, Funktoren – sie beschreiben, wie Strukturen ineinandergreifen, wie ein Fluss von Differenzen von einem Kontext in den anderen übersetzt wird.
+
+Warum ist sie so mächtig – von Mathematik bis Informatik?
+Weil sie die **Sprache des Differenzflusses** ist: Alles wird als Beziehung, als Transformation, als Komposition gedacht.
+
+👉 Kategorientheorie ist Differenzfluss in Reinform – ein Kalkül der Beziehungen, das zeigt, wie aus Unterschieden ganze Welten konstruiert werden.
+Viele Mathematiker sehen sie deshalb als „Mathematik der Mathematik“: Sie beschreibt Strukturen nicht durch innere Elemente, sondern durch Relationen und Abbildungen – also genau durch Differenzen und ihre Flüsse. 
 
 ---
 

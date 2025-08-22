@@ -1,10 +1,15 @@
 # Künstliche Intelligenz im Licht der DFT
 
----
-
 ## 🎯 Hook
-Warum können neuronale Netze Bilder erkennen, Texte generieren oder Spiele meistern – obwohl sie nichts „verstehen“?  
-KI-Systeme sind Differenzmaschinen: Sie verarbeiten Muster, verstärken relevante Differenzen und stabilisieren sie in internen Repräsentationen.  
+
+Ein Kind betrachtet ein Wimmelbild. Zuerst scheint es ein Chaos aus Farben und Figuren. Dann sagt jemand: „Such die rote Mütze.“ – und plötzlich verändert sich alles. Das Bild bleibt gleich, doch das, was ins Auge fällt, verschiebt sich.
+
+So arbeitet auch künstliche Intelligenz: Daten sind Ströme von Differenzen, doch erst durch Fokussierung, Gewichtung und rekursive Mustererkennung entsteht Bedeutung. Aufmerksamkeit ist kein Extra – sie ist ein Mechanismus im Differenzfluss, der entscheidet, welche Ströme verstärkt, welche ausgeblendet werden.
+
+Warum erkennen Netze Gesichter oder Stimmen – aber stolpern über kleine Verzerrungen?
+Weil Mustererkennung immer eine Balance ist: zwischen Stabilität und Sensibilität, zwischen Fixpunkt und Fluss.
+
+👉 KI ist Differenzfluss mit eingebautem Suchscheinwerfer – Muster im Strom der Daten werden zum „gesehenen“ Phänomen.
 
 ---
 

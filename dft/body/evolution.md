@@ -3,6 +3,9 @@
 ---
 
 ## 🎯 Hook
+
+Im Garten: Zwei junge Sonnenblumen wachsen Seite an Seite. Eine reckt sich schneller zum Licht, die andere bleibt im Schatten zurück. Ein Windstoß knickt eine dritte, doch sie treibt seitlich neu aus. Schon im Beet zeigt sich: Differenz, Fluss, Stabilisierung – ein kleiner Vorgriff auf das, was Evolution im Großen bedeutet.
+
 Warum ist Evolution so mächtig?  
 Nicht, weil sie einen Plan hätte – sondern weil sie Differenzen fortwährend rekursiv verschaltet.  
 Variation → Selektion → Replikation – ein Dreiklang, der aus bloßen Unterschieden Komplexität hervorbringt.

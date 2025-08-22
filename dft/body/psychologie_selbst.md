@@ -1,11 +1,18 @@
 # Psychologie & Selbstentwicklung im Licht der DFT
 
 ---
-
 ## 🎯 Hook
-Warum erleben Menschen Entwicklung nicht als linearen Weg, sondern als Sprünge, Krisen, Neubeginne?  
-Selbstentwicklung ist kein glatter Fortschritt, sondern ein **rekursiver Differenzfluss** – Stabilisierung, Bruch, Neuordnung.
 
+Ein Mensch sitzt am Schreibtisch. Vor ihm liegt ein Formular, das längst ausgefüllt werden müsste. Doch er steht auf, macht sich einen Kaffee, räumt die Küche, schaut ins Handy. Irgendwann merkt er: *Ich beobachte mich gerade dabei, wie ich ausweiche.*
+
+Dieser Moment ist mehr als Aufschieben – er ist eine **Schleife im Differenzfluss**: Handeln → Vermeiden → Beobachten des Vermeidens. Plötzlich richtet sich die Aufmerksamkeit nicht mehr nur nach außen, sondern nach innen.
+
+Warum verharren wir in Mustern, und wie schaffen wir es, sie zu durchbrechen?
+Psychologie und Selbstentwicklung sind das Studium von **rekursiven Mustern im Erleben** – und der Versuch, sie zu erkennen, zu verstehen und manchmal zu transformieren.
+
+👉 Selbstentwicklung ist Differenzfluss mit Feedback – das Ich beobachtet sich selbst beim Werden.
+Manche Muster stabilisieren sich, andere brechen, wieder andere ordnen sich neu.
+Schmerzen bei Brüchen sind oft nur vorübergehend.
 ---
 
 ## 🔑 DFT-Kern

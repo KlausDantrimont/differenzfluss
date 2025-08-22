@@ -3,9 +3,17 @@
 ---
 
 ## 🎯 Hook
-Warum erleben wir die Gegenwart nicht als punktuellen Moment, sondern als fließendes Jetzt?  
-Husserl nannte es den **Zeithorizont** von Retention (Vergangenes), Präsenz (Jetzt) und Protention (Erwartung).  
-👉 Das subjektive Zeitempfinden ist selbst ein Differenzfluss.
+
+Du sitzt im Wartezimmer. Minuten scheinen sich endlos zu dehnen. Später spielst du mit Freunden ein Spiel – und plötzlich ist der Abend vorbei, als wäre er verflogen. Zeit zeigt ihr Gesicht nie gleich: mal schleppt sie sich, mal stürzt sie davon.
+
+Wahrnehmung ist Differenzfluss in Echtzeit: Jeder neue Eindruck trifft dich in dem Zustand, in dem du gerade bist, und verschiebt den inneren Takt. Ein Ohrwurm wiederholt sich wie ein hartnäckiger Oszillator, während ein unerwartetes Geräusch den Fluss abrupt umlenken kann.
+
+Warum lässt sich das Jetzt nie festhalten, immer nur erinnern?
+Weil unser Erleben selbst rekursiv im Strom der Unterschiede liegt – das „Jetzt“ ist keine Linie, sondern eine Relation: zwischen Eindrücken, Erwartungen und Erinnerungen.
+
+Husserl sprach von **Zeithorizont**: Retention (Vergangenes), Präsenz (Jetzt) und Protention (Erwartung).  
+
+👉 Zeitempfinden ist Differenzfluss im Modus der Wahrnehmung – elastisch, subjektiv, nie still.
 
 ---
 

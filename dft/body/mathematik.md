@@ -3,6 +3,11 @@
 ---
 
 ## 🎯 Hook
+
+Ein Kind sitzt am Küchentisch und zählt Murmeln. „Eins, zwei, drei…“ – irgendwann stockt es, weil die Murmeln nicht aufhören. „Immer weiter“, sagt die Mutter, „man kann immer noch eine dazu legen.“ Das Kind schaut erstaunt: Zahlen hören also nicht auf?
+
+Dieses Staunen über das „immer weiter“ ist die Keimzelle der Mathematik. Schon hier zeigt sich der Differenzfluss: von der einzelnen Murmel zur unendlichen Reihe, von der kleinen Unterscheidung zum großen Muster.
+
 Warum ist Mathematik so universell – von der Physik bis zur Informatik, von der Biologie bis zur Kunst?  
 Weil sie die Sprache ist, in der Differenzen gefasst, strukturiert und rekursiv weitergeführt werden.  
 👉 Mathematik = „formalisiertes Denken im Differenzfluss“.

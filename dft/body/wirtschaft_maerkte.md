@@ -3,8 +3,19 @@
 ---
 
 ## 🎯 Hook
-Warum eskalieren Märkte oft in Monopole – oder zerfallen ins Chaos?  
-Weil Märkte Differenzflüsse sind: Preise, Nachfrage, Angebot, Vertrauen – alles Ströme von Unterschieden, die sich rekursiv verstärken oder dämpfen.  
+
+Auf dem Flohmarkt schlendern die Leute von Stand zu Stand. Plötzlich bildet sich vor einem Tisch eine kleine Traube: jemand hat eine Kiste alter Schallplatten entdeckt. Vielleicht ist er begeistert. Neugierige bleiben stehen, andere folgen dem Blick – und schon drängt sich eine Menschenmenge dort. Während an den Nachbarständen gähnende Leere herrscht, verkauft dieser Händler im Minutentakt.
+
+Ein kleines Beispiel dafür, wie Differenzflüsse kippen: Aufmerksamkeit → Nachfrage → noch mehr Aufmerksamkeit. Der Markt sucht sich Attraktoren, manchmal durch die kleinste Abweichung.
+
+Warum eskalieren Märkte oft in Monopole – oder zerfallen ins Chaos?
+Weil Märkte Differenzflüsse sind: Preise, Nachfrage, Angebot, Vertrauen – alles Ströme von Unterschieden, die sich rekursiv verstärken oder dämpfen.
+
+Oft geschieht das unbeobachtet, unbemerkt, unsichtbar. Dynamisch, nur gefühlsmäßig abschätzbar, teils geheim, komplex, verworren. Etwas, das einfach geschieht – wie das Wetter.
+Und ich weiß auch nicht, ob man irgendetwas ändern kann oder soll, oder wie, oder was, oder warum. Oder nicht. Oder doch.
+
+Aber ich weiß, dass man sich Dinge in der Welt auch einmal unter dynamischen Gesichtspunkten ansehen kann: unter Stabilitätsaspekten, mit Blick auf Korrekturmechanismen, Transparenz, Abhängigkeiten, Einflüsse, Ströme, Stauungen, Fixpunkte – und Metaphern, die uns helfen, darin Muster zu erkennen.
+
 
 ---
 

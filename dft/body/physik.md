@@ -3,9 +3,19 @@
 ---
 
 ## 🎯 Hook
-Warum folgen Naturgesetze scheinbar einfachen Gleichungen, die zugleich unendliche Vielfalt hervorbringen?  
-Von der Wellenfunktion bis zur Gravitation – immer sehen wir Differenzen, die sich fortsetzen, überlagern, stabilisieren.  
+
+Ein Tropfen fällt in ein Glas Wasser. Kreise laufen davon, stoßen an den Rand, überlagern sich, löschen sich hier aus, verstärken sich dort. Ein einfaches Alltagsbild für Differenz und Fluss – und ein Vorgeschmack auf die großen Gesetze der Physik.
+
+Warum folgen Naturgesetze scheinbar einfachen Gleichungen, die zugleich unendliche Vielfalt hervorbringen?
+Von der Wellenfunktion bis zur Gravitation – immer sehen wir Differenzen, die sich fortsetzen, überlagern, stabilisieren.
 👉 Physik als „Differenzfluss in Reinform“.
+
+Wellen zeigen ein einfaches Stabilitätsphänomen: die direkte Wechselwirkung unter Gleichen.
+Ein anderes Bild ist die Flamme, in der mehrere rekursive Schleifen ineinandergreifen und sich gegenseitig ermöglichen. Genügend hohe Temperatur lässt Stoffe verdampfen. Dichtegradienten setzen Ströme in Gang. Diese Gase entzünden sich und setzen selbst Energie frei – Energie, die wiederum weiteres Material verdampft, solange Nachschub vorhanden oder erreichbar bleibt.
+
+Hier zeigt sich die fraktale Natur der Natur als Strömungsmuster heißen Plasmas: leuchtende, dynamische, selbstähnliche Figuren.
+Eine Flamme ist kein Ding, sondern ein selbstähnlicher Prozess, der sich selbst erhält – und dadurch überhaupt erst als Phänomen erkennbar wird.
+
 
 ---
 

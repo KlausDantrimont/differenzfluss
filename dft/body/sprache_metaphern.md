@@ -3,8 +3,16 @@
 ---
 
 ## 🎯 Hook
-Warum prägen Worte unser Denken so stark – und warum öffnen Metaphern manchmal völlig neue Welten?  
-Sprache ist ein **Differenzfluss**: Sie erzeugt, transportiert und stabilisiert Bedeutungen durch Unterscheidungen.  
+
+Jemand sagt: „Die Zeit rinnt mir durch die Finger.“
+Keiner denkt dabei an echte Sandkörner – und doch *verstehen wir sofort*, was gemeint ist.
+
+Sprache ist kein neutraler Code, sondern ein Gewebe von **Metaphern und Bildern**, die Differenzen strukturieren. Sie erlaubt es, Abstraktes mit Konkretem zu verknüpfen, Fremdes mit Vertrautem. So wird Denken anschlussfähig.
+
+Warum können wir über so Unfassbares wie „Freiheit“, „Existenz“ oder „Bewusstsein“ überhaupt sprechen?
+Weil wir sie in **metaphorische Differenzflüsse** einbetten: Wir „sehen“ Freiheit als Raum, „fühlen“ Bewusstsein als Licht, „messen“ Zeit wie einen Fluss.
+
+👉 Sprache ist nicht nur Werkzeug, sondern selbst Differenzfluss: Sie erzeugt Räume durch Metaphern, stabilisiert Bedeutungen – und eröffnet zugleich neue Wege des Denkens.
 
 ---
 

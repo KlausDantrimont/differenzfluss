@@ -3,8 +3,18 @@
 ---
 
 ## 🎯 Hook
-Warum verbreiten sich manche Ideen wie ein Lauffeuer – während andere sang- und klanglos verschwinden?  
-Kultur ist ein **Differenzfluss**, in dem Gedanken, Symbole und Praktiken wie Gene zirkulieren, mutieren und stabilisiert werden.  
+
+Ein Freund erzählt einen Witz beim Abendessen. Alle lachen, und schon wird er weitererzählt – am nächsten Tag im Büro, später auf einer Party. Irgendwann kursieren Varianten: die Pointe verschoben, die Figuren leicht verändert. Manche Fassungen zünden besser, andere versanden.
+
+So breitet sich ein Witz wie eine kleine Epidemie aus. Er wandert, verändert sich, bleibt manchmal hängen, manchmal nicht. Schon im Kleinen wird sichtbar, wie Kultur funktioniert: Differenz → Fluss → Stabilisierung → Emergenz.
+
+Warum verbreiten sich manche Ideen wie ein Lauffeuer – während andere sang- und klanglos verschwinden?
+Kultur ist ein **Differenzfluss**, in dem Gedanken, Symbole und Praktiken wie Gene zirkulieren, mutieren und stabilisiert werden.
+
+Wie Gene sich gegenseitig stützen, so können auch Meme einander verstärken. Daraus entstehen sich selbst stabilisierende Gebilde: Konzepte, Glaubenssysteme, Ideologien, Kulturen. Allesamt abstrakte Strukturen, deren Biotop in menschlichen Gehirnen liegt. Unsere Hirne – und ihre Funktionsweise – bilden die Infrastruktur für eine Evolution des Abstrakten.
+
+So kam etwa die Musik in die Welt: Menschen begannen, ihre Bewegung rhythmisch zu strukturieren. Und Rhythmus ist zugleich kommunizierbar. Andere können einsteigen, mitklopfen, mitschwingen. Rein mathematisch-physikalisch lassen sich kleinste gemeinsame Vielfache finden, Schlagzahlen, die aufgehen. Man kann Erwartungen brechen, Pausen einbauen, wiederholen, variieren, sich auf Vergangenes beziehen.
+👉 Diese Entdeckung muss enormes Potenzial gehabt haben – eine frühe Metaperspektive, die nicht nur individuelle Erfahrung strukturierte, sondern kollektiven Differenzfluss ermöglichte.
 
 ---
 

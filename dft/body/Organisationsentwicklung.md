@@ -3,8 +3,16 @@
 ---
 
 ## 🎯 Hook
-Warum funktionieren manche Organisationen wie lebendige Organismen – während andere starr werden und zerfallen?  
-Organisationen sind **Differenzflüsse**: Rollen, Regeln, Informationen und Machtströme, die sich rekursiv verschalten.  
+
+Ein Orchester probt. Jede Musikerin könnte für sich spielen – doch erst im Zusammenspiel entsteht Musik. Noten, Einsätze, Blicke: Signale, die sich wechselseitig stabilisieren. Wenn alle im Takt bleiben, trägt das Ganze selbst die Einzelnen.
+
+Organisationen funktionieren ähnlich: Sie bestehen nicht aus Individuen allein, sondern aus **Rollen, Regeln und Routinen**, die Handlungen anschlussfähig machen. Entscheidungen, Protokolle, Absprachen – alles Differenzflüsse, die Stabilität erzeugen, solange sie rekursiv aufeinander Bezug nehmen.
+
+Warum zerfallen manche Teams im Chaos, während andere über Jahrzehnte bestehen?
+Weil Organisationen **Metastrukturen im Differenzfluss** sind: Sie schaffen Fixpunkte (Regeln, Normen), die den Strom der Kommunikation lenken, ohne ihn zu unterbrechen.
+
+👉 Organisationen sind Differenzflüsse mit eingebautem Taktgeber – sie strukturieren Dynamik, statt sie zu verhindern, indem sie Rollen, Regeln, Informationen und Machtströme rekursiv verschalten.
+Wie lebendige Organismen bewegen sie sich in ihrem Biotop: Sie können sich anpassen und erhalten – oder starr werden und zerfallen.
 
 ---
 

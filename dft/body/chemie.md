@@ -3,9 +3,20 @@
 ---
 
 ## 🎯 Hook
-Warum bilden Atome stabile Moleküle – und warum zerfallen diese wieder unter bestimmten Bedingungen?  
-Chemie ist der Tanz von Differenzen: Elektronenverteilungen, Ladungen, Bindungsenergien.  
-👉 Chemie als Differenzfluss auf der Ebene der Stoffe.  
+
+Ein Funke springt vom Feuerstein. Ein Stück trockenes Gras fängt an zu glimmen. Mit jedem Hauch von Sauerstoff flammt es stärker auf, bis plötzlich ein Feuer lodert. Die Wärme lässt weiteres Material verdampfen, die Flamme nährt sich selbst – solange Nachschub da ist.
+
+Chemie zeigt sich hier nicht als „Ding“, sondern als Tanz von Differenzen: Elektronen springen, Bindungen lösen sich, neue stabilisieren sich. Und in manchen Konstellationen – wie im Feuer – greift eine Rückkopplung: der Prozess verstärkt sich selbst. **Autokatalyse** in ästhetisch verflochtener Form.
+
+Warum bilden Atome stabile Moleküle – und warum zerfallen sie wieder unter bestimmten Bedingungen?
+Chemie offenbart Strukturen, die einrasten, wenn sie bestimmte Hürden überwinden – oder instabil werden, wenn ihre Balance kippt.
+
+👉 Chemie ist Differenzfluss auf der Ebene der Stoffe.
+
+---
+
+👉 Soll ich dir als nächstes gleich den Hook für **Psychologie / Selbstentwicklung** anreichern? (z. B. mit einem Alltagsbild wie „eine Entscheidung vor sich herschieben“ oder „sich selbst beim Denken beobachten“).
+
 
 ---
 

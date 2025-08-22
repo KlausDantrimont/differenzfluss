@@ -3,8 +3,15 @@
 ---
 
 ## 🎯 Hook
-Warum können soziale Systeme stabil bestehen, obwohl sie aus hochdynamischen Kommunikationsflüssen bestehen?  
-Luhmanns Systemtheorie beschreibt Gesellschaft als **Kommunikationssystem** – und genau das ist ein Sonderfall des Differenzflusses.  
+
+Drei Freunde sitzen im Café. Einer erzählt eine Geschichte, der nächste hakt nach, der dritte bringt eine Pointe ein. Bald geht es nicht mehr um das ursprüngliche Thema, sondern um den Witz, um Lachen, um Anspielungen. Das Gespräch entwickelt eine Eigendynamik.
+
+Kommunikation folgt nicht strikt den Absichten einzelner – sie bildet ein eigenes System von Anschlüssen: Aussage → Reaktion → neue Aussage. Jeder Beitrag ist wie ein Zug im Differenzfluss, der den nächsten Zug vorbereitet.
+
+Warum können soziale Systeme stabil bestehen, obwohl sie aus hochdynamischen Kommunikationsflüssen bestehen?
+👉 Weil Stabilität nicht trotz, sondern durch Fluss entsteht: Erwartungen, Routinen und Muster machen Kommunikation anschlussfähig. Stabilität ist eingefrorene Rekursion im Differenzfluss.
+
+👉 Systemtheorie beschreibt Gesellschaft als Differenzfluss von Kommunikationen – nicht von Individuen.
 
 ---
 
