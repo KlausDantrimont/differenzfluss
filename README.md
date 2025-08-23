@@ -2,10 +2,12 @@
 
 # Differenzfluss
 Ein Vorschlag\
-Ein Versuch\
 Ein Experiment\
 Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.\
-Ein Reality-Refactoring
+Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit\
+Ein Prozess\
+Eine Überraschung\
+Ein Witz
 
 ---
 
