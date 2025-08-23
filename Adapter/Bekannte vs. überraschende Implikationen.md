@@ -12,20 +12,21 @@ Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder be
 
 Was, wenn es eine minimal-Mechanik gäbe, die, völlig unspektakulär, überall auftaucht, bzw. wirkt?
 
-Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die man vielleicht gar nicht so auf dem Schirm hatte?
+Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die man vielleicht gar nicht so auf dem Schirm hatte?\
+Könnte sowas interessant sein?\
+Ob's den Fisch interessiert, dass Wasser nass ist?\
+Keine Ahnung, ich bin kein Fisch ;-)
 
-Könnte sowas interessant sein?
+Aber der Fisch interessiert sich für den Köder.\
+Erfolgreiche Erfolglosigkeit führte mich zur Erkenntnis: Wenn ich möchte, dass die DFT verstanden werden kann, dann muss ich sie zugänglich machen.\
+Zum Beispiel über Anschluss an Bekanntes.\
+Die DFT ist so offensichtlich, dass sie verflixt schwer zu zeigen ist.\
+Ein weiterer Hinweis auf den seltsamen Humor des Universums ;-)
 
-Ob's den Fisch interessiert, dass Wasser nass ist?
-Keine Ahnung, bin kein Fisch ;-)
-
-Aber der Fisch interessiert sich für den Köder.
-Wenn ich möchte, dass die DFT verstanden werden kann, dann muss ich sie zugänglich machen.
-Zum Beispiel über Anschluss an Bekanntes.
-Auch hier hat sich die KI(ChatGPT) als äußerst hilfreich und fleißig erwiesen.
-Mein Dank dafür, an wen oder was auch immer. 
-Es dürfen sich mehrere angesprochen fühlen. 
-Sogar recht viele, im Grunde.
+    Auch hier hat sich die KI(ChatGPT) als äußerst hilfreich und fleißig erwiesen.
+    Mein Dank dafür, an wen oder was auch immer. 
+    Es dürfen sich mehrere angesprochen fühlen. 
+    Sogar recht viele, im Grunde.
 
 Hier betrachten wir einen beispielhaften Übergang von trivialer Einpassung in Altbekanntes, hin zu potentiell neuen Fragefeldern.
 
