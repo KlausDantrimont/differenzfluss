@@ -18,6 +18,15 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.
 
 ---
+Wer sich das folgende Gelaber sparen will kann gleich zu den Adaptern springen.\
+Dort versuche ich ganz geschmeidig aus mehreren Richtungen heranzuführen, und abzugrenzen.
+- [Adapter](Adapter)
+
+---
+
+Ab hier kommt allerlei außenrum, deep dives, historisches, Produktideen, und am Ende die zwei Büchlein, mit denen alles los ging.
+---
+
 Ich habe im Laufe der Jahre Compiler, Compiler-Compiler und Interpreter für eigene Domänensprachen entwickelt.
 Für mich sind Sprachen in erster Linie Werkzeuge zur Strukturierung von Semantik – nicht mehr und nicht weniger.
 
