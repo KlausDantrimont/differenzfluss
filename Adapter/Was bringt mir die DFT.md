@@ -1,3 +1,16 @@
+
+
+## Ein Gedanke zum Einstieg
+
+Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.  
+Wäre dieses Wissen für irgendetwas gut?  
+
+War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
+
+Ich denke: ja.
+
+
+
 # Was bringt mir die DFT?
 
 Angenommen, du erkennst Differenz und Rekursion als Grundmechanik aller Phänomene – von Physik und Biologie bis hin zu Sprache, Kunst und Gesellschaft. Was bringt dir das? Hier eine pragmatische Übersicht:
