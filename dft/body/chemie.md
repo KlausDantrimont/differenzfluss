@@ -13,12 +13,6 @@ Chemie offenbart Strukturen, die einrasten, wenn sie bestimmte Hürden überwind
 
 👉 Chemie ist Differenzfluss auf der Ebene der Stoffe.
 
----
-
-👉 Soll ich dir als nächstes gleich den Hook für **Psychologie / Selbstentwicklung** anreichern? (z. B. mit einem Alltagsbild wie „eine Entscheidung vor sich herschieben“ oder „sich selbst beim Denken beobachten“).
-
-
----
 
 ## 🔑 DFT-Kern
 - **Differenz:** Elektronenkonfigurationen, Potentiale, Energieniveaus.  
