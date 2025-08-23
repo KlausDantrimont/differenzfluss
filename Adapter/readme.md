@@ -1,3 +1,4 @@
+
 Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
 Wäre dieses Wissen für irgendetwas gut?
 
@@ -16,6 +17,9 @@ Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren e
 * **Künstler\:innen & Kreative** → Kunst erscheint als aktives Differenzspiel – ein Experimentierfeld für Resonanz, Variation und Fraktalität.
 * **Gesellschaftlich Interessierte** → Macht, Kultur und Kommunikation lassen sich als rekursive Netze verstehen – mit neuen Einsichten in Resilienz und Wandel.
 * **Neugierige & allgemein Lesende** → Der Alltag wird neu lesbar: überall taucht ein roter Faden von Mustern auf, die Staunen ermöglichen.
+
+# Differenzfluss-Theorie (DFT)  
+Prinzip: *Abheben und runtergucken.*
 
 ---
 
@@ -42,14 +46,14 @@ Die Lösung war, eine **Adapter-Schicht** einzuführen: kleine Dossiers, die den
 Damit wurde aus der Störung ein neues Muster, ein **Fluss-Knoten**, der die Kommunikation erleichtert.
 
 Der Ordner ist damit nicht nur ein Hilfsmittel, sondern selbst ein Beispiel für die Theorie in Aktion:
-**Eine Differenz (Missverständnis) erzeugte eine neue Struktur (Adapter).**
+**Eine Differenz (Missverständnis) erzeugte eine neue Struktur (Adapter) um einen Fluss (Ideen) zu ermöglichen.**
 
 ---
 
 ## Einladung
 
 Die Adapter sind **Angebote**: Brücken, Einstiege, mögliche Wege ins Thema.
-Sie sind nicht vollständig, nicht endgültig, sondern offen für Erweiterungen.
+Sie sind nicht vollständig, nicht endgültig, sondern offen für Erweiterungen. Wie alles hier.
 
 Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
