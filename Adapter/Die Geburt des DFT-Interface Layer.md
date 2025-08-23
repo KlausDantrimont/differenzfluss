@@ -1,4 +1,12 @@
-      
+Warum nicht transparent sein?
+
+Warum nicht am Beispiel zeigen, wie fruchtbar und witzig es sein kann, wenn man sich beim Doofsein erwischt?
+
+Ist das blamabel?
+
+Iwo!
+
+
       Der Witz des Tages.
       Wie dumm kann man sein?
       Ich wundere mich, und beklage, dass die DFT keinen Anschluss findet.
