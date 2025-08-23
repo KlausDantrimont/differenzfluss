@@ -10,7 +10,7 @@ Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder be
 - Manche bauen Medien, Bauteile, Werkzeuge, züchten Tiere, Pflanzen, ...
 - Oder schreiben ein Buch, bedenken ein Problem, lesen einen Satz, ...
 
-Was, wenn es eine minimal-Mechanik gäbe, die, völlig unspektakulär, überall auftaucht?
+Was, wenn es eine minimal-Mechanik gäbe, die, völlig unspektakulär, überall auftaucht, bzw. wirkt?
 
 Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die man vielleicht gar nicht so auf dem Schirm hatte?
 
