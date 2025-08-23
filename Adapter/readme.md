@@ -57,47 +57,62 @@ Sie sind nicht vollständig, nicht endgültig, sondern offen für Erweiterungen.
 
 Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
+---
 
-- Wie merkt der Fisch, dass Wasser nass ist?\
-[Bekannte vs. überraschende Implikationen.md](<Bekannte vs. überraschende Implikationen.md>)
-- Witz des Tages: Wie die Erkenntnis einer Differenz Räume öffnet\
-[Die Geburt des DFT-Interface Layer.md](<Die Geburt des DFT-Interface Layer.md>)
+## Meta / Einstieg
 
-- Subjektivität als Schleife – Das Selbst als rekursive Struktur im Fluss.\
-[Adapter-Subjektivität.md](<Adapter-Subjektivität.md>)
-- Existenz als Relation – Sein entsteht erst durch Differenz und Bezug.\
-[Adapter-Existenz.md](<Adapter-Existenz.md>)
-- Zeit im Differenzfluss – Zeit nicht als Fluss, sondern als rekursiver Operator.\
-[Adapter-Zeit.md](<Adapter-Zeit.md>)
+* [Was bringt mir die DFT.md](Was bringt mir die DFT.md) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.
+* [Ein Gedanke zum Einstieg.md](Ein Gedanke zum Einstieg.md) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.
+* [Meta-Adapter.md](Meta-Adapter.md) – Die große Klammer: wie alle Adapter zusammenhängen.
+* [Bekannte vs. überraschende Implikationen.md](Bekannte vs. überraschende Implikationen.md) – Liste von trivialen, weniger trivialen und überraschenden Folgen.
+* [Die Geburt des DFT-Interface Layer.md](Die Geburt des DFT-Interface Layer.md) – Literarische Anekdote: wie die Adapter-Idee selbst entstand.
 
-- Kognition & Erkenntnis – Denken als Differenzmaschine zwischen Wahrnehmung und Welt.\
-[Adapter–Kognition.md](<Adapter–Kognition.md>)
-- [Adapter–Neurowissenschaften.md](<Adapter–Neurowissenschaften.md>)
-- [Adapter–Künstliche-Intelligenz.md](<Adapter–Künstliche-Intelligenz.md>)
-- [Adapter–Sprache.md](<Adapter–Sprache.md>)
-- [Adapter-Kommunikation.md](<Adapter-Kommunikation.md>)
+---
 
-- Medien im Differenzfluss – Kommunikation als Flussstörung und Brückenschlag.\
-[Adapter–Medien.md](<Adapter–Medien.md>)
-- [Adapter–Gesellschaft.md](<Adapter–Gesellschaft.md>)
-- [Adapter–Gesellschaft-Politik.md](<Adapter–Gesellschaft-Politik.md>)
+## Ontologie / Grundlagen
 
-- Kunst im Differenzfluss – Kunst als Resonanz- und Differenzspiel, nicht bloß Abbild.\
-[Adapter–Kunst.md](<Adapter–Kunst.md>)
-- [Adapter–Musik.md](<Adapter–Musik.md>)
+* [Adapter-Subjektivität.md](Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.
+* [Adapter-Existenz.md](Adapter-Existenz.md) – Sein als Relation, nicht Substanz.
+* [Adapter-Zeit.md](Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
 
+---
 
-- Technik im Differenzfluss – Maschinen als explizit gebaute Differenznetzwerke.\
-[Adapter–Technik.md](<Adapter–Technik.md>)
-- [Adapter–Wissenschaft-und-Mathematik.md](<Adapter–Wissenschaft-und-Mathematik.md>)
+## Kognition & Sprache
 
+* [Adapter-Kognition.md](Adapter-Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.
+* [Adapter-Neurowissenschaften.md](Adapter-Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.
+* [Adapter-Künstliche-Intelligenz.md](Adapter-Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
+* [Adapter-Sprache.md](Adapter-Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
+* [Adapter-Kommunikation.md](Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.
 
-- Naturwissenschaften – Von Geologie bis Kosmos: rekursive Muster in der Natur.\
-[Adapter–Geologie-und-Kosmos.md](<Adapter–Geologie-und-Kosmos.md>)
-- [Adapter–Astrobiologie.md](<Adapter–Astrobiologie.md>)
-- [Adapter–Biologie.md](<Adapter–Biologie.md>)
-- [Adapter-Physik.md](<Adapter–Physik.md>)
-- [Adapter-Chemie.md](<Adapter–Chemie.md>)
+---
+
+## Gesellschaft & Kultur
+
+* [Adapter-Medien.md](Adapter-Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.
+* [Adapter-Gesellschaft.md](Adapter-Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.
+* [Adapter-Gesellschaft-Politik.md](Adapter-Gesellschaft-Politik.md) – Politik als Management von Differenzen.
+* [Adapter-Kunst.md](Adapter-Kunst.md) – Kunst als Resonanz- und Differenzspiel.
+* [Adapter-Musik.md](Adapter-Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.
+
+---
+
+## Technik & Wissenschaft
+
+* [Adapter-Technik.md](Adapter-Technik.md) – Technik als materialisierte Rekursion.
+* [Adapter-Wissenschaft-und-Mathematik.md](Adapter-Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.
+
+---
+
+## Naturwissenschaften
+
+* [Adapter-Geologie-und-Kosmos.md](Adapter-Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.
+* [Adapter-Astrobiologie.md](Adapter-Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.
+* [Adapter-Biologie.md](Adapter-Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.
+* [Adapter-Physik.md](Adapter-Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.
+* [Adapter-Chemie.md](Adapter-Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.
+
+---
 
 
 
