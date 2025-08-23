@@ -8,6 +8,14 @@ Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
 Ein Reality-Refactoring
 
 ---
+
+Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
+Wäre dieses Wissen für irgendetwas gut?
+
+War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?\
+Ich denke: ja.
+
+---
 Ich habe im Laufe der Jahre Compiler, Compiler-Compiler und Interpreter für eigene Domänensprachen entwickelt.
 Für mich sind Sprachen in erster Linie Werkzeuge zur Strukturierung von Semantik – nicht mehr und nicht weniger.
 
