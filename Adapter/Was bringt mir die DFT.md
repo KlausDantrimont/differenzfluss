@@ -7,8 +7,8 @@ Wäre dieses Wissen für irgendetwas gut?
 
 War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
 
-Ich denke: ja.
-
+Ich denke: ja. – Er erklärte damit nicht alles, aber er öffnete einen neuen Blick auf das Lebendige.
+Genauso könnte ein einfaches Muster – Differenz und Rekursion – neue Perspektiven auf viele andere Felder eröffnen.
 
 
 # Was bringt mir die DFT?
@@ -56,6 +56,8 @@ Angenommen, du erkennst Differenz und Rekursion als Grundmechanik aller Phänome
 
 * **Warum?** Dieser Überblick betrachtet einige Ecken der Welt durch die DFT-Brille. Doch es gibt sicher weitere Landschaften, die zu erkunden sind.
 * **Was bringt’s dir?** Die Möglichkeit, selbst weiterzugehen. Du kannst die Brille aufsetzen und eigene Felder, Erfahrungen oder Disziplinen durchmustern – und neue Differenzen entdecken.
+
+
 
 
 ---
