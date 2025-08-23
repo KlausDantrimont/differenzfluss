@@ -61,11 +61,11 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
 ## Meta / Einstieg
 
-* [Was bringt mir die DFT.md](Was bringt mir die DFT.md) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.
-* [Ein Gedanke zum Einstieg.md](Ein Gedanke zum Einstieg.md) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.
-* [Meta-Adapter.md](Meta-Adapter.md) – Die große Klammer: wie alle Adapter zusammenhängen.
-* [Bekannte vs. überraschende Implikationen.md](Bekannte vs. überraschende Implikationen.md) – Liste von trivialen, weniger trivialen und überraschenden Folgen.
-* [Die Geburt des DFT-Interface Layer.md](Die Geburt des DFT-Interface Layer.md) – Literarische Anekdote: wie die Adapter-Idee selbst entstand.
+* [Was bringt mir die DFT.md](<Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.
+* [Ein Gedanke zum Einstieg.md](<Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.
+* [Meta-Adapter.md](<Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.
+* [Bekannte vs. überraschende Implikationen.md](<Bekannte vs. überraschende Implikationen.md>) – Liste von trivialen, weniger trivialen und überraschenden Folgen.
+* [Die Geburt des DFT-Interface Layer.md](<Die Geburt des DFT-Interface Layer.md>) – Literarische Anekdote: wie die Adapter-Idee selbst entstand.
 
 ---
 
