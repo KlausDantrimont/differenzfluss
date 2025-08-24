@@ -23,7 +23,7 @@ Die **Selbstkritik** zeigt, wo die Theorie schärfer werden muss. Kritik ist hie
 ## 🧪 Antwort im Licht der DFT
 
 * **Modi des Flusses:** Handeln, Reflektieren, Kommunizieren – nicht alles ist „gleich Fluss“.
-  Die Metaperspektive, die sich beim Reflektieren ergibt, ist ein mächtiges Werkzeug. Sie kann in einen Akt der Bewusstwerdung ausarten. Von Aha bis Oho ist mit allem zu rechnen. Nicht jeder traut sich, nicht jeder kommt darauf oder hat Zeit und Mittel, die Fragen zu stellen.
+  Die Metaperspektive, die sich beim Reflektieren ergibt, ist ein mächtiges Werkzeug. Sie kann in einen Akt der Bewusstwerdung ausarten. Von Aha bis Oho ist mit allem zu rechnen. Nicht jeder traut sich, nicht jeder kommt darauf oder hat Zeit und Mittel, die Fragen zu stellen.\Kommunikationsflüsse besitzen eine andere Dynamik. Handlungen fließen im Kontext von Motivation oder Bewegung. Jeder Fluss hat sein Spektrum an Zeitskalen und anwendbaren Kontexten.
 
 * **Operator-Klassen:** Faltung (Neuro), Kombinatoren (λΔ), Bayes-Update – macht die Formalismen operational.
 
