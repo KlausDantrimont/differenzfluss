@@ -37,7 +37,7 @@ Die **Selbstkritik** zeigt, wo die Theorie schärfer werden muss. Kritik ist hie
 
 * **Lücken adressieren:**
 
-  * **QM:** Superposition = überlagerte Differenzen, Messung = Fixpunktbildung im Subjektfluss. Jeder Beobachter erlebt eine konsistente Welt. Alice und Bob teilen eine konsistente Messung – nicht weil „die Realität kollabiert“, sondern weil ihre Wirklichkeitserfahrung selbst die Implementierung eines konsistenten Pfades im Differenzraum ist.
+  * **QM:** Superposition = überlagerte Differenzen, Messung = Fixpunktbildung im Subjektfluss. Jeder Beobachter erlebt eine konsistente Welt. Alice und Bob teilen eine konsistente Messung – nicht weil „die Realität kollabiert“, sondern weil ihre Wirklichkeitserfahrung selbst die Implementierung eines konsistenten Pfades im Differenzraum ist. Kurz: Ich bin (logisch/physikalisch konsistent) möglich, also bin ich.
   * **Emergenz:** Stabilisierung höherer Ebenen durch Fixpunkte im Fluss (z. B. Zellen, Begriffe, Rollen).
   * **Kausalität:** DFT beschreibt nicht primär Ursachen, sondern Muster der Stabilisierung – Kausalität erscheint als emergenter Fixpunkt einer Relation.
 
