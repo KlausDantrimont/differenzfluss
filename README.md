@@ -18,9 +18,51 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.
 
 ---
-Wer sich das folgende Gelaber sparen will kann gleich zu den Adaptern springen.\
-Dort versuche ich ganz geschmeidig aus mehreren Richtungen heranzuführen, und abzugrenzen.
-- [Adapter](Adapter)
+Wer sich das folgende Gelaber sparen will, kann gleich zu den **Adaptern** springen.  
+Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohne Verrenkungen, mit offenen Anschlüssen.  
+
+# Adapter-Ordner Übersicht
+
+- **Meta / Einstieg**
+  - [Was bringt mir die DFT.md](<Adapter/Was%20bringt%20mir%20die%20DFT.md) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.  
+  - [Ein Gedanke zum Einstieg.md](<Adapter/Ein%20Gedanke%20zum%20Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.  
+  - [Meta-Adapter.md](<Adapter/Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.  
+  - [Bekannte vs. überraschende Implikationen.md](Adapter/Bekannte%20vs.%20%C3%BCberraschende%20Implikationen.md) – Triviales, weniger Triviales und Überraschendes im Überblick.  
+  - [Die Geburt des DFT-Interface Layer.md](<Adapter/Die%20Geburt%20des%20DFT-Interface%20Layer.md>) – Literarische Anekdote: wie die Adapter-Idee entstand.  
+
+- **Ontologie / Grundlagen**
+  - [Adapter-Subjektivität.md](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
+  - [Adapter-Existenz.md](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
+  - [Adapter-Zeit.md](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.  
+
+- **Kognition & Sprache**
+  - [Adapter-Kognition.md](Adapter/Adapter-Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.  
+  - [Adapter-Neurowissenschaften.md](Adapter/Adapter-Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.  
+  - [Adapter-Künstliche-Intelligenz.md](Adapter/Adapter-K%C3%BCnstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.  
+  - [Adapter-Sprache.md](Adapter/Adapter-Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.  
+  - [Adapter-Kommunikation.md](Adapter/Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.  
+
+- **Gesellschaft & Kultur**
+  - [Adapter-Medien.md](Adapter/Adapter-Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.  
+  - [Adapter-Gesellschaft.md](Adapter/Adapter-Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.  
+  - [Adapter-Gesellschaft-Politik.md](Adapter/Adapter-Gesellschaft-Politik.md) – Politik als Management von Differenzen.  
+  - [Adapter-Kunst.md](Adapter/Adapter-Kunst.md) – Kunst als Resonanz- und Differenzspiel.  
+  - [Adapter-Musik.md](Adapter/Adapter-Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.  
+
+- **Technik & Wissenschaft**
+  - [Adapter-Technik.md](Adapter/Adapter-Technik.md) – Technik als materialisierte Rekursion.  
+  - [Adapter-Wissenschaft-und-Mathematik.md](Adapter/Adapter-Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.  
+
+- **Naturwissenschaften**
+  - [Adapter-Geologie-und-Kosmos.md](Adapter/Adapter-Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.  
+  - [Adapter-Astrobiologie.md](Adapter/Adapter-Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.  
+  - [Adapter-Biologie.md](Adapter/Adapter-Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.  
+  - [Adapter-Physik.md](Adapter/Adapter-Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.  
+  - [Adapter-Chemie.md](Adapter/Adapter-Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.  
+
+---
+
+*Abheben und runtergucken.*
 
 ---
 
@@ -62,7 +104,7 @@ Nicht das Statische, sondern das **sich Verändernde**.
 Heraklit, der alte Wanderer, stand am Flussufer und sah: Man steigt nicht zweimal in denselben Strom. Die **Differenzfluss-Theorie (DFT)** steht an diesem Ufer, zweieinhalbtausend Jahre später, und sieht: Der Fluss hat sich verbreitert. Er trägt jetzt nicht nur Wasser, sondern **Formen, Bedeutungen, Kulturen** – alles in Bewegung, alles im Übergang.
 
 
-Anders als zu Heraklits Zeiten haben wir heute ein Umfangreiches Repertoire an Begriffen, um diesen Fluss zu beschreiben.
+Anders als zu Heraklits Zeiten haben wir heute ein umfangreiches Repertoire an Begriffen, um diesen Fluss zu beschreiben.
 
 ---
 
