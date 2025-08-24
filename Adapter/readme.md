@@ -60,6 +60,7 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 ---
 
 ## Meta / Einstieg
+* [Was ist die Differenzfluss-Theorie (DFT).md](<Was ist die Differenzfluss-Theorie (DFT).md>)
 
 * [Was bringt mir die DFT.md](<Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.
 * [Ein Gedanke zum Einstieg.md](<Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.

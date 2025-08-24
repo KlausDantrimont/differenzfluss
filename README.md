@@ -24,6 +24,8 @@ Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohn
 # Adapter-Ordner Übersicht
 
 - **Meta / Einstieg**
+  - [Was ist die Differenzfluss-Theorie (DFT).md](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>) - Die Differenzfluss-Theorie (DFT) ist die Idee, dass alle Phänomene aus einem einfachen Muster entstehen: Differenz + Rekursion → Stabilität und Emergenz
+  
   - [Was bringt mir die DFT.md](<Adapter/Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.  
   - [Ein Gedanke zum Einstieg.md](<Adapter/Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.  
   - [Meta-Adapter.md](<Adapter/Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.  
