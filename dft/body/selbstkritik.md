@@ -31,7 +31,7 @@ Die **Selbstkritik** zeigt, wo die Theorie schärfer werden muss. Kritik ist hie
 
   * Kein Bewusstsein ohne rekursive Schleifen (prüfbar an KI).
   * Autokatalyse als Voraussetzung biologischer Evolution.
-  * Evolutionär stabile Strukturen müssen Oszillator-Charakter zeigen: Sie müssen ihre eigene Fortdauer eher ermöglichen als verhindern, ohne zu eskalieren oder zu enden. Wenn der eigene Zustand muss in die Weiterentwicklung dynamisch und konstruktiv einfließt, dann fördert dies das Fortbestehen.
+  * Evolutionär stabile Strukturen müssen Oszillator-Charakter zeigen: Sie müssen ihre eigene Fortdauer eher ermöglichen als verhindern, ohne zu eskalieren oder zu enden, sie dürfen in Intervallen des Möglichen oszillieren. Wenn der eigene Zustand in die Weiterentwicklung dynamisch und konstruktiv einfließt, dann fördert dies das Fortbestehen, und erweitert diese Intervalle.
 
 * **Relation statt Reduktion:** DFT beschreibt Form (Struktur, Differenz, Fluss), nicht Material.
 
