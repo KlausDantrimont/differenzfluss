@@ -68,5 +68,3 @@ $$
 * Erinnerung ist lebendig, dynamisch und selbstreferenziell.
 
 ---
-
-👉 Soll ich dir den **Fokus-Body** und den **Gedächtnis-Body** als fertiges Markdown-Paket nebeneinander aufbereiten, damit du sie direkt ins Buch einfügen kannst?
