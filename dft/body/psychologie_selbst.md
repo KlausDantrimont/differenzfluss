@@ -13,6 +13,7 @@ Psychologie und Selbstentwicklung sind das Studium von **rekursiven Mustern im E
 👉 Selbstentwicklung ist Differenzfluss mit Feedback – das Ich beobachtet sich selbst beim Werden.
 Manche Muster stabilisieren sich, andere brechen, wieder andere ordnen sich neu.
 Schmerzen bei Brüchen sind oft nur vorübergehend.
+
 ---
 
 ## 🔑 DFT-Kern
