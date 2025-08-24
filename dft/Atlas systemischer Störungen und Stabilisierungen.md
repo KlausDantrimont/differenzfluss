@@ -163,7 +163,7 @@ Das Bruttoinlandsprodukt steigt – und gilt als Erfolg, auch wenn Umwelt und Zu
 
 ---
 
-##Biologie
+## Biologie
 Auge misst Licht, aber kein Infrarot oder Ultraschall. → Wahrnehmung beschränkt.
 - *Stabilisierung*: Ergänzung durch andere Sinnesorgane (z. B. Fledermaus-Sonar).
 
