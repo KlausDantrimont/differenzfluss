@@ -1,13 +1,16 @@
 <meta name="google-site-verification" content="S-eFEipHHQh1lSzjsUjdmXEdaKVDqfoN-my3OcM_Dn0" />
 
 # Differenzfluss
-Ein Vorschlag\
-Ein Experiment\
-Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.\
-Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit\
-Ein Prozess\
-Ein Witz\
-Ein Werkzeug
+- Ein Vorschlag
+- Ein Experiment
+- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
+- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
+- Ein Prozess
+- Ein Witz
+- Ein Werkzeug
+- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.\
+Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.\
+- Eine Einladung
 
 ---
 
