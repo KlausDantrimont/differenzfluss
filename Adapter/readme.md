@@ -21,6 +21,7 @@ Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren e
 # Differenzfluss-Theorie (DFT)  
 Prinzip: *Abheben und runtergucken.*
 
+* [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>)
 ---
 
 
