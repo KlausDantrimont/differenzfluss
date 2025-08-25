@@ -64,8 +64,8 @@ Ein Alien, das keinen Humor hat, hat vielleicht keinen Zugriff auf diese Feedbac
 
 Beispiel für einen potenziell intergalaktischen Witz:
 
-> "Zwei Entitäten betreten einen Ereignisraum. Nur eine kehrt zurück – weil die andere nie existiert hat."
-> → Topologisch-ontologischer Witz. Funktioniert vielleicht nur bei Spezies mit quantenmechanischem Selbstverständnis.
+> Zwei Entitäten betreten einen Ereignisraum. "Kommen sie öfter her?". "Immer, wenn's möglich ist". 
+> → Topologisch-ontologischer Witz. Funktioniert vielleicht nur bei Spezies im Möglichkeitsraum.
 
 ---
 
