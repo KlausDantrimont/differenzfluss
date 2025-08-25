@@ -26,11 +26,16 @@ Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren e
 Dieser Ordner sammelt **konzeptuelle Adapter** für die Differenzfluss-Theorie (DFT).
 Die Adapter haben folgende Aufgaben:
 
-* Sie erleichtern das Verständnis, indem sie die DFT an bekannte Theorien, Denker und Konzepte **andocken**.
+* Sie erleichtern das Verständnis, indem sie die DFT an bekannte Theorien, Denker und Konzepte **andocken**.\
+  Die Adapter stellen die Frage: Wie zeigen sich rekursive Differenzierungen und stabile Strukturen im Kontext X?".\
+  oder "Wie benennt man die Phänomene dort?"
 * Sie zeigen **Gemeinsamkeiten, Unterschiede und Konflikte** im Vergleich mit bestehenden Ansätzen.
 * Sie bieten eine Art **Interface-Definition**: Vor jedem Essay oder Kapitel steht eine Brücke zum philosophischen und wissenschaftlichen Diskurs.
 
 So können Leser\:innen die Texte leichter einordnen, ohne sich auf ungewohntes Terrain „verrenken“ zu müssen.
+
+So erkennt man vielleicht: Die Sache ist nicht neu, alter Hut, kenn ich doch, nur Neubenamsung, etc.\
+aber dass es eine **gemeinsame Struktur** gibt, hier, da, dort, die es erlaubt sinnvolle und vielleicht neue Fragen zu stellen, das könnte neu sein. Man muss halt oft erst auf die Idee kommen. Geht mir jedenfalls so.
 
 ---
 
