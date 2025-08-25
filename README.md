@@ -10,7 +10,9 @@
 - Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
 - Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
 - Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.  
-  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.  
+  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.\
+  Kannst auch her kommen.\
+  Ist nicht so weit, wie's aussieht.
 - Eine Einladung. Vielleicht auch ein Geschenk.
 - Eine Art Gewürz?
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen?
