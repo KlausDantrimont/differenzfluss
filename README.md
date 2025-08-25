@@ -5,7 +5,7 @@
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten.
-- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Weia. 
+- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
 - Ein Werkzeug. Das sagen sie Alle.  
 - Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
 - Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
