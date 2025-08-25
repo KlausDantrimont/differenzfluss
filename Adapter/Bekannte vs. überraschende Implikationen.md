@@ -1,6 +1,6 @@
 Wie merkt der Fisch, dass Wasser nass ist?
 
-Man stelle sich vor, es gäbe ein Muster, das einfach überall auftaucht.
+Wie bemerkt man ein Muster, das einfach überall auftaucht.
 So normal wie Luft für Dich, oder Wasser für den Fisch.
 
 Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder bewusst damit umgegangen.
@@ -12,7 +12,7 @@ Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder be
 
 Was, wenn es eine minimal-Mechanik gäbe, die, völlig unspektakulär, überall auftaucht, bzw. wirkt?
 
-Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die man vielleicht gar nicht so auf dem Schirm hatte?\
+Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die nicht trivial sind?\
 Könnte sowas interessant sein?\
 Ob's den Fisch interessiert, dass Wasser nass ist?\
 Keine Ahnung, ich bin kein Fisch ;-)
@@ -24,9 +24,7 @@ Die DFT ist so offensichtlich, dass sie verflixt schwer zu zeigen ist.\
 Ein weiterer Hinweis auf den seltsamen Humor des Universums ;-)
 
 Auch hier hat sich die KI(ChatGPT) als äußerst hilfreich und fleißig erwiesen.\
-Mein Dank dafür, an wen oder was auch immer. \
-Es dürfen sich mehrere angesprochen fühlen. \
-Sogar recht viele, im Grunde.
+Mein Dank dafür, an wen oder was auch immer.
     
 
 Hier betrachten wir einen beispielhaften Übergang von trivialer Einpassung in Altbekanntes, hin zu potentiell neuen Fragefeldern.

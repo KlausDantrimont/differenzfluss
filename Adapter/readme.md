@@ -18,9 +18,6 @@ Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren e
 * **Gesellschaftlich Interessierte** → Macht, Kultur und Kommunikation lassen sich als rekursive Netze verstehen – mit neuen Einsichten in Resilienz und Wandel.
 * **Neugierige & allgemein Lesende** → Der Alltag wird neu lesbar: überall taucht ein roter Faden von Mustern auf, die Staunen ermöglichen.
 
-# Differenzfluss-Theorie (DFT)  
-Prinzip: *Abheben und runtergucken.*
-
 ---
 
 
@@ -50,6 +47,10 @@ Der Ordner ist damit nicht nur ein Hilfsmittel, sondern selbst ein Beispiel für
 
 ---
 
+# Differenzfluss-Theorie (DFT)  
+Prinzip: *Abheben und runtergucken.*
+
+
 ## Einladung
 
 Die Adapter sind **Angebote**: Brücken, Einstiege, mögliche Wege ins Thema.
@@ -60,8 +61,8 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 ---
 
 ## Meta / Einstieg
+* [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>)
 * [Was ist die Differenzfluss-Theorie (DFT).md](<Was ist die Differenzfluss-Theorie (DFT).md>)
-
 * [Was bringt mir die DFT.md](<Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.
 * [Ein Gedanke zum Einstieg.md](<Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.
 * [Meta-Adapter.md](<Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.
