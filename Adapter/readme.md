@@ -76,6 +76,7 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 * [Adapter-Existenz.md](Adapter-Existenz.md) – Sein als Relation, nicht Substanz.
 * [Adapter-Zeit.md](Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
 
+* [Adapter-Philosophie.md](<Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
 ---
 
 ## Kognition & Sprache
@@ -85,6 +86,7 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 * [Adapter-Künstliche-Intelligenz.md](Adapter-Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
 * [Adapter-Sprache.md](Adapter-Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
 * [Adapter-Kommunikation.md](Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.
+* [Adapter-Form-vs-Inhalt.md](<Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
 
 ---
 
