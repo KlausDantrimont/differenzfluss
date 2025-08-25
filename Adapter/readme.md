@@ -18,10 +18,6 @@ Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren e
 * **Gesellschaftlich Interessierte** → Macht, Kultur und Kommunikation lassen sich als rekursive Netze verstehen – mit neuen Einsichten in Resilienz und Wandel.
 * **Neugierige & allgemein Lesende** → Der Alltag wird neu lesbar: überall taucht ein roter Faden von Mustern auf, die Staunen ermöglichen.
 
-# Differenzfluss-Theorie (DFT)  
-Prinzip: *Abheben und runtergucken.*
-
-* [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>)
 ---
 
 
@@ -50,6 +46,12 @@ Der Ordner ist damit nicht nur ein Hilfsmittel, sondern selbst ein Beispiel für
 **Eine Differenz (Missverständnis) erzeugte eine neue Struktur (Adapter) um einen Fluss (Ideen) zu ermöglichen.**
 
 ---
+
+## Differenzfluss-Theorie (DFT)  
+Prinzip: *Abheben und runtergucken.*
+
+* [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>)
+
 
 ## Einladung
 
