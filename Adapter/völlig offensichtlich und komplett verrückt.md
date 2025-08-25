@@ -29,7 +29,7 @@ Warum fühlt sich dieselbe Erkenntnis aber auch verrückt an? Weil sie die beste
 Wenn Zeit ein internes Phänomen rekursiver Systeme ist, dann bekommt unser alltägliches Zeitverständnis einen anderen Geschmack.
 
 Fundamentale Einsichten sind Kategoriensprenger. Sie zeigen, dass Dinge, die wir für völlig verschieden hielten, im Grunde Variationen desselben Musters sind. Das ist verstörend, weil es unser geordnetes Weltbild durchrüttelt.\
-Je nach dem, wie viele Aspekte davon betroffen sind. Den Biologen wird die Ähnlichkeit der DFT zur Evolutionstheorie wenig erschüttern. Dem Physiker mag die Suche nach einer vereinheitlichten Kraft als Konzept intuitiv verständlich sein. Der Philosoph mag die ontologische Basis einordnen, Psychologen das Beobachtermodell. Andere anderes.
+Je nach dem, wie viele Aspekte davon betroffen sind. Den Biologen wird die Ähnlichkeit der DFT zur Evolutionstheorie wenig erschüttern. Dem Physiker mag die Suche nach einer vereinheitlichten Kraft als Konzept intuitiv verständlich sein. Der Philosoph mag die ontologische Basis einordnen, Psychologen das Beobachtermodell. Andere anderes. 
 
 Der Verstand leistet Widerstand. "Das kann nicht sein", sagt er. "Gesellschaft und Moleküle haben nichts miteinander zu tun." "Paradoxien sind Fehler, Lücken, keine Strukturprinzipien. Und schon gar keine Oszillatoren oder *Generatoren* von Zeit" oder "Das hat (fast) schon Luhmann gesagt, oder Darwin, oder Heraklit, oder der Kollege"
 
