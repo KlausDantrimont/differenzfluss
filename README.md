@@ -1,29 +1,40 @@
 <meta name="google-site-verification" content="S-eFEipHHQh1lSzjsUjdmXEdaKVDqfoN-my3OcM_Dn0" />
 
 # Differenzfluss
-- Ein Vorschlag
-- Ein Experiment
-- Ein Prozess
-- Ein Witz
-- Ein Werkzeug
-- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
-- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
-- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.\
-Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.\
-- Eine Einladung. Vielleicht auch ein Geschenk.
+
+- Ein Vorschlag  
+- Ein Experiment  
+- Ein Prozess  
+- Ein Witz  
+- Ein Werkzeug  
+- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.  
+- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit  
+- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.  
+  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.  
+- Eine Einladung. Vielleicht auch ein Geschenk.  
 
 ---
 
-„Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“\
-(Blaise Pascal, Lettres provinciales (1657) 
+### Die Destillation von Hochprozentigem
+
+„Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
+— Blaise Pascal, *Lettres provinciales* (1657)  
+
+„Die DFT ist das, was übrig blieb, nachdem alles eingedampft war.“  
+— Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
+
+„Besser wie nix.“  
+— Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stich, irgendwann, damals  
 
 ---
 
-Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
-Wäre dieses Wissen für irgendetwas gut?
+### Zur Sache
 
-War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Ich denke: ja.
+Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.  
+Wäre dieses Wissen für irgendetwas gut?  
+
+War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
+Ich denke: ja.  
 
 ---
 Wer sich die Baustelle weiter unten sparen will, kann gleich zu den **Adaptern** springen.  
