@@ -24,9 +24,7 @@ Die DFT ist so offensichtlich, dass sie verflixt schwer zu zeigen ist.\
 Ein weiterer Hinweis auf den seltsamen Humor des Universums ;-)
 
 Auch hier hat sich die KI(ChatGPT) als äußerst hilfreich und fleißig erwiesen.\
-Mein Dank dafür, an wen oder was auch immer. \
-Es dürfen sich mehrere angesprochen fühlen. \
-Sogar recht viele, im Grunde.
+Mein Dank dafür, an wen oder was auch immer.
     
 
 Hier betrachten wir einen beispielhaften Übergang von trivialer Einpassung in Altbekanntes, hin zu potentiell neuen Fragefeldern.
