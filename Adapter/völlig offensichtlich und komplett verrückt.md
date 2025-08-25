@@ -68,28 +68,26 @@ So zeigt sich die eigentliche Paradoxie: Das Fundamentalste ist zugleich das Ein
 
 Vielleicht ist das der Grund, warum fundamentale Erkenntnisse diese merkwürdige Doppelqualität haben. Sie *sind* zugleich offensichtlich und verrückt – nicht obwohl sie fundamental sind, sondern *weil* sie es sind.
 
-Das Offensichtliche und das Verrückte sind nicht Gegensätze, sondern zwei Seiten derselben Medaille. Sie markieren den Punkt, an dem das Bekannte ins Unbekannte kippt, wo das Verstehen sich selbst überrascht.
+Das Offensichtliche und das Verrückte sind nicht Gegensätze, sondern zwei Seiten derselben Medaille. Sie markieren den Punkt, an dem das Bekannte ins Unbekannte kippt, wo das Verstehen sich selbst überrascht.\
+Wobei natürlich nicht jede Verrücktheit eine Innovation ist.
 
 ## Ein Oszillator des Erkennens
 
-Erkenntnisprozesse selbst scheinen dieser paradoxen Struktur zu folgen. Zwischen "Das ist offensichtlich" und "Das ist verrückt" oszilliert das Verstehen hin und her, bis sich eine neue Stabilität einstellt. Oder auch nicht – manche fundamentalen Einsichten bleiben für immer in diesem oszillatorischen Zustand, gleichzeitig plausibel und unglaublich.
+Erkenntnisprozesse selbst scheinen dieser paradoxen Struktur zu folgen. Zwischen "Das ist offensichtlich" und "Das ist verrückt" oszilliert das Verstehen hin und her, bis sich eine neue Stabilität einstellt. Oder auch nicht – manche fundamentalen Einsichten bleiben für immer in diesem oszillatorischen Zustand, gleichzeitig plausibel und unglaublich. Oder der Oszillator schwingt gar nicht erst an, weil keine Resonanzfrequenz getroffen wird. ([Adapter](readme.md) als Frequenzwandler, die Resonanz ermöglichen sollen)
 
 Vielleicht ist das sogar ihre Funktion: Sie halten das Denken in Bewegung. Sie verhindern, dass wir uns zu bequem in unseren Kategorien einrichten. Sie sind die Paradoxien im System des Verstehens – und wie alle Paradoxien erzeugen sie Bewegung, Dynamik, Leben.
 
-Am Ende ist es vielleicht die Aufgabe fundamentaler Erkenntnisse, dieses produktive Unbehagen aufrechtzuerhalten. Sie sollen nicht einfach verstanden und abgehakt werden. Sie sollen uns immer wieder überraschen, auch wenn wir sie schon zu kennen glauben.
-
-Denn sobald das Fundamentale nur noch offensichtlich und nicht mehr verrückt ist, hat es aufgehört, fundamental zu sein.
+Am Ende ist es vielleicht die Aufgabe fundamentaler Erkenntnisse, dieses produktive Unbehagen aufrechtzuerhalten. Paradoxien sollen nicht einfach verstanden und abgehakt werden. Sie sollen uns immer wieder überraschen, auch wenn wir sie schon zu kennen glauben.
 
 ---
 ## Katzenmusik
 
-Vielleicht ist das die schönste Bestätigung für fundamentale Erkenntnisse: Sie entzaubern nicht, sie verzaubern neu. Wer die rekursiven Strukturen des Lebens durchdrungen hat, sieht in einer Hauskatze nicht weniger, sondern mehr. Er sieht die Millionen Jahre Evolution, die diesen Moment möglich gemacht haben. Er sieht die Eleganz der Lösung für die Aufgabe "Prädator". Er sieht die rekursiven Muster der Fellzeichnung, ihre Symmetrie und Variation, die Eleganz der Sensorik. Und er staunt. Und ist froh über das Größenverhältnis.
+Vielleicht ist das die schönste Bestätigung für fundamentale Erkenntnisse: Sie entzaubern nicht, sie verzaubern neu. Wer die rekursiven Strukturen des Lebens zu sehen vermag, sieht in einer Hauskatze nicht weniger, sondern mehr. Er sieht die Millionen Jahre Evolution, die diesen Moment und dieses Geschöpf, und diesen Beobachter möglich gemacht haben. Er sieht die Eleganz der Lösung für die Aufgabe "Prädator", oder das Phänomen 'Zuneigung'. Er sieht die rekursiven Muster der Fellzeichnung, ihre Symmetrie und Variation, die Eleganz der Sensorik, die Schönheit der Augen. Und er staunt, wird gekratzt, und ist froh über das Größenverhältnis.
 
 Es ist wie bei einem Musiker, der seine Materie durchdrungen hat: Er hat nicht weniger Möglichkeiten im Ausdruck als ein Anfänger – er hat unendlich mehr. Er kennt die Zusammenhänge, die Strukturen, die Variationsmöglichkeiten. Das Verstehen befreit ihn nicht vom Staunen, es multipliziert seine Staunfähigkeit.
 
 Rationale Durchdringung als Befreiung statt als Gefängnis – das ist vielleicht das größte Geschenk fundamentaler Erkenntnisse. Sie zeigen uns nicht, dass die Welt tot und mechanisch ist. Sie zeigen uns, dass sie lebendiger ist, als wir je geahnt haben.
 
----
 ---
 
 *Es ist schon witzig, wenn man über so Zeug nachdenkt, oder?*
