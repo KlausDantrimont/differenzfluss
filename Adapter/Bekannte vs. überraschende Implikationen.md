@@ -1,6 +1,6 @@
 Wie merkt der Fisch, dass Wasser nass ist?
 
-Man stelle sich vor, es gäbe ein Muster, das einfach überall auftaucht.
+Wie bemerkt man ein Muster, das einfach überall auftaucht.
 So normal wie Luft für Dich, oder Wasser für den Fisch.
 
 Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder bewusst damit umgegangen.
