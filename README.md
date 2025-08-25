@@ -38,7 +38,9 @@ Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohn
 - **Ontologie / Grundlagen**
   - [Adapter-Subjektivität](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
   - [Adapter-Existenz](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
-  - [Adapter-Zeit](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.  
+  - [Adapter-Zeit](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
+  - [Adapter-Philosophie.md](<Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
+  
 
 - **Kognition & Sprache**
   - [Adapter-Kognition](Adapter/Adapter–Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.  
@@ -46,6 +48,8 @@ Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohn
   - [Adapter–Künstliche-Intelligenz](Adapter/Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.  
   - [Adapter-Sprache](Adapter/Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.  
   - [Adapter-Kommunikation](Adapter/Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.  
+  - [Adapter-Form-vs-Inhalt.md](<Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
+  
 
 - **Gesellschaft & Kultur**
   - [Adapter-Medien](Adapter/Adapter–Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.  
