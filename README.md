@@ -6,7 +6,6 @@ Ein Experiment\
 Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.\
 Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit\
 Ein Prozess\
-Eine Überraschung\
 Ein Witz\
 Ein Werkzeug
 
