@@ -59,7 +59,7 @@ Ja – sofern es:
 * Muster bricht,
 * und über die entstandene Differenz reflektieren kann, wenn es sie genießen kann.
 
-Denn Witz ist ein **Bewusstseinskick durch Differenzbruch**, ein überraschender Kontextwechsel, der komplette Strukture neu-interpretieren lässt.
+Denn Witz ist ein **Bewusstseinskick durch Differenzbruch**, ein überraschender Kontextwechsel, der komplette Strukturen neu interpretieren lässt.
 Ein Alien, das keinen Humor hat, hat vielleicht keinen Zugriff auf diese Feedbackschicht – oder nutzt andere Wege zur Reflexion.
 
 Beispiel für einen potenziell intergalaktischen Witz:
