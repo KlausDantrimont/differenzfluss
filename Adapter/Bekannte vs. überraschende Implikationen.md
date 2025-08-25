@@ -12,7 +12,7 @@ Da es überall auftaucht, wird auch überall mehr oder weniger geschickt oder be
 
 Was, wenn es eine minimal-Mechanik gäbe, die, völlig unspektakulär, überall auftaucht, bzw. wirkt?
 
-Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die man vielleicht gar nicht so auf dem Schirm hatte?\
+Was, wenn diese minimal-Mechanik, so trivial sie auch ist, Konsequenzen hat, die nicht trivial sind?\
 Könnte sowas interessant sein?\
 Ob's den Fisch interessiert, dass Wasser nass ist?\
 Keine Ahnung, ich bin kein Fisch ;-)
