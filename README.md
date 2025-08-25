@@ -18,8 +18,8 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.
 
 ---
-Wer sich das folgende Gelaber sparen will, kann gleich zu den **Adaptern** springen.  
-Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohne Verrenkungen, mit offenen Anschlüssen.  
+Wer sich die Baustelle weiter unten sparen will, kann gleich zu den **Adaptern** springen.  
+Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohne Verrenkungen, mit offenen Anschlüssen.
 
 # Adapter-Ordner Übersicht
 
