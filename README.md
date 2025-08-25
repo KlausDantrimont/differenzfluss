@@ -23,6 +23,9 @@ Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohn
 
 # Adapter-Ordner Übersicht
 
+- [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>) - *Warum fundamentale Einsichten zugleich trivial und umstürzend wirken.*
+
+
 - **Meta / Einstieg**
   - [Was ist die Differenzfluss-Theorie (DFT).md](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>) - Die Differenzfluss-Theorie (DFT) ist die Idee, dass alle Phänomene aus einem einfachen Muster entstehen: Differenz + Rekursion → Stabilität und Emergenz
   
