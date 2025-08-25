@@ -8,7 +8,8 @@ Das Seltsame an der DFT: Sie fühlt sich gleichzeitig völlig offensichtlich und
 
 Es gibt Momente des Erkennens, die eine merkwürdige Qualität haben: Sie fühlen sich gleichzeitig völlig offensichtlich und komplett verrückt an. Du siehst plötzlich ein Muster, eine Struktur, eine Verbindung – und dein erster Gedanke ist: "Natürlich! Wie konnte ich das übersehen?" Dein zweiter Gedanke: "Das kann doch nicht sein. Das ist völlig absurd."
 
-Diese Paradoxie ist kein Zufall. Sie markiert jene seltenen Augenblicke, in denen wir auf etwas Fundamentales stoßen.
+Diese Paradoxie ist kein Zufall. Sie markiert jene seltenen Augenblicke, in denen wir auf etwas Fundamentales stoßen.\
+**Einen Witz**.
 
 ## Das Offensichtliche als Tarnung
 
