@@ -20,7 +20,7 @@
 „Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
 — Blaise Pascal, *Lettres provinciales* (1657)  
 
-„Die DFT ist das, was übrig blieb, nachdem alles eingedampft war.“  
+„Der Differenzfluss ist das, was übrig blieb, nachdem alles eingedampft war.“  
 — Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
 
 „Besser wie nix.“  
