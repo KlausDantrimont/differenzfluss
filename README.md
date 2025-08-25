@@ -6,13 +6,14 @@
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten.
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
-- Ein Werkzeug. Das sagen sie Alle.  
-- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
-- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
-- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.  
-  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.\
-  Kannst auch her kommen.\
-  Ist nicht so weit, wie's aussieht.
+- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. Wer sich hier umsieht, findet Hinweise. 
+- Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
+- Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
+- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.  
+  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht. Es war ein anstrengender Weg hier hoch. Jetzt weiß ich, dass es leichter geht. Im Prinzip.\
+  Hätte jemand das alles hier als Buch geschrieben, und ich hätte es gelesen, dann hätte ich nicht so lange rumrätseln müssen.\
+  Kannst also auch her kommen.\
+  Ist nicht so weit wie's auf den ersten Blick aussieht, wenn man mal die Richtung kennt. [Hab Schilder aufgestellt](<Adapter/readme.md>).
 - Eine Einladung. Vielleicht auch ein Geschenk.
 - Eine Art Gewürz?
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen?
