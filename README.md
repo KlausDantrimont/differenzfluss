@@ -3,16 +3,25 @@
 # Differenzfluss
 
 - Ein Vorschlag  
-- Ein Experiment  
-- Ein Prozess  
-- Ein Witz  
-- Ein Werkzeug  
-- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.  
-- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit  
+- Ein Experiment. Ich mach sowas zum ersten mal.
+- Ein Prozess. Ein "Aha!" versucht sich zu entfalten.
+- Ein Witz. Ein Alter. Mit Erklärung. Das kann nur schief gehen.  
+- Ein Werkzeug. Das sagen sie Alle.  
+- Eine Baustelle, über Wirklichkeit, Denken und die Einsatzmöglichkeiten von KI.
+- Ein Reality-Refactoring, eine Gewohnheit oder Berufskrankheit
 - Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" bei wem auch immer.  
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.  
 - Eine Einladung. Vielleicht auch ein Geschenk.
-- Eine Art Gewürz
+- Eine Art Gewürz?
+- Eine Geisterfahrt. Wieso kommen mir alle entgegen?
+- Ein Wahn? Konsistent? Kompatibel? Dann ist's zumindest ein interessanter Wahn.
+- Ein Größenwahn? Riesen sind groß, ich nicht.\
+Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert?\
+Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten. Was beides natürlich eh blöd wäre.
+
+Für das Bus-Szenario bin ich nun gewappnet: Die Bücher, das Repo hier.\
+[Und die Vogonen fürchte ich auch nicht](<wesen/DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>).
+
 
 ---
 
@@ -133,7 +142,25 @@ Nicht das Statische, sondern das **sich Verändernde**.
 Heraklit, der alte Wanderer, stand am Flussufer und sah: Man steigt nicht zweimal in denselben Strom. Die **Differenzfluss-Theorie (DFT)** steht an diesem Ufer, zweieinhalbtausend Jahre später, und sieht: Der Fluss hat sich verbreitert. Er trägt jetzt nicht nur Wasser, sondern **Formen, Bedeutungen, Kulturen** – alles in Bewegung, alles im Übergang.
 
 
-Anders als zu Heraklits Zeiten haben wir heute ein umfangreiches Repertoire an Begriffen, um diesen Fluss zu beschreiben.
+Anders als zu Heraklits Zeiten haben wir heute ein umfangreiches Repertoire an Begriffen, um diesen Fluss zu beschreiben. Wir beschreiben diesen Fluss in allerlei Sprachen.
+Die Sprache der Physik beschreibt ihre Phänomenbereiche, Chemie die ihrige, Soziologie, Psychologie, Wirtschaft, Mathematik, Informatik, usw.
+All diese Sprachen bilden Teile der "Welt" meist auf hervorragende Weise ab.
+Sprachen sind Erbschaften der Riesen, auf deren Schultern wir stehen.
+Es sind die Schultern, Körper, bis zur Basis, zu den Anfängen des Schauens und formulierens.
+
+Sprachen bieten vielerlei Zugänge.\
+Der erste und einfachste ist die Benutzung. Man spricht.\
+Der zweite und deutlich schwerere ist die Interpretation, das Verstehen. Man hört zu.\
+Man denkt.
+
+Man kann Sprachen erforschen, erlernen, und benutzen, und erschaffen.\
+Programmiersprachen zeigen ein erstaunlich entfaltetes Biotop von Sprachen und Konzepten. Man sieht Evolution in Action im Zeitraffer. Ich war die letzten 40 Jahre dabei. Hab im kleinen mitgebaut, Compiler, Simulationen, Evolutionen, Sprachen.\
+In der Softwareentwicklung lohnt es sich, mit Konzepten zu  experimentieren. Manchmal kann man damit Code unglaublich gut eindampfen. Mir gefällt die Bezeichnung "Primkonzepte" oder "Primbegriffe".\
+Strukturen, die bei jeder weiteren Reduktion zerbrechen würden, inkonsistent, instabil, bedeutungslos, identitätslos.
+
+Sprachen sind Werkzeuge zum Weltzugang. Sicher nicht der Einzige, aber ein nützlicher.
+
+
 
 ---
 
