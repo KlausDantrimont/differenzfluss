@@ -23,47 +23,47 @@ Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohn
 
 # Adapter-Ordner Übersicht
 
-- [völlig offensichtlich und komplett verrückt.md](<völlig offensichtlich und komplett verrückt.md>) - *Warum fundamentale Einsichten zugleich trivial und umstürzend wirken.*
+- [völlig offensichtlich und komplett verrückt](<Adapter/völlig offensichtlich und komplett verrückt.md>) - *Warum fundamentale Einsichten zugleich trivial und umstürzend wirken.*
 
 
 - **Meta / Einstieg**
-  - [Was ist die Differenzfluss-Theorie (DFT).md](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>) - Die Differenzfluss-Theorie (DFT) ist die Idee, dass alle Phänomene aus einem einfachen Muster entstehen: Differenz + Rekursion → Stabilität und Emergenz
+  - [Was ist die Differenzfluss-Theorie (DFT)](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>) - Die Differenzfluss-Theorie (DFT) ist die Idee, dass alle Phänomene aus einem einfachen Muster entstehen: Differenz + Rekursion → Stabilität und Emergenz
   
-  - [Was bringt mir die DFT.md](<Adapter/Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.  
-  - [Ein Gedanke zum Einstieg.md](<Adapter/Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.  
-  - [Meta-Adapter.md](<Adapter/Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.  
-  - [Bekannte vs. überraschende Implikationen.md](<Adapter/Bekannte vs. überraschende Implikationen.md>) – Triviales, weniger Triviales und Überraschendes im Überblick.  
-  - [Die Geburt des DFT-Interface Layer.md](<Adapter/Die Geburt des DFT-Interface Layer.md>) – Literarische Anekdote: wie die Adapter-Idee entstand.  
+  - [Was bringt mir die DFT](<Adapter/Was bringt mir die DFT.md>) – Übersicht: Nutzen und Horizonte der Differenzfluss-Theorie.  
+  - [Ein Gedanke zum Einstieg](<Adapter/Ein Gedanke zum Einstieg.md>) – Kurzer Hook: warum ein einfaches Muster lohnend sein kann.  
+  - [Meta-Adapter](<Adapter/Meta-Adapter.md>) – Die große Klammer: wie alle Adapter zusammenhängen.  
+  - [Bekannte vs. überraschende Implikationen](<Adapter/Bekannte vs. überraschende Implikationen.md>) – Triviales, weniger Triviales und Überraschendes im Überblick.  
+  - [Die Geburt des DFT-Interface Layer](<Adapter/Die Geburt des DFT-Interface Layer.md>) – Literarische Anekdote: wie die Adapter-Idee entstand.  
 
 - **Ontologie / Grundlagen**
-  - [Adapter-Subjektivität.md](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
-  - [Adapter-Existenz.md](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
-  - [Adapter-Zeit.md](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.  
+  - [Adapter-Subjektivität](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
+  - [Adapter-Existenz](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
+  - [Adapter-Zeit](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.  
 
 - **Kognition & Sprache**
-  - [Adapter-Kognition.md](Adapter/Adapter–Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.  
-  - [Adapter–Neurowissenschaften.md](Adapter/Adapter–Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.  
-  - [Adapter–Künstliche-Intelligenz.md](Adapter/Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.  
-  - [Adapter-Sprache.md](Adapter/Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.  
-  - [Adapter-Kommunikation.md](Adapter/Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.  
+  - [Adapter-Kognition](Adapter/Adapter–Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.  
+  - [Adapter–Neurowissenschaften](Adapter/Adapter–Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.  
+  - [Adapter–Künstliche-Intelligenz](Adapter/Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.  
+  - [Adapter-Sprache](Adapter/Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.  
+  - [Adapter-Kommunikation](Adapter/Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.  
 
 - **Gesellschaft & Kultur**
-  - [Adapter-Medien.md](Adapter/Adapter–Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.  
-  - [Adapter-Gesellschaft.md](Adapter/Adapter–Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.  
-  - [Adapter-Gesellschaft-Politik.md](Adapter/Adapter–Gesellschaft-Politik.md) – Politik als Management von Differenzen.  
-  - [Adapter-Kunst.md](Adapter/Adapter–Kunst.md) – Kunst als Resonanz- und Differenzspiel.  
-  - [Adapter-Musik.md](Adapter/Adapter–Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.  
+  - [Adapter-Medien](Adapter/Adapter–Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.  
+  - [Adapter-Gesellschaft](Adapter/Adapter–Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.  
+  - [Adapter-Gesellschaft-Politik](Adapter/Adapter–Gesellschaft-Politik.md) – Politik als Management von Differenzen.  
+  - [Adapter-Kunst](Adapter/Adapter–Kunst.md) – Kunst als Resonanz- und Differenzspiel.  
+  - [Adapter-Musik](Adapter/Adapter–Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.  
 
 - **Technik & Wissenschaft**
-  - [Adapter-Technik.md](Adapter/Adapter–Technik.md) – Technik als materialisierte Rekursion.  
-  - [Adapter-Wissenschaft-und-Mathematik.md](Adapter/Adapter–Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.  
+  - [Adapter-Technik](Adapter/Adapter–Technik.md) – Technik als materialisierte Rekursion.  
+  - [Adapter-Wissenschaft-und-Mathematik](Adapter/Adapter–Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.  
 
 - **Naturwissenschaften**
-  - [Adapter-Geologie-und-Kosmos.md](Adapter/Adapter–Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.  
-  - [Adapter-Astrobiologie.md](Adapter/Adapter–Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.  
-  - [Adapter-Biologie.md](Adapter/Adapter–Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.  
-  - [Adapter-Physik.md](Adapter/Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.  
-  - [Adapter-Chemie.md](Adapter/Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.  
+  - [Adapter-Geologie-und-Kosmos](Adapter/Adapter–Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.  
+  - [Adapter-Astrobiologie](Adapter/Adapter–Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.  
+  - [Adapter-Biologie](Adapter/Adapter–Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.  
+  - [Adapter-Physik](Adapter/Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.  
+  - [Adapter-Chemie](Adapter/Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.  
 
 ---
 
