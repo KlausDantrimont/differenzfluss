@@ -12,19 +12,23 @@ Diese Paradoxie ist kein Zufall. Sie markiert jene seltenen Augenblicke, in dene
 
 ## Das Offensichtliche als Tarnung
 
-Was macht etwas offensichtlich? Meist ist es die Einfachheit der zugrundeliegenden Struktur. Wenn du erkennst, dass Code und Daten dasselbe sind – nur in verschiedenen Rollen –, dann erscheint dir das plötzlich trivial. Natürlich kann ein Bit-Pattern sowohl Information als auch Instruktion sein. Wie könnte es anders sein?
+Was macht etwas offensichtlich? Meist ist es die Einfachheit der zugrundeliegenden Struktur. Wenn du erkennst, dass Code und Daten dasselbe sind – nur in verschiedenen Rollen –, dann erscheint dir das plötzlich trivial. Natürlich kann ein Bit-Pattern sowohl Information als auch Instruktion sein. Wie könnte es anders sein? So What?\
+Das, was zu tun ist (Rolle:Instruktion), kann auf beliebig intelligente/geschickte Weise analysiert und konstruiert werden (Rolle:Daten). Rekursiv, versteht sich. Informatiker arbeiten damit jeden Tag, meist unbewusst. Ein Baum, ein Graph, ein Datenbank-Index, ein Stack, ein Service, ein Datensatz, ein Interface, eine Id und die Frage der Identität. Ein Softwareentwickler hantiert mit solchen rekursiven Konzepten, ohne sich einen Kopp zumachen, bzw. genau mit sowas mach er sich einen Kopp.\
+Es sind Werkzeuge. Er hat sie erlernt, erprobt, angewendet. Analyse, Bau, Debugging, so Zeug.\
+Im Compilerbau werden diese Werkzeuge aber selbst zum Objekt. Der Compiler bildet Sprachen ab. Von semantisch dicht, hin zu etwas 'einfacherem' das eine darunterliegende Schicht eindeutig interpretieren kann.
+Die simple Tatsache, dass ich das selbe (identität) sowohl als Daten, als auch als Code behandeln kann öffnet Möglichkeiten, die man auf den ersten Blick nicht sehen mag. Es ist das Herz der ganzen Chose.
 
-Doch diese Offensichtlichkeit ist trügerisch. Sie entsteht erst, nachdem du die Struktur erkannt hast. Vorher war sie völlig unsichtbar, verborgen hinter der Komplexität der Erscheinungen. Das Offensichtliche tarnt sich als das Übersehene.
+Die Offensichtlichkeit ist also trügerisch. Sie entsteht erst, nachdem du die Struktur erkannt hast. Vorher war sie völlig unsichtbar, verborgen hinter der Komplexität der Erscheinungen. Das Offensichtliche tarnt sich als das Übersehene.
 
 Es ist wie bei einem optischen Kippbild: Einmal gesehen, kannst du das zweite Bild nicht mehr "unsehen". Es war immer da, doch die Struktur deiner Wahrnehmung hatte es verdeckt. Das Fundamentale versteckt sich in seiner eigenen Einfachheit.
 
 ## Das Verrückte als Widerstand
 
-Warum fühlt sich dieselbe Erkenntnis aber auch verrückt an? Weil sie die bestehenden Kategorien durcheinanderbringt. Wenn Paradoxien und Oszillatoren strukturell ähnlich sind, dann kollabiert die Grenze zwischen Logik und Physik. Wenn Zeit ein internes Phänomen rekursiver Systeme ist, dann wird unser alltägliches Zeitverständnis hinfällig.
+Warum fühlt sich dieselbe Erkenntnis aber auch verrückt an? Weil sie die bestehenden Kategorien durcheinanderbringt. Wenn Paradoxien und Oszillatoren strukturell ähnlich sind, dann kollabiert die Grenze zwischen Logik und Physik. (Behauptet die KI, )Wenn Zeit ein internes Phänomen rekursiver Systeme ist, dann wird unser alltägliches Zeitverständnis hinfällig.
 
 Fundamentale Einsichten sind Kategoriensprenger. Sie zeigen, dass Dinge, die wir für völlig verschieden hielten, im Grunde Variationen desselben Musters sind. Das ist verstörend, weil es unser geordnetes Weltbild durchrüttelt.
 
-Der Verstand leistet Widerstand. "Das kann nicht sein", sagt er. "Gesellschaft und Moleküle haben nichts miteinander zu tun." "Ein Hammer kann nicht gleichzeitig Werkzeug und Objekt sein." "Paradoxien sind Fehler, keine Strukturprinzipien."
+Der Verstand leistet Widerstand. "Das kann nicht sein", sagt er. "Gesellschaft und Moleküle haben nichts miteinander zu tun." "Ein Mensch kann nicht gleichzeitig Subjekt und Objekt sein." "Paradoxien sind Fehler, Lücken, keine Strukturprinzipien."
 
 Dieser Widerstand ist nicht dumm. Er schützt uns vor vorschnellen Analogien und wilden Spekulationen. Aber er macht es auch schwer, wirklich neue Muster zu erkennen.
 
@@ -34,7 +38,9 @@ Hier entsteht ein soziales Problem. Wer eine fundamentale Einsicht hat, steht zu
 
 Das liegt nicht an mangelnder Intelligenz. Es liegt an der Natur fundamentaler Erkenntnisse selbst. Sie erfordern einen Perspektivwechsel, der nicht einfach kommunizierbar ist. Du kannst die Formel hinschreiben, das Beispiel erklären, die Analogie ziehen – aber den *Moment des Erkennens* kannst du nicht übertragen.
 
-Es ist wie beim Fahrradfahren: Du kannst die Physik erklären, die Bewegungen beschreiben, die Theorie ausbreiten. Aber fahren muss jeder selbst lernen. Der Moment, in dem das Gleichgewicht gefunden wird, ist nicht übertragbar.
+Es ist wie beim Fahrradfahren: Du kannst die Physik erklären, die Bewegungen beschreiben, die Theorie ausbreiten. Aber fahren muss jeder selbst lernen. Der Moment, in dem das Gleichgewicht gefunden wird, ist nicht übertragbar.\
+Und man muss natürlich überhaupt erstmal Lust haben, Fahrradfahren zu lernen.\
+Erklärungen sind weniger verlockend, als jemanden Fahrradfahren zu sehen.\
 
 ## Zwischen den Domänen
 
