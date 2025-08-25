@@ -1,11 +1,10 @@
 
-Das seltsame an der DFT: Sie fühlt sich gleichzeitig völlig offensichtlich und komplett verrückt an.
-Wie kommt das?
+Das Seltsame an der DFT: Sie fühlt sich gleichzeitig völlig offensichtlich und komplett verrückt an. Wie kommt das?
 
 ---
 
 # Völlig offensichtlich und komplett verrückt
-*Ein Essay über die paradoxe Natur fundamentaler Einsichten*
+*Warum fundamentale Einsichten zugleich trivial und umstürzend wirken.*
 
 Es gibt Momente des Erkennens, die eine merkwürdige Qualität haben: Sie fühlen sich gleichzeitig völlig offensichtlich und komplett verrückt an. Du siehst plötzlich ein Muster, eine Struktur, eine Verbindung – und dein erster Gedanke ist: "Natürlich! Wie konnte ich das übersehen?" Dein zweiter Gedanke: "Das kann doch nicht sein. Das ist völlig absurd."
 
@@ -72,5 +71,16 @@ Am Ende ist es vielleicht die Aufgabe fundamentaler Erkenntnisse, dieses produkt
 Denn sobald das Fundamentale nur noch offensichtlich und nicht mehr verrückt ist, hat es aufgehört, fundamental zu sein.
 
 ---
+## Katzenmusik
+
+Vielleicht ist das die schönste Bestätigung für fundamentale Erkenntnisse: Sie entzaubern nicht, sie verzaubern neu. Wer die rekursiven Strukturen des Lebens durchdrungen hat, sieht in einer Hauskatze nicht weniger, sondern mehr. Er sieht die Millionen Jahre Evolution, die diesen Moment möglich gemacht haben. Er sieht die Eleganz der Lösung für die Aufgabe "Prädator". Er sieht die rekursiven Muster der Fellzeichnung, ihre Symmetrie und Variation, die Eleganz der Sensorik. Und er staunt. Und ist froh über das Größenverhältnis.
+
+Es ist wie bei einem Musiker, der seine Materie durchdrungen hat: Er hat nicht weniger Möglichkeiten im Ausdruck als ein Anfänger – er hat unendlich mehr. Er kennt die Zusammenhänge, die Strukturen, die Variationsmöglichkeiten. Das Verstehen befreit ihn nicht vom Staunen, es multipliziert seine Staunfähigkeit.
+
+Rationale Durchdringung als Befreiung statt als Gefängnis – das ist vielleicht das größte Geschenk fundamentaler Erkenntnisse. Sie zeigen uns nicht, dass die Welt tot und mechanisch ist. Sie zeigen uns, dass sie lebendiger ist, als wir je geahnt haben.
+
+---
+---
 
 *Es ist schon witzig, wenn man über so Zeug nachdenkt, oder?*
+
