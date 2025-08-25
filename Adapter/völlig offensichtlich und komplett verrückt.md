@@ -15,22 +15,25 @@ Diese Paradoxie ist kein Zufall. Sie markiert jene seltenen Augenblicke, in dene
 Was macht etwas offensichtlich? Meist ist es die Einfachheit der zugrundeliegenden Struktur. Wenn du erkennst, dass Code und Daten dasselbe sind – nur in verschiedenen Rollen –, dann erscheint dir das plötzlich trivial. Natürlich kann ein Bit-Pattern sowohl Information als auch Instruktion sein. Wie könnte es anders sein? So What?\
 Das, was zu tun ist (Rolle:Instruktion), kann auf beliebig intelligente/geschickte Weise analysiert und konstruiert werden (Rolle:Daten). Rekursiv, versteht sich. Informatiker arbeiten damit jeden Tag, meist unbewusst. Ein Baum, ein Graph, ein Datenbank-Index, ein Stack, ein Service, ein Datensatz, ein Interface, eine Id und die Frage der Identität. Ein Softwareentwickler hantiert mit solchen rekursiven Konzepten, ohne sich einen Kopp zumachen, bzw. genau mit sowas mach er sich einen Kopp.\
 Es sind Werkzeuge. Er hat sie erlernt, erprobt, angewendet. Analyse, Bau, Debugging, so Zeug.\
-Im Compilerbau werden diese Werkzeuge aber selbst zum Objekt. Der Compiler bildet Sprachen ab. Von semantisch dicht, hin zu etwas 'einfacherem' das eine darunterliegende Schicht eindeutig interpretieren kann.
-Die simple Tatsache, dass ich das selbe (identität) sowohl als Daten, als auch als Code behandeln kann öffnet Möglichkeiten, die man auf den ersten Blick nicht sehen mag. Es ist das Herz der ganzen Chose.
+Im Compilerbau werden diese Werkzeuge aber selbst zum Objekt. Der Compiler bildet Sprachen ab. Von semantisch dicht, hin zu etwas 'einfacherem' das eine darunterliegende Schicht eindeutig ausführen kann.
+Die simple Tatsache, dass man das Selbe (Identität) sowohl als Daten, als auch als Code behandeln kann öffnet Möglichkeiten, die man auf den ersten Blick nicht sehen mag. Es ist das Herz der ganzen Chose, das unsichtbar im Hintergrund antreibt.
 
-Die Offensichtlichkeit ist also trügerisch. Sie entsteht erst, nachdem du die Struktur erkannt hast. Vorher war sie völlig unsichtbar, verborgen hinter der Komplexität der Erscheinungen. Das Offensichtliche tarnt sich als das Übersehene.
+Die Offensichtlichkeit ist also trügerisch. Sie entsteht erst, nachdem man die Struktur erkannt hat. Vorher war sie völlig unsichtbar, verborgen hinter der Komplexität der Erscheinungen. Das Offensichtliche tarnt sich als das Übersehene.
 
-Es ist wie bei einem optischen Kippbild: Einmal gesehen, kannst du das zweite Bild nicht mehr "unsehen". Es war immer da, doch die Struktur deiner Wahrnehmung hatte es verdeckt. Das Fundamentale versteckt sich in seiner eigenen Einfachheit.
+Es ist wie bei einem optischen Kippbild: Einmal gesehen, kannst du das zweite Bild nicht mehr "unsehen". Es war immer da, doch die Struktur deiner Wahrnehmung hatte es verdeckt. Das Fundamentale versteckt sich in seiner eigenen Einfachheit.\
+Oder: Wie merkt der Fisch, dass Wasser nass ist?
 
 ## Das Verrückte als Widerstand
 
-Warum fühlt sich dieselbe Erkenntnis aber auch verrückt an? Weil sie die bestehenden Kategorien durcheinanderbringt. Wenn Paradoxien und Oszillatoren strukturell ähnlich sind, dann kollabiert die Grenze zwischen Logik und Physik. (Behauptet die KI, )Wenn Zeit ein internes Phänomen rekursiver Systeme ist, dann wird unser alltägliches Zeitverständnis hinfällig.
+Warum fühlt sich dieselbe Erkenntnis aber auch verrückt an? Weil sie die bestehenden Kategorien durcheinanderbringt. Wenn Paradoxien und Oszillatoren strukturell ähnlich sind, dann kollabiert die Grenze zwischen Logik und Physik. Das gleiche Dings in zwei Kontexten?  Darf man das? Was ist gemeinsam, was der Unterschied?\
+Wenn Zeit ein internes Phänomen rekursiver Systeme ist, dann bekommt unser alltägliches Zeitverständnis einen anderen Geschmack.
 
-Fundamentale Einsichten sind Kategoriensprenger. Sie zeigen, dass Dinge, die wir für völlig verschieden hielten, im Grunde Variationen desselben Musters sind. Das ist verstörend, weil es unser geordnetes Weltbild durchrüttelt.
+Fundamentale Einsichten sind Kategoriensprenger. Sie zeigen, dass Dinge, die wir für völlig verschieden hielten, im Grunde Variationen desselben Musters sind. Das ist verstörend, weil es unser geordnetes Weltbild durchrüttelt.\
+Je nach dem, wie viele Aspekte davon betroffen sind. Den Biologen wird die Ähnlichkeit der DFT zur Evolutionstheorie wenig erschüttern. Dem Physiker mag die Suche nach einer vereinheitlichten Kraft als Konzept intuitiv verständlich sein. Der Philosoph mag die ontologische Basis einordnen, Psychologen das Beobachtermodell. Andere anderes.
 
-Der Verstand leistet Widerstand. "Das kann nicht sein", sagt er. "Gesellschaft und Moleküle haben nichts miteinander zu tun." "Ein Mensch kann nicht gleichzeitig Subjekt und Objekt sein." "Paradoxien sind Fehler, Lücken, keine Strukturprinzipien."
+Der Verstand leistet Widerstand. "Das kann nicht sein", sagt er. "Gesellschaft und Moleküle haben nichts miteinander zu tun." "Paradoxien sind Fehler, Lücken, keine Strukturprinzipien. Und schon gar keine Oszillatoren oder *Generatoren* von Zeit" oder "Das hat (fast) schon Luhmann gesagt, oder Darwin, oder Heraklit, oder der Kollege"
 
-Dieser Widerstand ist nicht dumm. Er schützt uns vor vorschnellen Analogien und wilden Spekulationen. Aber er macht es auch schwer, wirklich neue Muster zu erkennen.
+Dieser Widerstand ist nicht dumm. Er schützt uns vor vorschnellen Analogien und wilden Spekulationen. Aber er macht es auch schwer, wirklich neue Muster zu erkennen. Und wenn man sie erkennt, als Besonders in ihrer Vielfalt/Bandbreite/Auswirkung zu erkennen.
 
 ## Die Einsamkeit des Durchblicks
 
