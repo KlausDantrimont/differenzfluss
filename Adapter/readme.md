@@ -90,28 +90,28 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
 ## Gesellschaft & Kultur
 
-* [Adapter-Medien.md](Adapter-Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.
-* [Adapter-Gesellschaft.md](Adapter-Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.
-* [Adapter-Gesellschaft-Politik.md](Adapter-Gesellschaft-Politik.md) – Politik als Management von Differenzen.
-* [Adapter-Kunst.md](Adapter-Kunst.md) – Kunst als Resonanz- und Differenzspiel.
-* [Adapter-Musik.md](Adapter-Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.
+* [Adapter–Medien.md](Adapter–Medien.md) – Medien als Filter, Verstärker und Speicher von Differenzen.
+* [Adapter–Gesellschaft.md](Adapter–Gesellschaft.md) – Gesellschaft als rekursives Netzwerk von Relationen.
+* [Adapter–Gesellschaft-Politik.md](Adapter–Gesellschaft-Politik.md) – Politik als Management von Differenzen.
+* [Adapter–Kunst.md](Adapter–Kunst.md) – Kunst als Resonanz- und Differenzspiel.
+* [Adapter–Musik.md](Adapter–Musik.md) – Musik als modellierte Zeit und hörbarer Fluss.
 
 ---
 
 ## Technik & Wissenschaft
 
-* [Adapter-Technik.md](Adapter-Technik.md) – Technik als materialisierte Rekursion.
-* [Adapter-Wissenschaft-und-Mathematik.md](Adapter-Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.
+* [Adapter–Technik.md](Adapter–Technik.md) – Technik als materialisierte Rekursion.
+* [Adapter–Wissenschaft-und-Mathematik.md](Adapter–Wissenschaft-und-Mathematik.md) – Wissenschaft & Mathematik als Stabilisierungsmaschinen.
 
 ---
 
 ## Naturwissenschaften
 
-* [Adapter-Geologie-und-Kosmos.md](Adapter-Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.
-* [Adapter-Astrobiologie.md](Adapter-Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.
-* [Adapter-Biologie.md](Adapter-Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.
-* [Adapter-Physik.md](Adapter-Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.
-* [Adapter-Chemie.md](Adapter-Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.
+* [Adapter–Geologie-und-Kosmos.md](Adapter–Geologie-und-Kosmos.md) – Geologie und Kosmos als großskalige Rekursionsprozesse.
+* [Adapter–Astrobiologie.md](Adapter–Astrobiologie.md) – Leben im Kosmos als universelle Differenz-Option.
+* [Adapter–Biologie.md](Adapter–Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.
+* [Adapter–Physik.md](Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.
+* [Adapter–Chemie.md](Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.
 
 ---
 
