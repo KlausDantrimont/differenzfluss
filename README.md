@@ -14,6 +14,11 @@ Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.\
 
 ---
 
+„Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“\
+(Blaise Pascal, Lettres provinciales (1657) 
+
+---
+
 Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
 Wäre dieses Wissen für irgendetwas gut?
 
