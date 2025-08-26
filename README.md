@@ -15,7 +15,7 @@
 
 ---
 
-[Zur Sache](https://github.com/KlausDantrimont/differenzfluss/edit/main/README.md#zur-sache)
+[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/edit/main/README.md#zur-sache)
 
 ---
 
