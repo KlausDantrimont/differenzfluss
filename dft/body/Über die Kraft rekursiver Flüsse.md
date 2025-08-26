@@ -34,7 +34,7 @@ Das ist die elementare Dreierregel des Lebens:
 
 Sobald eine Grundlage existiert, die diesen Mechanismus ermöglicht, beginnen unweigerlich evolutionäre Prozesse. Diese Mechanik ist explosiv – eine wahre Urknall-Mechanik.
 
-Je nach Möglichkeiten, Ausdruckskraft und Kapazität der zugrunde liegenden Infrastruktur kann diese simple Dreier-Regel stabile Strukturen in unzähligen Kopien und Varianten erschaffen. Strukturen, die in der Zeit überdauern, sich wandeln, anpassen. Strukturen, die wahrnehmen, reagieren, erinnern, bemerken, sich wundern, kommunizieren, konstruieren, reflektieren – und sich noch mehr wundern.
+Je nach Möglichkeiten, Ausdruckskraft und Kapazität der zugrunde liegenden Infrastruktur kann diese simple Dreier-Regel stabile Strukturen in unzähligen Kopien und Varianten erschaffen. Strukturen, die in der Zeit überdauern, sich wandeln, anpassen. Strukturen, die wahrnehmen, reagieren, erinnern, bemerken, sich wundern, kommunizieren, konstruieren, reflektieren – und sich noch mehr wundern. (Falls Sie es nicht bemerkt haben sollten: In dieser Aufzählung werden Schicht um Schicht Rekursionsebenen übereinander gelegt)
 
 Was danach kommt? Keine Ahnung.
 
