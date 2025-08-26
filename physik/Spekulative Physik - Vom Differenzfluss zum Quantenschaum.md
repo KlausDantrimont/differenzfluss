@@ -16,6 +16,7 @@ Rastpunkte markieren die Stellen, an denen **Wechselwirkung möglich** ist. Sie 
 Unentschiedene Konfigurationen bleiben fruchtlos: sie flackern im Fluss, hinterlassen aber keine Spur. Nur wo Konsistenz herrscht, bildet sich Realität.\
 Nur was passt, kann wirken. (==>Schlüssel/Schloß-Prinzip)
 Kontext, Zustand, Nachbarschaft, Beziehung, fertig ist die Laube für das finden von Orten der Rast, wo etwas passt, so dass etwas weitergehen kann. Man darf das physikalisch und/oder metaphorisch lesen.
+
 ---
 
 ## Quantenschaum als Folgephänomen
