@@ -48,7 +48,9 @@ Das liegt nicht an mangelnder Intelligenz. Es liegt an der Natur fundamentaler E
 Es ist wie beim Fahrradfahren: Du kannst die Physik erklären, die Bewegungen beschreiben, die Theorie ausbreiten. Aber fahren muss jeder selbst lernen. Der Moment, in dem das Gleichgewicht gefunden wird, ist nicht übertragbar.\
 Und man muss natürlich überhaupt erstmal Lust haben, Fahrradfahren zu lernen.\
 Erklärungen sind weniger verlockend, als jemanden Fahrradfahren zu sehen.\
-*grübel*
+*grübel*\
+Muss ich die DFT beispielhaft vor-surfen?\
+Ähem.
 
 ## Zwischen den Domänen
 
