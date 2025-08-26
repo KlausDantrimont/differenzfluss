@@ -108,7 +108,7 @@ Informationen werden gefiltert oder beschönigt, Realität und Handeln driften a
 - **Organisation**: Nur positive Meldungen erreichen die Chefetage.  
 - **Gesellschaft**: Medien fördern Skandale, komplexe Themen verschwinden.  
 - **Ökologie**: Kipppunkte werden erst spät bemerkt, weil Daten fehlen.  
-- **Körper**: Im Schmerzsystem werden Signale verzerrt (z. B. bei Neuropathie: Schmerz ohne Schaden), oder zentrale Verarbeitung filtert (Sensibilisierung macht normale Reize schmerzhaft) – Realität (kein akuter Schaden) wird ignoriert.
+- **Körper**: Im Schmerzsystem werden Signale verzerrt (z. B. bei Neuropathie: Schmerz ohne Schaden), oder zentrale Verarbeitung filtert (Sensibilisierung macht normale Reize schmerzhaft),  oder Emotionale Aufladung/Trauma verzerren die Gewichtung – Realität (kein akuter Schaden) wird ignoriert, oder missinterpretiert.
 - **Biologie**: Externe Störungen wie Gifte verzerren Sensorik (z. B. Toxine täuschen Rezeptoren), oder Tarnung stört die Sensorik anderer (z. B. Mimikry bei Insekten) – Koevolution führt zu verzerrten Signalen in Prädator-Beute-Beziehungen.                                                             
 
 **Stabilisierungen**:  
@@ -117,7 +117,7 @@ Informationen werden gefiltert oder beschönigt, Realität und Handeln driften a
 - „Bad news first“-Kultur, Whistleblower-Kanäle.  
 - Unabhängige Medien, Fact-Checking.  
 - Frühwarnsysteme, Monitoringprogramme.  
-- Im Körper: Kognitive Therapie, die Schmerzsignale neu interpretiert (z. B. als harmlos, um Vermeidung zu stoppen).
+- Im Körper: Kognitive Therapie, die Schmerzsignale neu interpretiert. Z.B. als Hinweis auf Ziele, um Vermeidung dort zu stoppen, und Sensorik und Motorik zu nutzen.
 - In der Biologie: Koevolvierte Tarnung oder verbesserte Sensorik (z. B. ultrasensibles Gehör bei Fledermäusen, um Verzerrungen zu kontern).
 **Fazit**:  
 Transparenz ist Überlebensfrage. Ehrliche Informationskanäle verhindern Blindstellen.
@@ -159,17 +159,17 @@ Ohne Redundanzen oder Anpassungsfähigkeit führt ein Ausfall zum Kollaps.
 - **Organisation**: Weggang eines Spezialisten stoppt Projekte.  
 - **Gesellschaft**: Stromausfall legt Regionen lahm.  
 - **Ökologie**: Verlust einer Schlüsselart zerstört die Nahrungskette.  
-- **Körper**: Im Schmerzsystem führt eine Störung (z. B. Nervenschaden) zu Kettenreaktionen – ein verletzter Muskel führt zu Schonhaltung, die andere Muskeln schwächt und den gesamten Bewegungsapparat fragil macht.
-- **Biologie**: Externe Störungen wie Gewalt oder Fallen führen zu Ausfällen (z. B. Verletzung schwächt ein Organ), ohne Redundanzen kippt das System – z. B. bei Infektionen ohne Immun-Gedächtnis.           
+- **Körper**: Im Schmerzsystem führt eine Störung (z. B. Nervenschaden) zu Kettenreaktionen – ein verletzter Muskel führt zu Schonhaltung, die andere Muskeln, Sehnen, Gelenke überlastet und den gesamten Bewegungsapparat fragil macht.
+- **Biologie**: Externe Störungen wie Nahrungsmangel führen zu Ausweichlösungen, je mehr Alternativen genutzt werden könenen, desto stablier die Art. Ohne Redundanzen kippt das System – z. B. bei Infektionen ohne Immun-Gedächtnis.           
 
 **Stabilisierungen**:  
-- Resilienztraining, soziale Netze.  
+- Resilienztraining, soziale Netze. Die Erkenntnis der Möglichkeit der Selbstmodellierung. Ist das Freiheit?
 - Gemeinsame Verantwortung, externe Unterstützung.  
 - Wissensdokumentation, Teamrotation.  
 - Dezentrale Netze, Katastrophenschutz.  
-- Biodiversität, Wiederansiedlungsprogramme.  
+- Biodiversität, Wiederansiedlungsprogramme, Raum für Biotope.  
 - Im Körper: Physiotherapie im Grenzbereich, um Redundanzen aufzubauen (z. B. alternative Muskelwege trainieren).
-- In der Biologie: Ausbildung eines Gedächtnisses (z. B. immunologisches Gedächtnis für Pathogene) oder Koevolutionäre Anpassungen wie Tarnung gegen Fallen.
+- In der Biologie: Ausbildung eines Gedächtnisses (z. B. immunologisches Gedächtnis für Pathogene) oder Diversifizierung bei Änderungen im Biotop.
 
 **Fazit**:  
 Robustheit braucht Reserven und Alternativen, sonst kollabiert das System beim ersten Schock.
