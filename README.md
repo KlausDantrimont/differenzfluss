@@ -2,6 +2,23 @@
 
 # Differenzfluss
 
+### Die Destillation von Hochprozentigem
+
+„Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
+— Blaise Pascal, *Lettres provinciales* (1657)  
+
+„Was belibt übrig, wenn man alles eindampft?“  
+— Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
+
+„Besser wie nix.“  
+— Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stich, irgendwann, damals  
+
+---
+
+[Zur Sache](https://github.com/KlausDantrimont/differenzfluss/edit/main/README.md#zur-sache)
+
+---
+
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein naives Kind, das ruft "Guck mal". Das Repo ruft, nicht ich :-)
@@ -33,19 +50,6 @@ Für das Bus-Szenario bin ich nun gewappnet: Die Bücher, das Repo hier.\
 
 Ja, leicht paranoid, aber auch lustig. Und beruhigend.
 
-
----
-
-### Die Destillation von Hochprozentigem
-
-„Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
-— Blaise Pascal, *Lettres provinciales* (1657)  
-
-„Der Differenzfluss ist das, was übrig blieb, nachdem alles eingedampft war.“  
-— Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
-
-„Besser wie nix.“  
-— Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stich, irgendwann, damals  
 
 ---
 
