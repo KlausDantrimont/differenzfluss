@@ -16,6 +16,7 @@ Rastpunkte markieren die Stellen, an denen **Wechselwirkung möglich** ist. Sie 
 Unentschiedene Konfigurationen bleiben fruchtlos: sie flackern im Fluss, hinterlassen aber keine Spur. Nur wo Konsistenz herrscht, bildet sich Realität.\
 Nur was passt, kann wirken. (==>Schlüssel/Schloß-Prinzip)
 Kontext, Zustand, Nachbarschaft, Beziehung, fertig ist die Laube für das finden von Orten der Rast, wo etwas passt, so dass etwas weitergehen kann. Man darf das physikalisch und/oder metaphorisch lesen.
+
 ---
 
 ## Quantenschaum als Folgephänomen
@@ -34,22 +35,22 @@ Hier erscheint Gravitation: Sie ist die **Ordnungswirkung langlebiger Konsistenz
 
 ## Die Membran der Gleichzeitigkeit
 
-Man kann sich die Gesamtheit aller gleichzeitigen „Jetzt“-Punkte als **dreidimensionale Membran** vorstellen – ein Schnitt durch die vierdimensionale Raumzeit. Jezt-Nachbarschaften entstehen, wenn/weil benachbarte Punkte nahezu identische Lichtkegel teilen: je näher, desto ähnlicher ihre „Jetzt“-Zonen.
+Man kann sich die Gesamtheit aller gleichzeitigen „Jetzt“-Punkte als **dreidimensionale Membran** vorstellen – ein Schnitt durch die vierdimensionale Raumzeit. Jetzt-Nachbarschaften entstehen, wenn/weil benachbarte Punkte nahezu identische Lichtkegel teilen: je näher, desto ähnlicher ihre „Jetzt“-Zonen.
 
-Wenn in einer Region mehr **Elementarschritte pro Zeitschritt** untergebracht werden müssen, entspricht das einer Verformung der Membran. Damit die Relationen konsistent bleiben, **krümmt** sie sich: Prozesse laufen dichter, und für Außenstehende dehnt sich die Zeit im Gravitationsfeld. Beim Wurf einer Taschenlampe in ein Schwarzes Loch, müsste diese rotverschoben werden. Ist das so?. Gravitation ist so die **relative Dichte der Rastpunkte** im Differenzfluss, übersetzt in Geometrie.
+Wenn in einer Region mehr **Elementarschritte pro Zeitschritt** untergebracht werden müssen, entspricht das einer Verformung der Membran. Damit die Relationen konsistent bleiben, **krümmt** sie sich: Prozesse laufen dichter, und für Außenstehende dehnt sich die Zeit im Gravitationsfeld. Beim Wurf einer Taschenlampe in ein Schwarzes Loch, wirkt diese rotverschoben, weil sie aus einem zunehmend wechselwirkenden Bereich abstrahlt.  
+Gravitation ist so die **relative Dichte der Rastpunkte** im Differenzfluss, übersetzt in Geometrie.
 
-Nach Einstein bewegt sich alles mit konstanter Geschwindigkeit durch die 4d-Raumzeit.
-Eine Beschleunigung im Raum verlangsamt die Geschwindigkeit an Bord. Die Gesamt-Fortentwicklungsgeschwindigkeit bleibt konstant. So habe ich das jedenfalls verstanden/interpretiert.
+Nach Einstein bewegt sich alles mit konstanter Geschwindigkeit durch die 4D-Raumzeit; Beschleunigung im Raum entspricht einer Verlangsamung in der Eigenzeit, sodass die Gesamtfortschrittsgeschwindigkeit konstant bleibt.
 
-Elektrische Ladungen erzeugen bei Bewegung Magnetfelder, weil die Bewegung sie in der Zeit verlangsamt.
-Dadurch verzerrt sich die Geometrie der Ladungsverteilung der Jetzt-Membran.
+Elektrische Ladungen erzeugen bei Bewegung Magnetfelder, weil sich durch die Bewegung die Verteilung der Gleichzeitigkeit verschiebt, sodass elektrische und magnetische Felder als zwei Aspekte derselben Rastungsgeometrie erscheinen.
+
 
 ---
 
 ## Schwarze Löcher als Extrem
 
 In der Nähe eines Schwarzen Lochs häufen sich die Rastpunkte so stark, dass sie für Außenstehende unendlich räumlich komprimiert, und zeitlich gedehnt erscheinen. Die Membran der Gleichzeitigkeit sinkt ein, bis kein Schritt der Außenwelt mehr erreicht wird. Für den Außenbeobachter friert das Geschehen ein. Für den inneren Beobachter bleibt die eigene Taktung (fast) normal – nur der Kontakt nach außen reißt ab.
-Ich weiß nicht, wie im inneren eines schwarzen Lochs die Gradienten entwickeln, aber spätestens, wenn die Taktung der Füße mit der des Kopfs auseinanderläuft, merkt auch der einstürzende Beobachter, dass was faul ist.
+Ich weiß nicht, wie im inneren eines schwarzen Lochs die Gradienten entwickeln, aber spätestens wenn die Taktung der Füße von der des Kopfs abweicht, merkt der fallende Beobachter, dass was faul ist.
 
 ---
 
@@ -58,9 +59,12 @@ Ich weiß nicht, wie im inneren eines schwarzen Lochs die Gradienten entwickeln,
 Realität erscheint nicht im Fließen selbst, sondern in der Spur der Rastpunkte.
 
 * **Zeit**: Zählen der Rastungen.
-* **Quantenschaum**: Struktur des gelangweilten Potentials
+* **Quantenschaum**: Struktur des Potentials, Bühne der Entscheidungen
 * **Gravitation**: Krümmung der Gleichzeitigkeit.
 
 So zeigt sich: Raumzeit ist nicht Grund, sondern Folge. Gravitation ist kein Gesetz am Ursprung, sondern ein **Konsequenzgesetz** der Konsistenz im Differenzfluss.
 
 ---
+
+*Was wir als Naturgesetze lesen, sind in dieser Sicht Stabilitätsmuster des Differenzflusses.*
+
