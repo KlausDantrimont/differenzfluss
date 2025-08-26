@@ -15,7 +15,7 @@
 
 ---
 
-[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/edit/main/README.md#zur-sache)
+[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/main/README.md#zur-sache)
 
 ---
 Selbstbeschreibung des Repo:
@@ -39,14 +39,13 @@ Selbstbeschreibung des Repo:
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich?
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? *hihihi*
-- Eine Hirngymnastik?
+- Eine Hirngymnastik? Es wird knacken. Vertrau mir.
 - Ein Wahn? - Jeder spinnt auf seine Weise.
-- Ein Größenwahn? Riesen sind groß, ich nicht.\
-Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl? Einfach so abnippeln? Und tschüß? War nett? Seht halt selbst zu? Ich guck derweil, wie die Spätphase meiner Struktur terminiert ;-)\
-Nö.\
+- Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden.\
+  Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl? Einfach so abnippeln, dann irgendwann? Und tschüß? War nett? Seht halt selbst zu? - Wär doch schade, also Nö!\
 Wenn ich meinen Quatsch hier ernst nehme, dann habe ich keine Wahl.\
 Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit, kein Produkt. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten ;-)\
-Für das Bus-Szenario bin ich nun gewappnet: Die Bücher, das Repo hier.\
+Für das Bus-Szenario bin ich nun gewappnet: [Die Bücher](https://github.com/KlausDantrimont/differenzfluss/main/README.md#k%C3%A4uflich-erwerbbare-b%C3%BCcher), das Repo hier.\
 [Und die Vogonen fürchte ich auch nicht](<wesen/DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>).
 
 Ja, leicht paranoid, aber auch lustig. Und beruhigend.
