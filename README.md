@@ -45,6 +45,7 @@ Selbstbeschreibung des Repo:
   "Da steckt System dahinter" sagen die Verschwörungstheoretiker, und die Wissenschaftler. Und ich.
 - Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
 - Und schon irgendwie: Krasser Scheiß. Ich kann auch nichts dafür.
+- System (slowly) shuting down. Starting core dump.
 
 ---
 
