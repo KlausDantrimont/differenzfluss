@@ -77,7 +77,7 @@ DFT-Perspektive sagt:
 ---
 
 ## 🔗 Adapter-Box
-- **Mendelejew:** Periodensystem = Differenzen in Elektronenkonfiguration.  
+- **Mendelejew:** Periodensystem = stabile Differenzen in Elektronenkonfiguration.  
 - **Prigogine:** Dissipative Strukturen in chemischen Flüssen.  
 - **Eigen:** Hyperzyklen in der Biochemie.  
 - **DFT-Abgrenzung:** Chemie nicht nur „Mischung von Stoffen“, sondern **Differenzfluss der Elektronen- und Energieräume**, mit Autokatalyse als Übergang zur Biologie.
