@@ -185,7 +185,7 @@ DFT-Perspektive sagt:
 ---
 
 ## ✅ Takeaways
-- Mathematik ist Differenzfluss in abstrakter formalisierter Reinheit.  
+- Mathematik ist die systematische Erschließung konsistenter Strukturen in abstrakter formalisierter Reinheit.
 - Zahlen, Beweise, Theoreme entstehen als stabile Fixpunkte rekursiver Regeln.  
 - Induktion und Rekursion sind formalisierte Differenzflüsse.  
 - Selbstbezüglichkeit markiert die Grenzen, aber auch die Kreativität der Mathematik.  
