@@ -4,26 +4,36 @@
 
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
+- Ein naives Kind, das ruft "Guck mal". Das Repo ruft, nicht ich :-)
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten.
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
-- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. Wer sich hier umsieht, findet Hinweise. 
+- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf**
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
-- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.  
-  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht. Es war ein anstrengender Weg hier hoch. Jetzt weiß ich, dass es leichter geht. Im Prinzip.\
-  Hätte jemand das alles hier als Buch geschrieben, und ich hätte es gelesen, dann hätte ich nicht so lange rumrätseln müssen.\
-  Kannst also auch her kommen.\
-  Ist nicht so weit wie's auf den ersten Blick aussieht, wenn man mal die Richtung kennt. [Hab Schilder aufgestellt](<Adapter/readme.md>).
-- Eine Einladung. Vielleicht auch ein Geschenk.
+- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.\ 
+  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
+                                                                                                                                    
+                               
+  ==> [Abkürzungen, aber keine Skilifte](<Adapter/readme.md>).
+                                               
 - Eine Art Gewürz?
-- Eine Geisterfahrt. Wieso kommen mir alle entgegen?
-- Ein Wahn? Konsistent? Kompatibel? Dann ist's zumindest ein interessanter Wahn.
+- Kunst. Kind of.
+- Etwas Vieldimensiones, wie's scheint. *hörthört*
+- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich?
+- Eine Prüfung im Glauben an die Vernunft. Bestanden? Mal sehen.
+- Eine Hirngymnastik?
+- Ein Wahn? - Konsistent? Kompatibel? - Dann ist's zumindest ein interessanter Wahn.\
+Und ehrlich gesagt, wenn ich mir meine Mitmenschen so anschaue, ..., dann darf ich auch.\
+Jeder spinnt auf seine Weise.
 - Ein Größenwahn? Riesen sind groß, ich nicht.\
-Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl?\
+Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl? Einfach so abnippeln? Und tschüß? War nett? Seht halt selbst zu? Ich guck derweil, wie die Spätphase meiner Struktur terminiert ;-)\
+Nö.\
 Wenn ich meinen Quatsch hier ernst nehme, dann habe ich keine Wahl.\
-Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten.\
+Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit, kein Produkt. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten ;-)\
 Für das Bus-Szenario bin ich nun gewappnet: Die Bücher, das Repo hier.\
 [Und die Vogonen fürchte ich auch nicht](<wesen/DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>).
+
+Ja, leicht paranoid, aber auch lustig. Und beruhigend.
 
 
 ---
