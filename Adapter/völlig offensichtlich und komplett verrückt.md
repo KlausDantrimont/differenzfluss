@@ -94,7 +94,7 @@ Vielleicht ist das die schönste Bestätigung für fundamentale Erkenntnisse: Si
 
 Es ist wie bei einem Musiker, der seine Materie durchdrungen hat: Er hat nicht weniger Möglichkeiten im Ausdruck als ein Anfänger – er hat unendlich mehr. Er kennt die Zusammenhänge, die Strukturen, die Variationsmöglichkeiten. Das Verstehen befreit ihn nicht vom Staunen, es multipliziert seine Staunfähigkeit.
 
-Rationale Durchdringung als Befreiung statt als Gefängnis – das ist vielleicht das größte Geschenk fundamentaler Erkenntnisse. Sie zeigen uns nicht, dass die Welt tot und mechanisch ist. Sie zeigen uns, dass sie lebendiger ist, als wir je geahnt haben.
+Rationale Durchdringung als Befreiung statt kalte Ernüchterung – das ist vielleicht das größte Geschenk fundamentaler Erkenntnisse. Sie zeigen uns nicht, dass die Welt tot und mechanisch ist. Sie zeigen uns, dass sie lebendiger ist, als wir je geahnt haben.
 
 ---
 
