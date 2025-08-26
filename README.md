@@ -21,7 +21,7 @@
 - Ein Größenwahn? Riesen sind groß, ich nicht.\
 Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl?\
 Wenn ich meinen Quatsch hier ernst nehme, dann habe ich keine Wahl.\
-Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten. Was beides natürlich eh blöd wäre.\
+Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten.\
 Für das Bus-Szenario bin ich nun gewappnet: Die Bücher, das Repo hier.\
 [Und die Vogonen fürchte ich auch nicht](<wesen/DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>).
 
