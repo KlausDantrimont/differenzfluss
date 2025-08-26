@@ -161,7 +161,7 @@ Selbstähnlichkeit ist hier nichts anderes als Stabilisierung über Skalen hinwe
 - **Passt:** Zahlensysteme, Beweise, Funktionsräume – alles rekursive Differenznetze.  
 - **Grenze:** Mathematische Objekte existieren nicht "in der Welt", sondern als stabilisierte Rekursionen im Denkraum.  
 - **Spannend:** Selbstbezüglichkeit (Gödel, Unvollständigkeit) zeigt die Grenzen des Differenzflusses im formalen Rahmen. Es gibt Wahrheiten/stabile Strukturen/konsistente Beweise, die nicht vom rekursiv konstruierten System erreichbar sind.\
-So doll man sich anstrengen mag: Es gibt immer Grenzen im System. Dinge "dahinter", und dennoch wahr.\
+So sehr man sich anstrengen mag: Es gibt immer Grenzen im System. Dinge "dahinter", und dennoch wahr.\
 Ist das logisch?
 - **Spannend:** Gödel hat bewiesen, dass sein kognitiver Apparat, der ihn zu diesem Beweis gebracht hat, etwas kann, das die Mathematik nicht kann: Etwas finden, das die Mathematik nicht finden kann. Er hat dazu Rekursion eingesetzt, Analyse des Systems, Codierung/Transformation und Interpretation.\
 Das waren seine genialen Beweis-Werkzeuge, die ihn der 'üblichen' Struktur enthoben haben.\
