@@ -18,7 +18,7 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/edit/main/README.md#zur-sache)
 
 ---
-
+Selbstbeschreibung des Repo:
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein naives Kind, das ruft "Guck mal". Das Repo ruft, nicht ich :-)
