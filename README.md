@@ -15,7 +15,7 @@
 
 ---
 
-[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/main/README.md#zur-sache)
+[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
 Selbstbeschreibung des Repo:
@@ -45,7 +45,7 @@ Selbstbeschreibung des Repo:
   Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl? Einfach so abnippeln, dann irgendwann? Und tschüß? War nett? Seht halt selbst zu? - Wär doch schade, also Nö!\
 Wenn ich meinen Quatsch hier ernst nehme, dann habe ich keine Wahl.\
 Ich dränge nichts auf, kein 'du sollst...', keine Drohungen, keine hidden Agenda, kein Profit, kein Produkt. Außer jemand kauft meine Broschüren. Frühe Produkte der Idee, die schnell raus mussten, weil's einfach zu blöd wäre wenn mich vorher der Bus erwischt, oder die Erde einer intergalaktischen Durchgangsstraße weichen muss. Man kennt ja solche Geschichten ;-)\
-Für das Bus-Szenario bin ich nun gewappnet: [Die Bücher](https://github.com/KlausDantrimont/differenzfluss/main/README.md#k%C3%A4uflich-erwerbbare-b%C3%BCcher), das Repo hier.\
+Für das Bus-Szenario bin ich nun gewappnet: [Die Bücher](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#k%C3%A4uflich-erwerbbare-b%C3%BCcher), das Repo hier.\
 [Und die Vogonen fürchte ich auch nicht](<wesen/DFT für Exobiologen – Warum außerirdische Intelligenz Differenzen atmet.md>).
 
 Ja, leicht paranoid, aber auch lustig. Und beruhigend.
