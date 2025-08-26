@@ -38,7 +38,7 @@ Selbstbeschreibung des Repo:
 - Respektlos? Mitnichten. Im Gegenteil.
 - Kunst. Kind of.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
-- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich?
+- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups!
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? *hihihi*
 - Eine Hirngymnastik? Es wird knacken. Vertrau mir.
 - Ein Wahn? - Jeder spinnt auf seine Weise.
