@@ -1,6 +1,8 @@
 
 ----
-**Hier wirds besonders spekulativ. Ich bin kein Physiker.**
+**Hier wirds besonders spekulativ. Ich bin kein Physiker.**\
+Aber ich konnte der Versuchung einfach nicht wiederstehen.\
+Mea culpa.
 ----
 
 # Leitsatz der rekursiven Reformulierbarkeit (RR-Leitsatz)
