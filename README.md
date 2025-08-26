@@ -22,9 +22,7 @@
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich?
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? Mal sehen.
 - Eine Hirngymnastik?
-- Ein Wahn? - Konsistent? Kompatibel? - Dann ist's zumindest ein interessanter Wahn.\
-Und ehrlich gesagt, wenn ich mir meine Mitmenschen so anschaue, ..., dann darf ich auch.\
-Jeder spinnt auf seine Weise.
+- Ein Wahn? - Jeder spinnt auf seine Weise.
 - Ein Größenwahn? Riesen sind groß, ich nicht.\
 Ich kann doch auch nichts dafür, dass ich hier stehe, dass ich glaube, etwas gefunden zu haben, das nützlich sein könnte. Warum sollte ich die Ergebnisse für mich behalten? Wäre das bescheiden? Oder eher bescheuert? Was soll ich machen? Hab ich die Wahl? Einfach so abnippeln? Und tschüß? War nett? Seht halt selbst zu? Ich guck derweil, wie die Spätphase meiner Struktur terminiert ;-)\
 Nö.\
