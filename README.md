@@ -53,15 +53,11 @@ Ja, leicht paranoid, aber auch lustig. Und beruhigend.
 
 ### Zur Sache
 
-Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
+Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.  
 Wäre dieses Wissen für irgendetwas gut?  
 
-War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Irgendwie schon.
-
-### Elektriktrick
-Ein einfaches immergleiches Muster erlaubt einfache immergleiche Fragen.
-- [dft/Atlas systemischer Störungen und Stabilisierungen-5 Fragen.md](<dft/Atlas systemischer Störungen und Stabilisierungen-5 Fragen.md>)
+War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
+Ich denke: ja.  
 
 ---
 Wer sich die Baustelle weiter unten sparen will, kann gleich zu den **Adaptern** springen.  
