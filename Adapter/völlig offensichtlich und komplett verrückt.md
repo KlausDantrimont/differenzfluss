@@ -85,6 +85,8 @@ Vielleicht ist das sogar ihre Funktion: Sie halten das Denken in Bewegung. Sie v
 
 Am Ende ist es vielleicht die Aufgabe fundamentaler Erkenntnisse, dieses produktive Unbehagen aufrechtzuerhalten. Paradoxien sollen nicht einfach verstanden und abgehakt werden. Sie sollen uns immer wieder überraschen, auch wenn wir sie schon zu kennen glauben.
 
+Notiz an mich: Jeden Samstag eine neue Paradoxie finden und notieren.
+
 ---
 ## Katzenmusik
 
