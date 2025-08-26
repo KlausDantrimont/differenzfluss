@@ -61,8 +61,9 @@ Ein Team mit drei Rollen: Leiter, Entwickler, Vertrieb.
 ## 🔮 Vorhersage/Check
 DFT-Perspektive sagt:  
 - Organisationen entwickeln sich **nicht linear**, sondern in Sprüngen (Phasenübergänge).  
-- Je dichter die Feedback-Schleifen, desto höher die Resilienz.  
-- Testbar: Unternehmen mit kurzen Feedbackzyklen (agile Strukturen) reagieren messbar schneller auf Marktveränderungen.
+- Je weniger oder je dysfunktionaler Feedback-Schleifen, desto weniger Resilienz.\
+Bereits wenig regelmäßiger Reflexionsaufwand kann Teams flexibler machen.\
+- Testbar: Unternehmen mit Feedbackzyklen (agile Strukturen) reagieren messbar schneller auf Marktveränderungen.
 
 ---
 
@@ -76,9 +77,9 @@ DFT-Perspektive sagt:
 
 ## ✅ Takeaways
 - Organisationen sind Flüsse von Differenzen, die sich in Rollen und Prozessen stabilisieren.  
-- Entwicklung verläuft sprunghaft bei größeren Differenzen.  
+- Entwicklung verläuft sprunghaft bei wachsenden Differenzen, die nicht integriert werden.
 - Feedback-Loops bestimmen Resilienz und Lernfähigkeit.  
-- Selbstorganisation kann Hierarchie teilweise ersetzen.  
+- Selbstorganisation kann Hierarchie teilweise ersetzen.
 - DFT zeigt Organisationen als dynamische Differenznetzwerke, nicht als starre Strukturen.
 
 ---

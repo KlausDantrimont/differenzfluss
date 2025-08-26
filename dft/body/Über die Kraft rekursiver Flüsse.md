@@ -1,7 +1,8 @@
 # Die Kraft rekursiver Flüsse
 *Wie aus einfachen Regeln Vielfalt entsteht*
 
-Darwin machte eine erstaunliche Beobachtung: Alle Lebewesen in ihrer überwältigenden Vielfalt konnten durch ein verblüffend einfaches Prinzip entstehen. Sie überlebten und vermehrten sich. Die anderen nicht.
+Darwin machte eine erstaunliche und schlichte Beobachtung: Alle Lebewesen in ihrer überwältigenden Vielfalt konnten durch ein verblüffend einfaches Prinzip entstehen.\
+Sie überlebten und vermehrten sich. \
 
 Jene, die sich nicht fortpflanzten, bilden heute die abgestorbenen Äste am Baum des irdischen Lebens – einem Baum, der vermutlich aus einer Urzelle entsprang, die ihrerseits wahrscheinlich aus einem Urreplikator hervorging. Ein chemisches Molekül oder ein Netzwerk von Molekülen, die sich gegenseitig erzeugten und damit in der Zeit stabilisierten.
 
@@ -51,7 +52,7 @@ Wenn einem danach ist, genügt eine Biene im Lavendel, um zu staunen. Aber diese
 Die unmittelbaren sensorischen Eindrücke - Stimmung, Atmosphäre - verschwinden nicht, sie erscheinen aber zusätzlich in einem anderen Zusammenhang, einem anderen Licht, **kein** Bahnhofshallen-NeonLicht, eher ein wählbares Spektrum.
 Diese Komposition ist mehr als eine reine Summe, eher eine Multiplikation oder Faltung.
 
-Das ist eigentlich nicht überraschend. Ein Musiker, der seine Materie durchdrungen hat, hat deutlich mehr Möglichkeiten im Ausdruck als ein Anfänger. Er hat Zusammenhänge geübt und erkannt und kann diese bei seinen Konstruktionen und Schöpfungen nutzen. Das Verstehen befreit die Kreativität, statt sie zu beschränken.
+Das ist eigentlich nicht überraschend. Ein Musiker, der seine Materie durchdrungen hat, hat deutlich mehr Möglichkeiten im Ausdruck als ein Anfänger. Er hat Zusammenhänge geübt und erkannt und kann diese bei seinen Konstruktionen und Schöpfungen nutzen. Das Verstehen befreit die Kreativität, statt sie zu beschränken. Die Welt des Musikers sind Intervalle und deren Beziehungen. Harmonische, rythmische und klangliche Strukturen. Allesamt rekursiv in der Zeit.
 
 ## Das Fraktal der Erkenntnis
 
