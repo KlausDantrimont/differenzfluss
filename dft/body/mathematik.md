@@ -180,12 +180,12 @@ DFT-Perspektive sagt:
 - **Frege / Peano:** Fundament der Arithmetik als Rekursionssystem.  
 - **Gödel:** Selbstbezügliche Differenzen → Unvollständigkeit.  
 - **Lawvere / Kategorientheorie:** Objekte als Knoten, Morphismen als Differenzflüsse.  
-- **DFT-Abgrenzung:** Mathematik nicht nur Sprache der Physik, sondern **Sonderfall des Differenzflusses** selbst.
+- **DFT-Abgrenzung:** Mathematik nicht nur Sprache der Physik, sondern **Aspekt des Differenzflusses** selbst.
 
 ---
 
 ## ✅ Takeaways
-- Mathematik ist Differenzfluss in abstrakter Reinheit.  
+- Mathematik ist Differenzfluss in abstrakter formalisierter Reinheit.  
 - Zahlen, Beweise, Theoreme entstehen als stabile Fixpunkte rekursiver Regeln.  
 - Induktion und Rekursion sind formalisierte Differenzflüsse.  
 - Selbstbezüglichkeit markiert die Grenzen, aber auch die Kreativität der Mathematik.  
