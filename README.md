@@ -21,10 +21,10 @@
 Selbstbeschreibung des Repo:
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
-- Ein naives Kind, das ruft "Guck mal". Das Repo ruft, nicht ich :-)
+- Ein naives Kind, das ruft "Guck mal". (Das Repo ruft, nicht ich). Bitte Mitdenken!
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten.
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
-- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf**
+- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf** ... oder Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.\ 
