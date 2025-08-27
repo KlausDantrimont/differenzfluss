@@ -21,7 +21,7 @@
 Selbstbeschreibung des Repo:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
-- Ein Experiment. Ich mach sowas zum ersten mal.
+- Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
 - Ein naives Kind, das ruft "Guck mal". 
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
