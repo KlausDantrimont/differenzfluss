@@ -86,7 +86,7 @@ Wer will, kann sie durchspielen wie ein Memetik-Lexikon.
 
 ---
 
-## Begriffe im Wandel. Beispiele:
+## Begriffe im Wandel:
 
 - **Vielfalt**  
   Von neutraler Beschreibung → zur moralischen Pflicht.
