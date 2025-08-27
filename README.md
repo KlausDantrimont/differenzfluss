@@ -21,7 +21,7 @@
 Selbstbeschreibung des Repo:
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
-- Ein naives Kind, das ruft "Guck mal". (Das Repo ruft, nicht ich). Bitte Mitdenken!
+- Ein naives Kind, das ruft "Guck mal". (Das Repo ruft, nicht ich).
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
 - Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf** ... oder Selberdenken?
