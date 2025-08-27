@@ -2,7 +2,7 @@
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden.
 
-* die KI kann viel besser formulieren als ich. Ich schreibe sonst nur Spezifikationen oder Software.
+* die KI kann viel besser formulieren oder recherchieren als ich. Ich schreibe sonst nur Spezifikationen oder Software.
 * Ich lasse mir vom Computer liebend gerne so viel wie irgend möglich abnehmen. Der kann fast alles besser und schneller als ich. Fast. Noch. Vermutlich.
 * Alle stilistischen oder inhaltlichen Fehler gehen natürlich auf meine Kappe. Die KI ist Werkzeug.
 * menschliches Feedback ist rar bis inexistent. Surreal. Bedenklich?  Grübel ...
