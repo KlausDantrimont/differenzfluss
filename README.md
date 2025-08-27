@@ -44,7 +44,7 @@ Seufz: *hinterher ist man immer schlauer*
   Und die haben recht: ich sag ihnen (fast) nichts Neues.\
   Quasi: *Fremder Laberhans verpackt **unsere Welt** in sein Pseudogeschwurbel, und kommt sich vor wie Kolumbus. lol*\
   Absolut nachvollziehbar.
-  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen.\
+  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's.\
   "One size fits all" (Frank Zappa)
   
 - Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte.
