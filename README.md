@@ -57,12 +57,16 @@ Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie nur leicht verallgemeine
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? Ich? Du? - *hihihi*
 - Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
 - Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
-  Jetzt guck nicht so. Keine erkennt die Wekt "an sich", also muss jeder in einer mehr oder weniger ... Illusion leben.\
-  Ich denke "Wahn" befindet sich auf einer Art Skala: Von-Bis.\
+  Jetzt guck nicht so. Keiner erkennt die Welt "an sich", also muss jeder in einer mehr oder weniger 'korrekten' Illusion leben. Kein Wesen kommt aus der Nummer raus.\
+  "Wahn" befindet sich also eher auf einer Art Skala: Von-Bis.\
   Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
-- Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
-- Krasser Scheiß. Ich kann aber auch nichts dafür.
-- Metawix? Nope.
+  
+- Ein Größenwahn? Ich bin ein niemand, *aber ich darf denken*. (Was ist ein Jemand?)\
+  Und ich hab was interessantes gefunden. Schätze ich. Aber ich bin zugegebenermaßen leicht voreingenommen.
+- Krasser Scheiß. Ich kann doch auch nichts dafür.
+- Metawix? Nope. Checkout!
+
+Man fragt sich, was dahinter steckt...
 
 ---
 
