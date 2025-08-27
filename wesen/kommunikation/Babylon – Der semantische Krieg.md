@@ -86,7 +86,7 @@ Wer will, kann sie durchspielen wie ein Memetik-Lexikon.
 
 ---
 
-## BAM. BAM. – Begriffe im Wandel
+## Begriffe im Wandel. Beispiele:
 
 - **Vielfalt**  
   Von neutraler Beschreibung → zur moralischen Pflicht.
