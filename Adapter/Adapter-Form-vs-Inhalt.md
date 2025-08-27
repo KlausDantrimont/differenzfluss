@@ -36,3 +36,6 @@
 
 * **DFT-Resonanz:**
   Die klare Trennung von Form und Inhalt ist ein kognitiver Filter gegen **Schein-Differenzen**. Sie macht sichtbar, dass die Wahrheit einer Aussage unabhängig ist von der sozialen Differenz des Sprechers.
+
+
+* [Beispiel: KI](<Adapter-Form-vs-Inhalt-KI.md>)
