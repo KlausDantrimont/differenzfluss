@@ -29,7 +29,7 @@ Differenzfluss:
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist. Ich hätte "Bob" oder "Diffy" nehmen sollen.\
 Evolution lebt mit Altlasten, solange kein refactoring stattfindet.\
-Ich Depp: **"Evolution"** heißt die Sache. Nur halt leicht verallgemeinert. Seufz.
+Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie nur leicht verallgemeinert. Seufz. *hinterher, immer hinterher*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker und Turbolifte.\
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
