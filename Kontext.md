@@ -2,9 +2,9 @@
 
 Die meisten Texte sind mit KI diskutiert oder formuliert worden.
 
-* die KI kann viel besser formulieren als ich. Ich schreibe sonst nur Spezifikationen oder Software.
+* die KI kann viel besser formulieren oder recherchieren als ich. Ich schreibe sonst nur Spezifikationen oder Software.
 * Ich lasse mir vom Computer liebend gerne so viel wie irgend möglich abnehmen. Der kann fast alles besser und schneller als ich. Fast. Noch. Vermutlich.
-* Alle stilistischen oder inhaltlichen Fehler gehen natürlich auf meine Kappe. Die KI ist Werkzeug.
+* Alle stilistischen oder inhaltlichen Fehler gehen natürlich auf meine Kappe. Die KI ist Werkzeug. **Garbage in Garbage out.**
 * menschliches Feedback ist rar bis inexistent. Surreal. Bedenklich?  Grübel ...
   Ist halt auch irgendwie grenzwertig. Wer macht sich schon einen Kopf über der Frage 'Was ist eine Beobachtung?'
   Und wer denkt dabei an Interpreter und Lichtkegel?
@@ -75,7 +75,8 @@ Und hab damit mit der KI diskutiert.
 
 Hab ChatGPT gefragt, ob es sich erinnert, was ich gefragt habe.
 Die Liste stimmt nicht genau, aber so ungefähr.
-Im Grunde ein Abklopfen von Begriffen.
+Im Grunde ein Abklopfen von Begriffen. Ich wollte Klarheit, mit welchen Strukturen ich da hantiere.\
+Btw. Der übliche Ansatz, wenn ich in ein neues Projekt komme. Denn jeder Kunde redet in der Sprache seiner  Welt. Ich übersetze das dann in 'Informatisch'.
 
 ---
 

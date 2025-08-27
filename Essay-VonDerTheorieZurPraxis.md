@@ -26,7 +26,7 @@ In einem Konzern wird eine Kultur etabliert, in der es als überlebenswichtig gi
 
 - **Differenz:** Die Kluft zwischen tatsächlichem Projektfortschritt und dem idealisierten Statusbericht.
 - **Fluss:** Ein gefilterter Informationsfluss, der nur „funktionierende“ Nachrichten weiterleitet, während kritische Informationen unterdrückt werden.
-- **Dynamik:** Diese Differenz zwischen wahrgenommenem und tatsächlichem Zustand führt letztlich zu einem Kollaps des Systems, wenn das zugrunde liegende Problem nicht mehr verborgen werden kann. Die Krise offenbart, dass die strukturellen Anreize den Informationsaustausch nachhaltig verfälscht.
+- **Dynamik:** Diese Differenz zwischen wahrgenommenem und tatsächlichem Zustand führt letztlich zu einem Kollaps des Systems, wenn das zugrunde liegende Problem nicht mehr verborgen werden kann. Die Krise offenbart, dass die strukturellen Anreize den Informationsaustausch nachhaltig verfälschen.
 
 ### 2. Softwareentwicklung und Code-Erosion
 
@@ -75,3 +75,4 @@ Die Differenzflusstheorie bietet somit einen einheitlichen Rahmen, um diese Dyna
 Die Differenzflusstheorie lädt dazu ein, über starre Strukturen hinauszudenken und dynamische Prozesse in den Blick zu nehmen. Sie zeigt, wie kleine Differenzen in Kombination mit unaufhörlichen Flüssen zu systemischen Krisen führen können – sei es in der Unternehmenskommunikation, in der Softwareentwicklung, in sozialen Medien oder im urbanen Raum. 
 
 Indem wir diese Zusammenhänge erkennen und verstehen, eröffnet sich nicht nur ein neues theoretisches Fundament, sondern auch ein praxisnaher Ansatz, um bestehende Systeme zu analysieren, zu hinterfragen und letztlich zu verbessern. Sobald der Leser einen der beschriebenen Fälle nachvollziehen kann, versteht er das grundlegende Konzept der Differenzflusstheorie und wird angeregt, diese Perspektive in weiteren Bereichen anzuwenden.
+

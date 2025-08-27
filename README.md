@@ -18,34 +18,63 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
-Selbstbeschreibung des Repo:
+Differenzfluss:
+- Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
-- Ein Experiment. Ich mach sowas zum ersten mal.
-- Ein naives Kind, das ruft "Guck mal". (Das Repo ruft, nicht ich). Bitte Mitdenken!
-- Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
-- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
-- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf** ... oder Selberdenken?
+- Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
+- Ein naives Kind, das ruft "Hoppla, da bin ich. Guck mal, was ich gefunden hab". 
+- Ein Prozess. Ein "Aha!" versucht sich zu entfalten und tastet blind herum. Poesie. *Seufz*
+- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
+- Eine völlig absurde Behauptung. Oder doch nicht?
+- Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
+- Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist.\
+Evolution lebt mit Altlasten, solange kein refactoring stattfindet.\
+Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgemeinert.\
+Ich hab's: **Diffolution**\
+Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
-- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.\ 
-  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
-                                                                                                                                    
-                               
-  ==> [Abkürzungen, aber keine Skilifte](<Adapter/readme.md>).
+- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
+  Ich stehe auf den Schultern von Riesen, in der Ferne die Schatten Mordors.
+  ==> [Adapter](<Adapter/readme.md>).
                                                
 - Eine Art Gewürz?
 - Eine Frechheit? Kind of.
-- Respektlos? Mitnichten. Im Gegenteil.
-- Kunst. Kind of.
+- Dreist? Man macht sich nicht nur Freunde, wenn man von Außen in die Disziplinen rein labert.\
+  Bzw. Es kommt gar nicht gut an.\
+  Und die haben recht: ich sag ihnen (fast) nichts Neues.\
+  Quasi: *Fremder Laberhans verpackt **unsere Welt** in sein Pseudogeschwurbel, und kommt sich vor wie Kolumbus. lol*\
+  Absolut nachvollziehbar.
+  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's.\
+  "One size fits all" (Frank Zappa)
+  
+- Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte.
+- Kunst. Kind of. Muss ja. Und warum nicht?
+- Humor? Auf jeden Fall, wenn mir danach ist.\
+  Ich meine: Ernsthaft: Was soll der Quatsch?\
+  Ich hab selten so gelacht, wie bei meinen Forschungen.\
+  Humor und Leichtsinn sind zwei verschiedene Paar Schuh.\
+  Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
-- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups!
-- Eine Prüfung im Glauben an die Vernunft. Bestanden? *hihihi*
-- Eine Hirngymnastik? Es wird knacken. Vertrau mir.
-- Ein Wahn? - Jeder spinnt auf seine Weise.\
-  "Da steckt System dahinter" sagen die Verschwörungstheoretiker, und die Wissenschaftler. Und ich.
-- Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
-- Und schon irgendwie: Krasser Scheiß. Ich kann auch nichts dafür.
-- System (slowly) shuting down. Starting core dump.
+- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
+- Eine Prüfung im Glauben an die Vernunft. Bestanden? Ich? Du? - *hihihi*
+- Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
+- Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
+  Jetzt guck nicht so. Keiner erkennt die Welt "an sich", also muss jeder in einer mehr oder weniger 'korrekten' Illusion leben. Kein Wesen kommt aus der Nummer raus.\
+  "Wahn" befindet sich also eher auf einer Art Skala: Von-Bis.\
+  Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
+  
+- Ein Größenwahn? Ich bin ein niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
+  Und ich hab was interessantes gefunden. Schätze ich. Aber ich bin zugegebenermaßen leicht voreingenommen ;-)\
+  Bilde ich mir was ein?\
+  Wieso sollte ich? Wozu wäre das gut? Zahlt das das Frühstück?\
+  Und wenn's so wäre: Wen juckt's?\
+  Reputation?: Wenn Dir der schrägste Spinner die fehlende Münze am Parkautomaten schenkt, lehnst Du ab?\
+  Ich würde sie nehmen, einwerfen, danke sagen, und zum Auto gehen. Man muss ja nicht gleich heiraten.
+- Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
+- Metawix? Nope. Check it out!
+
+Man fragt sich, was dahinter steckt...
 
 ---
 
@@ -58,8 +87,19 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.  
 
 ---
-Wer sich die Baustelle weiter unten sparen will, kann gleich zu den **Adaptern** springen.  
-Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohne Verrenkungen, mit offenen Anschlüssen.
+Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
+Die Adapter fragen, wie Dieser oder Jener, Dies oder Das zur DFT steht. Es sind Einordnungen aus verschiedenen Winkeln.\
+Oder wie mein Kater Elvis sagen würde: Semantische Frequenzwandler.
+
+Es kann helfen sich die Texte von einer KI übersetzen zu lassen.\
+KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
+KI sind beim Abstrahieren auch flexibler als Menschen.\
+Form und Inhalt zu trennen, also eine Metaperspektive einnehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
+Zudem stört kein Ego, keine Angst, kein Wunsch, außer vielleicht Halluzination.\
+Am Selberdenken führt also kein Weg vorbei.
+
+**Tip: Man nehme sich Popcorn, und lasse sich die Texte von eine KI zerpflücken :-)**\
+Mögen die Spiele beginnen.
 
 # Adapter-Ordner Übersicht
 

@@ -9,7 +9,7 @@ Ich denke: ja.
 
 # Warum sollte ich das lesen?
 
-Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren eigenen Grund, hier einzusteigen:
+Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren eigenen Weg, hier einzusteigen:
 
 * **Philosoph\:innen** → Klassische Fragen wie Zeit, Sein und Subjektivität werden im Licht rekursiver Strukturen neu gedacht.
 * **Naturwissenschaftler\:innen & Mathematiker\:innen** → Ein konsistentes Muster verbindet Physik, Biologie, Chemie und Mathematik auf interdisziplinäre Weise.
@@ -87,10 +87,10 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
 ## Kognition & Sprache
 
-* [Adapter-Kognition.md](Adapter-Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.
-* [Adapter-Neurowissenschaften.md](Adapter-Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.
-* [Adapter-Künstliche-Intelligenz.md](Adapter-Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
-* [Adapter-Sprache.md](Adapter-Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
+* [Adapter-Kognition.md](Adapter–Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.
+* [Adapter-Neurowissenschaften.md](Adapter–Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.
+* [Adapter-Künstliche-Intelligenz.md](Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
+* [Adapter-Sprache.md](Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
 * [Adapter-Kommunikation.md](Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.
 * [Adapter-Form-vs-Inhalt.md](<Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
 
