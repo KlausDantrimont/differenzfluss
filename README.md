@@ -54,7 +54,7 @@ Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie nur leicht verallgemeine
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
-- Eine Prüfung im Glauben an die Vernunft. Bestanden? Hm ... *hihihi*
+- Eine Prüfung im Glauben an die Vernunft. Bestanden? Ich? Du? - *hihihi*
 - Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
 - Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
   Jetzt guck nicht so. Keine erkennt die Wekt "an sich", also muss jeder in einer mehr oder weniger ... Illusion leben.\
