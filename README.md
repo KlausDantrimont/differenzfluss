@@ -29,9 +29,9 @@ Selbstbeschreibung des Repo:
 - Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist. Ich hätte "Bob" oder "Diffy" nehmen sollen.\
 Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
-- Das Ergebnis von 6 Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende von "What the Fuck?" unzähliger Vordenker.\ 
+- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker.\
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
-                                                                                                                                    
+                                                                                                                                      
                                
   ==> [Abkürzungen, aber keine Skilifte](<Adapter/readme.md>).
                                                
@@ -46,8 +46,7 @@ Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
 - Ein Wahn? - Jeder spinnt auf seine Weise.\
   "Da steckt System dahinter" sagen die Verschwörungstheoretiker, und die Wissenschaftler. Und ich.
 - Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
-- Und schon irgendwie: Krasser Scheiß. Ich kann auch nichts dafür.
-- System (slowly) shuting down. Starting core dump.
+- Krasser Scheiß. Ich kann aber auch nichts dafür.
 
 ---
 
