@@ -40,11 +40,10 @@ Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
 - Respektlos? Mitnichten. Im Gegenteil.
 - Kunst. Kind of.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
-- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups!
-- Eine Prüfung im Glauben an die Vernunft. Bestanden? *hihihi*
-- Eine Hirngymnastik? Es wird knacken. Vertrau mir.
-- Ein Wahn? - Jeder spinnt auf seine Weise.\
-  "Da steckt System dahinter" sagen die Verschwörungstheoretiker, und die Wissenschaftler. Und ich.
+- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
+- Eine Prüfung im Glauben an die Vernunft. Bestanden? Hm ... *hihihi*
+- Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
+- Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an.
 - Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
 - Krasser Scheiß. Ich kann aber auch nichts dafür.
 
