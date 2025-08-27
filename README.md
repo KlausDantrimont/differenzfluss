@@ -23,7 +23,7 @@ Differenzfluss:
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
 - Ein naives Kind, das ruft "Guck mal". 
-- Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
+- Ein Prozess. Ein "Aha!" versucht sich zu entfalten und tastet blind herum. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
 - Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
