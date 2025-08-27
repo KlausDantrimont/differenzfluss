@@ -75,7 +75,8 @@ Und hab damit mit der KI diskutiert.
 
 Hab ChatGPT gefragt, ob es sich erinnert, was ich gefragt habe.
 Die Liste stimmt nicht genau, aber so ungefähr.
-Im Grunde ein Abklopfen von Begriffen.
+Im Grunde ein Abklopfen von Begriffen. Ich wollte Klarheit, mit welchen Strukturen ich da hantiere.\
+Btw. Der übliche Ansatz, wenn ich in ein neues Projekt komme. Denn jeder Kunde redet in der Sprache seiner  Welt. Ich übersetze das dann in 'Informatisch'.
 
 ---
 
