@@ -36,15 +36,26 @@ Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
                                                
 - Eine Art Gewürz?
 - Eine Frechheit? Kind of.
-- Respektlos? Mitnichten. Im Gegenteil.
-- Kunst. Kind of.
+- Dreist? Man macht sich nicht nur Freunde, wenn man von Außen in die Disziplinen rein labert.\
+  Bzw. Es kommt gar nicht gut an.
+- Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte.
+- Kunst. Kind of. Muss ja. Und warum nicht?
+- Humor? Auf jeden Fall, wenn mir danach ist.\
+  Ich meine: Ernsthaft: Was soll der Quatsch?\
+  Ich hab selten so gelacht, wie bei meinen Forschungen.\
+  Humor und Leichtsinn sind zwei verschiedene Paar Schuh.\
+  Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? Hm ... *hihihi*
 - Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
-- Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an.
+- Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
+  Jetzt guck nicht so. Keine erkennt die Wekt "an sich", also muss jeder in einer mehr oder weniger ... Illusion leben.\
+  Ich denke "Wahn" befindet sich auf einer Art Skala: Von-Bis.\
+  Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
 - Ein Größenwahn? Ich bin niemand, *aber ich darf denken*. Und ich hab was interessantes gefunden. Glaub ich.
 - Krasser Scheiß. Ich kann aber auch nichts dafür.
+- Metawix? Nope.
 
 ---
 
@@ -57,9 +68,9 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.  
 
 ---
-Wer sich die Baustelle weiter unten sparen will, kann hier zu den **Adaptern** springen.\
-Hier frage ich, wie Dieser oder Jener zu Diffy steht. Schlichte Einordnungen.\
-Oder wie mein Kater sagen würde: Semantische Frequenzwandler.
+Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
+Die Adapter fragen, wie Dieser oder Jener, Dies oder Das zur DFT steht. Es sind Einordnungen aus verschiedenen Winkeln.\
+Oder wie mein Kater Elvis sagen würde: Semantische Frequenzwandler.
 
 Es kann helfen sich die Texte von einer KI übersetzen zu lassen.\
 KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
