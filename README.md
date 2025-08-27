@@ -24,7 +24,7 @@ Selbstbeschreibung des Repo:
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein naives Kind, das ruft "Guck mal". 
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
-- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das kann nur schief gehen. Außer man versteht den Witz. Au Backe.
+- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
 - Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf** ... oder Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist. Ich hätte "Bob" oder "Diffy" nehmen sollen.\
