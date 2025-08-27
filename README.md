@@ -18,7 +18,7 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
-Selbstbeschreibung des Repo:
+Differenzfluss:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
