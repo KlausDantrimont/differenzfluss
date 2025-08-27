@@ -25,6 +25,7 @@ Differenzfluss:
 - Ein naives Kind, das ruft "Hoppla, da bin ich. Guck mal, was ich gefunden hab". 
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten und tastet blind herum. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
+- Eine völlig absurde Behauptung. Oder doch nicht?
 - Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist.\
