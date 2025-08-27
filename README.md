@@ -59,8 +59,9 @@ War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen 
 Ich denke: ja.  
 
 ---
-Wer sich die Baustelle weiter unten sparen will, kann gleich zu den **Adaptern** springen.  
-Dort versuche ich aus mehreren Richtungen heranzuführen und abzugrenzen – ohne Verrenkungen, mit offenen Anschlüssen.
+Wer sich die Baustelle weiter unten sparen will, kann hier zu den **Adaptern** springen.\
+Hier frage ich, wie Dieser oder Jener zu Diffy steht. Schlichte Einordnungen.\
+Oder wie mein Kater sagen würde: Semantische Frequenzwandler.
 
 # Adapter-Ordner Übersicht
 
