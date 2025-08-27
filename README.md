@@ -19,6 +19,7 @@
 
 ---
 Selbstbeschreibung des Repo:
+- Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal.
 - Ein naives Kind, das ruft "Guck mal". (Das Repo ruft, nicht ich).
