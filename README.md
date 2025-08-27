@@ -34,8 +34,8 @@ Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgeme
 Ich hab's: **Diffolution**\
 Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
-- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker und Turbolifte.\
-  Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
+- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
+  Ich stehe auf den Schultern von Riesen, in der Ferne die Schatten Mordors.
   ==> [Adapter](<Adapter/readme.md>).
                                                
 - Eine Art Gewürz?
