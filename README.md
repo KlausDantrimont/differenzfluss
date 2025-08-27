@@ -32,7 +32,7 @@ Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker und Turbolifte.\
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
-  ==> [Abkürzungen, aber keine Skilifte](<Adapter/readme.md>).
+  ==> [Adapter](<Adapter/readme.md>).
                                                
 - Eine Art Gewürz?
 - Eine Frechheit? Kind of.
