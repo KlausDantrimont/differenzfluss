@@ -87,10 +87,10 @@ Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
 ## Kognition & Sprache
 
-* [Adapter-Kognition.md](Adapter-Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.
-* [Adapter-Neurowissenschaften.md](Adapter-Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.
-* [Adapter-Künstliche-Intelligenz.md](Adapter-Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
-* [Adapter-Sprache.md](Adapter-Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
+* [Adapter-Kognition.md](Adapter–Kognition.md) – Denken als Differenzmaschine zwischen Welt und Wahrnehmung.
+* [Adapter-Neurowissenschaften.md](Adapter–Neurowissenschaften.md) – Gehirn als rekursives Differenznetz.
+* [Adapter-Künstliche-Intelligenz.md](Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.
+* [Adapter-Sprache.md](Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.
 * [Adapter-Kommunikation.md](Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.
 * [Adapter-Form-vs-Inhalt.md](<Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
 
