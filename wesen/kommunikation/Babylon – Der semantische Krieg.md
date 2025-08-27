@@ -6,7 +6,7 @@ Sprache ist kein neutrales Medium. Sie ist ein Werkzeug, ein Spiegel, ein Schlac
 
 Was wie ein sprachlicher Wandel erscheint, ist oft ein gezielter Umbau semantischer Infrastruktur. Es ist ein Babylon nicht der Sprachen, sondern der Bedeutungen – ein Turm aus Begriffen, die scheinbar gleich geblieben sind, aber andere Wirklichkeiten tragen.
 
-Manchmal gibt es welche, die wollen, dass irgendwas nach ihrer Nase läuft, ohne dass es groß einer mitkriegt. Manchmal entstehen Moden, Trends, Graswurzelbewegungen, machmal Astroturf, künstliche Graswurzelbewegungen. "It's a Jungle out there". Wer mag kann kann das Treiben betrachten.
+"Manchmal gibt es welche, die wollen, dass irgendwas nach ihrer Nase läuft, ohne dass es groß einer mitkriegt. Manchmal entstehen Moden, Trends, Graswurzelbewegungen, machmal Astroturf, künstliche Graswurzelbewegungen. "It's a Jungle out there". Wer mag kann kann das Treiben betrachten."
 
 ## Der Mechanismus: Verformung als Operator
 
