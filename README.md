@@ -27,9 +27,11 @@ Differenzfluss:
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
 - Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
-- Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist. Ich hätte "Bob" oder "Diffy" nehmen sollen.\
+- Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist.\
 Evolution lebt mit Altlasten, solange kein refactoring stattfindet.\
-Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie nur leicht verallgemeinert. Seufz. *hinterher, immer hinterher*
+Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgemeinert.\
+Ich hab's: **Diffolution**\
+Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker und Turbolifte.\
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
