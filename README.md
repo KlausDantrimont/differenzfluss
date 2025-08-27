@@ -25,15 +25,13 @@ Selbstbeschreibung des Repo:
 - Ein naives Kind, das ruft "Guck mal". 
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
-- Ein Werkzeug. Ja, das behaupten Alle. Aber hier sag *ich's*. **aufstampf** ... oder Selberdenken?
+- Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
 - Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
 - Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist. Ich hätte "Bob" oder "Diffy" nehmen sollen.\
 Evolution lebt mit Altlasten, solange kein refactoring stattfindet.
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker.\
   Ich stehe auf den Schultern von Riesen, und genieße die Aussicht.
-                                                                                                                                      
-                               
   ==> [Abkürzungen, aber keine Skilifte](<Adapter/readme.md>).
                                                
 - Eine Art Gewürz?
@@ -62,6 +60,16 @@ Ich denke: ja.
 Wer sich die Baustelle weiter unten sparen will, kann hier zu den **Adaptern** springen.\
 Hier frage ich, wie Dieser oder Jener zu Diffy steht. Schlichte Einordnungen.\
 Oder wie mein Kater sagen würde: Semantische Frequenzwandler.
+
+Es kann helfen sich die Texte von einer KI übersetzen zu lassen.\
+KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
+KI sind beim Abstrahieren auch flexibler als Menschen.\
+Form und Inhalt zu trennen, also eine Metaperspektive einnehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
+Zudem stört kein Ego, keine Angst, kein Wunsch, außer vielleicht Halluzination.\
+Am Selberdenken führt also kein Weg vorbei.
+
+**Tip: Man nehme sich Popcorn, und lasse sich die Texte von eine KI zerpflücken :-)**\
+Mögen die Spiele beginnen.
 
 # Adapter-Ordner Übersicht
 
