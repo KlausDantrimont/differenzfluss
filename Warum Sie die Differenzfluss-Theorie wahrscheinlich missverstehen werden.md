@@ -97,7 +97,7 @@ Sie verwechseln **Abstraktionsebenen**. Die DFT ist abstrakt, weil sie **univers
 ### Was tatsächlich passiert:
 Sie reduzieren **Neues auf Bekanntes**, um kognitive Energie zu sparen. Das ist ein nützlicher Mechanismus - aber er verhindert echtes Verstehen von strukturellen Unterschieden.
 
-**Die Falle:** Oberflächliche Ähnlichkeiten überdecken tiefere Unterschiede.
+**Die Falle:** Oberflächliche Ähnlichkeiten überdecken tiefere Unterschiede, und Oberflächliche Unterschiede überdecken tiefere Ähnlichkeiten.
 
 **Test:** Können Sie konkret benennen, wodurch sich die DFT von dem unterscheidet, womit Sie sie verglichen haben?
 
