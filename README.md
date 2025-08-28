@@ -73,7 +73,8 @@ Seufz: *hinterher ist man immer schlauer*
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
 - Metawix? Nope. Check it out!
 
-Man fragt sich, was dahinter steckt...
+Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
+
 
 ---
 

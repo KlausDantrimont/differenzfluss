@@ -12,6 +12,9 @@ Aber sie liefert vielleicht neue Fragen, wie zB:
 - Wo ist das Interface, das den Fluss ermöglicht oder blockiert?
 - Was geschieht, wenn wir den Maßstab wechseln?
 
+---
+
+Trivial: Man kann machen, oder gucken wie man macht, oder gucken wie man guckt.
 
 ---
 
