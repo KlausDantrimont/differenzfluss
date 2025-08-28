@@ -176,6 +176,7 @@ Interessanterweise gibt es andere, die in ähnliche Richtungen denken.\
 Vielleicht ist die Zeit einfach reif für eine relationale Ontologie.
 - [The Genesis Structure of the Information Universe](https://binarymath.dw.cash/docs/genesis-unified-theory-en)
 - [theory psi](https://binarymath.dw.cash/docs/theory_psi)
+- [Gauge-Gravity Coupling in Manifold Quantum Gravity](https://zenodo.org/records/16934217)
   
 ---
 
