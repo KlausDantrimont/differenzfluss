@@ -152,9 +152,11 @@ Mögen die Spiele beginnen.
 
 *Abheben und runtergucken.*
 
+- [Die erste Frage.md](<Erkenntnistheorie/Die erste Frage.md>)
+
 ---
 
-Ab hier kommt allerlei außenrum, deep dives, historisches, Produktideen, und am Ende die zwei Büchlein, mit denen alles los ging.
+Ab hier kommt allerlei außenrum, deep dives, Gewachsenes, Produktideen, und am Ende die zwei Büchlein, mit denen alles los ging.
 ---
 
 Ich habe im Laufe der Jahre Compiler, Compiler-Compiler und Interpreter für eigene Domänensprachen entwickelt.

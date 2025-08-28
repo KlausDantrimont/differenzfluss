@@ -11,6 +11,7 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 | **die schlabunsentheorie – eine theorie ohne unterschied.md** | Parodistische bzw. pointierte Skizze einer Nicht-Theorie – als Kontrastfolie zur DFT. Verdeutlicht die erkenntnistheoretische Relevanz von Differenz. |
 | **differenzfluss – erkenntnistheoretischer kern.md** | Grundlagenaufsatz zum erkenntnistheoretischen Gehalt der DFT: Erkenntnis als Stabilisierung von Differenzen im Fluss. |
 | **existenz ist beziehung.md** | Untersuchung des Begriffs „Existenz“ als relationale Eigenschaft in einem dynamischen Differenznetz. |
+| **Die erste Frage.md**|Die erste Differenz als Frage des Nichts an sich selbst|
 | **kategorientheorie im fluss.md** | Erste Annäherung an eine Interpretation der Kategorientheorie aus Sicht der DFT. |
 | **kategorientheorie_vs_dft.md** | Mapping-Tabelle zentraler Begriffe zwischen Kategorientheorie und Differenzierungsfluss-Theorie. Dient der Anschlussfähigkeit und strukturellen Vergleichbarkeit. |
 | **Plausibilitätsanalyse_DFT.md** | Überlegungen zur Plausibilität der Differenzierungsfluss-Theorie (DFT)|
@@ -19,6 +20,7 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 - [Die Schlabunsentheorie – Eine Theorie ohne Unterschied](<Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)
 - [Existenz ist Beziehung](<Existenz ist Beziehung.md>)
+- [Die erste Frage.md](<Die erste Frage.md>)
 - [Kategorientheorie im fluss](<Kategorientheorie im fluss.md>)
 - [Kategorientheorie_vs_DFT](<Kategorientheorie_vs_DFT.md>)
 - [Plausibilitätsanalyse_DFT.md](<Plausibilitätsanalyse_DFT.md>)
