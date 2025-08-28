@@ -63,13 +63,9 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen.
   "Wahn" befindet sich also eher auf einer Art Skala: Von-Bis.\
   Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
   
-- Ein Größenwahn? Ich bin ein niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
-  Und ich hab was interessantes gefunden. Schätze ich. Aber ich bin zugegebenermaßen leicht voreingenommen ;-)\
-  Bilde ich mir was ein?\
-  Wieso sollte ich? Wozu wäre das gut? Zahlt das das Frühstück?\
-  Und wenn's so wäre: Wen juckt's?\
-  Reputation?: Wenn Dir der schrägste Spinner die fehlende Münze am Parkautomaten schenkt, lehnst Du ab?\
-  Ich würde sie nehmen, einwerfen, danke sagen, und zum Auto gehen. Man muss ja nicht gleich heiraten.
+- Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
+  Und ich hab was interessantes gefunden.\
+  Man kann hingucken, oder weg gucken. Mir wurst.
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
 - Metawix? Nope. Check it out!
 
