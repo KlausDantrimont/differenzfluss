@@ -35,9 +35,8 @@ Ich hab's: **Diffolution**\
 Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
-  Ich stehe auf den Schultern von Riesen, in der Ferne die Schatten Mordors.
-  ==> [Adapter](<Adapter/readme.md>).
-                                               
+  Ich stehe auf den Schultern von Riesen.
+                                                 
 - Eine Art Gewürz?
 - Eine Frechheit? Kind of.
 - Dreist? Man macht sich nicht nur Freunde, wenn man von Außen in die Disziplinen rein labert.\
