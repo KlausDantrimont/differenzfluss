@@ -28,7 +28,7 @@ Und beide landen bei:
 - Unterscheidung als Grundlage jeder Struktur
 - Subjektivität = stabilisierter Differenzstrom
 - Wahrnehmung = selektive Kopplung im Netz
-- Paradoxien = Rückkopplungsknoten
+- Paradoxien = Rückkopplungsknoten der Form: Ich bin anders, als ich bin.
 - Begriffe = Werkzeuge, keine Wahrheiten
 
 ---
