@@ -22,7 +22,8 @@ Differenzfluss:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
-- Ein naives Kind, das ruft "Hoppla, da bin ich. Guck mal, was ich gefunden hab". 
+- Ein naives Kind, das ruft "Hoppla, da bin ich. Guck mal, was ich gefunden hab".\
+  Bin wohl ein bisschen stolz drauf. War auch ein ziemlicher Act. All das Kopfkratzen über Jahrzehnte. 
 - Ein Prozess. Ein "Aha!" versucht sich zu entfalten und tastet blind herum. Poesie. *Seufz*
 - Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
 - Eine völlig absurde Behauptung. Oder doch nicht?
