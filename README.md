@@ -317,7 +317,7 @@ So öffnet sie nicht ein fertiges System, sondern eine Haltung: **Die Welt zu le
 - [Der Gag an der Differenzierungsfluss-Theorie](<Der-Gag-der-Differenzierungsfluss-Theorie.md>)
 - [Robuste Vorhersagen der Differenzierungsfluss-Theorie](<Robuste Vorhersagen der Differenzierungsfluss-Theorie.md>)
 
-### Die logische Basis ###
+### Die logisch-philosophische Basis ###
 - [Die Schlabunsentheorie](<Erkenntnistheorie/Die Schlabunsentheorie – Eine Theorie ohne Unterschied.md>)   ---  First things first
 - [Existenz ist Beziehung](<Erkenntnistheorie/Existenz ist Beziehung.md>)
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Erkenntnistheorie/Differenzfluss - Erkenntnistheoretischer Kern.md>)
