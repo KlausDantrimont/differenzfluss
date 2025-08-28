@@ -127,7 +127,7 @@ Mögen die Spiele beginnen.
   - [Adapter–Künstliche-Intelligenz](Adapter/Adapter–Künstliche-Intelligenz.md) – KI als künstlicher Differenzfluss.  
   - [Adapter-Sprache](Adapter/Adapter–Sprache.md) – Begriffe und Sprache als differenzielle Werkzeuge.  
   - [Adapter-Kommunikation](Adapter/Adapter-Kommunikation.md) – Kommunikation als Austausch stabiler Differenzen.  
-  - [Adapter-Form-vs-Inhalt.md](<Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
+  - [Adapter-Form-vs-Inhalt.md](<Adapter/Adapter-Form-vs-Inhalt.md>) – Über Differenz und Scheindifferenz
   
 
 - **Gesellschaft & Kultur**
