@@ -65,7 +65,9 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen.
   
 - Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
   Und ich hab was interessantes gefunden.\
-  Man kann hingucken, oder weg gucken. Mir wurst.
+  Man kann hingucken, oder weg gucken. Mir wurst.\
+  Das Projekt war nicht geplant.
+    
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
 - Metawix? Nope. Check it out!
 
