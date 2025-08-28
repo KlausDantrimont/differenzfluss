@@ -86,6 +86,8 @@ Wäre dieses Wissen für irgendetwas gut?
 War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
 Ich denke: ja.  
 
+[Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
+
 ---
 Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
 Die Adapter fragen, wie Dieser oder Jener, Dies oder Das zur DFT steht. Es sind Einordnungen aus verschiedenen Winkeln.\
