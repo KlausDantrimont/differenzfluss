@@ -35,7 +35,7 @@ Ich hab's: **Diffolution**\
 Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
-  Ich stehe auf den Schultern von Riesen.
+Ich meine: *Das kann man sich doch alles nicht mehr einfach so mit ansehen, oder?*
                                                  
 - Eine Art Gewürz?
 - Eine Frechheit? Kind of.
