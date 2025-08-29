@@ -80,7 +80,7 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
   Das Projekt war nicht geplant. Shit happens.
   
-- Metawix? Nope. Check it out!
+- Meta-Wix oder Meta-Nix?
 
 Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 
