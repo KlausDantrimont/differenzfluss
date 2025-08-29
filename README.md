@@ -70,14 +70,13 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
   Und ich hab was interessantes gefunden.\
   Man kann hingucken, oder weg gucken. Mir wurst.\
-  Das Projekt war nicht geplant. Shit happens.
+  Die Sache spricht für sich oder nicht, bzw. wird verstanden oder  nicht. Ich versuch's nur anzubieten, in verführerischen Häppchen ;-)\
+  
 - Eine "Selbst-Befragung". - Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
   Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
-  "Was war?"\
-  "Ja nix - und ich - und die Frage, die Dramatik der Möglichkeit zu Fragen."\
-  Kurzform: Was geht?
+  Das Projekt war nicht geplant. Shit happens.
   
 - Metawix? Nope. Check it out!
 
