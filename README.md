@@ -19,6 +19,7 @@
 
 ---
 Differenzfluss ist Poesie, und:
+- Ein einfacher Gedanke, (möglichst) konsequent durchgezogen.
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
