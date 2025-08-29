@@ -73,7 +73,7 @@ Womöglich befinden sich das Nichts und ich in derselben Situation:
 
 # Antithese: Das Paradox ohne Interpreten
 
-Eine Frage setzt bereits viel voraus: einen Interpreten, eine Absicht, ein Gegenüber.
+Eine Frage setzt bereits viel voraus: einen Interpreten, eine Absicht, eine Wahrnehmung.
 Der Gedanke einer Schöpfung durch Selbstbefragung ist zwar charmant, aber nicht konsistent.
 Das Phänomen Frage kann erst auftreten, wenn es etwas gibt, das fragen kann.
 
