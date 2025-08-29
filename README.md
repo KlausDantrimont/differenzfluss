@@ -52,7 +52,7 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte. Hier und da, bissl was.\
   In die Informatik bin ich dagegen so richtig tief rein.\
   Ich hab nicht alles gemacht, aber das was ich gemacht habe, hab ich so gut durchdrungen, wie ich konnte.\
-  Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion.\
+  Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion. Ohne es zu merken.\
   Wie merkt der Fisch, dass Wasser nass ist?
 - Kunst. Kind of. Muss ja. Und warum nicht?
 - Humor? Auf jeden Fall, wenn mir danach ist.\
