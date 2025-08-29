@@ -63,14 +63,15 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Eine Prüfung im Glauben an die Vernunft. Bestanden? Ich? Du? - *hihihi*
 - Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
 - Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
-  Jetzt guck nicht so. Keiner erkennt die Welt "an sich", also muss jeder in einer mehr oder weniger 'korrekten' Illusion leben. Kein Wesen kommt aus der Nummer raus.\
+  Jetzt guck nicht so. Keiner erkennt die Welt "an sich", also muss jeder in einer mehr oder weniger 'korrekten' Illusion leben. Kein Wesen kommt aus der Nummer raus.\  
   "Wahn" befindet sich also eher auf einer Art Skala: Von-Bis.\
   Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
   
 - Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
   Und ich hab was interessantes gefunden.\
-  Man kann hingucken, oder weg gucken. Mir wurst.\
+  Man kann hingucken, oder weg gucken.\
   Die Sache spricht für sich oder nicht, bzw. wird verstanden oder  nicht. Ich versuch's nur anzubieten, in verführerischen Häppchen ;-)\
+  Ehrlich gesagt ist mir schon etwas mulmig.
   
 - Eine "Selbst-Befragung". - Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
   Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
@@ -90,22 +91,24 @@ Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.  
 Wäre dieses Wissen für irgendetwas gut?  
 
-War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?  
-Ich denke: ja.  
+War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?  
+Ich denke schon.  
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
 ---
 Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
-Die Adapter fragen, wie Dieser oder Jener, Dies oder Das zur DFT steht. Es sind Einordnungen aus verschiedenen Winkeln.\
-Oder wie mein Kater Elvis sagen würde: Semantische Frequenzwandler.
+In den Adaptern fragt die KI, wie Dieser oder Jener, oder Dies oder Das zur DFT steht.\
+Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele.\
+Oder wie mein Kater Elvis sagen würde: *Semantische Frequenzwandler.*
 
-Es kann helfen sich die Texte von einer KI übersetzen zu lassen.\
+Es kann übrigens helfen sich die Texte von einer KI übersetzen zu lassen.\
 KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
 KI sind beim Abstrahieren auch flexibler als Menschen.\
 Form und Inhalt zu trennen, also eine Metaperspektive einnehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
 Zudem stört kein Ego, keine Angst, kein Wunsch, außer vielleicht Halluzination.\
-Am Selberdenken führt also kein Weg vorbei.
+Am Selberdenken führt also kein Weg vorbei.\
+Aber KI kann eben ganz gut übersetzen. Auch Konzepte!!!
 
 **Tip: Man nehme sich Popcorn, und lasse sich die Texte von eine KI zerpflücken :-)**\
 Mögen die Spiele beginnen.
