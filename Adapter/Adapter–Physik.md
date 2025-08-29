@@ -28,7 +28,7 @@
 - **Substanzontologien (klassische Teilchen)**: Teilchen sind keine Ding-Einheiten, sondern Prozess-Fixpunkte.  
 - **Reiner Instrumentalismus (Kopenhagen-Deutung extrem)**: DFT beansprucht ontologische Tiefe: Quantenmuster sind reale Differenzprozesse.  
 - **Determinismus**: Der Fluss erlaubt Stabilität und Vorhersagbarkeit, aber bleibt offen für Variation und Emergenz.  
-- **Reiner Statismus (Blockuniversum)**: DFT setzt auf generative Dynamik, nicht auf eine feststehende Vierdimensionalität.  
+- **Reiner Statismus (Blockuniversum)**: DFT setzt auf generative Implikation.  
 
 ## 4. Fazit
 

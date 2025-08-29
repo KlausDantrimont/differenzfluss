@@ -34,7 +34,7 @@ Evolution lebt mit Altlasten, solange kein refactoring stattfindet.\
 Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgemeinert.\
 Ich hab's: **Diffolution**\
 Seufz: *hinterher ist man immer schlauer*
-- Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit.
+- Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit. Eindampfen & Aufbauen.
 - Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
 Ich meine: *Das kann man sich doch alles nicht mehr einfach so mit ansehen, oder?*\
 Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich gedrängt.                                                
@@ -45,13 +45,14 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Und die haben recht: ich sag ihnen (fast) nichts Neues.\
   Quasi: *Fremder Laberhans verpackt **unsere Welt** in sein Pseudogeschwurbel, und kommt sich vor wie Kolumbus. lol*\
   Absolut nachvollziehbar.
-  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's.\
+  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's. Das kann man nutzen.\
   "One size fits all" (Frank Zappa)
   
 - Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte. Hier und da, bissl was.\
   In die Informatik bin ich dagegen so richtig tief rein.\
   Ich hab nicht alles gemacht, aber das was ich gemacht habe, hab ich so gut durchdrungen, wie ich konnte.\
-  Und da waren scharfe Sachen dabei.
+  Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion.\
+  Wie merkt der Fisch, dass Wasser nass ist?
 - Kunst. Kind of. Muss ja. Und warum nicht?
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
@@ -73,13 +74,13 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Die Sache spricht für sich oder nicht, bzw. wird verstanden oder  nicht. Ich versuch's nur anzubieten, in verführerischen Häppchen ;-)\
   Ehrlich gesagt ist mir schon etwas mulmig.
   
-- Eine "Selbst-Befragung". - Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
-  Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
+- Eine "Selbst-Befragung". - [Ein Metawitz?](<Erkenntnistheorie/Die erste Frage.md>)\
+  Mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
   Das Projekt war nicht geplant. Shit happens.
   
-- Metawix? Nope. Check it out!
+- Meta-Wix oder Meta-Nix?
 
 Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 
