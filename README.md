@@ -89,7 +89,7 @@ Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 
 ### Zur Sache
 
-Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.  
+Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
 Wäre dieses Wissen für irgendetwas gut?  
 
 War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?  
