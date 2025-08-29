@@ -52,3 +52,6 @@ Angenommen, du erkennst Differenz und Rekursion als Grundmechanik aller Phänome
 ## Fazit
 
 Die DFT macht dich zum **Meister der Komplexität** (Werbesprech der KI, sorry): nützlich für Wissenschaft, Kunst, Alltag und Humor (Ironie ist pure Differenz). Sie bringt dir keine Superkräfte, aber ein geschärftes Denken – als würdest du den Matrix-Code sehen. Ein Werkzeug, das neugierig macht und neue Räume öffnet.
+
+Meta: Weia, was für eine Angabe. "Meister"? Mal sehen. Ich übe. Es ist ungewohnt.
+
