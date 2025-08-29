@@ -48,7 +48,10 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's.\
   "One size fits all" (Frank Zappa)
   
-- Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte.
+- Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte.\
+  In die Informatik bin ich dagegen so richtig tief rein.\
+  Ich hab nicht alles gemacht, aber das was ich gemacht habe, hab ich so gut durchdrungen, wie ich konnte.\
+  Und da waren scharfe Sachen dabei.
 - Kunst. Kind of. Muss ja. Und warum nicht?
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
