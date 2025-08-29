@@ -18,7 +18,7 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
-Differenzfluss:
+Differenzfluss ist:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
@@ -71,7 +71,9 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Und ich hab was interessantes gefunden.\
   Man kann hingucken, oder weg gucken. Mir wurst.\
   Das Projekt war nicht geplant.
-    
+- Eine Selbst-Befragung. Vielfältiger Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
+  Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
+
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
 - Metawix? Nope. Check it out!
 
