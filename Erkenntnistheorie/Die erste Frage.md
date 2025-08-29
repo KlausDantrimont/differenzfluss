@@ -99,7 +99,7 @@ Auch das Individuum lebt im Paradox:
 * Es ist Teil der Welt und Beobachter derselben. Wie jedes Phänomen, das wechselwirkt.
 * Es ist endlich, aber denkt in Unendlichkeiten.
 * Es spricht „Ich“ – und macht sich damit zugleich zum Subjekt und zum Objekt.
-* Es lebt in einem "Jetzt", das nicht existiert, einem dynamischen Gebilde der Wahrnehmung - Einem physikalisch-sensorisch-kognitiven Lichtkegel.
+* Es lebt in einem "Jetzt", das nicht existiert, einem dynamischen Gebilde der Wahrnehmung - einem physikalisch-sensorisch-kognitiven Lichtkegel.
 * Es muss etwas wollen oder sein, aber herausfinden, was.
 * usw.
 
