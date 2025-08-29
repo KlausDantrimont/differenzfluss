@@ -32,7 +32,7 @@ Auch hier: Muster, Beispiele, differenztheoretische Analyse – und ein Fokus au
 Ein Essay über die Macht semantischer Verschiebungen und den „Krieg um Begriffe“.  
 Wie Sprache als Waffe genutzt wird, wie Bedeutungen verschoben oder blockiert werden – und wie man mit einer differenztheoretischen Brille solche Mechanismen sichtbar machen kann.
 
-👉 [Babylon – Der semantische Krieg](<Babylon - Der semantische Krieg.md>)
+👉 [Babylon – Der semantische Krieg](<Babylon – Der semantische Krieg.md>)
 
 ---
 
