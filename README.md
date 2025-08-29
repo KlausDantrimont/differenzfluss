@@ -99,8 +99,8 @@ Ich denke schon.
 
 ---
 Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
-In den Adaptern fragt die KI, wie Dieser oder Jener, oder Dies oder Das zur DFT steht.\
-Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele.\
+In den Adaptern fragt die KI, wiedie DFT zu Diesem oder Jenem steht.\
+Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
 Oder wie mein Kater Elvis sagen würde: *Semantische Frequenzwandler.*
 
 Es kann übrigens helfen sich die Texte von einer KI übersetzen zu lassen.\
