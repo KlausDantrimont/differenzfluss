@@ -1,3 +1,7 @@
+- These: Die erste Differenz als Frage des Nichts an sich selbst
+- Antithese: Das Paradox ohne Interpreten
+- Synthese: Das erste Echo, das das Paradox nicht nur lebt sondern sieht
+
 # These: Die erste Differenz als Frage des Nichts an sich selbst
 
 Wir sind gewohnt, Fragen als geistige Akte zu verstehen: Ein Mensch stellt eine Frage, und ein anderer oder er selbst sucht nach einer Antwort. Doch wenn man den Begriff radikalisiert, erscheint die Frage als eine universelle Struktur: eine markierte Differenz, ein Riss im Kontinuum des Selbstverständlichen.
