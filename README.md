@@ -35,7 +35,7 @@ Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgeme
 Ich hab's: **Diffolution**\
 Seufz: *hinterher ist man immer schlauer*
 - Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit. Eindampfen, Aufbauen, Debugging, sich wundern.
-- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch mehrere Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
+- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch wohl Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
 Ich meine: *Das kann man sich doch alles nicht mehr einfach so mit ansehen, oder?*\
 Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich gedrängt.                                                
 - Eine Art Gewürz?
