@@ -70,7 +70,7 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
   Und ich hab was interessantes gefunden.\
   Man kann hingucken, oder weg gucken. Mir wurst.\
-  Das Projekt war nicht geplant.
+  Das Projekt war nicht geplant. Shit happens.
 - Eine Selbst-Befragung. Vielfältiger Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
   Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
