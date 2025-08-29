@@ -18,7 +18,7 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
-Differenzfluss ist:
+Differenzfluss ist Poesie:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
@@ -71,10 +71,14 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Und ich hab was interessantes gefunden.\
   Man kann hingucken, oder weg gucken. Mir wurst.\
   Das Projekt war nicht geplant. Shit happens.
-- Eine Selbst-Befragung. Vielfältiger Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
+- Eine "Selbst-Befragung". - Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
   Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
-- Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.
+- Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
+  "Was war?"\
+  "Ja nix - und ich - und die Frage, die Dramatik der Möglichkeit zu Fragen."\
+  Kurzform: Was geht?
+  
 - Metawix? Nope. Check it out!
 
 Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
