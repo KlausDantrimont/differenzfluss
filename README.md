@@ -55,7 +55,7 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
 - Kunst. Kind of. Muss ja. Und warum nicht?
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
-  Ich hab selten so gelacht, wie bei meinen Forschungen.\
+  Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen).\
   Humor und Leichtsinn sind zwei verschiedene Paar Schuh.\
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
