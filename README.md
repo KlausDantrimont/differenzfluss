@@ -55,7 +55,7 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion. Ohne es zu merken.\
   Wie merkt der Fisch, dass Wasser nass ist?
   
-- Kunst. Kind of. Muss ja. Und warum nicht?
+- Kunst. Warum nicht? In der Form bin ich frei, in der Sache nicht.
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
   Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen + über die eigene Doofheit stolpern. Reiner Slapstick).\
