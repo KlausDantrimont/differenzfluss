@@ -59,3 +59,89 @@ Sie sind so gewählt, dass sie jede Situation auf die Grundoperationen von **Dif
 Man kann mit ihnen überall hinschauen, aber sie sehen immer *dieselben Strukturaspekte*.
 
 
+---
+
+Kritiker2: *"Gibt’s das auch für relevante Fragen?"* 😉
+
+**Antwort:**
+Gerade da liegt der Nutzen.  
+Die DFT-Fragen sind nicht (nur) zum Smalltalk gedacht, sondern als **Strukturbrille**.  
+
+- Sie filtern jede Situation auf Differenz, Fluss, Stabilisierung, Regel, Interface und Maßstab.  
+- Damit machen sie Relevanz *sichtbar*, anstatt im Beliebigen zu bleiben.  
+- Was vorher eine unübersichtliche Problemfläche war, wird durch die Leitfragen in **strukturierte Aspekte zerlegt**, die diskutierbar und bearbeitbar sind.  
+
+👉 Kurz: **DFT-Fragen sind nicht beliebig – sie sind systematisch.**  
+Und genau deshalb helfen sie gerade bei *relevanten* Fragen.
+
+---
+
+# Beispiel: Relevante Frage
+
+**Frage:** *Wie soll eine Stadt mit zunehmender Hitzebelastung umgehen?*  
+
+- **Was ist die Differenz hier?**  
+  Innenstadt 40 °C vs. Parkanlagen 32 °C → messbare Differenz.  
+
+- **Was fließt zwischen diesen Differenzen?**  
+  Wärme, Luftbewegung, Feuchtigkeit → Energieströme.  
+
+- **Wo stabilisiert sich etwas, wo bricht es auf?**  
+  Asphalt speichert Hitze → Stabilisierung. Bäume kühlen durch Verdunstung → Gegenwirkung
+
+- **Welche Regel differenziert gerade, und kann man sie selbst differenzieren?**  
+  Bauordnung erlaubt enge Versiegelung → Regel. Kann man differenzieren, indem man Grünflächen vorschreibt?
+
+- **Wo ist das Interface, das den Fluss ermöglicht oder blockiert?**  
+  Fenster, Dächer, Straßenbeläge → Interfaces, die Hitze abhalten oder weitergeben.  
+
+- **Was geschieht beim Maßstabwechsel?**  
+  Einzelhaus → Straßenzug → ganze Stadt → Region. Auf jeder Ebene andere Dynamik, andere Lösungsräume.  
+
+**Strukturelle Pointe:**  
+Die DFT-Fragen brechen ein komplexes Problem in nachvollziehbare Aspekte herunter – und öffnen gezielt Lösungsräume.
+
+
+---
+
+# Beispiel: Persönliche Frage
+
+**Frage:** *Soll ich meinen Job wechseln oder bleiben?*  
+
+- **Was ist die Differenz hier?**  
+  Sicherheit und Bekanntes vs. Unsicherheit und neue Chancen.  
+
+- **Was fließt zwischen diesen Differenzen?**  
+  Motivation, Energie, Geld, Anerkennung.  
+
+- **Wo stabilisiert sich etwas, wo bricht es auf?**  
+  Stabil: Routine, eingespielte Abläufe.  
+  Aufbrechen: Frust, fehlende Perspektive.  
+
+- **Welche Regel differenziert gerade, und kann man sie selbst differenzieren?**  
+  Regel: „Ein Job ist vor allem für Sicherheit da.“  
+  Differenzieren: „Ein Job darf auch Entwicklung ermöglichen.“  
+
+- **Wo ist das Interface, das den Fluss ermöglicht oder blockiert?**  
+  Bewerbungsgespräche, Netzwerke, interne Wechselmöglichkeiten.  
+
+- **Was geschieht beim Maßstabwechsel?**  
+  Tagesstimmung vs. Jahresbilanz vs. Lebenslauf → jede Skala zeigt andere Stabilität und andere Risiken.  
+
+**Strukturelle Pointe:**  
+Auch eine persönliche Lebensentscheidung lässt sich so zerlegen, dass blinde Flecken sichtbar werden und die Optionen klarer werden.
+
+---
+
+Kritiker3: *"Sind nicht ganz andere Dinge in solchen Situationen wichtig oder wichtiger?"*  
+
+**Antwort:**  
+Mag sein. Und auch das lässt sich mit der DFT-Brille betrachten:  
+
+- **Unterschied in der Relevanz?** → Welche Aspekte halten wir für zentral, welche für nebensächlich?  
+- **Aufgrund welcher Regel?** → Nach welchem Kriterium ordnen wir Wichtigkeit zu? (z. B. ökonomisch, ökologisch, sozial)  
+- **Aus welcher Perspektive?** → Für wen ist es wichtig? Wer sitzt im Lichtkegel der Frage, wer bleibt außen?  
+
+Hinweis:  
+Beim Mapping solcher Unterschiede (z. B. welche Regeln gelten, welche Perspektiven ins Spiel kommen) kann **KI eine erste Hilfe** sein – sie liefert schnelle Strukturvorschläge, die man dann selbst prüfen und differenzieren kann.
+
