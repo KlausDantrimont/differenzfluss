@@ -53,13 +53,13 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   In die Informatik bin ich dagegen so richtig tief rein.\
   Ich hab nicht alles gemacht, aber das was ich gemacht habe, hab ich so gut durchdrungen, wie ich konnte.\
   Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion. Ohne es zu merken.\
-  Wie merkt der Fisch, dass Wasser nass ist?\
+  Wie merkt der Fisch, dass Wasser nass ist?
   
 - Kunst. Kind of. Muss ja. Und warum nicht?
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
-  Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen).\
-  Humor und Leichtsinn sind zwei verschiedene Paar Schuh.\
+  Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen + über die eigene Doofheit stolpern. Reiner Slapstick).\
+  Humor und Quatsch sind zwei Paar Schuh.\
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - Etwas Vieldimensiones, wie's scheint. *hörthört*
 - Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
