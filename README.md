@@ -74,8 +74,8 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Die Sache spricht für sich oder nicht, bzw. wird verstanden oder  nicht. Ich versuch's nur anzubieten, in verführerischen Häppchen ;-)\
   Ehrlich gesagt ist mir schon etwas mulmig.
   
-- Eine "Selbst-Befragung". - Metawitz. Erschließt sich später, wenn's *fitz* gemacht hat. ;-)\
-  Und ja, mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
+- Eine "Selbst-Befragung". - [Ein Metawitz?](<Erkenntnistheorie/Die erste Frage.md>)\
+  Mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
 - Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
   Das Projekt war nicht geplant. Shit happens.
