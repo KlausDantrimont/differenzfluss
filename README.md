@@ -18,7 +18,7 @@
 [==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
 
 ---
-Differenzfluss ist Poesie:
+Differenzfluss ist Poesie, und:
 - Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
