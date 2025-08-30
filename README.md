@@ -2,7 +2,7 @@
 
 # Differenzfluss
 
-### Die Destillation von Hochprozentigem
+### Destillation
 
 „Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
 — Blaise Pascal, *Lettres provinciales* (1657)  
