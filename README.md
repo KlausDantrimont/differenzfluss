@@ -136,7 +136,7 @@ Mögen die Spiele beginnen.
   - [Adapter-Subjektivität](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
   - [Adapter-Existenz](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
   - [Adapter-Zeit](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
-  - [Adapter-Philosophie.md](<Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
+  - [Adapter-Philosophie.md](<Adapter/Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
   
 
 - **Kognition & Sprache**
