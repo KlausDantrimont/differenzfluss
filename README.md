@@ -95,8 +95,9 @@ Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
 Wäre dieses Wissen für irgendetwas gut?  
 
-War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?  
-Ich denke, er hat mehr gefunden, etwas allgemeineres.
+War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?\
+Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme beispielhaft die Übertragbarkeit der Mechanik.\
+Das ist also nicht neu, ich treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
