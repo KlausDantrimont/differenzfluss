@@ -71,10 +71,10 @@ Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich
   Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
   
 - Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
-  Und ich hab was interessantes gefunden.\
-  Man kann hingucken, oder weg gucken.\
-  Die Sache spricht für sich oder nicht, bzw. wird verstanden oder  nicht. Ich versuch's nur anzubieten, in verführerischen Häppchen ;-)\
-  Ehrlich gesagt ist mir schon etwas mulmig.
+  Es ist nur eine Idee.\
+  Die spricht für sich oder nicht.\
+  Etwas mulmig ist mir trotzdem ;-)\
+  Ich bin sichtbar. weia.
   
 - Eine "Selbst-Befragung". - [Ein Metawitz?](<Erkenntnistheorie/Die erste Frage.md>)\
   Mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
