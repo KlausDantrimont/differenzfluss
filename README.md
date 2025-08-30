@@ -7,7 +7,7 @@
 „Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
 — Blaise Pascal, *Lettres provinciales* (1657)  
 
-„Was belibt übrig, wenn man alles eindampft?“  
+„Was bleibt übrig, wenn man alles eindampft?“  
 — Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
 
 „Besser wie nix.“  
