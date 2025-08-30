@@ -2,9 +2,9 @@
 *Wie aus einfachen Regeln Vielfalt entsteht*
 
 Darwin machte eine erstaunliche und schlichte Beobachtung: Alle Lebewesen in ihrer überwältigenden Vielfalt konnten durch ein verblüffend einfaches Prinzip entstehen.\
-Sie überlebten und vermehrten sich. \
+Sie überlebten und vermehrten sich. 
 
-Jene, die sich nicht fortpflanzten, bilden heute die abgestorbenen Äste am Baum des irdischen Lebens – einem Baum, der vermutlich aus einer Urzelle entsprang, die ihrerseits wahrscheinlich aus einem Urreplikator hervorging. Ein chemisches Molekül oder ein Netzwerk von Molekülen, die sich gegenseitig erzeugten und damit in der Zeit stabilisierten.
+Jene, die sich nicht fortpflanzten, bilden heute die abgestorbenen Äste am Baum des irdischen Lebens – einem Baum, der vermutlich aus einer Urzelle entsprang, die ihrerseits wahrscheinlich aus einem Urreplikator hervorging. Einem chemischen Molekül oder einem Netzwerk von Molekülen, die sich gegenseitig erzeugten und damit in der Zeit stabilisierten.
 
 Irgendwann begannen Strukturen zu überdauern, indem sie sich selbst oder andere kopierten. Die Natur bietet reichhaltige Möglichkeiten für selbststabilisierende Systeme.
 
