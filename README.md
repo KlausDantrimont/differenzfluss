@@ -96,7 +96,7 @@ Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überal
 Wäre dieses Wissen für irgendetwas gut?  
 
 War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?  
-Ich denke schon.  
+Ich denke, er hat mehr gefunden, etwas allgemeineres.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
