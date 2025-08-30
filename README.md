@@ -96,8 +96,14 @@ Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überal
 Wäre dieses Wissen für irgendetwas gut?  
 
 War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme beispielhaft die Übertragbarkeit der Mechanik.\
-Das ist also nicht neu, ich treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
+Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme die Übertragbarkeit dieser Mechanik auf den Bereich der Kultur.\
+Die gleiche Logik in völlig unterschiedlichen Bereichen!\
+Die Ideen sind also nicht neu, ich treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
+
+Behauptung:
+- Die Sache scheint System zu haben.
+- Die Kenntnis dieses Systems kann man nutzen.
+- Oder ignorieren.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
