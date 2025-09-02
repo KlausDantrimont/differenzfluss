@@ -63,6 +63,8 @@ Sie sind nicht vollständig, nicht endgültig, sondern offen für Erweiterungen.
 
 Ihr Ziel: Zugänge schaffen – **ohne Verrenkungen, mit offenen Anschlüssen**.
 
+Die Adapter sollen einen Anschluss ermöglichen, [Konkreteres gibt's hier](/dft/body)
+
 ---
 
 ## Meta / Einstieg

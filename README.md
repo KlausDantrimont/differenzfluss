@@ -2,12 +2,12 @@
 
 # Differenzfluss
 
-### Die Destillation von Hochprozentigem
+### Destillation
 
 „Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
 — Blaise Pascal, *Lettres provinciales* (1657)  
 
-„Was belibt übrig, wenn man alles eindampft?“  
+„Was bleibt übrig, wenn man alles eindampft?“  
 — Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
 
 „Besser wie nix.“  
@@ -96,8 +96,14 @@ Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überal
 Wäre dieses Wissen für irgendetwas gut?  
 
 War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme beispielhaft die Übertragbarkeit der Mechanik.\
-Das ist also nicht neu, ich treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
+Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme die Übertragbarkeit dieser Mechanik auf den Bereich der Kultur.\
+Die gleiche Logik in völlig unterschiedlichen Bereichen!\
+Die Ideen sind also nicht neu, die DFT treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
+
+Behauptung:
+- Die Sache scheint System zu haben.
+- Die Kenntnis dieses Systems kann man nutzen.
+- Oder ignorieren.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
@@ -136,7 +142,7 @@ Mögen die Spiele beginnen.
   - [Adapter-Subjektivität](Adapter/Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.  
   - [Adapter-Existenz](Adapter/Adapter-Existenz.md) – Sein als Relation, nicht Substanz.  
   - [Adapter-Zeit](Adapter/Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
-  - [Adapter-Philosophie.md](<Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
+  - [Adapter-Philosophie.md](<Adapter/Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
   
 
 - **Kognition & Sprache**
