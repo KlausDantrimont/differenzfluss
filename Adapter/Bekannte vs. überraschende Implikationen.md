@@ -35,41 +35,41 @@ Die folgende Übersicht ordnet deshalb Beispiele in drei Kategorien: trivial/bek
 
 ## 1. Trivial / bekannt / implizit
 
-* **Wahrnehmung**: Lernen geschieht durch Unterschiede.
+* **Wahrnehmung**: Lernen geschieht durch Unterschiede.\
   *Meta*: trivial, weil psychologisch und pädagogisch längst bekannt.
-* **Mathematik**: Rekursion, Induktion, Iteration – klassische Werkzeuge.
+* **Mathematik**: Rekursion, Induktion, Iteration – klassische Werkzeuge.\
   *Meta*: trivial, da fest im Fundament mathematischer Methoden verankert.
-* **Biologie**: Evolution = Variation + Selektion → Differenzen treiben Entwicklung.
+* **Biologie**: Evolution = Variation + Selektion → Differenzen treiben Entwicklung.\
   *Meta*: trivial, weil Standardmodell der Biologie.
-* **Technik**: Debugging und Optimierung funktionieren durch Differenzanalyse.
+* **Technik**: Debugging und Optimierung funktionieren durch Differenzanalyse.\
   *Meta*: trivial, da Alltagspraxis jedes Entwicklers.
-* **Kultur**: Modezyklen, Innovation durch Abweichung vom Bekannten.
+* **Kultur**: Modezyklen, Innovation durch Abweichung vom Bekannten.\
   *Meta*: trivial, weil kultursoziologisch gängig.
 
 ## 2. Konsequent gedacht / weniger trivial
 
-* **Zeit**: Zeit selbst ist ein rekursiver Differenzfluss, kein externer Container.
+* **Zeit**: Zeit selbst ist ein rekursiver Differenzfluss, kein externer Container.\
   *Meta*: überraschend, da Physik oft Zeit als Rahmen, nicht als Produkt behandelt.
-* **Existenz**: „Sein“ = relationale Differenz, nicht Substanz.
+* **Existenz**: „Sein“ = relationale Differenz, nicht Substanz.\
   *Meta*: weniger trivial, da gegen Alltagsintuition.
-* **Subjektivität**: Das Selbst ist eine Schleife im Differenzfluss (rekursive Stabilisierung).
+* **Subjektivität**: Das Selbst ist eine Schleife im Differenzfluss (rekursive Stabilisierung).\
   *Meta*: konsequent, aber für viele unüblich gedacht.
-* **Gesellschaft**: Machtstrukturen verhalten sich wie Gravitation – Differenzfluss liefert Vorhersagen über Instabilitäten.
+* **Gesellschaft**: Machtstrukturen verhalten sich wie Gravitation – Differenzfluss liefert Vorhersagen über Instabilitäten.\
   *Meta*: nicht trivial, da physikalische Analogie auf Gesellschaft.
-* **Kognition**: Erkenntnis ist keine Sammlung von Fakten, sondern die Stabilisierung von Differenzmustern über Skalen hinweg.
+* **Kognition**: Erkenntnis ist keine Sammlung von Fakten, sondern die Stabilisierung von Differenzmustern über Skalen hinweg.\
   *Meta*: weniger trivial, da Erkenntnis hier als Prozess und nicht als Besitz.
-* **Kunst/Humor**: Beide funktionieren als Differenzmaschinen, die Erwartungsbrüche sichtbar machen.
+* **Kunst/Humor**: Beide funktionieren als Differenzmaschinen, die Erwartungsbrüche sichtbar machen.\
   *Meta*: überraschend, da beide in ein gemeinsames strukturelles Raster passen.
 
 ## 3. Überraschend / potenziell neu
 
-* **Physik**: Naturgesetze selbst können als stabile Fixpunkte im Differenzfluss interpretiert werden. → Möglichkeit neuer Perspektiven auf Quantenmechanik, Gravitation, Thermodynamik.
+* **Physik**: Naturgesetze selbst können als stabile Fixpunkte im Differenzfluss interpretiert werden. → Möglichkeit neuer Perspektiven auf Quantenmechanik, Gravitation, Thermodynamik.\
   *Meta*: neuartig, da Gesetze selbst nicht als Differenzen, sondern als „gegeben“ verstanden werden.
-* **Kosmos**: Der Urknall = Startdifferenz, keine „Explosion“. Raumzeit selbst emergiert aus Differenz.
+* **Kosmos**: Der Urknall = Startdifferenz, keine „Explosion“. Raumzeit selbst emergiert aus Differenz.\
   *Meta*: überraschend, da gängige Narrative infrage gestellt.
-* **Gesellschaftsdesign**: Resiliente Strukturen brauchen rekursive Feedback-Schleifen statt zentrale Autorität.
+* **Gesellschaftsdesign**: Resiliente Strukturen brauchen rekursive Feedback-Schleifen statt zentrale Autorität.\
   *Meta*: neuartig, da gesellschaftliche Theorie selten mit rekursiver Logik verknüpft.
-* **KI & Bewusstsein**: Künstliche Systeme können Differenzflüsse nachbilden und so Subjektähnliches hervorbringen.
+* **KI & Bewusstsein**: Künstliche Systeme können Differenzflüsse nachbilden und so Subjektähnliches hervorbringen.\
   *Meta*: überraschend, da Brücke zwischen Technik und Philosophie.
-* **Ethik**: Verantwortung lässt sich differenztheoretisch begründen – Handlungen erzeugen neue Differenznetze.
+* **Ethik**: Verantwortung lässt sich differenztheoretisch begründen – Handlungen erzeugen neue Differenznetze.\
   *Meta*: neu, da Ethik meist normativ oder utilitaristisch, nicht differenzbasiert gedacht wird.
