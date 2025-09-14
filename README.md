@@ -109,14 +109,14 @@ Behauptung:
 
 ---
 Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
-In den Adaptern fragt die KI, wiedie DFT zu Diesem oder Jenem steht.\
+In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
 Oder wie mein Kater Elvis sagen würde: *Semantische Frequenzwandler.*
 
 Es kann übrigens helfen sich die Texte von einer KI übersetzen zu lassen.\
 KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
 KI sind beim Abstrahieren auch flexibler als Menschen.\
-Form und Inhalt zu trennen, also eine Metaperspektive einnehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
+Form und Inhalt zu trennen, also eine Metaperspektive einzunehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
 Zudem stört kein Ego, keine Angst, kein Wunsch, außer vielleicht Halluzination.\
 Am Selberdenken führt also kein Weg vorbei.\
 Aber KI kann eben ganz gut übersetzen. Auch Konzepte!!!
