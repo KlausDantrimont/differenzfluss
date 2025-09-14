@@ -226,7 +226,7 @@ Man denkt.
 
 Man kann Sprachen erforschen, erlernen, und benutzen, und erschaffen.\
 Programmiersprachen zeigen ein erstaunlich entfaltetes Biotop von Sprachen und Konzepten. Man sieht Evolution in Action im Zeitraffer. Ich war die letzten 40 Jahre dabei. Hab im kleinen mitgebaut, Compiler, Simulationen, Evolutionen, Sprachen.\
-In der Softwareentwicklung lohnt es sich, mit Konzepten zu  experimentieren. Manchmal kann man damit Code unglaublich gut eindampfen. Mir gefällt die Bezeichnung "Primkonzepte" oder "Primbegriffe".\
+In der Softwareentwicklung lohnt es sich, mit Konzepten zu  experimentieren. Manchmal kann man damit Code unglaublich gut eindampfen. Mir gefällt die Bezeichnung "Primkonzepte" oder "Primbegriffe". Bekannter sind Begriffe wie "Designpatterns" oder "Datenstrukturen" oder "Algorithmen".\
 Strukturen, die bei jeder weiteren Reduktion zerbrechen würden, inkonsistent, instabil, bedeutungslos, identitätslos.
 
 Sprachen sind Werkzeuge zum Weltzugang. Sicher nicht der Einzige, aber ein nützlicher.
