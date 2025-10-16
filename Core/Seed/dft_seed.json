@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "name": "Differenzierungsfluss-Theorie (DFT) – Seed",
+    "version": "0.1.0",
+    "license": "CC0-1.0",
+    "intent": "Minimale, selbsttragende Spezifikation der DFT: Begriffe, Operatoren, Axiome, Dynamik, Referenz-Interpreter und Tests.",
+    "invariants": [
+      "Alles Nichts → Paradox → Rekursion über Differenz.",
+      "Zeit = Iterationsordnung einer Differenzdynamik.",
+      "Strukturen = relativ stabile Fixpunkte/Attraktoren von Flüssen."
+    ],
+    "canonical_ids": ["Δ", "λΔ", "Φ", "⊕", "⊗", "~", "ℑ", "Σ", "τ"]
+  },
+
+  "axioms": {
+    "A1": "Leere Selbstbehauptung erzeugt Instabilität → Rekursion über Δ.",
+    "A2": "Zeit ist Reihenfolge der Φ-Anwendungen.",
+    "A3": "Struktur = Attraktor.",
+    "A4": "Bedeutung = stabile Relation zwischen Σ, Δ, ~ und ℑ.",
+    "A5": "Operatoren bestimmen Inhalte, nicht umgekehrt."
+  },
+
+  "operators": {
+    "Δ": {"type": "binary_relation", "properties": ["Δ(x,x)=0", "gerichtet interpretierbar"]},
+    "Φ": {"signature": "Σ→Σ", "meaning": "Evolutionsschritt"},
+    "⊕": {"meaning": "Additive Komposition"},
+    "⊗": {"meaning": "Bindende Kopplung"},
+    "~": {"meaning": "Kohärenzmaß", "range": [0, 1]},
+    "𝕊": {"meaning": "Selektion stabilerer Konfigurationen"}
+  },
+
+  "dynamics": {
+    "local_rule": "Für jedes Element k: berechne Δ zu Nachbarn, aggregiere, wende ⊗ an, selektiere via 𝕊.",
+    "examples": {
+      "osc-1d": {
+        "Σ_type": "1D-Liste reeller Paare (a,v)",
+        "Δ_rule": "Δk = (a[k+1]-a[k]) + (a[k-1]-a[k])",
+        "Φ_rule": "v' = v + α*Δ - β*a; a' = a + γ*v'",
+        "params": {"α": 0.2, "β": 0.01, "γ": 1.0},
+        "note": "Harmonischer Oszillator mit Nachbarschaftskopplung"
+      },
+      "repl-grid": {
+        "Σ_type": "2D-Gitter",
+        "Δ_rule": "Hamming-Δ in lokaler Nachbarschaft",
+        "𝕊": "Mehrheitsauswahl",
+        "note": "Replikator / Fehlerkorrektur"
+      }
+    }
+  },
+
+  "tests": {
+    "T1": "osc-1d mit kleinem β → begrenzte Oszillation oder Fixpunkt",
+    "T2": "repl-grid mit 10% Rauschen → Musterpersistenz",
+    "T3": "globale Kohärenz ~ soll im Mittel nicht abnehmen"
+  }
+}

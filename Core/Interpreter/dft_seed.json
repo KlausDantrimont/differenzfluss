@@ -1,0 +1,17 @@
+{
+  "dynamics": {
+    "examples": {
+      "osc-1d": {
+        "Σ_type": "1D-Liste reeller Paare (a,v)",
+        "Δ_rule": "Δk = (a[k+1]-a[k]) + (a[k-1]-a[k])",
+        "Φ_rule": "v' = v + α*Δ - β*a; a' = a + γ*v'",
+        "params": {
+          "α": 0.2,
+          "β": 0.01,
+          "γ": 1.0
+        },
+        "note": "Harmonischer Oszillator mit Nachbarschaftskopplung"
+      }
+    }
+  }
+}
