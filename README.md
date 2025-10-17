@@ -172,6 +172,12 @@ Mögen die Spiele beginnen.
   - [Adapter-Physik](Adapter/Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.  
   - [Adapter-Chemie](Adapter/Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.  
 
+
+- **Andere Autoren**
+  - [Adapter-Max Tegmark](<Adapter/Adapter-Max Tegmark - Das Mathematische Universum und der Differenzierungsfluss.md>)
+  - [Adapter-John Archibald Wheeler](<Adapter/Adapter-John Archibald Wheeler - It from Bit.md>)
+  - [Adapter-Alfred North Whitehead](<Adapter/Adapter-Alfred North Whitehead - Process and Reality.md>)
+  - [Adapter-Carlo Rovelli](<Adapter/Adapter-Carlo Rovelli - Relationale Quantenmechanik.md>)
 ---
 
 *Abheben und runtergucken.*

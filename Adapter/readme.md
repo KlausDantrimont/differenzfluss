@@ -125,13 +125,34 @@ Die Adapter sollen einen Anschluss ermöglichen, [Konkreteres gibt's hier](/dft/
 
 ---
 
+## Andere Autoren
+Max Tegmark sieht die Realität als *mathematische Struktur*, die zeitlos existiert.  
+Die DFT teilt diese Intuition, ersetzt aber statische Struktur durch **prozessuale Differenzierung**.
+
+* [Adapter-Max Tegmark - Das Mathematische Universum und der Differenzierungsfluss](<Adapter-Max Tegmark - Das Mathematische Universum und der Differenzierungsfluss.md>)
 
 
+Wheeler sah Information als Ursprung der Realität:  
+Jedes „It“ (Sein) entsteht aus einem „Bit“ (Unterschied, Entscheidung).  
 
+Die DFT greift diesen Gedanken auf, führt ihn aber weiter:  
+Nicht Bits erzeugen Realität – **Differenzierung selbst tut es.**
 
+* [Adapter-John Archibald Wheeler - It from Bit.md](<Adapter-John Archibald Wheeler - It from Bit.md>)
 
+Whitehead ersetzte Substanz durch Prozess:  
+Wirklichkeit besteht nicht aus Dingen, sondern aus **Ereignissen des Werdens**.  
 
+Die DFT teilt diese Sicht – sie zeigt jedoch **formal**,  
+wie solche Prozesse durch Differenzierung entstehen und stabil bleiben.
 
+* [Adapter-Alfred North Whitehead - Process and Reality](<Adapter-Alfred North Whitehead - Process and Reality.md>)
 
+Rovelli beschreibt die Welt als Netzwerk von Beziehungen:  
+Zustände existieren **nur relativ** zueinander – nie absolut.  
 
+Die DFT stimmt zu, geht aber tiefer:  
+Beziehungen *sind selbst Differenzen*,  
+und ihr Fluss **erzeugt** erst, was als Realität erscheint.
 
+* [Adapter-Carlo Rovelli - Relationale Quantenmechanik.md](<Adapter-Carlo Rovelli - Relationale Quantenmechanik.md>)
