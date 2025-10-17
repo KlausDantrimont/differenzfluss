@@ -125,7 +125,7 @@ Die Adapter sollen einen Anschluss ermöglichen, [Konkreteres gibt's hier](/dft/
 
 ---
 
-## Andere Autoren
+## Andere Autoren mit ähnlichen Ansätzen
 Max Tegmark sieht die Realität als *mathematische Struktur*, die zeitlos existiert.  
 Die DFT teilt diese Intuition, ersetzt aber statische Struktur durch **prozessuale Differenzierung**.
 
