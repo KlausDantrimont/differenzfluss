@@ -83,7 +83,6 @@ Die Adapter sollen einen Anschluss ermöglichen, [Konkreteres gibt's hier](/dft/
 * [Adapter-Subjektivität.md](Adapter-Subjektivität.md) – Das Selbst als rekursive Schleife im Differenzfluss.
 * [Adapter-Existenz.md](Adapter-Existenz.md) – Sein als Relation, nicht Substanz.
 * [Adapter-Zeit.md](Adapter-Zeit.md) – Zeit als rekursiver Operator statt linearer Fluss.
-
 * [Adapter-Philosophie.md](<Adapter-Philosophie.md>) - Einordnung der DFT in den philosophischen Diskurs
 ---
 
