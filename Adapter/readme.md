@@ -122,6 +122,7 @@ Die Adapter sollen einen Anschluss ermöglichen, [Konkreteres gibt's hier](/dft/
 * [Adapter–Physik.md](Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.
 * [Adapter–Chemie.md](Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.
 
+* [Adapter-Positive Geometry.md](<Adapter-Positive Geometry.md>)
 ---
 
 ## Andere Autoren mit ähnlichen Ansätzen

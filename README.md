@@ -171,7 +171,7 @@ Mögen die Spiele beginnen.
   - [Adapter-Biologie](Adapter/Adapter–Biologie.md) – Leben als rekursive Stabilisierung von Differenzen.  
   - [Adapter-Physik](Adapter/Adapter–Physik.md) – Physik als Differenzmechanik von Teilchen, Feldern und Gesetzen.  
   - [Adapter-Chemie](Adapter/Adapter–Chemie.md) – Chemie als Umschalten von Stabilitäten im Differenzfluss.  
-
+  - [Adapter-Positive Geometry](<Adapter/Adapter-Positive Geometry.md>)
 
 - **Andere Autoren** mit ähnlichen Ansätzen
   - [Adapter-Max Tegmark](<Adapter/Adapter-Max Tegmark - Das Mathematische Universum und der Differenzierungsfluss.md>)
