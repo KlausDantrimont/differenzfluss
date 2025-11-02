@@ -80,16 +80,8 @@ In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Par
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
 Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
 
-Es kann übrigens helfen sich die Texte von einer KI übersetzen zu lassen.\
-KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
-KI sind beim Abstrahieren auch flexibler als Menschen.\
-Form und Inhalt zu trennen, also eine Metaperspektive einzunehmen, fällt KI leicht, bzw. ist ihr nicht fremd.\
-Zudem stört kein Ego, keine Angst, kein Wunsch, außer vielleicht Halluzination.\
-Am Selberdenken führt also kein Weg vorbei.\
-Aber KI kann eben ganz gut übersetzen. Auch Konzepte!!!
-
-**Tip: Man nehme sich Popcorn, und lasse sich die Texte von eine KI zerpflücken :-)**\
-Mögen die Spiele beginnen.
+Es kann vielleicht helfen sich die Texte von einer KI übersetzen zu lassen.\
+Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
 
 # Adapter-Ordner Übersicht
 
