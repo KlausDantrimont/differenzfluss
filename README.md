@@ -78,7 +78,7 @@ Ich fand das immer verdächtig.
 Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
 In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
-Oder wie mein Kater Elvis sagen würde: *Semantische Frequenzwandler.*
+Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
 
 Es kann übrigens helfen sich die Texte von einer KI übersetzen zu lassen.\
 KI schnallen recht schnell, worauf das hinaus läuft. Sie kennen ja alle Begriffe und Konzepte.\
