@@ -2,7 +2,31 @@
 
 # Differenzfluss
 
-### Destillation
+## Info
+- In Form und Ausdruck stümpere ich mich leidlich voran.
+- Ich nutze KI als Werkzeug um meine Perspektive zu artikulieren.\
+  Hab kein Team und nicht ewig Zeit.
+
+
+## **Kritik**
+- Jede Kritik ist willkommen und erwünscht.
+- Am liebsten **inhaltliche Kritik**  :-)
+- Bin offen für Hinweise auf:
+   - perspektivische Verzerrungen
+   - logische Fehler/Widersprüche
+   - Auslassungen/Lücken
+   - Kategorienfehler usw.
+   - Dummheiten, die ich nicht erkenne, obwohl sie direkt vor meiner Nase Tanzen.
+   - All die Fehler, die ich noch nicht mal als Kategorie auf dem Schirm habe.
+
+- Die Kritik, die DFT sei Trivial, hat Potential, und wird aufgegriffen ;-)
+
+
+*Jeder erkannte Fehler kann das System verbessern.\
+Pures Gold.*
+   
+
+### Über Destillation
 
 „Ich habe diesen Brief länger gemacht, als gewöhnlich, weil ich nicht die Muße hatte, ihn kürzer zu machen.“  
 — Blaise Pascal, *Lettres provinciales* (1657)  
@@ -20,70 +44,24 @@
 ---
 Differenzfluss ist Poesie, und:
 - Ein einfacher Gedanke, (möglichst) konsequent durchgezogen.
-- Ein Ort zum Lesen. Zum Stöbern.
 - Ein Vorschlag  
-- Ein Experiment. Ich mach sowas zum ersten mal. Eine Geburt. *tröööt*
-- Ein naives Kind, das ruft "Hoppla, da bin ich. Guck mal, was ich gefunden hab".\
-  Bin wohl ein bisschen stolz drauf. War auch ein ziemlicher Act. All das Kopfkratzen über Jahrzehnte. 
-- Ein Prozess. Ein "Aha!" versucht sich zu entfalten und tastet suchend umher. Poesie. *Seufz*
-- Ein Witz. Ein sehr alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
-- Eine völlig absurde Behauptung. Oder doch nicht?
-- Ein Werkzeug. Ja, das behaupten Alle. Selberdenken?
-- Eine Forschungsprojekt über Wirklichkeit, Denken. Über die Einsatzmöglichkeiten von KI, deren Potentiale und Fallstricke.
-- Differenzfluss und DFT sind Scheißnamen, jetzt sind sie überall drin. Mist.\
-Evolution lebt mit Altlasten, solange kein refactoring stattfindet.\
-Ich Depp: **"Evolution"** heißt die Sache. Ich hab sie ja nur leicht verallgemeinert.\
-Ich hab's: **Diffolution**\
-Seufz: *hinterher ist man immer schlauer*
-- Ein Reality-Refactoring, eine Gewohnheit, eine Berufskrankheit. Eindampfen, Aufbauen, Debugging, sich wundern.
-- Das Ergebnis von einigen Jahrzehnten "What the Fuck?!" ermöglicht durch wohl Jahrtausende "What the Fuck?" unzähliger Vordenker, angeregt durch einenen wachsenden Strom von "What the Fuck?" beim Betrachten gegenwärtiger Entwicklungen. [Was tun, wenn die Aufklärung erodiert?](<Aufkl%C3%A4rung2.0>)\
-Ich meine: *Das kann man sich doch alles nicht mehr einfach so mit ansehen, oder?*\
-Leichte Schläge auf den Hinterkopf erhöhen das Denkvermögen. Ich fühlte mich gedrängt.                                                
-- Eine Art Gewürz?
-- Eine Frechheit? Kind of.
-- Dreist? Man macht sich nicht nur Freunde, wenn man von Außen in die Disziplinen rein labert.\
-  Bzw. Es kommt gar nicht gut an.\
-  Und die haben recht: ich sag ihnen (fast) nichts Neues.\
-  Quasi: *Fremder Laberhans verpackt **unsere Welt** in sein Pseudogeschwurbel, und kommt sich vor wie Kolumbus. lol*\
-  Absolut nachvollziehbar.
-  Was dabei übersehen wird ist eine obskure Gemeinsamkeit zwischen den Disziplinen. Um die geht's. Das kann man nutzen.\
-  "One size fits all" (Frank Zappa)
-  
-- Respektlos? Mitnichten. Im Gegenteil. Ich liebe die Wissenschaft. Hab alles aufgesaugt, was ich verstehen konnte. Hier und da, bissl was.\
-  In die Informatik bin ich dagegen so richtig tief rein.\
-  Ich hab nicht alles gemacht, aber das was ich gemacht habe, hab ich so gut durchdrungen, wie ich konnte.\
-  Und da waren scharfe Sachen dabei. Ich war ein Fisch im Wasser der Rekursion. Ohne es zu merken.\
-  Wie merkt der Fisch, dass Wasser nass ist?
-  
-- Kunst. Warum nicht? In der Form bin ich frei, in der Sache nicht.
+- Ein Experiment. Ich mach sowas zum ersten mal. Ich taste mich voran.
+- Ein alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
+- Ein Werkzeug.
+- Eine Forschungsprojekt über Wirklichkeit, Denken, Sprache, Begriffe, Zeit, Dynamik, Stabilität.
+- Ein Art Reality-Refactoring.
+- Irgendwie auch vielleicht Kunst. Warum nicht? In der Form bin ich frei, in der Sache nicht. Im Können beschränkt.
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
   Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen + über die eigene Doofheit stolpern. Reiner Slapstick).\
-  Humor und Quatsch sind zwei Paar Schuh.\
+  *Leute die sich nie erwischen, verpassen was.*\
+  Obacht: Humor und Quatsch sind zwei Paar Schuh.\
+  Wie Form und Inhalt\
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
-- Etwas Vieldimensiones, wie's scheint. *hörthört*
-- Eine Geisterfahrt. Wieso kommen mir alle entgegen? Oder gar keiner? Weder von vorne, noch von hinten? Wo bin ich? Ups! Hallo?
-- Eine Prüfung im Glauben an die Vernunft. Bestanden? Ich? Du? - *hihihi*
-- Eine Hirngymnastik? Es wird knacken. Mit etwas Glück.
-- Ein Wahn? - Jeder spinnt auf seine Weise. Guck Dich an. :-)\
-  Jetzt guck nicht so. Keiner erkennt die Welt "an sich", also muss jeder in einer mehr oder weniger 'korrekten' Illusion leben. Kein Wesen kommt aus der Nummer raus.\  
-  "Wahn" befindet sich also eher auf einer Art Skala: Von-Bis.\
-  Ob man mittels 'Erkenntnis' auf dieser Skala navigieren kann?
-  
-- Ein Größenwahn? Ich bin ein Niemand, *aber ich darf denken*. (Was ist ein "Jemand"?)\
-  Es ist nur eine Idee.\
-  Die spricht für sich oder nicht.\
-  Etwas mulmig ist mir trotzdem ;-)\
-  Ich bin sichtbar. weia.
-  
-- Eine "Selbst-Befragung". - [Ein Metawitz?](<Erkenntnistheorie/Die erste Frage.md>)\
-  Mich selbst hab ich auch befragt, sonst war keiner verfügbar in der Schnelle der Zeit.
 
-- Krasser Scheiß. Ich kann doch auch nichts dafür. Zack, bumm, da wars.\
-  Das Projekt war nicht geplant. Shit happens.
-  
-- Meta-Wix oder Meta-Nix?
-- Ein Chaos
+- **Viel zu viel Wind.**\
+Ich sollte mich einkriegen, und die Begeisterung konstruktiver kanalisieren.
+*Mea culpa*
 
 Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 
