@@ -19,7 +19,7 @@
    - Dummheiten, die ich nicht erkenne, obwohl sie direkt vor meiner Nase Tanzen.
    - All die Fehler, die ich noch nicht mal als Kategorie auf dem Schirm habe.
 
-- Die Kritik, die DFT sei Trivial, hat Potential, und wird aufgegriffen ;-)
+- Die Kritik, die DFT sei [trivial](trivial.md), ist fruchtbar.
 
 
 *Jeder erkannte Fehler kann das System verbessern.\
@@ -62,8 +62,6 @@ Differenzfluss ist Poesie, und:
 - **Viel zu viel Wind.**\
 Ich sollte mich einkriegen, und die Begeisterung konstruktiver kanalisieren.
 *Mea culpa*
-
-Man fragt sich, was dahinter steckt ... dabei ist die DFT [trivial](trivial.md)
 
 
 ---
