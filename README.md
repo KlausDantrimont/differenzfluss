@@ -41,7 +41,6 @@ Differenzfluss ist Poesie, und:
 - Ein einfacher Gedanke, (möglichst) konsequent durchgezogen.
 - Ein Vorschlag  
 - Ein Experiment. Ich mach sowas zum ersten mal. Ich taste mich voran.
-- Ein alter Witz. Mit neuer Erklärung. Das ist der Witz. Das kann nur schief gehen. Au Backe.
 - Ein Werkzeug.
 - Eine Forschungsprojekt über Wirklichkeit, Denken, Sprache, Begriffe, Zeit, Dynamik, Stabilität.
 - Ein Art Reality-Refactoring.
