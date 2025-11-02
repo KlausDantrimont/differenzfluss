@@ -15,7 +15,7 @@
 > *Keine Lehre, sondern eine Brille.*  
 > *Kein Besitz, sondern eine Bewegung.*  
 > *Kein Ende, sondern ein Anfang im Fluss.*  
-> *Oder, so hoffe ich zumindest, eine interessante Art der Betrachtung.* 
+> *Oder, so hoffe ich, eine interessante Art der Betrachtung.* 
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Info
 - In Form und Ausdruck stümpere ich mich leidlich voran.
-- Ich nutze KI als Werkzeug um meine Perspektive zu artikulieren,\
+- Ich nutze KI als Werkzeug, um meine Perspektive zu artikulieren,\
   weil ich kein Team habe und nur begrenzt Zeit.
   
 
@@ -106,7 +106,7 @@ Ich weiß, ich neige zu Begeisterung – aber sie treibt das Ganze an.
 ### Zur Sache
 
 Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir.\
-Mein Beitrag beschränkt sich auf den Versuch ein Paar solcher Ideen sinnvoll zu kombinieren.
+Mein Beitrag beschränkt sich auf den Versuch ein paar solcher Ideen sinnvoll und anschlussfähig zu kombinieren.
 Die DFT will kein neues Dogma stiften, sondern eine Brille anbieten, mit der bestehende Disziplinen in Beziehung treten.
 
 Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
@@ -124,7 +124,7 @@ Ich fand das immer schon leicht verdächtig.
 Wer lieber gleich in die Anwendungen und Querbezüge einsteigt, findet unten die [Adapter-Sammlung](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht)
 In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
-Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Setische Frequenzwandler.*
+Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
 
 Es kann vielleicht helfen sich die Texte von einer KI übersetzen zu lassen.\
 Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
