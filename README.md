@@ -61,18 +61,16 @@ Ich geb's ja zu, Ich sollte mich einkriegen, und die Begeisterung konstruktiver 
 
 ### Zur Sache
 
+Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir.\
+Mein Beitrag beschränkt sich auf den Versuch ein Paar solcher Ideen sinnvoll zu kombinieren.
+
 Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
-Wäre dieses Wissen für irgendetwas gut?  
+Könnte das Wissen um dieses Muster für irgendetwas gut sein?  
+Das Wissen um die biologischen Evolution zum Beispiel, den simplem Mechanismus „Replikation, Mutation, Selektion“ ist sehr nützlich.
+Nicht nur im Bereich der Biologie, sondern auch zB in KI, Informatik oder Kultur.\
+*Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
+Ich fand das immer verdächtig.
 
-War es für etwas gut, als Darwin in der biologischen Evolution den Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Mit Sicherheit. Und denke, er hat noch mehr gefunden, etwas viel allgemeineres. In Richard Dawkins "Das egoistische Gen", zeigt er im Konzept der Meme die Übertragbarkeit dieser Mechanik auf den Bereich der Kultur.\
-Die gleiche Logik in völlig unterschiedlichen Bereichen!\
-Die Ideen sind also nicht neu, die DFT treib's halt nur von-bis, einmal quer durch die Landschaft, von einem hochspekulativen initialen Paradox, bis zu [Aliens](<wesen/DFT%20f%C3%BCr%20Exobiologen%20%E2%80%93%20Warum%20au%C3%9Ferirdische%20Intelligenz%20Differenzen%20atmet.md>).
-
-Behauptung:
-- Die Sache scheint System zu haben.
-- Die Kenntnis dieses Systems kann man nutzen.
-- Oder ignorieren.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
