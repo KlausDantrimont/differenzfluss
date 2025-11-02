@@ -2,10 +2,55 @@
 
 # Differenzfluss
 
+---
+
+# 🜂 **Motto des Differenzflusses**
+
+> **Die Differenzfluss-Theorie will kein neues Dogma stiften,  
+> sondern eine Brille anbieten, durch die bestehende Disziplinen  
+> ihre gemeinsamen Muster betrachten können.**
+
+---
+
+> *Keine Lehre, sondern eine Brille.*  
+> *Kein Besitz, sondern eine Bewegung.*  
+> *Kein Ende, sondern ein Anfang im Fluss.*
+
+---
+
+### 🧭 **Selbstverständnis**
+
+> Die DFT versteht sich als **Metarahmen** –  
+> eine Struktur-Syntax, die Differenz und Rekursion  
+> als gemeinsame Prinzipien vieler Disziplinen sichtbar macht.  
+>  
+> Sie schaut nicht **von oben auf die Welt**,  
+> sondern **von innen in ihre Wirbel**.  
+> Erkenntnis ist hier kein Griff, sondern ein Gleiten.  
+>  
+> Die DFT bietet **kein neues Modell der Welt**,  
+> sondern eine **Methode**, Modelle auf ihre Differenzdynamik hin zu vergleichen.  
+>  
+> Sie sucht nicht, Systeme zu ersetzen,  
+> sondern **Verständigung zu ermöglichen** –  
+> über die Grenzen der Systeme hinweg.
+
+---
+
+### 💧 **Kurzform**
+
+> **Differenzfluss**  
+> Kein System. Kein Dogma.  
+> Eine Brille für Muster im Werden.
+
+---
+
+
 ## Info
 - In Form und Ausdruck stümpere ich mich leidlich voran.
-- Ich nutze KI als Werkzeug um meine Perspektive zu artikulieren.\
-  Hab kein Team und nicht ewig Zeit.
+- Ich nutze KI als Werkzeug um meine Perspektive zu artikulieren,\
+  weil ich kein Team habe und nur begrenzt Zeit.
+  
 
 
 ## **Kritik**
@@ -34,7 +79,7 @@ Pures Gold.*
 — Klaus Dantrimont, *github repo, readme.md* (2025)  (hier!)
 
 „Besser wie nix.“  
-— Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stich, irgendwann, damals  
+— Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stichs  
 
 ---
 Differenzfluss ist Poesie, und:
@@ -63,19 +108,21 @@ Ich geb's ja zu, Ich sollte mich einkriegen, und die Begeisterung konstruktiver 
 
 Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir.\
 Mein Beitrag beschränkt sich auf den Versuch ein Paar solcher Ideen sinnvoll zu kombinieren.
+Die DFT will kein neues Dogma stiften, sondern eine Brille anbieten, mit der bestehende Disziplinen in Beziehung treten.
 
 Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
-Könnte das Wissen um dieses Muster für irgendetwas gut sein?  
+Könnte das Wissen um dieses Muster für irgendetwas gut sein?
 Das Wissen um die biologischen Evolution zum Beispiel, den simplem Mechanismus „Replikation, Mutation, Selektion“ ist sehr nützlich.
-Nicht nur im Bereich der Biologie, sondern auch zB in KI, Informatik oder Kultur.\
+Nicht nur im Bereich der Biologie, sondern auch zB in KI, Informatik, Kultur, Musik, ...\
 *Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
-Ich fand das immer verdächtig.
+Ich fand das immer schon leicht verdächtig.
 
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
 ---
-Wer will, kann hier zu den [Adaptern](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht) springen.\
+
+Wer lieber gleich in die Anwendungen und Querbezüge einsteigt, findet unten die [Adapter-Sammlung](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht)
 In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
 Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
