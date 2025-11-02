@@ -15,6 +15,7 @@
 > *Keine Lehre, sondern eine Brille.*  
 > *Kein Besitz, sondern eine Bewegung.*  
 > *Kein Ende, sondern ein Anfang im Fluss.*
+> Oder, so hoffe ich zumindest, eine interessante Art der Betrachtung.
 
 ---
 
