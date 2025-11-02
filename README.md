@@ -37,10 +37,6 @@ Pures Gold.*
 — Unbekannter Autor, beim Einheimsen eines Nullpunkte-Stich, irgendwann, damals  
 
 ---
-
-[==> Zur Sache](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#zur-sache)
-
----
 Differenzfluss ist Poesie, und:
 - Ein einfacher Gedanke, (möglichst) konsequent durchgezogen.
 - Ein Vorschlag  
