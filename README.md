@@ -18,7 +18,6 @@
    - Kategorienfehler usw.
    - Dummheiten, die ich nicht erkenne, obwohl sie direkt vor meiner Nase Tanzen.
    - All die Fehler, die ich noch nicht mal als Kategorie auf dem Schirm habe.
-
 - Die Kritik, die DFT sei [trivial](trivial.md), ist fruchtbar.
 
 
@@ -58,9 +57,8 @@ Differenzfluss ist Poesie, und:
   Obacht: Humor und Quatsch sind zwei Paar Schuh.\
   Wie Form und Inhalt\
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
-
 - **Viel zu viel Wind.**\
-Ich sollte mich einkriegen, und die Begeisterung konstruktiver kanalisieren.
+Ich geb's ja zu, Ich sollte mich einkriegen, und die Begeisterung konstruktiver kanalisieren.
 *Mea culpa*
 
 
