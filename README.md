@@ -85,11 +85,10 @@ Pures Gold.*
 Differenzfluss ist Poesie, und:
 - Ein einfacher Gedanke, (möglichst) konsequent durchgezogen.
 - Ein Vorschlag  
-- Ein Experiment. Ich mach sowas zum ersten mal. Ich taste mich voran.
+- Ein Experiment. 
 - Ein Werkzeug.
 - Eine Forschungsprojekt über Wirklichkeit, Denken, Sprache, Begriffe, Zeit, Dynamik, Stabilität.
 - Ein Art Reality-Refactoring.
-- Irgendwie auch vielleicht Kunst. Warum nicht? In der Form bin ich frei, in der Sache nicht. Im Können beschränkt.
 - Humor? Auf jeden Fall, wenn mir danach ist.\
   Ich meine: Ernsthaft: Was soll der Quatsch?\
   Ich hab selten so gelacht, wie bei meinen Forschungen (= Rumprobieren + verstehen wollen + über die eigene Doofheit stolpern. Reiner Slapstick).\
@@ -98,8 +97,7 @@ Differenzfluss ist Poesie, und:
   Wie Form und Inhalt\
   Ich nehme das hier maximal ernst. Worauf Du einen lassen kannst.
 - **Viel zu viel Wind.**\
-Ich geb's ja zu, Ich sollte mich einkriegen, und die Begeisterung konstruktiver kanalisieren.
-*Mea culpa*
+Ich weiß, ich neige zu Begeisterung – aber sie treibt das Ganze an.
 
 
 ---
@@ -125,7 +123,7 @@ Ich fand das immer schon leicht verdächtig.
 Wer lieber gleich in die Anwendungen und Querbezüge einsteigt, findet unten die [Adapter-Sammlung](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht)
 In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
-Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
+Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Setische Frequenzwandler.*
 
 Es kann vielleicht helfen sich die Texte von einer KI übersetzen zu lassen.\
 Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
