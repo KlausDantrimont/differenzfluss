@@ -111,13 +111,8 @@ Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir.\
 Mein Beitrag beschränkt sich auf den Versuch ein paar solcher Ideen sinnvoll und anschlussfähig zu kombinieren.
 Die DFT will kein neues Dogma stiften, sondern eine Brille anbieten, mit der bestehende Disziplinen in Beziehung treten.
 
-Angenommen, es gäbe ein einfaches Muster, lächerlich einfach, das aber überall vorkommt.  
-Könnte das Wissen um dieses Muster für irgendetwas gut sein?
-Das Wissen um die biologischen Evolution zum Beispiel, den simplem Mechanismus „Replikation, Mutation, Selektion“ ist sehr nützlich.
-Nicht nur im Bereich der Biologie, sondern auch zB in KI, Informatik, Kultur, Musik, ...\
 *Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
 Ich fand das immer schon leicht verdächtig.
-
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
