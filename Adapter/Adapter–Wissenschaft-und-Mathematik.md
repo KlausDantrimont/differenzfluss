@@ -26,12 +26,12 @@
 - **Naiver Empirismus**: Wissenschaft = reine Sammlung von Fakten. → DFT: Wissenschaft = **rekursive Modellbildung**, nicht Faktensammlung.
 - **Radikaler Relativismus**: Alles gleich gültig. → DFT: Unterschiede in Stabilität zählen: nicht jede Differenz hält im Fluss stand.
 - **Dogmatischer Positivismus**: Wissenschaft liefert absolute Wahrheiten. → DFT: Wahrheiten = stabile Muster, aber immer kontextabhängig und testbar.
-- **Formalistischer Reduktionismus**: Mathematik als reines Spiel ohne Realität. → DFT: Mathematik ist Werkzeug, das reale Stabilitäten beeinflusst und erzeugt.
+- **Formalistischer Reduktionismus**: Mathematik als reines Spiel ohne Realität. → DFT: Mathematik ist Werkzeug, das reale Beziehungen abbilden und beschreiben kann.
 
 ## 4. Fazit
 
 Mathematik und Wissenschaft sind im Differenzfluss **Stabilisierungsmaschinen**:  
-- Mathematik erzeugt **dauerhafte, kontextgebundene Fixpunkte** in eigens geschaffenen Räumen.  
-- Wissenschaft prüft, welche Modelle in der dynamischen Welt stabil bleiben.  
+- Mathematik erzeugt **dauerhafte, kontextgebundene Fixpunkte** in eigens geschaffenen Räumen. Es gibt imer ein Fundament aus Axiomen, und einen Raum der Ableitungen/Beweise.
+- Wissenschaft prüft, welche ihrer Modelle in der dynamischen Welt stabil bleiben.
 
 Beide sind nicht nur Abbild, sondern **aktive Operatoren** im Fluss, die Welt formen, testen und erweitern.
