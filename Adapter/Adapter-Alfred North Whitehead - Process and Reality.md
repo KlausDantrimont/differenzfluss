@@ -56,6 +56,6 @@ Wenn Whitehead sagte:
 > „Es gibt keine Substanzen, nur Prozesse.“  
 
 dann könnte die DFT ergänzen:  
-> „Es gibt keine Prozesse ohne Differenz – und keinen Differenzfluss ohne Beobachter.“  
+> „Es gibt keine Prozesse ohne Differenz – und keinen Differenzfluss ohne Beziehung.“  
 
 ---
