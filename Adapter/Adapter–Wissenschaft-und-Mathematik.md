@@ -31,7 +31,7 @@
 ## 4. Fazit
 
 Mathematik und Wissenschaft sind im Differenzfluss **Stabilisierungsmaschinen**:  
-- Mathematik erzeugt **dauerhafte, kontextgebundene Fixpunkte** in eigens geschaffenen Räumen.  
-- Wissenschaft prüft, welche Modelle in der dynamischen Welt stabil bleiben.  
+- Mathematik erzeugt **dauerhafte, kontextgebundene Fixpunkte** in eigens geschaffenen Räumen. Es gibt imer ein Fundament aus Axiomen, und einen Raum der Ableitungen/Beweise.
+- Wissenschaft prüft, welche ihrer Modelle in der dynamischen Welt stabil bleiben.
 
 Beide sind nicht nur Abbild, sondern **aktive Operatoren** im Fluss, die Welt formen, testen und erweitern.
