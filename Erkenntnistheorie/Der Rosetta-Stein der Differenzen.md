@@ -1,4 +1,3 @@
----
 
 ## 🜂 Der Rosetta-Stein der Differenzen
 
