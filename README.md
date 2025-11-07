@@ -126,6 +126,8 @@ Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantisch
 Es kann vielleicht helfen sich die Texte von einer KI übersetzen zu lassen.\
 Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
 
+**Kernaussage: Überall die gleiche Soße**
+
 # Adapter-Ordner Übersicht
 
 - [völlig offensichtlich und komplett verrückt](<Adapter/völlig offensichtlich und komplett verrückt.md>) - *Warum fundamentale Einsichten zugleich trivial und umstürzend wirken.*
