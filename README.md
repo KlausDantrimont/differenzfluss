@@ -37,7 +37,7 @@
 > über die Grenzen der Systeme hinweg.
 
 
-- [Der Rosetta-Stein der Differenzen](<Der Rosetta-Stein der Differenzen.md>)
+- [Der Rosetta-Stein der Differenzen](<Erkenntnistheorie/Der Rosetta-Stein der Differenzen.md>)
 ---
 
 ### 💧 **Kurzform**
