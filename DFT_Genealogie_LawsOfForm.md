@@ -1,4 +1,3 @@
----
 
 ```markdown
 # Genealogie: Von *Laws of Form* zur Differenzierungsfluss-Theorie (DFT)
