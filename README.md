@@ -2,9 +2,19 @@
 
 # Differenzfluss
 
+### 📍 Verortung im Diskurs
+
+Die Differenzierungsfluss-Theorie (DFT) steht in der Denktradition von **George Spencer-Browns** *Laws of Form* (1969), erweitert diesen Ansatz jedoch um eine **prozessuale Dimension**.
+Während Spencer-Brown den **Akt der Unterscheidung** als logischen Ursprung aller Form beschreibt, versteht die DFT diesen Akt als **dynamischen Prozess**, der sich rekursiv fortsetzt.
+Dadurch wird Unterscheidung nicht nur zur Bedingung von Sein, sondern zur **Quelle von Zeit, Struktur und Bewusstsein**.
+
+Im Verhältnis zu anderen Denkströmungen kann die DFT als **Verknüpfung** verstanden werden:
+Sie verbindet Spencer-Browns logische Ontologie mit der Prozessphilosophie (Whitehead), der relationalen Physik (Rovelli) und der Selbstreferenztheorie (Luhmann, Varela).
+Damit öffnet sie den Blick auf ein Universum, das nicht aus Dingen, sondern aus **Differenzen im Fluss** besteht –
+eine Welt, die zugleich vollständig (Block) und in sich beweglich (Fluss) ist.
+
 ---
-Wenn ich Spencer Brown gekannt hätte, dann hätte mir das viel Arbeit erspart.\
-Spannende Arbeit.
+Wenn ich Spencer Brown gekannt hätte, dann hätte mir das viel spannende Arbeit erspart.
 
 [DFT_Genealogie_LawsOfForm.md](<DFT_Genealogie_LawsOfForm.md>)
 
