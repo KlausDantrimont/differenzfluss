@@ -138,7 +138,7 @@ Jedes „It“ (Sein) entsteht aus einem „Bit“ (Unterschied, Entscheidung).
 Die DFT greift diesen Gedanken auf, führt ihn aber weiter:  
 Nicht Bits erzeugen Realität – **Differenzierung selbst tut es.**
 
-* [Adapter-John Archibald Wheeler - It from Bit.md](<Adapter-John Archibald Wheeler - It from Bit.md>)
+* [Adapter-John Archibald Wheeler - It from Bit](<Adapter-John Archibald Wheeler - It from Bit.md>)
 
 Whitehead ersetzte Substanz durch Prozess:  
 Wirklichkeit besteht nicht aus Dingen, sondern aus **Ereignissen des Werdens**.  
@@ -155,4 +155,17 @@ Die DFT stimmt zu, geht aber tiefer:
 Beziehungen *sind selbst Differenzen*,  
 und ihr Fluss **erzeugt** erst, was als Realität erscheint.
 
-* [Adapter-Carlo Rovelli - Relationale Quantenmechanik.md](<Adapter-Carlo Rovelli - Relationale Quantenmechanik.md>)
+* [Adapter-Carlo Rovelli - Relationale Quantenmechanik](<Adapter-Carlo Rovelli - Relationale Quantenmechanik.md>)
+
+
+George Spencer-Brown beschreibt in *Laws of Form* die Welt als Ergebnis eines einzigen Akts:  
+dem **Ziehen einer Unterscheidung**.
+Damit begründet er eine Logik, in der Sein aus **Differenz** entsteht.  
+
+Die DFT greift diesen Gedanken auf, erweitert ihn jedoch um seine **zeitliche und prozessuale Dimension**:  
+Ein Unterschied bleibt nicht stehen – er **fließt** weiter,  
+und in diesem Fluss entstehen Zeit, Struktur und Bewusstsein.
+
+* [Adapter-George Spencer-Brown - Laws of Form](<Adapter-George Spencer-Brown-Laws of Form.md>)
+
+
