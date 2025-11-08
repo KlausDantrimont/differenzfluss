@@ -14,7 +14,7 @@ Damit öffnet sie den Blick auf ein Universum, das nicht aus Dingen, sondern aus
 eine Welt, die zugleich vollständig (Block) und in sich beweglich (Fluss) ist.
 
 ---
-Wenn ich Spencer Brown gekannt hätte, dann hätte mir das viel spannende Arbeit erspart.
+Wenn ich Spencer Brown früher gekannt hätte, dann hätte mir das viel spannende Arbeit erspart.
 
 [DFT_Genealogie_LawsOfForm.md](<DFT_Genealogie_LawsOfForm.md>)
 
