@@ -64,15 +64,15 @@ Selbstmodifizierende Systeme, rekursive Kausalität, emergente Semantik.
 
 ---
 
-## Kulmination: Dantrimont – Differenzierungsfluss-Theorie (DFT)
+## Dantrimont – Differenzierungsfluss-Theorie (DFT)
 **Zentralidee:**  
 > „Ein Unterschied bleibt nicht stehen.“  
 Unterscheidung = Fluss = Zeit.
 
 Die DFT interpretiert Unterscheidung als physikalisch-real dynamischen Prozess.  
 Re-entry wird Oszillation, Paradox wird Generator, Form wird Fluss.  
-Aus der Logik der Unterscheidung wird eine Theorie der Entstehung:  
-von Materie, Information, Bewusstsein und Gesellschaft.
+**Aus der Logik der Unterscheidung wird eine Theorie der Entstehung:  
+von Materie, Information, Bewusstsein und Gesellschaft.**
 
 ---
 
