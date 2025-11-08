@@ -76,19 +76,7 @@ Wenn ich Spencer Brown gekannt hätte, dann hätte mir das viel spannende Arbeit
 
 ## **Kritik**
 - Jede Kritik ist willkommen und erwünscht.
-- Am liebsten **inhaltliche Kritik**  :-)
-- Bin offen für Hinweise auf:
-   - perspektivische Verzerrungen
-   - logische Fehler/Widersprüche
-   - Auslassungen/Lücken
-   - Kategorienfehler usw.
-   - Dummheiten, die ich nicht erkenne, obwohl sie direkt vor meiner Nase Tanzen.
-   - All die Fehler, die ich noch nicht mal als Kategorie auf dem Schirm habe.
-- Die Kritik, die DFT sei [trivial](trivial.md), ist fruchtbar.
-
-
-*Jeder erkannte Fehler kann das System verbessern.\
-Pures Gold.*
+- Die Kritik, die DFT sei [trivial](trivial.md), ist zB. fruchtbar.
    
 
 ### Über Destillation
