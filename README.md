@@ -3,6 +3,14 @@
 # Differenzfluss
 
 ---
+Wenn ich Spencer Brown gekannt hätte, dann hätte mir das viel Arbeit erspart.\
+Spannende Arbeit.
+
+[DFT_Genealogie_LawsOfForm.md](<DFT_Genealogie_LawsOfForm.md>)
+
+---
+
+
 
 # 🜂 **Motto des Differenzflusses**
 
