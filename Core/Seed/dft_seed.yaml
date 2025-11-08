@@ -20,6 +20,12 @@ meta:
     - Σ       # Zustand/Träger (Graph/Netz/Multiset)
     - τ       # Zeit-/Iterationsindex
 
+genealogy:
+  origin: "George Spencer-Brown, Laws of Form (1969)"
+  core_principle: "Draw a distinction → Δ"
+  re_entry: "Paradox → Rekursion → Axiom A1"
+  time: "Reihenfolge der Re-entries → Axiom A2"
+  
 primitives:
   atom:
     description: "Ununterscheidene Basismarke; Identität entsteht erst relativ."
