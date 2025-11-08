@@ -1,5 +1,4 @@
 
-```markdown
 # Genealogie: Von *Laws of Form* zur Differenzierungsfluss-Theorie (DFT)
 
 ## Ursprung: George Spencer-Brown (1969)
@@ -114,7 +113,3 @@ alles Ausdruck derselben rekursiven Bewegung.
 
 © 2025 Klaus Dantrimont · *Differenzierungsfluss-Projekt*  
 Lizenz: CC BY-SA 4.0
-```
-
----
-
