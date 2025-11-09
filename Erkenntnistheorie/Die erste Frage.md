@@ -112,6 +112,18 @@ Vielleicht neigen Menschen auch deshalb zu einem Schöpferbild, oder sehen sich 
 
 ---
 
+Die folgende Hierarchie zeigt eine Mechanik, keine Zielstruktur.
+Sie beschreibt, wie aus Spannung Stabilität entsteht – nicht „wohin“ etwas will,
+sondern wie es geschieht, dass aus Paradox Bewegung, aus Bewegung Form,
+und aus Form Bewusstsein wird.
+
+Neben dieser Linie existieren unzählige andere Flüsse und Mechanismen,
+die in anderen Bereichen des Seins wirksam sind.
+Wir betrachten hier nur einen Ast der großen Differenzierungsdynamik –
+einen, der von besonderem Interesse ist,
+weil sich hier das Ur-Paradox auf neue Weise spiegelt:
+in Form von Bewusstsein.
+
 # Emergenz-Hierarchie: Vom Paradox zum Bewusstsein
 
 Der Weg von der Implikation zur Frage
@@ -150,6 +162,7 @@ Der Weg von der Implikation zur Frage
 8. **Antizipation**
    - Zukunftsprojektionen
    - Handlungsplanung
+   - Vielleicht ab hier etwa Fragefähigkeit.
 
 9. **Meta-Wahrnehmung**
    - Wahrnehmung der eigenen Wahrnehmung
@@ -161,4 +174,4 @@ Der Weg von der Implikation zur Frage
 
 ## Prinzip
 
-Jede Stufe als "Infrastruktur" für die nächste - neue Flüsse, die auf der "alten" Infrastruktur aufsetzen und qualitativ neue Eigenschaften emergieren lassen.
+In dieser Hierarchie bildet jede Stufe die "Infrastruktur" für die nächste - für neue Flüsse, die auf der "alten" Infrastruktur aufsetzen und qualitativ neue Eigenschaften emergieren lassen.
