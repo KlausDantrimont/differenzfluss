@@ -196,7 +196,7 @@ indem man es wird.
 
 ---
 
-Zeit, Raum, Materie sind nicht Bühnen, sondern Strategien der Realität, mit Widerspruch umzugehen.
+Zeit, Raum, Materie sind nicht Bühnen, sondern Strategien der Realität, mit einem logischen Widerspruch umzugehen.
 
 ---
 
