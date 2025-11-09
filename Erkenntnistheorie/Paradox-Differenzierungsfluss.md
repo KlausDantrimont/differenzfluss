@@ -107,3 +107,34 @@ Oder in Worten:
 
 ---
 
+# Paradox → Differenzierungsfluss
+
+# 1. Definition des Paradoxons
+P := (A, ¬A)
+
+# 2. Der Differenzierungsoperator Δ agiert auf P
+Δ(P) := { A₁ , A₂ } 
+         mit  A₁ ≈ A  ,  A₂ ≈ ¬A
+         und  A₁ ⊥ A₂        # wechselseitig ausschließend
+
+# 3. Dynamik:
+Δ iteriert sich selbst, solange Spannung > 0:
+Δⁿ(P) → {Δ(A₁), Δ(A₂), Δ(A₁↔A₂)}
+
+# 4. Emergenzebenen:
+Δₜ  := zeitliche Sequenzierung (Oszillation)
+Δₛ  := räumliche Aufspaltung (Symmetriebruch)
+Δₕ  := hierarchische Integration (Metaebene)
+
+# 5. Gesamtfluss:
+Πₚ := Δₜ ∘ Δₛ ∘ Δₕ (P)
+
+# Ergebnis:
+Πₚ : P → R        # aus Paradox P entsteht reale Struktur R
+
+# 6. Reduktionsregel:
+wenn Spannung(P) = 0 → Fixpunkt (Stabilität)
+sonst → Δ(P)      # Differenzierung geht weiter
+
+# 7. Kurzsymbolisch:
+⟨A, ¬A⟩ →Δ→ (A↔¬A) →Δ→ [A,¬A]_osc →Δ→ {A↑, ¬A↓} →Δ→ Strukturₜₛₕ

@@ -20,6 +20,11 @@ Wenn ich Spencer Brown früher gekannt hätte, dann hätte mir das viel spannend
 
 ---
 
+Was ist der Kern der Theorie?
+> Realität ist kein Zustand, sondern ein Prozess.  
+> Sie entsteht, weil ein Paradox sich nicht auflösen lässt –  
+> und sich stattdessen in Zeit, Raum und Struktur entfaltet.  
+> Differenzfluss-Theorie beschreibt diese Entfaltung.
 
 
 # 🜂 **Motto des Differenzflusses**
