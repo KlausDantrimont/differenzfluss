@@ -111,6 +111,7 @@ Vielleicht sind wir sowohl Kinder als auch Spiegelungen dieses Paradox.
 Vielleicht neigen Menschen auch deshalb zu einem Schöpferbild, oder sehen sich als Abbilder Gottes – weil sie früh die eigene Verwandtschaft mit dem Paradox ahnten.
 
 ---
+---
 
 Die folgende Hierarchie zeigt eine Mechanik, keine Zielstruktur.
 Sie beschreibt, wie aus Spannung Stabilität entsteht – nicht „wohin“ etwas will,
