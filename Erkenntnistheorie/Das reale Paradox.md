@@ -101,7 +101,7 @@ z. B. Plus/Minus, Nord/Süd, Innen/Außen.
 So kann die Spannung fortbestehen, ohne dass sie sich gegenseitig vernichtet.
 
 > Raum = die Struktur, die Gegensätze voneinander trennt,
-> damit sie stabil koexistieren können.
+> so dass sie stabil koexistieren können.
 
 ---
 
@@ -132,7 +132,7 @@ eine stabilisierte, in sich gefaltete Spannung.
 In dieser Sichtweise sind Zeit, Raum und Materie **nicht vorgegebene Bühnen**,
 sondern die **Weisen**, in denen Realität mit einem Paradox umgeht:
 Sie verteilt, sequenziert und bindet das Unvereinbare,
-damit es existieren kann, ohne sich selbst zu zerstören.
+auf eine Weise in der es existieren kann, ohne sich selbst sofort zu zerstören.
 
 
 ---
