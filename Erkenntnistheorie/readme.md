@@ -11,11 +11,11 @@ und Einordnung zu Spencer-Brown, Hegel, Kant, Whitehead, Luhmann, Deleuze
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)\
 Grundlagenaufsatz zum erkenntnistheoretischen Gehalt der DFT: Erkenntnis als Stabilisierung von Differenzen im Fluss.
 
-- [Existenz ist Beziehung](<Existenz ist Beziehung.md>)\
-Untersuchung des Begriffs „Existenz“ als relationale Eigenschaft in einem dynamischen Differenznetz.
-
 - [Die erste Frage.md](<Die erste Frage.md>)\
 Die erste Differenz als Frage des Nichts an sich selbst
+
+- [Existenz ist Beziehung](<Existenz ist Beziehung.md>)\
+Untersuchung des Begriffs „Existenz“ als relationale Eigenschaft in einem dynamischen Differenznetz.
 
 - [Kategorientheorie im fluss](<Kategorientheorie im fluss.md>)\
 Erste Annäherung an eine Interpretation der Kategorientheorie aus Sicht der DFT.
