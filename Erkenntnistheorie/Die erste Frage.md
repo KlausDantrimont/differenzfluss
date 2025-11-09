@@ -108,7 +108,7 @@ Auch das Individuum lebt im Paradox:
 Vielleicht sind wir sowohl Kinder als auch Spiegelungen dieses Paradox.
 
 ---
-Vielleicht neigen Menschen auch deshalb zu einem Schöpferbild, oder sehen sich als Abbilder Gottes – weil sie früh die Verwandtschaft mit dem Paradox ahnten.
+Vielleicht neigen Menschen auch deshalb zu einem Schöpferbild, oder sehen sich als Abbilder Gottes – weil sie früh die eigene Verwandtschaft mit dem Paradox ahnten.
 
 ---
 
