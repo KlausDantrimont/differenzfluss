@@ -80,8 +80,9 @@ Ja, das ist ein dichter Satz - ich erklär ihn gern Schritt für Schritt, ohne P
 
 Wenn ein Paradox vorliegt (z. B. *A* und *¬A* gleichzeitig wahr),
 kann es nicht *innerhalb eines einzigen Zustands* bestehen.
-Um es handhabbar zu machen, muss die Realität **abwechselnd**
-die eine und dann die andere Seite „realisieren“.
+Der Zustand muss Überlagerungen zulassen, oder **abwechselnd**
+die eine und dann die andere Seite „realisieren“.\
+Axiom: Festlegen ist nicht möglich.
 
 Das ergibt eine **Sequenz** - also eine Form von *Vorher-Nachher*.
 Diese Abfolge *ist* Zeit.
