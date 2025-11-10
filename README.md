@@ -14,7 +14,6 @@ Damit öffnet sie den Blick auf ein Universum, das nicht aus Dingen, sondern aus
 eine Welt, die zugleich vollständig (Block) und in sich beweglich (Fluss) ist.
 
 ---
-Wenn ich Spencer Brown früher gekannt hätte, dann hätte mir das viel spannende Arbeit erspart.
 
 [DFT_Genealogie_LawsOfForm.md](<DFT_Genealogie_LawsOfForm.md>)
 
@@ -26,19 +25,19 @@ Was ist der Kern der Theorie?
 > und sich stattdessen in Zeit, Raum und Struktur entfaltet.  
 > Differenzfluss-Theorie beschreibt diese Entfaltung.
 
+> **Differenzfluss**  
+Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
+
 
 # 🜂 **Motto des Differenzflusses**
 
 > **Die Differenzfluss-Theorie will kein neues Dogma stiften,  
-> sondern eine Brille anbieten, durch die bestehende Disziplinen  
-> ihre gemeinsamen Muster betrachten können.**
+> sondern eine Brille anbieten, durch die man Muster finden kann.**
 
 ---
 
 > *Keine Lehre, sondern eine Brille.*  
-> *Kein Besitz, sondern eine Bewegung.*  
-> *Kein Ende, sondern ein Anfang im Fluss.*  
-> *Oder, so hoffe ich, eine interessante Art der Betrachtung.* 
+> *eine interessante Art der Betrachtung.* 
 
 ---
 
@@ -49,8 +48,8 @@ Was ist der Kern der Theorie?
 > als gemeinsame Prinzipien vieler Disziplinen sichtbar macht.  
 >  
 > Sie schaut nicht **von oben auf die Welt**,  
-> sondern **von innen in ihre Wirbel**.  
-> Erkenntnis ist hier kein Griff, sondern ein Gleiten.  
+> sondern **von innen in ihre Wirbel**.
+> Erkenntnis ist hier weniger Griff, sondern eher operativ/dynamisch wie Surfen/Schwimmen/Fliegen/Klettern.  
 >  
 > Die DFT bietet **kein neues Modell der Welt**,  
 > sondern eine **Methode**, Modelle auf ihre Differenzdynamik hin zu vergleichen.  
@@ -63,13 +62,6 @@ Was ist der Kern der Theorie?
 - [Der Rosetta-Stein der Differenzen](<Erkenntnistheorie/Der Rosetta-Stein der Differenzen.md>)
 ---
 
-### 💧 **Kurzform**
-
-> **Differenzfluss**  
-> Kein System. Kein Dogma.  
-> Eine Brille für Muster im Werden.
-
----
 
 
 ## Info
