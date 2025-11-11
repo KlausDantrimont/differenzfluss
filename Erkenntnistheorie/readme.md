@@ -4,7 +4,7 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 
 ---
 - [Axiomtafel des Differenzflusses.md](<Axiomtafel des Differenzflusses.md>)
-- 
+  
 - [Das reale Paradox.md](<Das reale Paradox.md>)\
 Epistemische und phänomenologische Basis der DFT\
 und Einordnung zu Spencer-Brown, Hegel, Kant, Whitehead, Luhmann, Deleuze
