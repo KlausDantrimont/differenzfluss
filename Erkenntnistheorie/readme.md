@@ -10,6 +10,13 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 Epistemische und phänomenologische Basis der DFT\
 und Einordnung zu Spencer-Brown, Hegel, Kant, Whitehead, Luhmann, Deleuze
 
+- [Der logische Druck.md](<Der logische Druck.md>)
+Folgt dem Paradox in seine epistemische Konsequenz:
+wie logischer Widerspruch Spannung erzeugt,
+und Wahrheit als lokale Entspannung entsteht.
+
+
+
 - [Das produktive Paradox.md](<Das produktive Paradox.md>)\
 Folgt dem paradoxen Ursprung in seine Dynamik:
 wie aus Unlösbarkeit Bewegung wird, aus Bewegung Stabilität, und aus Stabilität Welt.
