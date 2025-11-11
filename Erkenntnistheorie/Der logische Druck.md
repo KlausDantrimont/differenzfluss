@@ -16,6 +16,16 @@ Es **muss** seine Struktur verändern – zeitlich, räumlich oder hierarchisch.
 
 Diesen Zwang zur Umorganisation nennen wir hier **logischen Druck**.
 
+Der Druck ist nicht physisch (wie Gasdruck),
+nicht psychisch (wie emotionaler Druck),
+sondern **ontologisch**:
+Er wirkt auf die Struktur der Realität selbst.
+
+---
+
+Die Realität kann nicht verbieten.
+Sie reagiert.
+
 ---
 
 ### Paradox als Spannung

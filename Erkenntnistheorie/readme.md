@@ -13,6 +13,7 @@ Epistemische und phänomenologische Basis der DFT\
 und Einordnung zu Spencer-Brown, Hegel, Kant, Whitehead, Luhmann, Deleuze
 
 - [Der logische Druck.md](<Der logische Druck.md>)
+- [Der logische Druck-ausgearbeiteter Abschnitt.md](<Der logische Druck-ausgearbeiteter Abschnitt.md>)
 Folgt dem Paradox in seine epistemische Konsequenz:
 wie logischer Widerspruch Spannung erzeugt,
 und Wahrheit als lokale Entspannung entsteht.
