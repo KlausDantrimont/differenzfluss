@@ -1,4 +1,3 @@
----
 
 ## **Paradox → Differenzierungsfluss**
 
