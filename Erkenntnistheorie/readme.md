@@ -3,7 +3,10 @@
 Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Differenzierungsfluss-Theorie (DFT). Ziel ist es, zentrale Begriffe wie „Erkenntnis“, „Existenz“, „Begriff“ oder „Struktur“ im Rahmen eines dynamischen, flussbasierten Weltbildes zu rekonstruieren und mit bestehenden theoretischen Konzepten (z. B. Kategorientheorie) in Verbindung zu bringen.
 
 ---
-- [Axiomtafel des Differenzflusses.md](<Axiomtafel des Differenzflusses.md>)
+
+Aus Widerspruch wird Bewegung,
+aus Bewegung Form,
+aus Form Welt.
   
 - [Das reale Paradox.md](<Das reale Paradox.md>)\
 Epistemische und phänomenologische Basis der DFT\
@@ -14,11 +17,15 @@ Folgt dem Paradox in seine epistemische Konsequenz:
 wie logischer Widerspruch Spannung erzeugt,
 und Wahrheit als lokale Entspannung entsteht.
 
-
-
 - [Das produktive Paradox.md](<Das produktive Paradox.md>)\
 Folgt dem paradoxen Ursprung in seine Dynamik:
 wie aus Unlösbarkeit Bewegung wird, aus Bewegung Stabilität, und aus Stabilität Welt.
+
+- [Axiomtafel des Differenzflusses.md](<Axiomtafel des Differenzflusses.md>)\
+Verdichtung der zentralen Prinzipien der DFT -
+vom Paradox als Ursprung bis zur Erkenntnis als Selbstbezug.
+
+---
 
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)\
 Grundlagenaufsatz zum erkenntnistheoretischen Gehalt der DFT: Erkenntnis als Stabilisierung von Differenzen im Fluss.
