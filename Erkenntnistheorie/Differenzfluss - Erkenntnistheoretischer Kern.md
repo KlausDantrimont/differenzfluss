@@ -92,56 +92,6 @@ Erst in der Rückschau – durch Resonanz oder Reflektion – wird aus der bloß
 
 ---
 
-### 🧩 **Beispiel 1: Wahrnehmungsillusion – Wenn das Modell sich selbst korrigiert**
-
-*(Erkenntnis als Flussprozess / Wahrheit als Strukturrelation)*
-
-Ein klassisches Experiment: Zwei gleich lange Linien wirken unterschiedlich, wenn Pfeile nach innen bzw. außen zeigen (Müller-Lyer-Illusion).
-Unsere Wahrnehmung „sieht“ eine Differenz, die physikalisch nicht existiert.
-Was hier geschieht, ist ein exemplarischer Erkenntnisfluss:
-
-1. **Erwartung:** Das Gehirn interpretiert Raumtiefe aus Kontextmerkmalen.
-2. **Beobachtung:** Messung oder Vergleich zeigen eine Abweichung.
-3. **Rückmeldung:** Die Illusion wird erkannt.
-4. **Modellanpassung:** Das Subjekt integriert die Erfahrung: *„Ich sehe nicht die Welt, wie sie ist, sondern wie mein Wahrnehmungsapparat strukturiert ist.“*
-
-→ Erkenntnis bedeutet hier nicht Korrektur eines Fehlers, sondern **Erweiterung des Modells** um die eigene Konstruktionsweise.
-
----
-
-### ⚙️ **Beispiel 2: Wissenschaftlicher Modellwechsel – Vom Planetensystem zur Raumzeit**
-
-*(Erkenntnis als Flussprozess / Wahrheit als Strukturrelation)*
-
-Im 17. Jahrhundert beschrieb Newton Gravitation als Kraft zwischen Massen.
-Ein Jahrhundert später formulierte Einstein dieselben Beobachtungen neu — nicht als Kraft, sondern als **Krümmung der Raumzeit**.
-
-Die beobachtbaren Phänomene blieben gleich, doch der **Begriff der Gravitation** wurde umstrukturiert:
-
-* Alte Theorie: *Ferne Kräfte wirken im Raum.*
-* Neue Theorie: *Raum selbst ist dynamisch und bestimmt Bewegung.*
-
-Dieser Übergang illustriert Erkenntnis im Differenzfluss:
-Ein stabiler Begriff (Kraft) gerät durch neue Differenzen (Lichtablenkung, Merkur-Perihel) unter Spannung, bis eine **rekursive Neuorganisation** stattfindet.
-Wahrheit verschiebt sich — nicht, weil die alte Theorie „falsch“ war, sondern weil **eine kohärentere Struktur** im Fluss entstanden ist.
-
----
-
-### 🧠 **Beispiel 3: Alltagsplanung – Erwartung, Fehler, Anpassung**
-
-*(Erkenntnis als Flussprozess / Fehler und Lernen)*
-
-Eine Person plant, morgens den Zug um 8 Uhr zu nehmen, verlässt das Haus um 7:50 – und verpasst ihn.
-
-Der Ablauf:
-
-1. **Erwartung:** Das innere Modell der Strecke und Pufferzeit scheint ausreichend.
-2. **Wirkung:** Realität liefert Feedback – der Zug fährt pünktlich ab.
-3. **Differenz:** Die Abweichung wird bewusst.
-4. **Lernen:** Nächstes Mal wird um 7:40 losgegangen.
-
-→ Erkenntnis zeigt sich als **Veränderung der Struktur im Handeln**, nicht als bloßes Wissen um den Fehler.
-Der Begriff „zu spät“ wird präzisiert, das Modell der Welt feiner abgestimmt – eine **lokale Stabilisierung im Differenzfluss**.
 
 
 ---
@@ -632,6 +582,58 @@ Dieser Kreislauf ist die Grundlage für jede Form von Lernen – ob in biologisc
 
 ---
 
+### 🧩 **Beispiel 1: Wahrnehmungsillusion – Wenn das Modell sich selbst korrigiert**
+
+*(Erkenntnis als Flussprozess / Wahrheit als Strukturrelation)*
+
+Ein klassisches Experiment: Zwei gleich lange Linien wirken unterschiedlich, wenn Pfeile nach innen bzw. außen zeigen (Müller-Lyer-Illusion).
+Unsere Wahrnehmung „sieht“ eine Differenz, die physikalisch nicht existiert.
+Was hier geschieht, ist ein exemplarischer Erkenntnisfluss:
+
+1. **Erwartung:** Das Gehirn interpretiert Raumtiefe aus Kontextmerkmalen.
+2. **Beobachtung:** Messung oder Vergleich zeigen eine Abweichung.
+3. **Rückmeldung:** Die Illusion wird erkannt.
+4. **Modellanpassung:** Das Subjekt integriert die Erfahrung: *„Ich sehe nicht die Welt, wie sie ist, sondern wie mein Wahrnehmungsapparat strukturiert ist.“*
+
+→ Erkenntnis bedeutet hier nicht Korrektur eines Fehlers, sondern **Erweiterung des Modells** um die eigene Konstruktionsweise.
+
+---
+
+### ⚙️ **Beispiel 2: Wissenschaftlicher Modellwechsel – Vom Planetensystem zur Raumzeit**
+
+*(Erkenntnis als Flussprozess / Wahrheit als Strukturrelation)*
+
+Im 17. Jahrhundert beschrieb Newton Gravitation als Kraft zwischen Massen.
+Ein Jahrhundert später formulierte Einstein dieselben Beobachtungen neu — nicht als Kraft, sondern als **Krümmung der Raumzeit**.
+
+Die beobachtbaren Phänomene blieben gleich, doch der **Begriff der Gravitation** wurde umstrukturiert:
+
+* Alte Theorie: *Ferne Kräfte wirken im Raum.*
+* Neue Theorie: *Raum selbst ist dynamisch und bestimmt Bewegung.*
+
+Dieser Übergang illustriert Erkenntnis im Differenzfluss:
+Ein stabiler Begriff (Kraft) gerät durch neue Differenzen (Lichtablenkung, Merkur-Perihel) unter Spannung, bis eine **rekursive Neuorganisation** stattfindet.
+Wahrheit verschiebt sich — nicht, weil die alte Theorie „falsch“ war, sondern weil **eine kohärentere Struktur** im Fluss entstanden ist.
+
+---
+
+### 🧠 **Beispiel 3: Alltagsplanung – Erwartung, Fehler, Anpassung**
+
+*(Erkenntnis als Flussprozess / Fehler und Lernen)*
+
+Eine Person plant, morgens den Zug um 8 Uhr zu nehmen, verlässt das Haus um 7:50 – und verpasst ihn.
+
+Der Ablauf:
+
+1. **Erwartung:** Das innere Modell der Strecke und Pufferzeit scheint ausreichend.
+2. **Wirkung:** Realität liefert Feedback – der Zug fährt pünktlich ab.
+3. **Differenz:** Die Abweichung wird bewusst.
+4. **Lernen:** Nächstes Mal wird um 7:40 losgegangen.
+
+→ Erkenntnis zeigt sich als **Veränderung der Struktur im Handeln**, nicht als bloßes Wissen um den Fehler.
+Der Begriff „zu spät“ wird präzisiert, das Modell der Welt feiner abgestimmt – eine **lokale Stabilisierung im Differenzfluss**.
+
+---
 # 2. Begriffsbildung im Fluss
 
 Erkenntnis wird möglich, wenn Differenzen **benannt** und **stabilisiert** werden können – das heißt: wenn Begriffe entstehen.
