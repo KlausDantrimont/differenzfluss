@@ -1357,7 +1357,7 @@ Kurz gesagt:
     in jeder Welle schwingt das Paradox.
 """
 
-
+'''python
 import pygame
 import numpy as np
 import sys
@@ -1449,7 +1449,7 @@ sys.exit()
 
 # Δ ruht.
 
-
+'''
 ---
 
 ---
