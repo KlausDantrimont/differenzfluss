@@ -17,6 +17,9 @@
   - [Deleuze](#deleuze)
 
 
+*Paradoxien markieren nicht Brüche in der Welt, sondern in unserer Beschreibung von ihr.*
+
+
 ## **Das reale Paradox**
 
 Ein Paradox gilt gemeinhin als Denkfehler - eine Unstimmigkeit im Begrifflichen.

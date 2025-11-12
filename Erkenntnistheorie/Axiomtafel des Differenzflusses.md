@@ -4,6 +4,16 @@
 
 ---
 
+## 🜀 Ur-Axiom – Der produktive Widerspruch
+
+Es existiert ein Möglichkeitsraum, in dem logische Widersprüche nicht stillstehen können.  
+Ein Paradox kann nicht unverändert bestehen; es erzeugt Spannung,  
+und diese Spannung entfaltet sich als Differenzierung.
+
+> Wo Unvereinbares zusammentrifft, entsteht Bewegung.
+
+
+
 ## 🜂 I. Axiome
 
 | Nr. | Axiom | Kurzformel | Bedeutung |
