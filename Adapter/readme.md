@@ -1,12 +1,4 @@
 
-Angenommen, es gäbe ein einfaches Muster, das überall vorkommt.\
-Wäre dieses Wissen für irgendetwas gut?
-
-War es für etwas gut, als Darwin in der biologischen Evolution den gemeinsamen Mechanismus „Replikation, Mutation, Selektion“ fand?\
-Ich denke: ja.
-
----
-
 # Warum sollte ich das lesen?
 
 Dieses Projekt richtet sich an verschiedene Leser – jede Gruppe findet ihren eigenen Weg, hier einzusteigen:
