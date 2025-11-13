@@ -59,7 +59,7 @@ Anreize prägen Verhalten. Liegen sie schief, fördern sie Dysfunktion statt Sta
 - **Gesellschaft**: Politiker fördern Wahlgeschenke, nicht langfristige Lösungen.  
 - **Ökologie**: Invasive Arten nutzen veränderte Bedingungen, drängen andere aus.  
 - **Körper**: Im Schmerzsystem wird Schmerz als Warnsignal belohnt (Schutz), aber bei chronischem Schmerz profitiert das System von Vermeidung (Schonhaltung), was langfristig zu Muskelschwund führt – der „Anreiz“ ist Fehlschutz.
-                                                          - **Biologie**: Ein Organismus profitiert kurzfristig von Energieeinsparung (z. B. Inaktivität), aber langfristig schadet es der Fitness – evolvierte Anreize priorisieren Überleben, können aber zu Fehlanpassungen führen.
+- **Biologie**: Ein Organismus profitiert kurzfristig von Energieeinsparung (z. B. Inaktivität), aber langfristig schadet es der Fitness – evolvierte Anreize priorisieren Überleben, können aber zu Fehlanpassungen führen.
 
 **Stabilisierungen**:  
 - Langfristige Ziele mit kleinen Etappenerfolgen verbinden.  

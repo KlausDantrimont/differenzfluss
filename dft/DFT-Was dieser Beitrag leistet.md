@@ -1,5 +1,26 @@
 ---
 
+---
+
+## 🧩 **Zur Verortung**
+
+Ich beziehe mich in der DFT auf viele Denker, Schulen und Disziplinen,  
+die ich erst durch die Arbeit daran kennengelernt habe.  
+Mit Hilfe von KI habe ich nach ähnlichen Gedanken gesucht,  
+um die Theorie **einzuordnen** und **verständlich** zu machen.  
+
+Die Vergleiche dienen nicht der Legitimation,  
+sondern der **Anschlussfähigkeit** –  
+damit Leser denken können:  
+> „Das erinnert an XY, aber mit diesem anderen Spin.“
+
+Vielleicht spielt dabei auch der Wunsch nach Resonanz eine Rolle.  
+Vor allem aber geht es darum, **Brücken** zu schlagen:  
+zwischen Begriffen, Disziplinen und Denkräumen.  
+
+---
+
+
 ## 🧠 **Meta: Was dieser Beitrag leistet**
 
 Der Differenzierungsfluss ist kein neues Dogma, sondern eine **Lesart der Realität**  
