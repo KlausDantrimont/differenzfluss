@@ -26,6 +26,10 @@ wie aus Unlösbarkeit Bewegung wird, aus Bewegung Stabilität, und aus Stabilit�
 Verdichtung der zentralen Prinzipien der DFT -
 vom Paradox als Ursprung bis zur Erkenntnis als Selbstbezug.
 
+
+- [Falsifizierbarkeit im Differenzfluss.md](<Falsifizierbarkeit im Differenzfluss.md>)\
+  Die Frage nach der Prüfbarkeit einer meta-rekursiven Theorie
+  
 ---
 
 - [Differenzfluss - Erkenntnistheoretischer Kern](<Differenzfluss - Erkenntnistheoretischer Kern.md>)\
