@@ -1,4 +1,3 @@
----
 
 ```markdown
 # Arten des Nichts – logisch-strukturelle Skizze
