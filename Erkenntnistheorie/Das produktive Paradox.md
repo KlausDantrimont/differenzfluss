@@ -1322,137 +1322,135 @@ und die entstehenden Formen sichtbar macht.
 Ein rekursives Wellenfeld als einfachste Manifestation des Differenzflusses.
 
 
-"""
-waves-1.py — Minimaler Differenzfluss-Simulator
------------------------------------------------
 
-Dieses Skript simuliert ein zweidimensionales, gedämpftes Wellenfeld.
-
-Jeder Punkt im Gitter besitzt:
-    u : Amplitude (Zustand)
-    v : Geschwindigkeit (zeitliche Ableitung)
-
-Die Bewegung folgt der klassischen Wellengleichung:
-    ∂²u/∂t² = c² · ∇²u  –  damping · ∂u/∂t
-
-Implementiert wird sie diskret über einen Laplace-Operator (np.roll)
-und eine explizite Integration der Dynamik.
-
-Mausklicks setzen lokale Störungen (Gauß-Peaks), die sich als Wellen ausbreiten,
-interferieren, überlagern und durch die Dämpfung langsam abklingen.
-
-DFT-Interpretation:
--------------------
-Das Feld ist ein einfaches Beispiel eines λΔ-Netzes:
-    - λ repräsentiert hier die lokale Form / das Gesetz (Update-Regel),
-    - Δ den Unterschied zu benachbarten Zuständen (Differenzfluss).
-
-Damit wird die klassische Wellengleichung zur Anschauung dessen,
-was im λΔ-Formalismus "Differenzfluss" genannt wird:
-    Bewegung entsteht aus Differenz, 
-    und Stabilität aus der fortgesetzten Rückkopplung dieser Differenzen.
-
-Kurz gesagt:
-    Eine sichtbare Rekursion der Welt — 
-    in jeder Welle schwingt das Paradox.
-"""
-
-'''python
-import pygame
-import numpy as np
-import sys
-import math
-
-# Simulationseinstellungen
-grid_width, grid_height = 600, 400
-u = np.zeros((grid_height, grid_width), dtype=np.float32)  # Amplitudenfeld
-v = np.zeros((grid_height, grid_width), dtype=np.float32)  # Geschwindigkeitsfeld
-
-dt = 0.1            # Zeitschritt
-c = 4 #7.01             # Kopplungskonstante
-damping = 0.001      # Dämpfungsfaktor (optional, um übermäßige Oszillationen zu bremsen)
-
-# Pygame initialisieren
-pygame.init()
-window_size = (grid_width, grid_height )  # initiales Fenster 100x100
-screen = pygame.display.set_mode(window_size, pygame.RESIZABLE)
-clock = pygame.time.Clock()
-
-def disturb_field(u, pos, win_size, grid_size, radius=5, strength=5):
-    """Fügt an der Position 'pos' (in Fensterkoordinaten) eine Störung ein.
-       Es wird ein kleiner Gauß-Peak zur Amplitude addiert."""
-    win_w, win_h = win_size
-    grid_w, grid_h = grid_size
-    # Berechne die entsprechende Position im Gitter
-    j = int(pos[0] / win_w * grid_w)
-    i = int(pos[1] / win_h * grid_h)
-    # Für eine kleine Umgebung (Gaußförmig) addiere eine Störung
-    for di in range(-radius, radius+1):
-        for dj in range(-radius, radius+1):
-            ni = i + di
-            nj = j + dj
-            if 0 <= ni < grid_h and 0 <= nj < grid_w:
-                distance = math.sqrt(di**2 + dj**2)
-                if distance <= radius:
-                    u[ni, nj] += math.exp(-(distance**2) / (2*(radius/2)**2)) * strength
-
-running = True
-while running:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            running = False
-        elif event.type == pygame.VIDEORESIZE:
-            screen = pygame.display.set_mode((event.w, event.h), pygame.RESIZABLE)
-    
-    # Störung per Maus: Linke Maustaste gedrückt?
-    if pygame.mouse.get_pressed()[0]:
-        disturb_field(u, pygame.mouse.get_pos(), screen.get_size(), (grid_width, grid_height))
-    
-
-    # Berechne den diskreten Laplace-Operator (unter Verwendung von np.roll für periodische Nachbarn)    
-    laplacian = (
-        np.roll(u, 1, axis=0) +
-        np.roll(u, -1, axis=0) +
-        np.roll(u, 1, axis=1) +
-        np.roll(u, -1, axis=1) -
-        4*u
-      )
-    
-    
-    # Update der Oszillator-Dynamik: Beschleunigung (c² * Laplace) minus Dämpfung
-    #m=1 #m=49   
-    v = v + dt * (c**2 * laplacian - damping * v) #*m
-    u = u + dt * v
-
-    # Darstellung: Amplitude in Helligkeit umwandeln
-    # Wir nehmen an, dass u im Bereich etwa -10 bis 10 liegt und skalieren auf 0 bis 255.
-    u_clamped = np.clip(u, -10, 10)
-    brightness = ((u_clamped + 10) / 20 * 255).astype(np.uint8)
-    # Erzeuge ein RGB-Bild aus dem Graustufenbild
-    img_array = np.stack([brightness]*3, axis=-1)
-    
-    if (not 'surface' in locals()) or (surface.get_size() != img_array.size):
-       surface = pygame.surfarray.make_surface(img_array.swapaxes(0, 1))       
-    else: 
-       pygame.surfarray.blit_array(surface, img_array.swapaxes(0,1))
-    
-    # Skaliere die Surface auf die aktuelle Fenstergröße
-    win_w, win_h = screen.get_size()
-    surface = pygame.transform.scale(surface, (win_w, win_h))
-    
-    screen.blit(surface, (0, 0))
-    pygame.display.flip()
-    clock.tick(100)
-
-pygame.quit()
-sys.exit()
-
-# Δ ruht.
-
-'''
----
+     """
+     waves-1.py — Minimaler Differenzfluss-Simulator
+     -----------------------------------------------
+     
+     Dieses Skript simuliert ein zweidimensionales, gedämpftes Wellenfeld.
+     
+     Jeder Punkt im Gitter besitzt:
+         u : Amplitude (Zustand)
+         v : Geschwindigkeit (zeitliche Ableitung)
+     
+     Die Bewegung folgt der klassischen Wellengleichung:
+         ∂²u/∂t² = c² · ∇²u  –  damping · ∂u/∂t
+     
+     Implementiert wird sie diskret über einen Laplace-Operator (np.roll)
+     und eine explizite Integration der Dynamik.
+     
+     Mausklicks setzen lokale Störungen (Gauß-Peaks), die sich als Wellen ausbreiten,
+     interferieren, überlagern und durch die Dämpfung langsam abklingen.
+     
+     DFT-Interpretation:
+     -------------------
+     Das Feld ist ein einfaches Beispiel eines λΔ-Netzes:
+         - λ repräsentiert hier die lokale Form / das Gesetz (Update-Regel),
+         - Δ den Unterschied zu benachbarten Zuständen (Differenzfluss).
+     
+     Damit wird die klassische Wellengleichung zur Anschauung dessen,
+     was im λΔ-Formalismus "Differenzfluss" genannt wird:
+         Bewegung entsteht aus Differenz, 
+         und Stabilität aus der fortgesetzten Rückkopplung dieser Differenzen.
+     
+     Kurz gesagt:
+         Eine sichtbare Rekursion der Welt — 
+         in jeder Welle schwingt das Paradox.
+     """
+     
+     import pygame
+     import numpy as np
+     import sys
+     import math
+     
+     # Simulationseinstellungen
+     grid_width, grid_height = 600, 400
+     u = np.zeros((grid_height, grid_width), dtype=np.float32)  # Amplitudenfeld
+     v = np.zeros((grid_height, grid_width), dtype=np.float32)  # Geschwindigkeitsfeld
+     
+     dt = 0.1            # Zeitschritt
+     c = 4 #7.01             # Kopplungskonstante
+     damping = 0.001      # Dämpfungsfaktor (optional, um übermäßige Oszillationen zu bremsen)
+     
+     # Pygame initialisieren
+     pygame.init()
+     window_size = (grid_width, grid_height )  # initiales Fenster 100x100
+     screen = pygame.display.set_mode(window_size, pygame.RESIZABLE)
+     clock = pygame.time.Clock()
+     
+     def disturb_field(u, pos, win_size, grid_size, radius=5, strength=5):
+         """Fügt an der Position 'pos' (in Fensterkoordinaten) eine Störung ein.
+            Es wird ein kleiner Gauß-Peak zur Amplitude addiert."""
+         win_w, win_h = win_size
+         grid_w, grid_h = grid_size
+         # Berechne die entsprechende Position im Gitter
+         j = int(pos[0] / win_w * grid_w)
+         i = int(pos[1] / win_h * grid_h)
+         # Für eine kleine Umgebung (Gaußförmig) addiere eine Störung
+         for di in range(-radius, radius+1):
+             for dj in range(-radius, radius+1):
+                 ni = i + di
+                 nj = j + dj
+                 if 0 <= ni < grid_h and 0 <= nj < grid_w:
+                     distance = math.sqrt(di**2 + dj**2)
+                     if distance <= radius:
+                         u[ni, nj] += math.exp(-(distance**2) / (2*(radius/2)**2)) * strength
+     
+     running = True
+     while running:
+         for event in pygame.event.get():
+             if event.type == pygame.QUIT:
+                 running = False
+             elif event.type == pygame.VIDEORESIZE:
+                 screen = pygame.display.set_mode((event.w, event.h), pygame.RESIZABLE)
+         
+         # Störung per Maus: Linke Maustaste gedrückt?
+         if pygame.mouse.get_pressed()[0]:
+             disturb_field(u, pygame.mouse.get_pos(), screen.get_size(), (grid_width, grid_height))
+         
+     
+         # Berechne den diskreten Laplace-Operator (unter Verwendung von np.roll für periodische Nachbarn)    
+         laplacian = (
+             np.roll(u, 1, axis=0) +
+             np.roll(u, -1, axis=0) +
+             np.roll(u, 1, axis=1) +
+             np.roll(u, -1, axis=1) -
+             4*u
+           )
+         
+         
+         # Update der Oszillator-Dynamik: Beschleunigung (c² * Laplace) minus Dämpfung
+         #m=1 #m=49   
+         v = v + dt * (c**2 * laplacian - damping * v) #*m
+         u = u + dt * v
+     
+         # Darstellung: Amplitude in Helligkeit umwandeln
+         # Wir nehmen an, dass u im Bereich etwa -10 bis 10 liegt und skalieren auf 0 bis 255.
+         u_clamped = np.clip(u, -10, 10)
+         brightness = ((u_clamped + 10) / 20 * 255).astype(np.uint8)
+         # Erzeuge ein RGB-Bild aus dem Graustufenbild
+         img_array = np.stack([brightness]*3, axis=-1)
+         
+         if (not 'surface' in locals()) or (surface.get_size() != img_array.size):
+            surface = pygame.surfarray.make_surface(img_array.swapaxes(0, 1))       
+         else: 
+            pygame.surfarray.blit_array(surface, img_array.swapaxes(0,1))
+         
+         # Skaliere die Surface auf die aktuelle Fenstergröße
+         win_w, win_h = screen.get_size()
+         surface = pygame.transform.scale(surface, (win_w, win_h))
+         
+         screen.blit(surface, (0, 0))
+         pygame.display.flip()
+         clock.tick(100)
+     
+     pygame.quit()
+     sys.exit()
+     
+     # Δ ruht.
 
 ---
+
 
 ### Nachsatz
 
