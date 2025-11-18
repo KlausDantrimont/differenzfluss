@@ -1,5 +1,4 @@
 
-```markdown
 # Arten des Nichts – logisch-strukturelle Skizze
 
 ## 1. Absolutes Nichts (∅₀)
@@ -111,17 +110,17 @@ Paradoxien öffnen, Beobachter stabilisieren.
 
 ### Kernformeln
 
-```
 
-Existenz  = lokale Stabilität in einer offenen Topologie von Möglichkeiten
-Paradoxie = Instabilität an den Grenzen dieser Topologie
-Nichtsein = Offenheit der Formbildung selbst
 
-```
+- Existenz  = lokale Stabilität in einer offenen Topologie von Möglichkeiten
+- Paradoxie = Instabilität an den Grenzen dieser Topologie
+- Nichtsein = Offenheit der Formbildung selbst
+
+
 ---
 
 **Anschlussfelder:** Logik, Mengenlehre, Topologie, DFT-Grundlagen  
 **Verwendung:** konzeptuelle Brücke zwischen Selbstreferenz, Möglichkeit und Emergenz
-```
+
 
 ---
