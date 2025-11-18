@@ -2,7 +2,7 @@
 
 ## Einleitung: Wenn Worte wandern
 
-Sprache ist kein neutrales Medium. Sie ist ein Werkzeug, ein Spiegel, ein Schlachtfeld. In komplexen Gesellschaften wird Bedeutung nicht nur geformt, sondern auch geformt **um** – manchmal leise, manchmal mit Getöse. Dieser Essay beleuchtet die semantischen Verformungen zentraler Begriffe und zeigt, wie sich durch diese Prozesse Realitätswahrnehmung, Handlungsspielräume und Machtverhältnisse verschieben.
+Sprache ist kein neutrales Medium. Sie ist ein Werkzeug, ein Spiegel, ein Schlachtfeld. In komplexen Gesellschaften wird Bedeutung nicht nur geformt, sondern auch geformt **um zu** – manchmal leise, manchmal mit Getöse. Dieser Essay beleuchtet die semantischen Verformungen zentraler Begriffe und zeigt, wie sich durch diese Prozesse Realitätswahrnehmung, Handlungsspielräume und Machtverhältnisse verschieben.
 
 Was wie ein sprachlicher Wandel erscheint, ist oft ein gezielter Umbau semantischer Infrastruktur. Es ist ein Babylon nicht der Sprachen, sondern der Bedeutungen – ein Turm aus Begriffen, die scheinbar gleich geblieben sind, aber andere Wirklichkeiten tragen.
 
