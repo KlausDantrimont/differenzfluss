@@ -36,7 +36,7 @@ Jede Verbesserung wird zum Blindflug. Jeder Eingriff kann Dinge kaputt machen, d
 
 ### 3. Refactoring als Prinzip – Lektionen aus der Softwareentwicklung
 
-Gute Entwickler\:innen wissen: Wenn ein System zu kompliziert wird, muss man **nicht etwas hinzufügen**, sondern **neu strukturieren**.
+Gute Entwickler wissen: Wenn ein System zu kompliziert wird, muss man **nicht etwas hinzufügen**, sondern **neu strukturieren**.
 
 Das nennt sich **Refactoring**:
 
