@@ -10,7 +10,7 @@ Sie wurde unabhängig entwickelt, folgt einem völlig anderen Stil – und denno
 
 MQG präsentiert sich als ein formal durchgerechnetes Modell, das:
 
-* ein **Funktionsal** als Ursprung der Physik annimmt,
+* ein **Funktional** als Ursprung der Physik annimmt,
 * dessen **Hessian** Newton-Konstante, Gauge-Sektoren, Kopplungen und Dunkelkomponenten erzeugt,
 * und dabei **rekursive, nichtlokale, aber ghostfreie** Strukturen nutzt.
 
