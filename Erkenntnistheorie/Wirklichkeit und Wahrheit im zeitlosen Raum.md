@@ -1,5 +1,4 @@
 
-```markdown
 # Wirklichkeit und Wahrheit im zeitlosen Raum
 
 ## 1. Adressierbarkeit des Nichts
@@ -15,9 +14,7 @@ Dadurch wird es **logisch erfassbar** – und sein Selbstwiderspruch tritt auf:
 
 Das Nichts wird damit zum ersten **Reflexionspunkt der Logik**:
 ```
-
 ∅₁ = { ∅₀ }   # Das Nichts wird durch Adressierung paradox
-
 ```
 
 ---
@@ -29,9 +26,7 @@ sondern **stabile Strukturen von Wirksamkeit**.
 Sie benötigen weder Beobachter noch Bewertung.
 
 ```
-
 Natur = Konsistenz, nicht Wahrheit
-
 ```
 
 > Die Natur „prüft“ nichts – sie *wirkt*.  
@@ -44,9 +39,7 @@ Wahrheit entsteht als **Kohärenzrelation innerhalb eines Systems**:
 Eine Aussage ist wahr, wenn sie mit dem Regelwerk des Systems konsistent ist.
 
 ```
-
 Wahrheit(A, Kontext) ⇔ Kohärent(A, Kontext)
-
 ```
 
 Damit ist Wahrheit **relational und lokal**.  
@@ -61,9 +54,7 @@ sondern *was eine Wirkung entfaltet*.
 
 Formal:
 ```
-
 Wirklich(X) ⇔ ∃Y : X → Y
-
 ```
 Etwas ist real, wenn es **andere Zustände verändert oder erzeugt**.  
 Damit wird „Realität“ zur Menge **wirksamer Relationen**,  
@@ -78,9 +69,7 @@ sondern eine **gerichtete Formbeziehung**.
 Sie ist eine *zeitlose Wirkursache*:
 
 ```
-
 Implikation(A, B) : A ⇒ B
-
 ```
 
 → **Kausalität ohne Zeit**  
@@ -92,18 +81,14 @@ Implikation(A, B) : A ⇒ B
 
 Wird eine Implikation selbstbezüglich, z. B.
 ```
-
 A ⇒ ¬A
-
 ```
 entsteht eine Struktur ohne stabilen Wahrheitswert.  
 Von außen: statisch, abgeschlossen.  
 Von innen: unendliche Oszillation zwischen Gegensätzen.
 
 ```
-
 Paradoxe_Implication(A) ⇒ Oszillation(Wahrheit(A))
-
 ```
 
 Paradoxe Strukturen sind **zeitlose Oszillatoren** –  
@@ -125,13 +110,10 @@ logische Fixpunkte mit interner Bewegung.
 
 ## 8. Kernbeziehungen
 
-```
-
 - Wahrheit   = Kohärenz innerhalb eines Kontexts
 - Wirklichkeit = Menge implikativer (wirksamer) Strukturen
 - Paradoxie  = Oszillation an den Grenzen stabiler Kohärenz
 
-```
 
 ---
 
@@ -151,5 +133,5 @@ Paradoxie = offene Grenze, an der aus Nichtsein Wirken entsteht.
 
 **Anschlussfelder:** Logik, Kausalität, Emergenz, DFT-Grundlagen  
 **Funktion:** Verbindung von Wahrheitslogik, Wirksamkeit und Paradoxie im zeitlosen Rahmen
-```
+
 
