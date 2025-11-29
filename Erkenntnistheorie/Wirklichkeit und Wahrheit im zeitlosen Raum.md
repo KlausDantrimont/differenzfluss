@@ -127,9 +127,9 @@ logische Fixpunkte mit interner Bewegung.
 
 ```
 
-Wahrheit   = Kohärenz innerhalb eines Kontexts
-Wirklichkeit = Menge implikativer (wirksamer) Strukturen
-Paradoxie  = Oszillation an den Grenzen stabiler Kohärenz
+- Wahrheit   = Kohärenz innerhalb eines Kontexts
+- Wirklichkeit = Menge implikativer (wirksamer) Strukturen
+- Paradoxie  = Oszillation an den Grenzen stabiler Kohärenz
 
 ```
 
