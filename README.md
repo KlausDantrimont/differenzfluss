@@ -43,7 +43,7 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 ---
 
 > *Keine Lehre, sondern eine Brille.*  
-> *eine interessante Art der Betrachtung.* 
+> *Oder schlicht eine interessante Art der Betrachtung.* 
 
 ---
 
