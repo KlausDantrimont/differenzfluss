@@ -78,7 +78,7 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 
 
 ## **Kritik**
-- Jede Kritik ist willkommen und erwünscht.
+- Jede Kritik oder Ergänzung oder Perspektive ist willkommen und erwünscht.
 - Die Kritik, die DFT sei [trivial](trivial.md), ist zB. fruchtbar.
    
 
