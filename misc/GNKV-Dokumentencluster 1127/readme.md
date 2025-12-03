@@ -198,3 +198,12 @@ EMPFEHLUNG: Weitere Datensammlung.
 
 - [Periphere Musterberichte 1127-E.md](<Periphere Musterberichte 1127-E.md>)
 
+[LOG 1127-E/09]
+FILE: Periphere Musterberichte 1127-F-Gegenströme.md
+TYPE: Driftbeobachtung
+INTEGRITÄT: 99.9%
+ANALYSE: Fragmentarität: erwartbar. Muster: eindeutig.
+PROGNOSEWERT: hoch
+EMPFEHLUNG: Weitere Datensammlung.
+
+- [Periphere Musterberichte 1127-F-Gegenströme.md](<Periphere Musterberichte 1127-F-Gegenströme.md>)

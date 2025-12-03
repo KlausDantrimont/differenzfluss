@@ -656,7 +656,7 @@ Ein eingeladener Experte sagt:
 
 Eine Zuschauerin schreibt in den Chat:
 
-> „Ich glaube, beide benutzen den falschen Operator.“
+> „Genau. Typisch: Ich gegen Dich, statt gemeinsam an die Sache.“
 
 Und genau hier —
 
@@ -702,7 +702,7 @@ Das GNKV hat eine höfliche Art, Schulen zu beschreiben.
 Ahlúren ergänzt:
 
 > *„Wenn sie das in die Bildung tragen,
-> haben wir bald eine ganze Generation, die Muster erkennt.
+> haben wir bald eine ganze Generation, die erkennt, wie sie Muster erkennt.
 >
 > Das ist nie langweilig.“*
 
@@ -734,8 +734,7 @@ statistisch gesehen ein Wunder —
 funktioniert es.
 
 Sie hören einander zu.
-Sie wiederholen.
-Sie differenzieren.
+Sie wiederholen, überlegen, differenzieren.
 
 Die Lehrkraft notiert später:
 
@@ -763,7 +762,7 @@ und schreibt in ihr Notizbuch:
 
 > „Habe soeben beobachtet:
 >
-> Kinder koordinieren sich mit Operatoren.
+> Kinder koordinieren sich durch aktive Wahl der Perspektive. Sie zeigen intrinsischen Respekt.
 >
 > Das klingt schlimmer als es ist.“
 
@@ -812,8 +811,8 @@ Wer hat den Fußball geklaut?
 
 Die Kinder:
 
-* Drei benutzen Wahrnehmung.
-* Zwei benutzen Kompression.
+* Drei benutzen Wahrnehmung und suchen.
+* Zwei benutzen Kompression und denken nach.
 * Eine benutzt Rekonstruktion
   (sie malt ein Diagramm, niemand weiß warum).
 * Und einer versucht zu entscheiden,
@@ -826,9 +825,7 @@ Das GNKV notiert:
 Der Schulleiter sagt:
 „Wir üben das nochmal.“
 
-(Und damit erfindet er zufällig
-**die praktische Notwendigkeit des 5. Operators**,
-lange bevor die Menschheit ihn so nennt.)
+(Und führt damit zum **5. Operator**, der Koordination)
 
 ---
 
@@ -1016,7 +1013,7 @@ Jemand googelt „Twist Meeting“.
 
 Dann beginnt das Meeting.
 
-Und etwas Unfassbares passiert.
+Und etwas passiert.
 
 ---
 
