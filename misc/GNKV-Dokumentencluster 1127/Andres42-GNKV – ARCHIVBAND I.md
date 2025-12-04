@@ -3772,8 +3772,8 @@ strukturelle Erstarrung.
 
 #### **(C) Ausfall von Δ₅**
 
-Der seltenste,
-aber gefährlichste Defekt.
+Der selten bemerkte,
+aber gefährliche Defekt.
 
 Warnsignal:
 
