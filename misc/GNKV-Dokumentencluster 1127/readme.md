@@ -130,7 +130,7 @@ ANALYSE: Basisklassifikationen stabil. Keine Konflikte.
 ANOMALIEN: 0
 EMPFEHLUNG: Unverändert belassen.
 
-- [Andres42-GNKV - ARCHIVBAND I.md](<Andres42-GNKV - ARCHIVBAND I.md>)
+- [Andres42-GNKV – ARCHIVBAND I.md](<Andres42-GNKV – ARCHIVBAND I.md>)
 
 
 [LOG 1127-E/03]
@@ -141,7 +141,8 @@ ANALYSE: Operatorprofil vollständig. Driftvorhersagen plausibel.
 BELASTUNG FÜR ZIELSPEZIES: moderat.
 EMPFEHLUNG: Gesichert speichern.
 
-- [Andres42-GNKV - KOGNITIVES FUND-DOSSIER NR. 1127.md](<Andres42-GNKV - KOGNITIVES FUND-DOSSIER NR. 1127.md>)
+- [Andres42-GNKV – KOGNITIVES FUND-DOSSIER NR. 1127.md](<Andres42-GNKV – KOGNITIVES FUND-DOSSIER NR. 1127.md>)
+
 
 [LOG 1127-E/04]
 FILE: Tagebucheintrag Ahlúren.md
