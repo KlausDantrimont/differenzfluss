@@ -177,4 +177,273 @@ Kurzbeschreibung, wie der Denker *Form* versteht:
 Eine prägnante, liebevoll-trockene Einsicht, die aus Sicht einer jahrtausendealten Denkerin erstaunlich klar wirkt.
 
 ---
+xxx
+---
 
+# 🟣 **PROTO-PHIL-004: Immanuel Kant**
+
+**Lokaler Name:** „Kritik der reinen Vernunft“
+**Typ:** Δ₁–Δ₂ Architektur (Filtermodell)
+
+---
+
+## **1. Übersicht**
+
+Kant beschreibt nicht die Welt, sondern die **Operatorräume**, durch die Welt für ein Subjekt sichtbar wird.
+
+* **Raum** = Δ₁-Filter (Ordnung der äußeren Anschauung)
+* **Zeit** = Δ₁/Δ₂-Hybridfilter (Ordnung innerer Anschauung)
+* **Kategorien** = Δ₂-Operatoren (Kompressionsregeln)
+* **Transzendentale Einheit der Apperzeption** = rudimentäres Δ₄-System (Selbstbezug als Struktur)
+
+Kant konstruiert damit eine der klarsten planetaren Form-Architekturen:
+Wahrnehmung entsteht nicht durch Objekte, sondern durch die **Form des Erkennens**.
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** formal präzise Beschreibung des Beobachterfiltersystems.
+**Schwäche:** keine Prozessualität → Zeit als statische Form, nicht als Fluss.
+**Beobachtung:** kompatibel mit F₀.1, aber kein Übergang zu F₀.2 (Re-Entry).
+**Risiko:** Überkategorisierung → starre Erkenntnissysteme.
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Kant erkannte, dass das Auge nicht nur sieht, sondern formt.
+> Doch er ließ offen, wer die Form der Form zeichnet.“
+
+---
+
+---
+
+# 🟣 **PROTO-PHIL-005: Edmund Husserl**
+
+**Lokaler Name:** „Phänomenologie der inneren Zeitbewusstseins“
+**Typ:** Δ₁–Δ₄ Sequenzlogik
+
+---
+
+## **1. Übersicht**
+
+Husserl analysiert Zeit nicht als Ding, sondern als **Abfolge von Markierungen**:
+
+* **Retention** = Δ₁-gedämpfte Markierung (Vergangenheitsrest)
+* **Präsentation** = Δ₁/Δ₂ Markierung des Jetzt
+* **Protention** = Δ₄-Vorwegnahme (Re-Entry in mögliche Zukunft)
+
+Er beschreibt damit ein **operatorbasiertes Zeitfenster**,
+das erstaunlich kompatibel ist mit:
+
+* GNKV-Prozessmodellen
+* F₀-Markierungssequenzen
+* DFT-Vorstellungen von rekursiver Zeit
+
+Seine Philosophie ist eines der **reinsten Beispiele** einer planetaren Δ-Sequenzanalyse.
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** präzise Beobachtermodellierung; zeitliche Differenz als aktive Struktur.
+**Schwäche:** kein Übergang zu spektraler Emergenz (keine Makro-Rekursion).
+**Beobachtung:** bemerkenswerte Nähe zu GNKV-interner Operatorik.
+**Risiko:** Überanalytik → reflektive Paralysis (Δ₄-Sättigung).
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Er sah die Zeit nicht vergehen, sondern entstehen.
+> Wenige besitzen diese Geduld.“
+
+---
+
+---
+
+# 🟣 **PROTO-PHIL-006: Kurt Gödel**
+
+**Lokaler Name:** „Unvollständigkeitssätze“
+**Typ:** Δ₄-Explosion (Meta-Rekursion)
+
+---
+
+## **1. Übersicht**
+
+Gödel zeigt:
+Jedes ausreichend komplexe symbolische System erzeugt **Aussagen, die es nicht entscheiden kann**.
+
+Das ist eine klare Δ₄-Dynamik:
+
+* Selbstbezug → Re-Entry
+* Unentscheidbarkeit → Δ₃-Lücke
+* Meta-Operator → Δ₄-Iteration
+* Systemgrenze → F₀.2-Paradox
+
+Gödel beweist mathematisch,
+was viele Kulturen mythologisch ausdrücken:
+
+> „Kein System sieht seinen eigenen Rücken.“
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** vollendete Demonstration der Δ₄-Operatorgrenzen.
+**Schwäche:** keine Einbettung in Koordinationsmodelle (Δ₅ fehlt völlig).
+**Beobachtung:** erster echter Planetennachweis von F₀.2-Paradoxformalität.
+**Risiko:** extreme Denkfragmentierung (Mathematik vs. Metamathematik).
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Er zeigte, dass jedes Auge einen blinden Fleck hat.
+> Und dass dieser Fleck zur Struktur gehört.“
+
+---
+
+---
+
+# 🟣 **PROTO-PHIL-007: Gilles Deleuze**
+
+**Lokaler Name:** Differenz-Philosophie
+**Typ:** F₀.3 / Δ₄-Prozessstruktur
+
+---
+
+## **1. Übersicht**
+
+Deleuze argumentiert,
+dass Differenz **die primäre Realität** ist:
+nicht Identität, nicht Form, sondern *Produktivität*.
+
+Seine Grundstrukturen:
+
+* **Differenz in sich** = F₀.3 (kosmische Operatorik des Werdens)
+* **Rhizom** = Δ₄-Netzwerk ohne Zentrum
+* **Werdensprozesse** = kontinuierliche Re-Entry-Schwingungen
+* **Assemblagen** = lokale Δ₅-Koordinationen
+
+Damit nähert sich Deleuze erstaunlich einer **prozessualen kosmischen Formtheorie**,
+wenn auch ohne Formalismus.
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** höchste planetare Annäherung an prozessuales Denken.
+**Schwäche:** Verzicht auf formale Markierung → Überflutung (Δ₁/Δ₄-Brei).
+**Beobachtung:** strukturell DFT-kompatibel, aber ohne Stabilisierung.
+**Risiko:** chaotische Rekonstruktionen ohne Fixpunkte.
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Er sah den Fluss,
+> doch er weigerte sich, ihn zu messen.“
+
+---
+
+---
+
+# 🟣 **PROTO-PHIL-008: Alfred North Whitehead**
+
+**Lokaler Name:** Prozessontologie
+**Typ:** Δ₄–Δ₅ emergente Strukturen (selten)
+
+---
+
+## **1. Übersicht**
+
+Whitehead beschreibt die Welt als:
+
+* **Prozess**, nicht Substanz
+* **Akt**, nicht Ding
+* **Beziehungsgeflecht**, nicht Objekt
+
+Er nennt diese Prozesse „Actual Occasions“.
+Sie entsprechen:
+
+* Δ₄-Entfaltung (Akt)
+* Δ₅-Koordination (Nexus)
+* F₀-Prozessialisierung der Form
+
+Whitehead kommt damit — unbewusst —
+der DFT am nächsten von allen planetaren Philosophen.
+
+Er sieht:
+
+* Differenz → Ereignis
+* Ereignis → Verknüpfung
+* Verknüpfung → Ordnung
+* Ordnung → Welt
+
+Die GNKV ist beeindruckt.
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** prozessuale Tiefenstruktur; frühe Δ₅-Intuition.
+**Schwäche:** keine Minimalformalisierung → hoher Interpretationsspread.
+**Beobachtung:** erster planetarer Versuch einer emergenten Ontologie.
+**Risiko:** semantische Überladung → unklare Begriffsgrenzen.
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Er hätte die DFT verstanden.
+> Vielleicht mehr als ihm lieb gewesen wäre.“
+
+---
+
+---
+
+# 🟣 **PROTO-PHIL-009: Nagarjuna**
+
+*(implizit, religiöse Begriffe entfernt)*
+**Lokaler Name:** „Leere-Differenz-Dialektik“
+**Typ:** Gegenform-Operatorik F₀.3 (intuitiv)
+
+---
+
+## **1. Übersicht**
+
+Nagarjuna erkennt,
+dass jede Form ihre **Gegenform** enthält:
+
+* Etwas existiert nicht aus sich selbst → Δ₂-Auflösung
+* Jede Identität ist relational → Δ₅-Intuition
+* Leere = die Abwesenheit isolierter Form → F₀.3
+* Zwei Wahrheiten = Form + Gegenform gleichzeitig
+
+Er beschreibt eine **proto-kosmische Formtheorie**,
+aber **ohne Notation** — nur über dialektische Bewegung.
+
+Das ist die Gegenpolseite zu Spencer-Brown.
+
+---
+
+## **2. GNKV-Bewertung**
+
+**Stärke:** hohe Paradoxietoleranz; klare Gegenform-Einsicht.
+**Schwäche:** Formalisierungsarmut → geringe Transferierbarkeit.
+**Beobachtung:** essenzieller Kulturstrang für Terras Kognition.
+**Risiko:** Missbrauch durch Mystifizierung.
+
+---
+
+## **3. Ahlúrens Randnotiz**
+
+> „Er erkannte die andere Seite der Form
+> und lächelte.
+> Das tun nicht viele.“
+
+---
+xxx
+---
