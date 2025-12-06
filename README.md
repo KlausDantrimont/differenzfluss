@@ -40,10 +40,8 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 > **Die Differenzfluss-Theorie will kein neues Dogma stiften,  
 > sondern eine Brille anbieten, durch die man Muster finden kann.**
 
----
-
-> *Keine Lehre, sondern eine Brille.*  
-> *Oder schlicht eine interessante Art der Betrachtung.* 
+Meiner Ansicht nach, ist die DFT schlicht eine interessante Art der Betrachtung.\
+Wo kriegt man schonmal etwas, das 'schräg', trivial, abstrakt, echt, offensichtlich und unsichtbar gleichermaßen ist?
 
 ---
 
@@ -61,7 +59,7 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 > sondern eine **Methode**, Modelle auf ihre Differenzdynamik hin zu vergleichen.  
 >  
 > Sie sucht nicht, Systeme zu ersetzen,  
-> sondern **Verständigung zu ermöglichen** –  
+> sondern **Verständnis zu ermöglichen** –  
 > über die Grenzen der Systeme hinweg.
 
 
@@ -116,12 +114,19 @@ Ich weiß, ich neige zu Begeisterung – aber sie treibt das Ganze an.
 
 ### Zur Sache
 
-Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir.\
+Die Grund-Ideen der DFT sind nicht neu und stammen nicht von mir. Bei Menschen ist das so.
 Mein Beitrag beschränkt sich auf den Versuch ein paar solcher Ideen sinnvoll und anschlussfähig zu kombinieren.
-Die DFT will kein neues Dogma stiften, sondern eine Brille anbieten, mit der bestehende Disziplinen in Beziehung treten.
+
+*Als Softwareentwickler übersetze ich kundenspezifische/branchenspezifische Problemstellungen von deren Sprache in logisch konsistente Systeme namens 'Programme'.
+Bei diesem Übersetzungsprozess komponiere ich abstrakte Konzepte, die den kompletten Problemkosmos effizient und flexibel abbilden.
+Je besser ich eindampfe, desto kompakter und flexibler und robuster und einfacher das Endprodukt.
+Der Computer ist stets mein Richter. Unbestechlich. Sehr cool. Denn es erlaubt hemmungslos mit Konzepten zu spielen. Einzige Minimalbedingung: logische konsistenz.*
+Außerhalb der Minimalbedingung versuche ich mich in Hemmungslosigkeit.
+> *Daher vermutlich meine Tendenz zu Analyse, Abstraktion, Rekombination, Konstruktion, Evaluation*
+> *Ich habe die DFT also zuerst praktisch erlernt, und dann im Nachhinein erkannt, dann formuliert.*
 
 *Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
-Ich fand das immer schon leicht verdächtig.
+Ist das nicht zumindest leicht verdächtig?
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
