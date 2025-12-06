@@ -9,7 +9,7 @@
 ## **I. Ontologischer Kern**
 
 ### 🜂 Das reale Paradox
-- Realität entsteht, weil ein logischer Widerspruch **nicht bestehen kann**, ohne sich zu verändern.  
+- Realität entsteht, weil ein logischer Widerspruch **nicht bestehen kann**.  
 - Die Welt ist der **Prozess ihrer eigenen Entparadoxierung** – der Versuch, Konsistenz zu erreichen, ohne sich selbst zu negieren.  
 - **Wahrheitsdruck:** Jede Instabilität sucht eine Form, die sie tragen kann.
 
