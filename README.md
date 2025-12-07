@@ -2,6 +2,12 @@
 
 # Differenzfluss
 
+*Dieses Repository ist ein wachsendes Forschungsprojekt.
+Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum Prozess.*
+
+**Willkommen im Fluss.**
+
+
 ### 📍 Verortung im Diskurs
 
 Die Differenzierungsfluss-Theorie (DFT) steht in der Denktradition von **George Spencer-Browns** *Laws of Form* (1969), erweitert diesen Ansatz jedoch um eine **prozessuale Dimension**.
@@ -132,13 +138,21 @@ Ist das nicht zumindest leicht verdächtig?
 
 ---
 
+### **→ Atlas der Evolutionsräume:**
+
+*Eine Karte der verborgenen Strukturen, aus denen Wirklichkeit emergiert.*
+
+- [Atlas](<Atlas/readme.md>)
+
+---
+
 Wer lieber gleich in die Anwendungen und Querbezüge einsteigt, findet unten die [Adapter-Sammlung](https://github.com/KlausDantrimont/differenzfluss/blob/main/README.md#adapter-ordner-%C3%BCbersicht)
 In den Adaptern fragt die KI, wie die DFT zu Diesem oder Jenem Autor/Konzept/Paradigma steht.\
 Es sind Einordnungen aus verschiedenen Winkeln. Zugänge. Beispiele. Referenzen\
 Oder wie mein Kater Elvis sagen würde, wenn er könnte und wüsste: *Semantische Frequenzwandler.*
 
 Es kann vielleicht helfen sich die Texte von einer KI übersetzen zu lassen.\
-Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
+Am Selberdenken führt aber, wie üblich, kein Weg vorbei, was ja durchaus Spaß machen kann.
 
 **Kernaussage: Überall die gleiche Soße**
 
@@ -202,9 +216,17 @@ Am Selberdenken führt aber, wie üblich, kein Weg vorbei.
 
 - [Die erste Frage.md](<Erkenntnistheorie/Die erste Frage.md>)
 
+
+
+
 ---
 
-Ab hier kommt allerlei außenrum, deep dives, Gewachsenes, Produktideen, und am Ende die zwei Büchlein, mit denen alles los ging.
+Ab hier kommt allerlei älteres, außenrum, deep dives, Gewachsenes, Produktideen, und am Ende die zwei Büchlein, mit denen alles los ging.\
+Jaja, alles etwas konfus hier. Man hängt ja auch überall alleine dran. nöch?
+Aber Lokal, hier und da, spielt sicher die Musik für den einen oder anderen.
+
+Da ist, wie so oft, Trüffelschweintalent gefragt.
+
 ---
 
 Ich habe im Laufe der Jahre Compiler, Compiler-Compiler und Interpreter für eigene Domänensprachen entwickelt.
