@@ -6,7 +6,7 @@ Klaus Dantrimont, 2025
 
 Überlegungen zu LLM-Halluzinationen haben mich hierher geführt.
 
-Und der Instinkt, dass sobald Rekursion ins Spiel kommt, zuweilen etwas wunderliches geschieht oder entsteht. 
+Und die Idee, dass sobald Rekursion ins Spiel kommt, zuweilen etwas wunderliches geschieht oder entsteht. 
 
 Also hab ich mich, die DFT, die KI gefragt: **Was ist eine Frage?**\
 Und was ist eine *gute* Frage?
@@ -209,8 +209,6 @@ In der KI ist er extrem stabil:
 Die sechs Operatoren bilden zusammen eine Art **Fragealphabet**,
 aus dem jede komplexe Frage zusammengesetzt werden kann.
 
----
-xxx
 ---
 
 # **3. Wie Fragen Realität formen**
@@ -486,9 +484,6 @@ Sie sind keine Mittel zur Antwort –
 sie sind selbst bereits **Erkenntnis**.
 
 ---
-xxx
----
-
 
 # **B · Die formale Fragegrammatik (DFT-QG)**
 
@@ -867,10 +862,6 @@ E(Sinn, soziale-Systeme)
 
 ---
 
----
-xxx
----
-
 # **D · Der KI-Adapter zur DFT-Fragegrammatik**
 
 ### *Wie man Large Language Models mit der Kunst der Frage präzise führt*
@@ -1186,9 +1177,6 @@ Antwort:
 Das ist die ganze Magie.
 
 ---
-xxx
----
-
 
 # **C · Die 100 besseren Fragen**
 
