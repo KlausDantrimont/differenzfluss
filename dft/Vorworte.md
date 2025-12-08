@@ -24,7 +24,7 @@ Die DFT ist:
    Es schafft Anschluss zwischen Logik, Physik, Biologie, Psychologie und Kultur — nicht durch Inhalte, sondern durch Strukturen.
 
 4. **Ein persönliches Forschungsinstrument:**
-   Sie bietet dir Klarheit und Kohärenz im Denken, ohne einen Anspruch auf universelle Wahrheit zu erheben.
+   Sie bietet Klarheit und Kohärenz im Denken, ohne einen Anspruch auf universelle Wahrheit zu erheben.
 
 ---
 
