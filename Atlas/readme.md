@@ -26,6 +26,15 @@ Strukturdiagramme, Prozessbeschreibungen, Vergleichstabellen und systemische Ana
 
 ## **Zentrale Elemente (bisher)**
 
+
+### **• Die Kunst der Frage – Ein Werkzeug für klare Frames** 
+
+Dieses Kapitel zeigt, dass Fragen selbst **Operatoren** sind:
+Sie markieren Unterschiede, setzen Perspektiven und formen den Raum möglicher Antworten.
+Die DFT-Frageoperatoren (Prozess, Differenz, Perspektive, Emergenz, Selbstbezug) ermöglichen präzise, konsistente und KI-stabile Fragestellungen.
+Im Atlas dient das Kapitel als **epistemisches Werkzeug**, um komplexe Phänomene klarer und strukturierter zu erschließen.
+
+
 ### **• Evolutionsräume des Flusses**
 
 *Eine genealogische Karte emergenter Ordnung*
@@ -108,4 +117,6 @@ Er ist kein abgeschlossenes Lehrwerk,
 sondern eine **laufende Expedition** in die Landschaften des Differenzflusses.
 
 ---
+
+
 
