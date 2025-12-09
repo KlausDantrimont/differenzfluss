@@ -24,6 +24,15 @@ Strukturdiagramme, Prozessbeschreibungen, Vergleichstabellen und systemische Ana
 
 ---
 
+### **• Vorwort zum Atlas der Evolutionsräume**
+
+Eine kurze Einordnung, warum ein Atlas überhaupt sinnvoll ist:
+Nicht um Weltbilder zu liefern, sondern um **Strukturen sichtbar** zu machen,
+die evolutionär wirken und uns täglich formen. 
+
+- [Vorwort zum Atlas der Evolutionsräume.md](<Vorwort zum Atlas der Evolutionsräume.md>)
+
+
 ## **Zentrale Elemente (bisher)**
 
 
@@ -34,11 +43,28 @@ Sie markieren Unterschiede, setzen Perspektiven und formen den Raum möglicher A
 Die DFT-Frageoperatoren (Prozess, Differenz, Perspektive, Emergenz, Selbstbezug) ermöglichen präzise, konsistente und KI-stabile Fragestellungen.
 Im Atlas dient das Kapitel als **epistemisches Werkzeug**, um komplexe Phänomene klarer und strukturierter zu erschließen.
 
+- [Die Kunst der Frage.md](<Die Kunst der Frage.md>)
+
+
+### **• Automatismen als Differenzfluss
+
+Diese Files beschreiben, wie motorische und kognitive Automatismen **strukturgleich** sind.
+
+* **Grundthese:** Gehen, Radfahren und Intuition sind **emergente Muster** – stabile Fixpunkte aus der rekursiven Korrektur von Fehlern (Differenzen).
+* **Kernaussage:** **Denken ist hoch verdichtete Motorik im Symbolraum**.
+* **Implikation:** Bewusste Über-Analyse zerstört diese Muster (Choking/Overthinking).
+- [Atlas-Element-Motorik als Differenzfluss-Vom Stolpern zur Eleganz.md](<Atlas-Element-Motorik als Differenzfluss-Vom Stolpern zur Eleganz.md>)
+- [Atlas-Element-Automatische Muster – Motorik und Kognition als ein einziger Differenzfluss.md](<Atlas-Element-Automatische Muster – Motorik und Kognition als ein einziger Differenzfluss.md>)
+
+
 
 ### **• Evolutionsräume des Flusses**
 
 *Eine genealogische Karte emergenter Ordnung*
 Von der Physik bis zur Globalität – ein durchgehendes Strukturmuster rekursiver Differenzen. 
+
+[Atlas-Element-Evolutionsräume des Flusses.md](<Atlas-Element-Evolutionsräume des Flusses.md>)
+
 
 ### **• Wille & Machtfluss – Die Innen- und Außenseite gerichteter Differenzen**
 
@@ -46,17 +72,36 @@ Wie subjektive und soziale Gerichtetheit aus demselben Differenzoperator hervorg
 Innen: Wille. Außen: Machtfluss.
 Eine funktionale Analogie, kein Dualismus. 
 
+- [Atlas-Element-Wille & Machtfluss – Die Innen- und Außenseite gerichteter Differenzen.md](<Atlas-Element-Wille & Machtfluss – Die Innen- und Außenseite gerichteter Differenzen.md>)
+
 ### **• Die Evolution von Machtflüssen**
 
 Wie soziale Differenzen entstehen, sich verdichten, driften, institutionalisiert werden oder kollabieren.
 Mit Diagnoseinstrumenten (Energiegradient, Speicher, Rückkopplung, Legitimität, Drift).
 Ein Kapitel, das soziale Systeme als **evolutionäre Flüsse** lesbar macht. 
 
-### **• Vorwort zum Atlas der Evolutionsräume**
+- [Atlas-Kapitel-Die Evolution von Machtflüssen.md](<Atlas-Kapitel-Die Evolution von Machtflüssen.md>)
 
-Eine kurze Einordnung, warum ein Atlas überhaupt sinnvoll ist:
-Nicht um Weltbilder zu liefern, sondern um **Strukturen sichtbar** zu machen,
-die evolutionär wirken und uns täglich formen. 
+
+### **• Manche Interaktionen sind systemisch entscheidend, aber theoretisch unterbestimmt.
+
+- [Atlas-Trilogie-Trans-Level-Kaperung-Driftgeschwindigkeit-Leere Signifikanten.md](<Atlas-Trilogie-Trans-Level-Kaperung-Driftgeschwindigkeit-Leere Signifikanten.md>)
+
+
+### **• Wie memetische Strukturen Ressourcen austauschen, verstärken oder entziehen
+
+- [Atlas-Element-Memetische Flussbeziehungen.md](<Atlas-Element-Memetische Flussbeziehungen.md>)
+
+
+### **• Eine strukturell plausible Rekonstruktion der chemisch-biologischen Evolution
+
+- [Atlas-Element-Proto-Leben – Rekursive Emergenz chemischer Flüsse.md](<Atlas-Element-Proto-Leben – Rekursive Emergenz chemischer Flüsse.md>)
+
+
+
+### Atlas-Notiz: Warum KI die DFT sofort versteht-und Menschen-noch-nicht*
+
+[Warum KI die DFT sofort versteht-und Menschen-noch-nicht.md](<Warum KI die DFT sofort versteht-und Menschen-noch-nicht.md>)
 
 ---
 
