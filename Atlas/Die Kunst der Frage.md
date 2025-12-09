@@ -4,7 +4,7 @@
 
 Klaus Dantrimont, 2025
 
-Überlegungen zu LLM-Halluzinationen haben mich hierher geführt.
+Überlegungen zu LLM-Halluzinationen haben hierher geführt.
 
 Und die Idee, dass sobald Rekursion ins Spiel kommt, zuweilen etwas wunderliches geschieht oder entsteht. 
 
