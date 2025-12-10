@@ -4,17 +4,12 @@
 
 Klaus Dantrimont, 2025
 
-Überlegungen zu LLM-Halluzinationen haben hierher geführt.
-
-Und die Idee, dass sobald Rekursion ins Spiel kommt, zuweilen etwas wunderliches geschieht oder entsteht. 
-
-Also hab ich mich, die DFT, die KI gefragt: **Was ist eine Frage?**\
-Und was ist eine *gute* Frage?
-
-Man bemerke bitte, dass ein Operator 'Frage' sich zum Operanden 'Frage' macht.\
-I love it.
-
-Hier kommt das Ergebnis der Analyse:
+Was ist eine Frage?
+Was ist eine gute Frage?
+Wie fragt man LLMs hallizunationsarm?
+Wie kann man fragen?
+Gibt's da System?
+Hab ich Deine Neugier?
 
 # **Vorwort: Die stille Macht der Frage**
 
