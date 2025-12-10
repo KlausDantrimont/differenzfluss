@@ -55,15 +55,13 @@ Der Technikraum lässt sich über zwei Achsen charakterisieren:
    (KI, autonome Systeme,        │   (Werkzeuge, die
     Cyber-Physische Systeme)     │    Fähigkeiten erweitern)
 ─────────────────────────────────┼────────────────────────────────▶ Externalisierung
-                niedrige         │                             hohe
-                Autonomie        │
-                                 │
+                                 │                             hohe
                       III        │         II
   Passive Technik                │   Systemische Technik
   (Werkzeuge, einfache           │   (Infrastruktur, Netze,
    Maschinen)                    │    Medien, Sprache)
                                  ▼
-                     geringe Externalisierung
+                     geringe Autonomie
 
 ```
 

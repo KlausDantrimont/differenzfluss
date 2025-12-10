@@ -3,7 +3,7 @@
 ## Warum jede Theorie den Witz bestehen muss
 
 ### **Abstract**
-Humor ist kein Randphänomen menschlicher Kultur, sondern eine universelle Strukturreaktion auf überraschende Selbstreferenz. Der Humor-Raum beschreibt, wie Systeme auf Differenzen reagieren, die ihre eigene Korrekturlogik kurzzeitig unterlaufen. Eine Theorie, die Humor nicht erklären kann, ist unvollständig. Die Differenzierungsfluss-Theorie (DFT) besteht diesen Test.
+Humor ist kein Randphänomen menschlicher Kultur, sondern eine universelle Strukturreaktion auf überraschende Selbstreferenz. Der Humor-Raum beschreibt, wie Systeme auf Differenzen reagieren, die ihre eigene Korrekturlogik kurzzeitig unterlaufen. Humor ist ein anspruchsvoller Test für Theorien, die Selbstreferenz, Kontextdynamik und emergente Brüche erklären möchten. Die Differenzierungsfluss-Theorie (DFT) kann diese Phänomene strukturell abbilden.
 
 ---
 

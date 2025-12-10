@@ -52,27 +52,24 @@ Der Körperraum lässt sich über zwei Achsen strukturieren:
 
 ```
 
-```
                       hohe Stabilität (λ)
                  Rhythmen, Gewohnheit, biologische Ordnung
-                               ▲
-                               │
-                    IV         │         I
-```
-
-Embodied Cognition                 │   Verkörperte Intelligenz
-(Grundaffekte, Basismuster,        │   (Integration von Geist und Körper,
-posturale Codes)                  │    Flow, somatische Kompetenzen)
+                                    ▲
+                                    │
+                         IV         │         I
+ Embodied Cognition                 │   Verkörperte Intelligenz
+ (Grundaffekte, Basismuster,        │   (Integration von Geist und Körper,
+  posturale Codes)                  │    Flow, somatische Kompetenzen)
 ────────────────────────────────────┼────────────────────────────────────▶ Materialität → Virtualität
-niedrige      │                                  hohe
-Stabilität    │
-│
-III         │         II
-Somatische Fragmentierung          │   Körper als Interface
-(Stress, Krankheit, Trauma,        │   (Technik, Kunst, erweiterte
-dysregulierte Affekte)            │    Wahrnehmung, Avatare)
-▼
-geringe Materialität
+                                    │                                  hohe
+                                    │
+                                    │
+                        III         │         II
+ Somatische Fragmentierung          │   Körper als Interface
+ (Stress, Krankheit, Trauma,        │   (Technik, Kunst, erweiterte
+  dysregulierte Affekte)            │    Wahrnehmung, Avatare)
+                                    ▼
+                            geringe Stabilität
 
 ```
 
