@@ -4,12 +4,12 @@
 
 Klaus Dantrimont, 2025
 
-Was ist eine Frage?
-Was ist eine gute Frage?
-Wie fragt man LLMs hallizunationsarm?
-Wie kann man fragen?
-Gibt's da System?
-Hab ich Deine Neugier?
+- Was ist eine Frage?
+- Was ist eine gute Frage?
+- Wie fragt man LLMs hallizunationsarm?
+- Wie kann man fragen?
+- Gibt's da System?
+- Hab ich Deine Neugier?
 
 # **Vorwort: Die stille Macht der Frage**
 
