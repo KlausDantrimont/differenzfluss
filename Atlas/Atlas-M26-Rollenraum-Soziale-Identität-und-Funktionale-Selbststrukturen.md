@@ -131,12 +131,3 @@ Konflikte entstehen, wenn Rollen Erwartungen brechen oder kollidieren.
 ## 10. Zusammenfassung
 
 **Rollen sind soziale Programme, die Identität und Handlung strukturieren.**
-```
-
----
-
-Wenn du möchtest, mache ich jetzt für dein `atlas/README.md` auch eine **aktualisierte Meta-Liste der M1–M28 mit M25 & M26 integriert**, damit alles offiziell und konsistent aussieht.
-
-Sag einfach:
-
-**„Bitte die M-Liste im README aktualisieren.“**
