@@ -237,14 +237,3 @@ In diesem Sinn ist Antifaschismus kein moralischer Zustand,
 sondern eine **strukturelle Kompetenz**:
 die Fähigkeit einer Gesellschaft, **Differenz ohne Angst** zu halten.
 
----
-
-Wenn du möchtest, kann ich:
-
-* eine **Grafik / ASCII-Übersicht** hinzufügen,
-* ein **Phasen-Diagramm im λΔ-Stil**,
-* eine **Vergleichstabelle verschiedener Bündelungsformen**,
-* ein **eigenes Atlas-Element „Bündelungsattraktoren“**,
-* oder eine **kompakt-essayistische Kurzversion** für ein anderes Kapitel.
-
-Sag mir einfach, welche Erweiterung du brauchst.
