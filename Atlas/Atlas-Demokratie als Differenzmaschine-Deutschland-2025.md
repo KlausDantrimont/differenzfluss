@@ -1,8 +1,6 @@
 
 
-Kleines Handbuch zur Rettung der Demokratie
-
-
+# Kleines Handbuch zur Rettung der Demokratie
 
 
 # **Kapitel 1 – Einleitung: Demokratie als Differenzmaschine**
@@ -4016,11 +4014,4 @@ aus dem heraus eine neue, stabilere Ordnung entsteht.
 
 ---
 
-Wenn du willst, kann ich als **Kapitel 22** schreiben:
 
-* *22 – Politische Phasenübergänge: Wie neue Systeme entstehen*
-* *22 – Der Bürger als Unterschiedsproduzent: DFT-Perspektive*
-* *22 – Die Logik politischer Rekonstruktion nach dem Drift*
-* *22 – Die Rolle der Kunst, Kultur und Sprache in Drift-Systemen*
-
-Welches soll Kapitel 22 werden?
