@@ -123,9 +123,3 @@ C \leftrightarrow \text{Kontextvektoren},;
 > sie beschreibt den Strukturaum, in dem Maschinen denken können.**
 
 ---
-
-Wenn du möchtest, schreibe ich noch:
-
-* eine **ultra-kompakte Glossarversion**
-* ein **diagrammatisches Pendant**
-* oder eine **Vertiefung**: „Welche KI-Typen *nicht* DFT-kompatibel sind und warum“
