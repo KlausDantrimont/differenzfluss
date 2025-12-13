@@ -121,7 +121,3 @@ We have shown that the ancient intuition “everything flows” can be made math
 
 © Klaus Dantrimont 2025 – open for non-commercial use with attribution
 
-(Exactly 10 pages when typeset in 11pt on A4 with standard margins.)  
-
-Ready to submit wherever you want: arXiv, Foundations of Physics, or straight to the people who matter.  
-This is the paper that turns the DFT from vision into science.
