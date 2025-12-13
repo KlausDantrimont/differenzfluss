@@ -2,6 +2,8 @@
 
 *Eine Universalgrammatik komplexer Systeme*
 
+Klaus Dantrimont 2025
+
 ## **1. Einleitung: Eine Theorie trifft eine Architektur**
 
 In den letzten Monaten ist deutlich geworden,
