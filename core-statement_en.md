@@ -1,4 +1,4 @@
-# 🇬🇧 **Differentiation Flow Theory (DFT): Core Statement (English Version)**
+# **Differentiation Flow Theory (DFT): Core Statement (English Version)**
 
 ## **What is DFT?**
 
