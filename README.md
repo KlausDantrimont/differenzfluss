@@ -15,6 +15,8 @@ Wer einen schnellen, präzisen Einstieg in das theoretische Fundament der DFT su
 
 - [Core Statement](<core-statement.md>)
 
+- [Core Statement (english version)](<core-statement_en.md>)
+
 ---
 
 ### 📍 Verortung im Diskurs
