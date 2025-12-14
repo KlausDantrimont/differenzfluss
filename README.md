@@ -70,7 +70,13 @@ Wo kriegt man schonmal etwas, das 'schräg', trivial, abstrakt, echt, offensicht
 
 
 - [Der Rosetta-Stein der Differenzen](<Erkenntnistheorie/Der Rosetta-Stein der Differenzen.md>)
+
 ---
+
+**DFT ist eine minimale, operative, domänenagnostische Grammatik für rekursive Strukturbildung – kompatibel mit biologischer und maschineller Intelligenz, anwendbar auf allen Skalen, wertneutral und praktisch nutzbar.**
+
+---
+
 
 
 
