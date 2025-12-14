@@ -7,6 +7,13 @@ Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum
 
 **Willkommen im Fluss.**
 
+Das Core Statement destilliert die Differenzierungsfluss-Theorie (DFT) in ihre minimale operative grammatik.
+Es beschreibt die vier Grundoperatoren Δ, C, λ und ~ sowie ihre rekursive Wechselwirkung als generatives Prinzip komplexer Strukturen.
+Wer einen schnellen, präzisen Einstieg in das theoretische Fundament der DFT sucht, beginnt hier:
+
+- [Core Statement](<core-statement.md>)
+
+---
 
 ### 📍 Verortung im Diskurs
 
