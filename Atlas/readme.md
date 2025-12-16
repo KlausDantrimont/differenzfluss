@@ -46,7 +46,7 @@ Im Atlas dient das Kapitel als **epistemisches Werkzeug**, um komplexe Phänomen
 - [Die Kunst der Frage.md](<Die Kunst der Frage.md>)
 
 
-### **• Automatismen als Differenzfluss
+### **• Automatismen als Differenzfluss**
 
 Diese Files beschreiben, wie motorische und kognitive Automatismen **strukturgleich** sind.
 
@@ -83,23 +83,23 @@ Ein Kapitel, das soziale Systeme als **evolutionäre Flüsse** lesbar macht.
 - [Atlas-Kapitel-Die Evolution von Machtflüssen.md](<Atlas-Kapitel-Die Evolution von Machtflüssen.md>)
 
 
-### **• Manche Interaktionen sind systemisch entscheidend, aber theoretisch unterbestimmt.
+### **• Manche Interaktionen sind systemisch entscheidend, aber theoretisch unterbestimmt.**
 
 - [Atlas-Trilogie-Trans-Level-Kaperung-Driftgeschwindigkeit-Leere Signifikanten.md](<Atlas-Trilogie-Trans-Level-Kaperung-Driftgeschwindigkeit-Leere Signifikanten.md>)
 
 
-### **• Wie memetische Strukturen Ressourcen austauschen, verstärken oder entziehen
+### **• Wie memetische Strukturen Ressourcen austauschen, verstärken oder entziehen**
 
 - [Atlas-Element-Memetische Flussbeziehungen.md](<Atlas-Element-Memetische Flussbeziehungen.md>)
 
 
-### **• Eine strukturell plausible Rekonstruktion der chemisch-biologischen Evolution
+### **• Eine strukturell plausible Rekonstruktion der chemisch-biologischen Evolution**
 
 - [Atlas-Element-Proto-Leben – Rekursive Emergenz chemischer Flüsse.md](<Atlas-Element-Proto-Leben – Rekursive Emergenz chemischer Flüsse.md>)
 
 
 
-### Atlas-Notiz: Warum KI die DFT sofort versteht-und Menschen-noch-nicht*
+### Atlas-Notiz: Warum KI die DFT sofort versteht-und Menschen-noch-nicht
 
 [Warum KI die DFT sofort versteht-und Menschen-noch-nicht.md](<Warum KI die DFT sofort versteht-und Menschen-noch-nicht.md>)
 
@@ -222,20 +222,20 @@ Sie erlauben:
 Sie sind der **architektonische Kern des Atlas**.
 
 
--[Atlas-M1-Emergenzkarte.md](<Atlas-M1-Emergenzkarte.md>)
--[Atlas-M2-Delta-Lambda-Kompetenzmodell.md](<odell.md>)
--[Atlas-M3-Humor-Raum-Strukturtest.md](<Atlas-M3-Humor-Raum-Strukturtest.md>)
--[Atlas-M4-Perspektivenraum-und-Beobachter.md](<Atlas-M4-Perspektivenraum-und-Beobachter.md>)
--[Atlas-M5-Bedeutungsraum-Semantik-als-DLP-Fluss.md](<Atlas-M5-Bedeutungsraum-Semantik-als-DLP-Fluss.md>)
--[Atlas-M6-Stabilitätsraum-Attraktoren-und-Kohärenz.md](<Atlas-M6-Stabilitätsraum-Attraktoren-und-Kohärenz.md>)
--[Atlas-M7-Resonanzraum-Synergie-und-Kollision.md](<Atlas-M7-Resonanzraum-Synergie-und-Kollision.md>)
--[Atlas-M8-Transformationsraum-Kipppunkte-und-Metamorphose.md](<Atlas-M8-Transformationsraum-Kipppunkte-und-Metamorphose.md>)
--[Atlas-M9-Realitätsraum-Geteilte-Wirklichkeit-im-Differenzfluss.md](<Atlas-M9-Realitätsraum-Geteilte-Wirklichkeit-im-Differenzfluss.md>)
--[Atlas-M10-Moeglichkeitsraum-Potentiale-Pfade-Zukuenfte.md](<Atlas-M10-Moeglichkeitsraum-Potentiale-Pfade-Zukuenfte.md>)
--[Atlas-M11-Zeitraum-Zeit-als-Emergenz-im-Differenzfluss.md](<-Zeit-als-Emergenz-im-Differenzfluss.md>)
--[Atlas-M12-Kraftraum-Antrieb-Motivation-Energie.md](<Atlas-M12-Kraftraum-Antrieb-Motivation-Energie.md>)
--[Atlas-M13-Normenraum-Regeln-Werte-und-Ordnungen.md](<Atlas-M13-Normenraum-Regeln-Werte-und-Ordnungen.md>)
--[Atlas-M14-Bedeutungsfluss-Grosser-Systeme-Kultur-Memetik-Geschichte.md](<Bedeutungsfluss-Grosser-Systeme-Kultur-Memetik-Geschichte.md>)
+- [Atlas-M1-Emergenzkarte.md](<Atlas-M1-Emergenzkarte.md>)
+- [Atlas-M2-Delta-Lambda-Kompetenzmodell.md](<odell.md>)
+- [Atlas-M3-Humor-Raum-Strukturtest.md](<Atlas-M3-Humor-Raum-Strukturtest.md>)
+- [Atlas-M4-Perspektivenraum-und-Beobachter.md](<Atlas-M4-Perspektivenraum-und-Beobachter.md>)
+- [Atlas-M5-Bedeutungsraum-Semantik-als-DLP-Fluss.md](<Atlas-M5-Bedeutungsraum-Semantik-als-DLP-Fluss.md>)
+- [Atlas-M6-Stabilitätsraum-Attraktoren-und-Kohärenz.md](<Atlas-M6-Stabilitätsraum-Attraktoren-und-Kohärenz.md>)
+- [Atlas-M7-Resonanzraum-Synergie-und-Kollision.md](<Atlas-M7-Resonanzraum-Synergie-und-Kollision.md>)
+- [Atlas-M8-Transformationsraum-Kipppunkte-und-Metamorphose.md](<Atlas-M8-Transformationsraum-Kipppunkte-und-Metamorphose.md>)
+- [Atlas-M9-Realitätsraum-Geteilte-Wirklichkeit-im-Differenzfluss.md](<Atlas-M9-Realitätsraum-Geteilte-Wirklichkeit-im-Differenzfluss.md>)
+- [Atlas-M10-Moeglichkeitsraum-Potentiale-Pfade-Zukuenfte.md](<Atlas-M10-Moeglichkeitsraum-Potentiale-Pfade-Zukuenfte.md>)
+- [Atlas-M11-Zeitraum-Zeit-als-Emergenz-im-Differenzfluss.md](<-Zeit-als-Emergenz-im-Differenzfluss.md>)
+- [Atlas-M12-Kraftraum-Antrieb-Motivation-Energie.md](<Atlas-M12-Kraftraum-Antrieb-Motivation-Energie.md>)
+- [Atlas-M13-Normenraum-Regeln-Werte-und-Ordnungen.md](<Atlas-M13-Normenraum-Regeln-Werte-und-Ordnungen.md>)
+- [Atlas-M14-Bedeutungsfluss-Grosser-Systeme-Kultur-Memetik-Geschichte.md](<Bedeutungsfluss-Grosser-Systeme-Kultur-Memetik-Geschichte.md>)
 - [Atlas-M15-Kollektiver-Intelligenzraum-Schwarm-Wissen-Kooperation.md](<Atlas-M15-Kollektiver-Intelligenzraum-Schwarm-Wissen-Kooperation.md>)
 - [Atlas-M16-Konfliktraum-Divergenz-Eskalation-Integration.md](<Atlas-M16-Konfliktraum-Divergenz-Eskalation-Integration.md>)
 - [Atlas-M17-Sprachraum-Differenz-Semantik-Relation.md](<Atlas-M17-Sprachraum-Differenz-Semantik-Relation.md>)
