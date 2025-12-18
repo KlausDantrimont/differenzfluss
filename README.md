@@ -37,12 +37,11 @@ Sie verbindet Spencer-Browns logische Ontologie mit der Prozessphilosophie (Whit
 Damit öffnet sie den Blick auf ein Universum, das nicht aus Dingen, sondern aus **Differenzen im Fluss** besteht –
 eine Welt, die zugleich vollständig (Block) und in sich beweglich (Fluss) ist.
 
----
-
 - [DFT_Genealogie_LawsOfForm.md](<DFT_Genealogie_LawsOfForm.md>)
 
+---
 
-### 📍 Übersicht/Stand
+### 📍 Übersicht/Orientierung
 
 - [DFT_Orientierungsatlas.md](<DFT_Orientierungsatlas.md>)
 
@@ -57,15 +56,6 @@ Was ist der Kern der Theorie?
 
 > **Differenzfluss**  
 Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
-
-
-# 🜂 **Motto des Differenzflusses**
-
-> **Die Differenzfluss-Theorie will kein neues Dogma stiften,  
-> sondern eine Brille anbieten, durch die man Muster finden kann.**
-
-Meiner Ansicht nach, ist die DFT schlicht eine interessante Art der Betrachtung.\
-Wo kriegt man schonmal etwas, das 'schräg', trivial, abstrakt, echt, offensichtlich und unsichtbar gleichermaßen ist?
 
 ---
 
