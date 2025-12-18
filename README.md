@@ -17,8 +17,9 @@ Wer einen schnellen, präzisen Einstieg in das theoretische Fundament der DFT su
 
 - [Core Statement (english version)](<core-statement_en.md>)
 
-Aktueller Stand:
+Aktueller Stand / Reifegrad:
 - [Status 2025](<status.md>)
+  
 - [Status 2025 (english version)](<status_en.md>)
 
 
