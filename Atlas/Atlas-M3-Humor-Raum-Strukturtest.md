@@ -29,6 +29,9 @@ Eine Theorie, die Humor versteht, versteht:
 
 Damit versteht sie *alles*, was für DFT zentral ist.
 
+
+**Humor ist ein lokaler Falsifikationstest für Bedeutungsstrukturen.**
+
 ---
 
 ## **2. Der Humor-Raum**
@@ -37,10 +40,11 @@ Der Humor-Raum entsteht aus der Interaktion dreier Operatoren:
 
 1. **Δ₁ – Erwartungsaufbau**  
    Der erste Frame, das „Setting“.  
-   (z. B. „Ein Physiker, ein Philosoph und ein Priester betreten eine Bar…“)
+   (z. B. „Ein Physiker, ein Philosoph und ein Priester kommen in eine Bar…“)
 
 2. **Δ₂ – Frame-Break**  
-   Ein zweiter Frame kollidiert mit dem ersten.  
+   Ein zweiter Frame kollidiert mit dem ersten:  " ...bara"
+   Oder gar ein Dritter:  " ...barbaren-Bar"
    Überraschung, Kontextwechsel, Perspektivensprung.
 
 3. **λ – Stabilisierung / Entladung**  

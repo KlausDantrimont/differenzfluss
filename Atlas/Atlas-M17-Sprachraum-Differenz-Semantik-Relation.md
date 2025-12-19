@@ -32,6 +32,8 @@ Sprache = S( κ( λ( Π( Δ(Signal) ) ) ) )  * Φ   →  Bedeutung
 
 ```
 
+Φ bestimmt nicht Bedeutung, sondern ihre **Durchsetzung im sozialen Raum**.
+
 Sprache ist damit:
 
 - ein Differenzkodierer,  

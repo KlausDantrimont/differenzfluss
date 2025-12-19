@@ -34,7 +34,7 @@ Oder formal:
 
 ```
 
-Konflikt = Φ( Δ_A ⊕ Δ_B )
+Konflikt = (Δ_A ⊕ Δ_B) → Φ
 unter Bedingungen von Π-Inkompatibilität
 und λ/κ-Interferenz
 

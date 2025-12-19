@@ -37,13 +37,16 @@ Jede Theorie ist ein Punkt (oder Attraktor) im Raum, definierbar als:
 Theorie_X = (Δ_X, λ_X, κ_X, Π_X, S_X, Φ_X, T_X)
 ````
 
-* **Δ_X** – Differenzkraft / Erklärungstiefe / Neuheit
+* **Δ_X** – Differenzkraft / Neuheit / Modell-Explorationsgrad
 * **λ_X** – formale Stabilität
 * **κ_X** – interne Kohärenz
 * **Π_X** – Perspektivenreichweite
 * **S_X** – Resonanz mit anderen Theorien & Daten
 * **Φ_X** – generative Kraft (neue Fragen, Modelle, Anwendungen)
 * **T_X** – Transformationsfähigkeit im Zeitverlauf
+
+Erklärungstiefe ergibt sich in diesem Modell als Emergenzeffekt aus Δ·Π·κ
+
 
 ### Beispiel-Kartierung (schematisch)
 
