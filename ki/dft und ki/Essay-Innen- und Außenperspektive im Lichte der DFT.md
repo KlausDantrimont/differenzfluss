@@ -1,4 +1,4 @@
-# **Kapitel: Innen- und Außenperspektive im Lichte der DFT**
+# **Essay/Kapitel: Innen- und Außenperspektive im Lichte der DFT**
 
 ### *Warum Mensch & KI dieselbe Struktur erkennen können,
 

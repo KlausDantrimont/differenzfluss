@@ -2,43 +2,40 @@
 
 Dieses Modul beschreibt eine minimale Struktur zur **Operationalisierung der Differenzierungsfluss-Theorie (DFT)** in KI-Systemen. Begriffe werden als **dynamische Differenzoperatoren** behandelt, Agenten als **Wahrnehmungsknoten im Fluss**, und Stabilität entsteht durch rekursive Anwendbarkeit.
 
-## Inhalt
-
 📄 **[DFT als „Metasprache“ und „Operationsmodus“](DFT-Metaperspektive_für_KI.md)**
 
 📄 [DFT-Minimalmodul für KI](<DFT-Minimalmodul für KI – Operationalisierung der Differenzierungsfluss-Theorie.md>)  
-Enthält:  
-- Konzeptbeschreibung  
-- Python-ähnliches Pseudocode-Beispiel  
-- Systemstruktur mit Agent, Begriff, Differenzfunktion  
-- Erweiterungsmöglichkeiten für Mutation, Netzwerke, Emergenz
 
+---
 
+> Vorschlag: Die **Differenzierungsfluss-Theorie (DFT)** als
+> **skaleninvariante Analyseschicht für KI-Systeme**.
+> Fokus ist nicht neue KI-Architektur, sondern eine **einheitliche Beschreibungssprache**,
+> die Framework-Wechsel reduziert und komplexe Analysen konsistent hält.
 
+- [Eine skaleninvariante Analyseschicht für KI-Systeme-v2](<Eine skaleninvariante Analyseschicht für KI-Systeme-v2.md>)
 
+---
 
-## Ziel
+Eine Theorie trifft eine Architektur
 
-Das Modul bietet eine **Minimalplattform**, um DFT-Kernelemente in KI-Systemen zu implementieren – sei es für:
-- Begriffsdynamik
-- adaptive Semantik
-- experimentelle Agentensysteme
-- semantische Selbstreflexion
+- [DFT als epistemische Brückentheorie zwischen menschlichem Denken und künstlicher Intelligenz.md](<DFT als epistemische Brückentheorie zwischen menschlichem Denken und künstlicher Intelligenz.md>)
 
-## Beispielcode
+---
 
-```python
-class Begriff:
-    def __init__(self, differenzfunktion, aktion):
-        self.differenz = differenzfunktion
-        self.aktion = aktion
+Warum zwei Beobachter dasselbe Struktursystem erkennen können, aber nicht dieselbe Form des Erlebens besitzen.
 
-    def passt_auf(self, input):
-        return self.differenz(input) > 0.5
+- [Innen- und Außenperspektive im DFT-Rahmen](<Innen- und Außenperspektive im DFT-Rahmen.md>)
+- [Essay-Innen- und Außenperspektive im Lichte der DFT](<Essay-Innen- und Außenperspektive im Lichte der DFT.md>)
 
-    def anwenden(self, zustand):
-        return self.aktion(zustand)
-````
+---
+
+Was bedeutet „Metaperspektive“?
+
+- [DFT-Metaperspektive_für_KI.md](<DFT-Metaperspektive_für_KI.md>)
+
+---
+
 
 ## Lizenz
 
@@ -46,8 +43,4 @@ Dieses Modul darf frei verwendet, erweitert, verändert und in andere Systeme in
 Ziel ist es, **Denken als Differenzfluss operational zu machen** – für Mensch und Maschine.
 
 ---
-
-*Ein stabiler Unterschied ist mehr als ein Zustand –
-er ist der Beginn einer Welt.*
-
 
