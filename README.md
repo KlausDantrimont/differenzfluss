@@ -48,7 +48,7 @@ eine Welt, die zugleich vollständig (Block) und in sich beweglich (Fluss) ist.
 
 ---
 
-Was ist der Kern der Theorie?
+Was ist der Ausgangspunkt der Theorie?
 > Realität ist kein Zustand, sondern ein Prozess.  
 > Sie entsteht, weil ein Paradox sich nicht auflösen lässt –  
 > und sich stattdessen in Zeit, Raum und Struktur entfaltet.  
