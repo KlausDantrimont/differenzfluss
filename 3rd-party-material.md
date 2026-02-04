@@ -1,15 +1,22 @@
 
 Nice video about how evolution works, according to Richard Dawkins "The selfish Gene"
 The DFT is fundamental inspired by Dawkins explanation of the evolution theory.
-Espacially by the plot-twist, that identifies the same mechanics in Memes.
+Espacially by the plot-twist, that identifies the same mechanics in Memes.\
 https://www.youtube.com/watch?v=XX7PdJIGiCw
 
+---
+
+Nice Video about "Emergence".\
+See, how simple rules lead to increasing complexity.\
+https://www.youtube.com/watch?v=TCLvGLA3WPM
+
+---
 
 Nice video about lambda calculus and touring machines:
 
 [Lambda Calculus vs. Turing Machines (Theory of Computation)](<https://www.youtube.com/watch?v=ruOnPmI_40g>)
 
-
+---
 About Fractals:\
 You might observe, that similar patterns/structures appear in variations at different locations and different scales.\
 This observation led me to the conclusion, that metaphors only exist, because of the self-similarity of nature, which is because of the fractal structure of reality, which is because of the recursive construction process.
