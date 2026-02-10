@@ -117,11 +117,3 @@ dass **Erkenntnis ohne Wartung selbst toxisch werden kann**.
 
 ---
 
-Wenn du willst, könnten wir das noch weiterziehen:
-
-* eine **Einzelszene**: ein Boaeyscher „Bildungsausschuss“
-* ein **Interventionshandbuch-Auszug** (kalt, technokratisch)
-* oder den **Moment der Erkenntnis**, als man merkt: *Wir haben uns selbst erwischt.*
-
-Das Ding hat Tiefe –
-und es ist unangenehm nah an unserer eigenen Zeit.
