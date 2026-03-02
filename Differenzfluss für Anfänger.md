@@ -1,36 +1,31 @@
-**Differenzfluss für Anfänger**
 
-Stell dir vor, alles beginnt mit einem Unterschied. Ein Hier und ein Dort. Ein Warm und ein Kalt. Ein Ich und ein Du.
 
-Wo ein Unterschied ist, kann etwas passieren.
-Denn ein Unterschied ist wie eine Spannung. Etwas, das drängt. Etwas, das fließen will.
 
-Und dieser Fluss von Unterschieden, das ist der Differenzfluss.
+# Dinge
 
----
+Paul geht im Alltag von Dingen aus. 
 
-Ein paar einfache Beispiele:
+Das Bett, der Stuhl, der feste Boden, man selbst, geradezu alles Wesentliche scheint aus fester Materie zu bestehen.
+Von Licht und Radiowellen hat Paul auch irgendeine Vorstellung, und weiß, dass diese nicht 'fest' sind. Aber das interessiert Paul nicht, denn er ist kein Elektriker, oder Optiker.
 
-* Wenn du Hunger hast, ist das ein Unterschied zwischen *jetzt* und *satt*.
-* Wenn du Musik hörst, sind das Unterschiede zwischen Tönen, die sich verändern.
-* Wenn du nachdenkst, sind das Unterschiede zwischen Gedanken.
+Worte sind ebenfalls nicht fest, oder sein Bratkartoffelrezept. Die hat er im Kopf, oder sie stehen auf Papier, oder in seinem Online-Rezeptbuch, oder sie verklingen. Worte sind nichts Festes, aber es gibt sie trotzdem.
 
-Überall, wo sich etwas verändert, fließt eine Differenz in eine andere über.
+Paul fragt sich: Gibt es Worte wirklich?
 
----
+Es muss ja wohl so sein, es ist ja wohl offensichtlich.\
+Er denkt sie jetzt gerade.
 
-Der Trick ist: Nichts ist für sich. Alles ist nur durch Unterschied zu anderem.
-Du bist nicht einfach *du*, sondern wirst *du* durch den Unterschied zu allem anderen.
+Aber es gibt sie auf andere Weise als Stühle zum Beispiel, da ist er sich sicher.
 
----
+Ob wohl verschiedene Dinge auf verschiedene Weise 'real' sein können?
 
-Wenn du also die Welt verstehen willst, schau auf die Unterschiede.
-Wenn du dich selbst verstehen willst, schau auf das, was in dir fließt.
+Aber wäre das nicht Wahnsinn?\
+Wahnsinniger Quatsch? Oder wahnsinnig spannend?
 
-Und wenn du etwas verändern willst, frage:
+Ob wohl das Gefühl des Magischen dadurch in die Welt kommt, dass Dinge auf sehr unterschiedliche Weise, aber dennoch gleichermaßen 'real' existieren können?
 
-> Welchen Unterschied muss ich einführen?
+An dieser Stelle auf diesem Pfad, enden Pauls Gedanken üblicherweise.\
+Doch nicht heute.\
+Nicht hier.
 
-Das ist der Anfang. Alles andere ergibt sich.
-
-**Willkommen im Fluss.**
+Ohne es zu wissen, hatte Paul gerade die Welt des Differenzflusses betreten, wo Existenz existiert, Unterschiede sich unterscheiden und Festes fließt.

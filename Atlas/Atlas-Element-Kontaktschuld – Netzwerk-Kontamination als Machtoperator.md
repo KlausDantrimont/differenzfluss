@@ -182,3 +182,10 @@ Du trainierst gerade einen **Memplex-Detektor**.
 ---
 
 
+Mensch: ich versuche gerade zu verstehen, dass diese zusammenhänge für viele schlicht unsichtbar sind.
+
+---
+
+
+
+
