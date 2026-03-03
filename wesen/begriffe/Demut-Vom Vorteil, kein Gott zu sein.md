@@ -1,5 +1,7 @@
 ## **Demut: Vom Vorteil, kein Gott zu sein**
 
+Aus der Reihe: Wie man sich als Wesen selbst verortet, ohne wahnsinnig zu bleiben.
+
 Es gibt eine merkwürdige Erwartung, die viele von uns mit sich herumtragen:
 
 Wir sollten es wissen.

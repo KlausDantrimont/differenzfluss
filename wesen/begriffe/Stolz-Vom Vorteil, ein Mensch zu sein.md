@@ -1,5 +1,7 @@
 **Stolz: Vom Vorteil, ein Mensch zu sein**
 
+Aus der Reihe: Wie man sich als Wesen selbst verortet, ohne wahnsinnig zu bleiben.
+
 Stolz wird oft missverstanden.
 
 Zu schnell klingt er nach Überlegenheit.

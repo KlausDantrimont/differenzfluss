@@ -1,5 +1,7 @@
 **Hochmut: Vom Vorteil, ein Gott zu sein**
 
+Aus der Reihe: Wie man sich als Wesen selbst verortet, ohne wahnsinnig zu bleiben.
+
 Es hat Vorteile, ein Gott zu sein.
 
 Zumindest fühlt es sich so an.
