@@ -1,6 +1,9 @@
 **Ein kleines Handbuch zur psychischen Statik**
-*Worum es hier eigentlich geht*
 
+Klaus Dantrimont 2025
+
+
+*Worum es hier eigentlich geht*
 
 Es gibt einen Moment, der jeder bewussten Existenz gemeinsam ist.
 
