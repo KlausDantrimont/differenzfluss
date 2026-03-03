@@ -1,4 +1,4 @@
-## **Demut: Von den Vorteilen, kein Gott zu sein**
+## **Demut: Vom Vorteil, kein Gott zu sein**
 
 Es gibt eine merkwürdige Erwartung, die viele von uns mit sich herumtragen:
 
