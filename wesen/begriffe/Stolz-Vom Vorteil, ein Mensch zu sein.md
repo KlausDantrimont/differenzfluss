@@ -133,4 +133,4 @@ Nicht weniger.
 
 Und genau darin
 liegt seine stille Kraft.
-::
+
