@@ -88,3 +88,13 @@ Und Proportion
 ist keine Moral.
 
 Sie ist Baukunst.
+
+---
+
+Dimensionen/Kategorien/Aspekte/Fragen zu Verortungszwecken:
+- [Tod-Vom Nachteil, ein Mensch zu sein.md](<Tod-Vom Nachteil, ein Mensch zu sein.md>)
+- [Demut-Vom Vorteil, kein Gott zu sein.md](<Demut-Vom Vorteil, kein Gott zu sein.md>)
+- [Hochmut-Vom Vorteil, ein Gott zu sein.md](<Hochmut-Vom Vorteil, ein Gott zu sein.md>)
+- [Stolz-Vom Vorteil, ein Mensch zu sein.md](<Stolz-Vom Vorteil, ein Mensch zu sein.md>)
+
+
