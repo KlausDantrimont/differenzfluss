@@ -40,4 +40,13 @@ Der Text zeigt, wie Metaphern als **dynamische Brücken zwischen Begriffsräumen
 [Essay: Struktur in Bewegung – Die Metapher als kognitives Werkzeug](<Essay Struktur in Bewegung – Die Metapher als kognitives Werkzeug.md>)
 
 ---
+
+### 📄 *Ein kleines Handbuch zur psychischen Statik*
+Man findet sich vor, und fragt sich -  mit Begriffen.
+
+[Ein kleines Handbuch zur psychischen Statik.md](<Ein kleines Handbuch zur psychischen Statik.md>)
+
+
+
+---
 <sub> Teilprojekt der Differenzierungsfluss-Theorie – zur Beleuchtung des Begriffs 'Begriff' </sub>
