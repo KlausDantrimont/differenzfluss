@@ -48,27 +48,24 @@ Zwei Achsen strukturieren den Raum:
 
 ```
 
-```
                            hohe λ_DFT
                   starke formale Konsistenz, präzise Operatoren
-                                 ▲
-                                 │
-                      IV         │         I
-```
-
-Exhaustive Formalität             │    Strukturierte Kreativität
-(maximale Ordnung,                │    (hohes Δ, hohes λ: neue
-geringe Emergenz)                │     Räume, aber stabil eingebettet)
+                                    ▲
+                                    │
+                         IV         │         I
+   Exhaustive Formalität            │    Strukturierte Kreativität
+   (maximale Ordnung,               │    (hohes Δ, hohes λ: neue
+   geringe Emergenz)                │     Räume, aber stabil eingebettet)
 ────────────────────────────────────┼──────────────────────────────────────▶ Δ_DFT
-niedrige        │                                   hohe
-λ_DFT           │
-│
-III        │         II
-Theoretische Erosion               │    Überhitzte Expansion
-(Chaos, Widersprüche,              │    (viele neue Räume,
-Verlust von Kohärenz)             │     zu wenig Stabilisierung)
-▼
-geringe Δ_DFT
+geringe Δ_DFT                       │                                   hohe
+                                    │
+                                    │
+                         III        │         II
+ Theoretische Erosion               │    Überhitzte Expansion
+ (Chaos, Widersprüche,              │    (viele neue Räume,
+  Verlust von Kohärenz)             │     zu wenig Stabilisierung)
+                                    ▼
+                          niedrige  λ_DFT
 
 ```
 
