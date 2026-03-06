@@ -14,7 +14,7 @@ Dannn lasse man die KI ihr Weltwissen durch die Brille betrachten, und die Ergeb
 
 Fertig.
 
-Bon Apettit
+Bon Appetit
 
 ---
 
