@@ -374,7 +374,7 @@ Selbsterkenntnis trägt zur Freiheit bei, weil sie Regelräume sichtbar macht. U
 Das erklärt auch, warum Selbsterkenntnis oft zuerst unbequem ist. Sie nimmt dem Autopiloten das Monopol. Sie zeigt, dass eine Reaktion nicht „die Wahrheit“ ist, sondern „eine Möglichkeit“. Und damit entsteht Verantwortung. Nicht als moralische Keule, sondern als neue Option: *Ich könnte auch anders.*
 
 ---
-In diesem Buch habe ich den Begriff 'Freiheit' genauer untersucht.
+In diesem Buch wird der Begriff 'Freiheit' in einer Welt die fließt, genauer untersucht.
 
 - ["Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)
 
