@@ -239,12 +239,3 @@ Von Symbolübertragung
 zu Strukturtransformation.
 
 ---
-
-Wenn du möchtest, kann ich jetzt:
-
-* eine **noch kompaktere Version** für Glossar / Übersicht schreiben
-* ein **längeres Kapitel** mit Beispielen aus Physik, KI, Politik
-* ein Modul **„DFT-Informationsoperatoren“** (formaler, algebraischer)
-* oder eine **grafische Darstellung** (ASCII oder diagrammatisch)
-
-Sag einfach an.
