@@ -1,6 +1,4 @@
 
-# 📄 `Atlas-M26-Rollenraum-Soziale-Identität-und-Funktionale-Selbststrukturen.md`
-
 # **Der Rollenraum**  
 ## soziale Identität, Positionsfelder und funktionale Selbststrukturen
 
