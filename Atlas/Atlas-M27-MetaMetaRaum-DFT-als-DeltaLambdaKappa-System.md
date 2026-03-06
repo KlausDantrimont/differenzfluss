@@ -224,8 +224,6 @@ Die DFT ist nicht eine *Theorie*, sondern ein **Attraktor im Theorienraum**:
 Man kann das als Diagramm ausdrücken:
 
 ```
-
-```
              Δ_DFT
        ↗             ↘
    Φ_DFT   →   κ_DFT   →   T_DFT
@@ -235,7 +233,7 @@ Man kann das als Diagramm ausdrücken:
              Π_DFT
                │
              S_DFT
-```
+
 
 ```
 
