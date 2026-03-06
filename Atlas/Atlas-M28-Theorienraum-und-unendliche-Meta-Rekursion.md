@@ -1,5 +1,3 @@
-# 📄 `Atlas-M28-Theorienraum-und-unendliche-Meta-Rekursion.md`
-
 # **Der Theorienraum und die unendliche Meta-Rekursion**  
 ## Meta-Kartographie: Der Raum aller möglichen Theorien im ΔλκΠSΦT-System
 
