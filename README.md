@@ -1,5 +1,10 @@
 <meta name="google-site-verification" content="S-eFEipHHQh1lSzjsUjdmXEdaKVDqfoN-my3OcM_Dn0" />
 
+---
+
+# **Wenn alles fließt, wie kann dann etwas stabil sein?**
+
+
 # Differenzfluss
 
 *Dieses Repository ist ein wachsendes Forschungsprojekt.
