@@ -11,22 +11,22 @@ Die Differenzierungsfluss-Theorie ist eine minimale, operative Grammatik für di
 
 Die DFT beruht auf vier fundamentalen Operatoren, die in jedem komplexen System wirken:
 
-### **Δ (Delta) – Differenz / Variation / Emergenz**
+### Δ (Delta) – Differenz / Variation / Emergenz
 - Erzeugt Unterschiede, Abweichungen, neue Möglichkeiten
 - Ohne Δ: keine Evolution, kein Lernen, keine Zeit
 - Beispiele: Mutation, Rauschen, alternative Gedanken, Perturbation
 
-### **C (Context) – Kontext / Bedeutungsraum / Möglichkeitsraum**
+### C (Context) – Kontext / Bedeutungsraum / Möglichkeitsraum
 - Strukturiert, welche Differenzen Bedeutung haben
 - Ohne C: keine Information, keine Interpretation, keine Form
 - Beispiele: Semantischer Raum, Umwelt, kultureller Rahmen, Vektorraum
 
-### **λ (Lambda) – Zentrierung / Attraktor / Stabilität**
+### λ (Lambda) – Zentrierung / Attraktor / Stabilität
 - Bildet Muster, Fixpunkte, Identitäten, persistente Strukturen
 - Ohne λ: keine Ordnung, keine Wiederholung, kein Selbst
 - Beispiele: Gewohnheiten, Institutionen, Attentionsmechanismen, Selbstmodelle
 
-### **~ (Tilde) – Ähnlichkeit / Resonanz / Vergleich**
+###  ~ (Tilde) – Ähnlichkeit / Resonanz / Vergleich
 - Ermöglicht Selektion, Koordination, Mustererkennung, Synchronisation
 - Ohne ~: keine Auswahl, keine Beziehung, keine Emergenz höherer Ordnung
 - Beispiele: Fitness, Cosine Similarity, soziale Bindung, Resonanzphänomene
