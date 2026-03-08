@@ -18,7 +18,7 @@ Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum
 Was baue ich hier eigentlich?
 
 - [DFT als Unterbodenbeschreibung](<DFT als Unterbodenbeschreibung.md>)
-- [DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md](<DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md>)
+- [DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md](<Erkenntnistheorie/DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md>)
 
 
 ---
