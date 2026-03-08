@@ -73,34 +73,14 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 
 ---
 
-### 🧭 **Selbstverständnis**
-
-> Die DFT versteht sich als **Metarahmen** –  
-> eine Struktur-Syntax, die Differenz und Rekursion  
-> als gemeinsame Prinzipien vieler Disziplinen sichtbar macht.  
->  
-> Sie schaut nicht **von oben auf die Welt**,  
-> sondern **von innen in ihre Wirbel**.
-> Erkenntnis ist hier weniger Griff, sondern eher operativ/dynamisch wie Surfen/Schwimmen/Fliegen/Klettern.  
->  
-> Die DFT bietet **kein neues Modell der Welt**,  
-> sondern eine **Methode**, Modelle auf ihre Differenzdynamik hin zu vergleichen.  
->  
-> Sie sucht nicht, Systeme zu ersetzen,  
-> sondern **Verständnis zu ermöglichen** –  
-> über die Grenzen der Systeme hinweg.
-
+Kurzer Überblick über Dynamiken in der Welt:
 
 - [Der Rosetta-Stein der Differenzen](<Erkenntnistheorie/Der Rosetta-Stein der Differenzen.md>)
 
----
 
 **DFT ist eine minimale, operative, domänenagnostische Grammatik für rekursive Strukturbildung – kompatibel mit biologischer und maschineller Intelligenz, anwendbar auf allen Skalen, wertneutral und praktisch nutzbar.**
 
 ---
-
-
-
 
 ## Info
 - In Form und Ausdruck stümpere ich mich leidlich voran.
@@ -111,7 +91,7 @@ Die Unlösbarkeit des Paradoxons ist die Bedingung der Möglichkeit von Welt.
 
 ## **Kritik**
 - Jede Kritik oder Ergänzung oder Perspektive ist willkommen und erwünscht.
-- Die Kritik, die DFT sei [trivial](trivial.md), ist zB. fruchtbar.
+- Ist die DFT [trivial?](trivial.md).
    
 
 ### Über Destillation
