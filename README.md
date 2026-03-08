@@ -12,6 +12,15 @@ Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum
 
 **Willkommen im Fluss.**
 
+
+---
+
+Was baue ich hier eigentlich?
+
+- [DFT als Unterbodenbeschreibung](<DFT als Unterbodenbeschreibung.md>)
+- [DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md](<DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md>)
+
+
 ---
 
 Das **Core Statement** destilliert die Differenzierungsfluss-Theorie (DFT) in ihre minimale operative Grammatik.
