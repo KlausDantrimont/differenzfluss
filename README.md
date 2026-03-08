@@ -21,6 +21,8 @@ Was baue ich hier eigentlich?
 - [DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md](<Erkenntnistheorie/DFT-Ontologie, Philosophie, Blasphemie, Idiotie.md>)
 
 
+Kommentar: "Das Projekt ist interdisziplinär bis zur Schmerzgrenze."
+
 ---
 
 Das **Core Statement** destilliert die Differenzierungsfluss-Theorie (DFT) in ihre minimale operative Grammatik.
