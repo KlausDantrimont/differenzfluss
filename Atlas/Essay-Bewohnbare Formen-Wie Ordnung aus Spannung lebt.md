@@ -3,6 +3,8 @@
 
 *Wie Ordnung aus Spannung lebt*
 
+Klaus Dantrimont 2026
+
 ---
 
 ## Das reale Paradox
