@@ -1,5 +1,5 @@
 
-# **Der kollektive Intelligenzraum**  
+# **15. Der kollektive Intelligenzraum**  
 ## Schwärme, Wissen und kooperative Systeme im ΔλκΠSΦT-Kosmos
 
 ### **Abstract**

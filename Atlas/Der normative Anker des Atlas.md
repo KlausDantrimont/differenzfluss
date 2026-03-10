@@ -169,3 +169,7 @@ Dieser Anker erinnert daran, **wo diese Funktionsweise reale Wirkung entfaltet**
 Nicht als Moral.
 Nicht als Appell.
 Sondern als **Begrenzung struktureller Kälte**.
+
+---
+
+

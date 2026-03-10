@@ -1,5 +1,5 @@
 
-# **Der Konfliktraum**  
+# **16. Der Konfliktraum**  
 ## Divergenz, Eskalation und Integration im ΔλκΠSΦT-System
 
 ### **Abstract**

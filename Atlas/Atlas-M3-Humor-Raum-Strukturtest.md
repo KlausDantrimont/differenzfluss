@@ -1,5 +1,5 @@
 
-# **Der Humor-Raum als Strukturtest**  
+# **3. Der Humor-Raum als Strukturtest**  
 ## Warum jede Theorie den Witz bestehen muss
 
 ### **Abstract**

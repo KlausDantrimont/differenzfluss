@@ -1,5 +1,5 @@
 
-# **Der Realitätsraum**  
+# **9. Der Realitätsraum**  
 ## Geteilte Wirklichkeit als emergenter ΔλκΠS-Prozess
 
 ### **Abstract**

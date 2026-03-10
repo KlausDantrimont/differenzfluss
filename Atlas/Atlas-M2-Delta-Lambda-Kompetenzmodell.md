@@ -1,4 +1,4 @@
-# **Das Δλ-Kompetenzmodell des Denkens**  
+# **2. Das Δλ-Kompetenzmodell des Denkens**  
 ## Eine strukturelle Architektur kognitiver Prozesse im Differenzfluss
 
 ### **Abstract**

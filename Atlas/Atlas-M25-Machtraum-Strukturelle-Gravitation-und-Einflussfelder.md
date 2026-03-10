@@ -1,5 +1,5 @@
 
-# **Der Macht- und Einflussraum**  
+# **25. Der Macht- und Einflussraum**  
 ## strukturelle Gravitation, asymmetrische Kopplungen und soziale Attraktoren
 
 ### Abstract

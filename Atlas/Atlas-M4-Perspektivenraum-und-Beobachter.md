@@ -1,4 +1,4 @@
-# **Der Perspektivenraum**  
+# **4. Der Perspektivenraum**  
 ## Wie Beobachter stabil entstehen und warum jede Sichtweise ein lokaler Differenzfluss ist
 
 ### **Abstract**

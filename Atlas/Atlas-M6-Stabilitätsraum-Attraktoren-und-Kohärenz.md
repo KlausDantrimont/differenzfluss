@@ -1,5 +1,5 @@
 
-# **Der Stabilitätsraum**  
+# **6. Der Stabilitätsraum**  
 ## Attraktoren, Identität und Kohärenz im Differenzfluss
 
 ### **Abstract**

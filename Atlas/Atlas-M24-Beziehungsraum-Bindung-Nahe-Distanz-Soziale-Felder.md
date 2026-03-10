@@ -1,4 +1,4 @@
-# **Der Beziehungsraum**  
+# **24. Der Beziehungsraum**  
 ## Bindung, Nähe, Distanz und soziale Felder im ΔλκΠSΦT-System
 
 ### **Abstract**

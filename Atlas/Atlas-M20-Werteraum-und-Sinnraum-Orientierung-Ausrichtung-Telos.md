@@ -1,5 +1,5 @@
 
-# **Der Werte- und Sinnraum**  
+# **20. Der Werte- und Sinnraum**  
 ## Orientierung, Ausrichtung und Telos im ΔλκΠSΦT-System
 
 ### **Abstract**

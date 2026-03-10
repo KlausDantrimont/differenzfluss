@@ -1,5 +1,5 @@
 
-# **Der Resonanzraum**  
+# **7. Der Resonanzraum**  
 ## Wie Systeme sich gegenseitig formen: Synergie, Synchronisation und Kollision im ΔλκΠ-Fluss
 
 ### **Abstract**

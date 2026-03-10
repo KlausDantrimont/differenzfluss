@@ -1,4 +1,4 @@
-# **Der Theorienraum und die unendliche Meta-Rekursion**  
+# **28. Der Theorienraum und die unendliche Meta-Rekursion**  
 ## Meta-Kartographie: Der Raum aller möglichen Theorien im ΔλκΠSΦT-System
 
 ### **Abstract**

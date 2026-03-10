@@ -1,4 +1,4 @@
-# **Der Bewusstseinsraum**  
+# **21. Der Bewusstseinsraum**  
 ## Selbst, Phänomenalität und Intentionalität im ΔλκΠSΦT-System
 
 ### **Abstract**

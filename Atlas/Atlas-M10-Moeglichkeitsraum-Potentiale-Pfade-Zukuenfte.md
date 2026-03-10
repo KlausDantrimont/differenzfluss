@@ -1,5 +1,5 @@
 
-# **Der Möglichkeitsraum**  
+# **10. Der Möglichkeitsraum**  
 ## Potenziale, Pfade und Zukunftslandschaften im Differenzfluss
 
 ### **Abstract**
@@ -64,8 +64,7 @@ Wir beschreiben ihn mit zwei Achsen:
     (konservativ, klar     │    (reiche Zukunftslandschaften,
     eingeschränkt)         │    kreative Evolution)
 ───────────────────────────┼──────────────────────────────▶ Δ-Freiheit
-            niedrige       │                          hohe
-            Bindung        │
+niedrige  Δ-Freiheit       │                          hohe
                            │
                   III      │         II
      Stagnation            │    Chaotische

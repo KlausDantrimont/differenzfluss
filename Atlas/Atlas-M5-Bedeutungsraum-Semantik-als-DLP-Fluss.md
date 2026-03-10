@@ -1,5 +1,5 @@
 
-# **Der Bedeutungsraum**  
+# **5. Der Bedeutungsraum**  
 ## Semantik als rekursiver ΔλΠ-Fluss
 
 ### **Abstract**

@@ -1,4 +1,4 @@
-# **Der Komplexitätsraum**  
+# **23. Der Komplexitätsraum**  
 ## Ordnung, Chaos und Attraktoren im ΔλκΠSΦT-System
 
 ### **Abstract**

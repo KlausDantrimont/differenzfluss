@@ -1,4 +1,4 @@
-# **Der Freiheits- und Modellpassungsraum**  
+# **22. Der Freiheits- und Modellpassungsraum**  
 ## Autonomie, Abweichung, Halluzination und Wahn im ΔλκΠSΦT-System
 
 ### **Abstract**
