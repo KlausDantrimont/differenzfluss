@@ -1048,4 +1048,3 @@ Das ist ihre größte Stärke – und ihre permanente Aufgabe.
 
 ---
 
-**Klaus Dantrimont, 2025**
