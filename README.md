@@ -465,10 +465,16 @@ ProofOfConcept, ready for evaluation
 ## Käuflich erwerbbare Bücher:
 <br>Schmale Bändchen mit willkürlichen Preisen. 
 <br>Ich war noch nie ein Freund vieler Worte, aber es steht drin, was drinstehen muss.
-- ["Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist](https://buchshop.bod.de/bootstrap-aus-dem-nichts-klaus-dantrimont-9783819276163)
-- ["Buch der Räume" - Eine Einladung - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)
+- ["Bootstrap aus dem Nichts" - Warum etwas ist, und warum es so ist, wie es ist](https://buchshop.bod.de/bootstrap-aus-dem-nichts-klaus-dantrimont-9783819276163)\
+  Ein Essay über Differenz, Rekursion und die Entfaltung von Realität
   
-beide erschienen bei BoD
+- ["Buch der Räume" - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)\
+  eine Einladung
+  
+- [Kleines Handbuch zur psychischen Statik](https://buchshop.bod.de/kleines-handbuch-zur-psychischen-statik-klaus-dantrimont-9783695716647)\
+  Wie man sich als Wesen selbst verortet, ohne wahnsinnig zu bleiben
+  
+ erschienen bei BoD
 
 ## kontakt
 mailto: klaus(dot)dantrimont(at)itnovation.de
