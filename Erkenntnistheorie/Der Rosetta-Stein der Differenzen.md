@@ -69,7 +69,7 @@ Sie zeigt, dass Konsistenz nur dort existiert, wo Rekursion sauber definiert ist
 ### Informatik – Simulation und Emergenz
 
 Programme sind kodierte Rekursionen.
-Schleifen, Funktionen, Objekte: alles Varianten des Prinzips „rufe dich selbst wieder auf“.
+Schleifen, Funktionen, Objekte: alles Varianten des Prinzips „benutze dich selbst in Variation“.
 Simulationen zeigen, wie aus einfachen Regeln komplexe Dynamiken entstehen.
 Die DFT erkennt darin den klarsten Spiegel der Wirklichkeit:
 Jede Berechnung ist ein kleiner Kosmos mit eigener Zeit.
