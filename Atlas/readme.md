@@ -93,7 +93,7 @@ Begleitend dazu:
 * [Atlas-Element-Vertrauen.md](<Atlas-Element-Vertrauen.md>)
 * [Atlas-Element-Meta-Ebene.md](<Atlas-Element-Meta-Ebene.md>)
 * [Atlas-Element-Innen- und Außenperspektive im DFT-Rahmen.md](<Atlas-Element-Innen- und Außenperspektive im DFT-Rahmen.md>)
-* [Atlas-Element-Wille & Machtfluss - Die Innen- und Außenseite gerichteter Differenzen.md](<Atlas-Element-Wille & Machtfluss - Die Innen- und Außenseite gerichteter Differenzen.md>)
+* [Atlas-Element-Wille & Machtfluss – Die Innen- und Außenseite gerichteter Differenzen.md](<Atlas-Element-Wille & Machtfluss – Die Innen- und Außenseite gerichteter Differenzen.md>)
 
 ---
 
