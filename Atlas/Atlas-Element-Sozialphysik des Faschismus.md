@@ -6,7 +6,7 @@
 
 ## **1. Ausgangspunkt: Warum Faschismus im DFT-Kontext?**
 
-Aus Sicht der Differenzfluss-Theorie ist *Faschismus* keine ideologische Kategorie, sondern ein **Strukturmuster**, das überall dort entstehen kann, wo Differenzflüsse instabil werden und nach Vereinfachung, Bünde­lung oder Zentrierung drängen.
+Aus Sicht der Differenzfluss-Theorie ist *Faschismus* keine ideologische Kategorie, sondern ein **Strukturmuster**, das überall dort entstehen kann, wo Differenzflüsse instabil werden und nach Vereinfachung, Bündelung oder Zentrierung drängen.
 Er ist die **extreme Form** eines generellen sozialen Phänomens:
 
 > **Bündelung von Freiheitsgraden um ein Zentrum, das Differenzen löscht und Macht konzentriert.**
@@ -171,6 +171,53 @@ Faschistische Dynamik ist ein **allgemeines Muster**, das genutzt werden kann vo
 * Ideologien jeder Art
 
 Jede Struktur, die davon profitiert, **Zentrierung** auszubauen und Differenzen zu reduzieren, kann faschistisch werden – unabhängig davon, ob sie sich selbst als „gut“ versteht.
+
+---
+### **7.1 Etikettenstreit und Strukturblindheit**
+
+Ein häufiger Abwehrreflex gegenüber der Analyse faschistischer Dynamiken besteht im
+**Streit über ideologische Etiketten**:
+
+> War das nun „rechts“ oder „links“?
+
+Aus DFT-Perspektive ist diese Frage oft sekundär.
+Sie kann historisch sinnvoll sein – strukturell aber leicht vom Wesentlichen ablenken.
+
+Denn für die soziale Mechanik ist nicht entscheidend,
+**welche Heilslehre sich eine Bündelungsstruktur gibt**,
+sondern **wie sie mit Differenz umgeht**.
+
+Ob sich ein Zentrum auf „Volk“, „Klasse“, „Gott“, „Sicherheit“, „Fortschritt“
+oder eine „gerechte Zukunft“ beruft, ändert zunächst nichts an der Form,
+wenn dieselben Operatoren wirksam sind:
+
+* Abweichung wird moralisiert oder kriminalisiert
+* Kritik erscheint als Verrat
+* Hierarchie wird epistemisch aufgeladen
+* Gewalt wird als Reinigung, Schutz oder Notwendigkeit legitimiert
+
+Dann liegt dieselbe Grunddynamik vor:
+**Kontraktion des Differenzraums zugunsten eines zentrierten Wahrheits- und Machtkerns.**
+
+Der Etikettenstreit kann daher selbst Teil der Blindheit werden.
+Er bindet Aufmerksamkeit an Lagerzuordnungen,
+während die eigentliche Gefahr in der **differenzfeindlichen Morphologie** liegt.
+
+Die präzisere Frage lautet daher nicht:
+
+> Welchem Lager gehört das an?
+
+Sondern:
+
+> **Kann dieses System Dissens verarbeiten, ohne ihn zu Feindschaft umzudeuten?**
+
+Wo ein System Abweichung nicht mehr integrieren kann,
+sondern nur noch pathologisiert, verrät es seinen faschistischen Drift –
+unabhängig von seiner offiziellen Selbsterzählung.
+
+In diesem Sinn ist Faschismus
+nicht primär eine Farbe auf dem politischen Spektrum,
+sondern ein **Bündelungsmodus**, der Vielfalt in Gehorsam überführt.
 
 ---
 
