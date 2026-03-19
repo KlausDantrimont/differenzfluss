@@ -3652,25 +3652,6 @@ der in neue, stabilere Muster transformiert werden kann.
 
 ---
 
-**Wenn du möchtest**,
-kann ich als nächstes Kapitel 21 schreiben:
-
-* **21 – Attraktorenlinien Deutschlands 2035–2050**
-  (Langzeitprojektion auf Basis der bisherigen Kapitel)
-
-oder
-
-* **21 – Politische Phasenübergänge:
-  Wie driftende Demokratien in neue Systeme transformieren**
-
-oder
-
-* **21 – Die Rolle der Bürger in einem driftenden System:
-  Selbstorganisation jenseits der alten Institutionen**
-
-
----
-
 # **Kapitel 21 – Die Rolle der Bürger in einem driftenden System**
 
 *Selbstorganisation jenseits der alten Institutionen*
