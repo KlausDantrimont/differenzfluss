@@ -2,7 +2,7 @@
 
 # Kleines Handbuch zur Rettung der Demokratie
 
-KLaus Dantrimont 2026
+Klaus Dantrimont 2026
 
 # **Kapitel 1 – Einleitung: Demokratie als Differenzmaschine**
 
