@@ -247,7 +247,7 @@ Wer ähnliche Erfahrungen gemacht hat, weiß, dass jede neue Sprache oder Rekont
 
 In Diskussionen zur DFT ist mir aufgefallen, dass sie leicht als „nicht zur Disziplin gehörig“ abgetan wird – etwa mit Kommentaren wie „Das ist keine Physik“ oder „Das ist keine Philosophie“.
 Dieses Muster ist verständlich und zugleich interessant.
-Darum möchte ich hier kurz das Kommunikationsproblem selbst beleuchten, bevor ich in die Theorie einsteige.
+Darum möchte ich hier kurz das Kommunikationsproblem beleuchten.
 
 - [Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden](<Warum Sie die Differenzfluss-Theorie wahrscheinlich missverstehen werden.md>)
 
