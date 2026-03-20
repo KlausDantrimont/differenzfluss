@@ -45,14 +45,14 @@ Abschließend wird vorgeschlagen, statt „woke“ zu sein lieber **wach für Pr
 
 ---
 
-### *Diesmal ist es Wirklich anders*
+### 📄 *Diesmal ist es Wirklich anders*
 Handbuch zur zivilisatorischen Immunologie.
 
 👉 [Diesmal ist es wirklich anders](<Diesmal ist es wirklich anders.md>)
 
 ---
 
-### *Demokratie als Rückkopplungssystem*
+### 📄 *Demokratie als Rückkopplungssystem*
 Systemische Betrachtung der Demokratie als Struktur, und ihrer Erosionsprozesse.
 
 👉 [Demokratie als Rückkopplungssystem - Eine differenzflusstheoretische Perspektive](<Demokratie als Rückkopplungssystem - Eine differenzflusstheoretische Perspektive.md>)
