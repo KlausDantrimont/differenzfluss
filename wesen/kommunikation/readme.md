@@ -57,6 +57,13 @@ Systemische Betrachtung der Demokratie als Struktur, und ihrer Erosionsprozesse.
 
 👉 [Demokratie als Rückkopplungssystem - Eine differenzflusstheoretische Perspektive](<Demokratie als Rückkopplungssystem - Eine differenzflusstheoretische Perspektive.md>)
 
+👉 [Demokratie als Rückkopplungssystem - Version 2](<Demokratie als Rückkopplungssystem - Eine differenzflusstheoretische Perspektive-v2.md>)
+
+
+
+👉 [Die unsichtbaren Lenkräder der Geschichte](<Die%20unsichtbaren%20Lenkr%C3%A4der%20der%20Geschichte-v2.md#ein-essay-%C3%BCber-bedeutungswandel-r%C3%BCckkopplung-und-die-macht-der-zeitskalen>)\
+Ein Essay über Bedeutungswandel, Rückkopplung und die Macht der Zeitskalen
+
 ---
 <sub>
 Teilprojekt der Differenzierungsfluss-Theorie – zur Analyse und Verbesserung kommunikativer Strukturen in persönlichen wie gesellschaftlichen Kontexten.
