@@ -18,6 +18,7 @@ Kurzfassung in 7 Leitsätzen:
 
 # KI als Forscher: Architektur eines rekursiven Suchprozesses
 
+Klaus Dantrimont 2026
 ---
 
 ## 1. Einleitung: Warum heutige KI noch nicht wirklich forscht
