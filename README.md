@@ -462,6 +462,11 @@ ProofOfConcept, ready for evaluation
 - [Meta_Ko-Kreation_DFT.md](Meta_Ko-Kreation_DFT.md) – Reflexion über Urheberschaft und Rollenverteilung bei der Entstehung der DFT.
 
 ---
+
+Wissen muss man verschenken, wenn es unbezahlbar ist.
+
+Apropos:
+
 ## Käuflich erwerbbare Bücher:
 <br>Schmale Bändchen mit willkürlichen Preisen. 
 <br>Ich war noch nie ein Freund vieler Worte, aber es steht drin, was drinstehen muss.
