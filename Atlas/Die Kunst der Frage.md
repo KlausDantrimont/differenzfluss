@@ -1,15 +1,22 @@
 
 
-# **DIE KUNST DER FRAGE**
+# **Die Kunst der Frage**
+
+## *Wie bitte?*
+
 
 Klaus Dantrimont, 2025
 
+---
+
 - Was ist eine Frage?
 - Was ist eine gute Frage?
-- Wie fragt man LLMs hallizunationsarm?
+- Wie fragt man LLMs halluzinationsarm?
 - Wie kann man fragen?
 - Gibt's da System?
 - Hab ich Deine Neugier?
+
+---
 
 # **Vorwort: Die stille Macht der Frage**
 
