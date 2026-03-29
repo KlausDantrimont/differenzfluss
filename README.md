@@ -137,7 +137,9 @@ Mein Beitrag beschränkt sich auf den Versuch ein paar solcher Ideen sinnvoll un
 Bei diesem Übersetzungsprozess komponiere ich abstrakte Konzepte, die den kompletten Problemkosmos effizient und flexibel abbilden.
 Je besser ich eindampfe, desto kompakter und flexibler und robuster und einfacher das Endprodukt.
 Der Computer ist stets mein Richter. Unbestechlich. Sehr cool. Denn es erlaubt hemmungslos mit Konzepten zu spielen. Einzige Minimalbedingung: logische konsistenz.*
-Außerhalb der Minimalbedingung versuche ich mich in (gedanklicher) Hemmungslosigkeit.
+Außerhalb der Minimalbedingung strebe ich nach gedanklicher Freiheit.\
+**Wichtig ist, was hinten raus kommt**
+
 > *Daher vermutlich meine Tendenz zu Analyse, Abstraktion, Rekombination, Konstruktion, Evaluation*
 > *Ich habe die DFT also zuerst praktisch erlernt, und dann im Nachhinein erkannt, dann formuliert.*
 
