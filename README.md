@@ -147,7 +147,7 @@ Außerhalb der Minimalbedingung strebe ich nach gedanklicher Freiheit.\
 > *Ich habe die DFT also zuerst praktisch erlernt, und dann im Nachhinein erkannt, dann formuliert.*
 
 *Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
-Ist das nicht zumindest leicht verdächtig?
+Ich fand das schon immer verdächtig.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
