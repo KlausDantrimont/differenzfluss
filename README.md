@@ -12,6 +12,9 @@ Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum
 
 **Willkommen im Fluss.**
 
+---
+
+*Obacht: Die Welt ist mehr, als jede Beschreibung*
 
 ---
 
@@ -79,9 +82,6 @@ Kurzer Überblick über Dynamiken in der Welt:
 
 - [Der Rosetta-Stein der Differenzen](<Erkenntnistheorie/Der Rosetta-Stein der Differenzen.md>)
 
-
-**DFT ist eine minimale, operative, domänenagnostische Grammatik für rekursive Strukturbildung – kompatibel mit biologischer und maschineller Intelligenz, anwendbar auf allen Skalen, wertneutral und praktisch nutzbar.**
-
 ---
 
 ## Info
@@ -144,7 +144,7 @@ Außerhalb der Minimalbedingung strebe ich nach gedanklicher Freiheit.\
 > *Ich habe die DFT also zuerst praktisch erlernt, und dann im Nachhinein erkannt, dann formuliert.*
 
 *Ist es nicht bemerkenswert, wenn die gleiche Logik/Mechanik sich in völlig unterschiedlichen Bereichen finden lässt?*\
-Ist das nicht zumindest leicht verdächtig?
+Ich fand das schon immer verdächtig.
 
 [Was ist die Differenzfluss-Theorie?](<Adapter/Was ist die Differenzfluss-Theorie (DFT).md>)
 
