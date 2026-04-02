@@ -35,7 +35,7 @@ Die DFT ist:
 * ein **Strukturmodell**, das zeigt, wie Unterschiede Prozesse tragen,
 * ein **Formalisierungsversuch** für Emergenz, Rekursion und Stabilität,
 * ein **kognitives Werkzeug**, um Zusammenhänge zu erkennen,
-* eine **persönliche Theorie**, die dein Denken bündelt,
+* eine **persönliche Theorie**, die Klaus' Denken bündelt,
 * eine **spielerisch-formale Sprache** für komplexe Muster.
 
 ## **Die DFT *ist nicht*…**
