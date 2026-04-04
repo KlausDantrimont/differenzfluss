@@ -7,6 +7,17 @@ Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Di
 Aus Widerspruch wird Bewegung,
 aus Bewegung Form,
 aus Form Welt.
+
+---
+
+**Ich habe nicht den Ursprung beobachtet. Ich war nich dabei.\
+Ich habe eine Rückrechnung aus rekursiver Kognition und rekursiver Weltstruktur versucht.**
+
+**Die Ontologie der DFT ist ein optionaler Tiefenbau.\
+Er liefert die Perpektive und das Vokabular.\
+Ihre eigentliche Bewährungsprobe der DFT liegt in ihrer heuristischen Leistung.**
+
+---
   
 - [Das reale Paradox.md](<Das reale Paradox.md>)\
 Epistemische und phänomenologische Basis der DFT\
