@@ -14,8 +14,8 @@ aus Form Welt.
 Ich habe eine Rückrechnung aus rekursiver Kognition und rekursiver Weltstruktur versucht.**
 
 **Die Ontologie der DFT ist ein optionaler Tiefenbau.\
-Er liefert die Perpektive und das Vokabular.\
-Ihre eigentliche Bewährungsprobe der DFT liegt in ihrer heuristischen Leistung.**
+Er liefert die Perspektive und das Vokabular.\
+Die eigentliche Bewährungsprobe der DFT liegt in ihrer heuristischen Leistung.**
 
 ---
   
