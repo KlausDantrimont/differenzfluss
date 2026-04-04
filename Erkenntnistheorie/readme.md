@@ -8,7 +8,7 @@ Ziel ist es, zentrale Begriffe wie „Erkenntnis“, „Existenz“, „Begriff�
 
 Aus Widerspruch wird Bewegung,\
 aus Bewegung Form,\
-aus Form Welt.\
+aus Form Welt.
 
 ---
 
