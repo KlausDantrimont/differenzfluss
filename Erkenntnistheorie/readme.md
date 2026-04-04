@@ -10,7 +10,7 @@ aus Form Welt.
 
 ---
 
-**Ich habe nicht den Ursprung beobachtet. Ich war nich dabei.\
+**Ich habe nicht den Ursprung beobachtet. Ich war nicht dabei.\
 Ich habe eine Rückrechnung aus rekursiver Kognition und rekursiver Weltstruktur versucht.**
 
 **Die Ontologie der DFT ist ein optionaler Tiefenbau.\
