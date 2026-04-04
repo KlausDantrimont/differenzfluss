@@ -16,6 +16,9 @@ Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum
 
 *Obacht: Die Welt ist mehr, als jede Beschreibung*
 
+Wenn Du denkst: Mein vorhandenes Vokabular reicht mir nicht, um das Muster zu sehen.
+Dann könntest Du hier vielleicht was finden.
+
 ---
 
 Was baue ich hier eigentlich?
