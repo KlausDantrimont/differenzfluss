@@ -1,12 +1,14 @@
 # 🧠 Erkenntnistheorie im Licht des Differenzflusses
 
-Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Differenzierungsfluss-Theorie (DFT). Ziel ist es, zentrale Begriffe wie „Erkenntnis“, „Existenz“, „Begriff“ oder „Struktur“ im Rahmen eines dynamischen, flussbasierten Weltbildes zu rekonstruieren und mit bestehenden theoretischen Konzepten (z. B. Kategorientheorie) in Verbindung zu bringen.
+Dieser Ordner versammelt Beiträge zur erkenntnistheoretischen Fundierung der Differenzierungsfluss-Theorie (DFT). 
+
+Ziel ist es, zentrale Begriffe wie „Erkenntnis“, „Existenz“, „Begriff“ oder „Struktur“ im Rahmen eines dynamischen, flussbasierten Weltbildes zu rekonstruieren und mit bestehenden theoretischen Konzepten (z. B. Kategorientheorie) in Verbindung zu bringen.
 
 ---
 
-Aus Widerspruch wird Bewegung,
-aus Bewegung Form,
-aus Form Welt.
+Aus Widerspruch wird Bewegung,\
+aus Bewegung Form,\
+aus Form Welt.\
 
 ---
 
