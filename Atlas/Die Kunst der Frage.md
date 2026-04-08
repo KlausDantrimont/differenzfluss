@@ -29,7 +29,8 @@ Anwendungshinweis:
    - Perspektiven explizit setzen
    - Bei Unklarheit den Σ-Operator nutzen (Selbstbezug)
  
-     
+Tipp: Wenn das Dokument zu lang für das Kontextfenster ist, reicht auch Abschnitt D („Der KI-Adapter"). Der enthält alle Regeln, die die KI braucht.
+
 ---
 
 # **Vorwort: Die stille Macht der Frage**
