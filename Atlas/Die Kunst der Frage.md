@@ -18,6 +18,20 @@ Klaus Dantrimont, 2025
 
 ---
 
+Anwendungshinweis:
+- Sie müssen die Operatoren nicht zuerst verstehen, bevor sie sie anwenden können\
+  Sie können das der KI überlassen.
+- Zeigen Sie dazu dieses Dokument einer KI
+- Fügen Sie hinzu: „Operiere ab jetzt im DFT-Modus."
+-  Stellen Sie Ihre Fragen ganz normal. Die KI wird automatisch:
+   - „Was ist X?" → „Wie entsteht X?" übersetzen
+   - Essenzfragen vermeiden
+   - Perspektiven explizit setzen
+   - Bei Unklarheit den Σ-Operator nutzen (Selbstbezug)
+ 
+     
+---
+
 # **Vorwort: Die stille Macht der Frage**
 
 
