@@ -5,6 +5,11 @@
 - `01-Grundmechaniken/01-Die-Mechanik-der-Verfuehrung.md`
    https://klausdantrimont.substack.com/p/die-mechanik-der-verfuhrung
 
+
+-  `02-Affekt-Bindung-Identitaet/01-Narzisstenfutter.md
+  
+
+
 ## Als nächstes
 
 1. `02-Affekt-Bindung-Identitaet/01-Narzisstenfutter.md`  

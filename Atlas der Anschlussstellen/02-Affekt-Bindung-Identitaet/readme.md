@@ -59,7 +59,7 @@ Je stärker eine Erzählung solche Funktionen übernimmt, desto schwerer wird es
 - [`01-Narzisstenfutter.md`](./01-Narzisstenfutter.md)  
   Über Schmeichelei, Aufwertung und selbstwertbezogene Bindung als memetischen Klebstoff.
 
-- `02-Warum-Kritik-wie-ein-Angriff-wirkt.md`  
+- [`02-Warum-Kritik-wie-ein-Angriff-wirkt.md`](./02-Warum-Kritik-wie-ein-Angriff-wirkt.md)
   Über die affektive Logik, durch die Gegenrede zur Bedrohung innerer Stabilisierung werden kann.
 
 - `03-Das-Wir-als-Schutzraum.md`  
