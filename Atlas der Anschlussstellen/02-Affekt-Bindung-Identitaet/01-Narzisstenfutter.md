@@ -70,6 +70,9 @@ In der Praxis treten diese Formen selten rein auf. Häufig verschränken sie sic
 
 Man könnte deshalb sagen: Narzisstenfutter ist nicht eine einzelne Botschaft, sondern eine Familie von Aufwertungsformen. Ihr gemeinsamer Nenner besteht darin, dass sie den Empfänger nicht nur orientieren, sondern symbolisch erhöhen. Gerade darin liegt ihre Bindekraft.
 
+
+Ein aktuelles Beispiel, das zum Anlass dieses Atlas wurde, ist die mediale Rahmung einer Studie, die hochbegabten Männern eine geringere Konservativität attestiert: Die eigentliche, eher nuancierte Befundlage wird zur Erzählung „Die Klugen sind auf unserer Seite“ verdichtet – intellektuelles + kollektives Narzisstenfutter in Reinform.
+
 ---
 
 ### 5. Warum es so wirksam ist
@@ -138,4 +141,8 @@ Man könnte den ganzen Zusammenhang auf einen einfachen Satz bringen:
 > Narzisstenfutter ist symbolische Aufwertungsware.
 > Es macht Bindung attraktiv, indem es Selbstwert belohnt. 
 
-Und genau deshalb ist es mehr als eine Pointe. Es ist ein brauchbarer Name für einen wiederkehrenden Mechanismus im Memfeld: die angenehme Seite der Vereinnahmung.
+Und genau deshalb ist es mehr als eine Pointe. Es ist ein brauchbarer Name für einen wiederkehrenden memetischen Mechanismus: die angenehme Seite der Vereinnahmung.
+
+---
+
+Dieser Text steht im Ordner 02-Affekt-Bindung-Identität. Er behandelt eine zentrale Andockstelle des Selbstwerts. Für die Verschränkung mit Medien und Politik siehe 03-Medien-Politik-KI, für praktische Beobachtungsübungen siehe 05-Beobachtung-und-Praxis.
