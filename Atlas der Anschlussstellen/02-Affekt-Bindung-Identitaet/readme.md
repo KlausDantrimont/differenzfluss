@@ -56,7 +56,7 @@ Je stärker eine Erzählung solche Funktionen übernimmt, desto schwerer wird es
 
 ## Texte
 
-- `01-Narzisstenfutter.md`  
+- [`01-Narzisstenfutter.md`](./01-Narzisstenfutter.md)  
   Über Schmeichelei, Aufwertung und selbstwertbezogene Bindung als memetischen Klebstoff.
 
 - `02-Warum-Kritik-wie-ein-Angriff-wirkt.md`  
