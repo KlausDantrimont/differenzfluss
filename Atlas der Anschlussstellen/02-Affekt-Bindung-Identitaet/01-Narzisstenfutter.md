@@ -71,7 +71,7 @@ In der Praxis treten diese Formen selten rein auf. Häufig verschränken sie sic
 Man könnte deshalb sagen: Narzisstenfutter ist nicht eine einzelne Botschaft, sondern eine Familie von Aufwertungsformen. Ihr gemeinsamer Nenner besteht darin, dass sie den Empfänger nicht nur orientieren, sondern symbolisch erhöhen. Gerade darin liegt ihre Bindekraft.
 
 
-Ein aktuelles Beispiel, das zum Anlass dieses Atlas wurde, ist die mediale Rahmung einer Studie, die hochbegabten Männern eine geringere Konservativität attestiert: Die eigentliche, eher nuancierte Befundlage wird zur Erzählung „Die Klugen sind auf unserer Seite“ verdichtet – intellektuelles + kollektives Narzisstenfutter in Reinform.
+> Ein aktuelles Beispiel, das zum Anlass dieses Atlas wurde, ist die mediale Rahmung einer Studie, die hochbegabten Männern eine geringere Konservativität attestiert: Die eigentliche, eher nuancierte Befundlage wird zur Erzählung „Die Klugen sind auf unserer Seite“ verdichtet – intellektuelles + kollektives Narzisstenfutter in Reinform.
 
 ---
 
