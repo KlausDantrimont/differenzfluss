@@ -51,7 +51,7 @@ So entstehen nicht nur einzelne Überzeugungen, sondern **Milieus, Resonanzräum
 - `01-Milieumaschinen.md`  
   Über Medien als Spiegel- und Bindungsräume, die ihren Lesern nicht nur Informationen, sondern auch Selbstbilder liefern.
 
-- `02-Angst-Aufwertung-Feindbild.md`  
+- [`02-Angst-Aufwertung-Feindbild.md`](./02-Angst-Aufwertung-Feindbild.md)
   Eine kleine Grammatik politischer Verführung und ihrer typischen Mehrfachkopplungen.
 
 - `03-Verfuehrung-als-Strukturproblem.md`  

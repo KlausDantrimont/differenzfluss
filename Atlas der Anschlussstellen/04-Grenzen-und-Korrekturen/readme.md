@@ -52,13 +52,13 @@ Dieses Verzeichnis hält den Atlas deshalb **beweglich und revidierbar**.
 
 ## Texte
 
-- `01-Verfuehrung-als-Strukturproblem.md`  
+- [`01-Verfuehrung-als-Strukturproblem.md`](./01-Verfuehrung-als-Strukturproblem.md)
   Über materielle, institutionelle und infrastrukturelle Bedingungen, die bestimmte Erzählungen begünstigen oder absichern.
 
-- `02-Leib-vor-Erzaehlung.md`  
+- [`02-Leib-vor-Erzaehlung.md`](./02-Leib-vor-Erzaehlung.md)  
   Über Stimme, Rhythmus, Atmosphäre, Blick und andere nicht rein semantische Formen des Anschlusses.
 
-- `03-Gibt-es-gute-Verfuehrung.md`  
+- [`03-Gibt-es-gute-Verfuehrung.md`](03-Gibt-es-gute-Verfuehrung.md)  
   Über die schwierige Grenze zwischen Hilfe, Bildung, Therapie, Liebe und Vereinnahmung.
 
 - `04-Die-Archaeologie-der-Offenheit.md`  
