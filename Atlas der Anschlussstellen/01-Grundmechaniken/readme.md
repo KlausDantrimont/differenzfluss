@@ -49,13 +49,13 @@ Die Grundmechaniken dieses Verzeichnisses untersuchen diese regulative Seite.
 - [`01-Die-Mechanik-der-Verfuehrung.md`](./01-Die-Mechanik-der-Verfuehrung.md)  
   Auftakttext zur Grundidee, dass Verführung dort wirkt, wo eine Erzählung an offene Regelkreise andockt.
 
-- `02-Offene-Regelkreise.md`  
+- [`02-Offene-Regelkreise.md`](./02-Offene-Regelkreise.md)  
   Begriffsklärung und Vertiefung der inneren Offenheiten, an die Erzählungen anschließen können.
 
-- `03-Andockstellen.md`  
+- [`03-Andockstellen.md`](./03-Andockstellen.md)  
   Typologie wiederkehrender Anschlussformen wie Angst, Selbstwert, Zugehörigkeit, Sinn, Sehnsucht, Ressentiment und Neugier.
 
-- `04-Von-der-Verlockung-zur-Vereinnahmung.md`  
+- [`04-Von-der-Verlockung-zur-Vereinnahmung.md`](./04-Von-der-Verlockung-zur-Vereinnahmung.md)  
   Prozessbeschreibung der Dynamik, durch die aus einer ersten Passung eine stabile Bindung werden kann.
 
 ---

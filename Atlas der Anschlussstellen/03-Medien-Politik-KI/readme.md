@@ -48,19 +48,14 @@ So entstehen nicht nur einzelne Überzeugungen, sondern **Milieus, Resonanzräum
 
 ## Texte
 
-- `01-Milieumaschinen.md`  
+- [`01-Milieumaschinen.md`](./01-Milieumaschinen.md)  
   Über Medien als Spiegel- und Bindungsräume, die ihren Lesern nicht nur Informationen, sondern auch Selbstbilder liefern.
 
 - [`02-Angst-Aufwertung-Feindbild.md`](./02-Angst-Aufwertung-Feindbild.md)
   Eine kleine Grammatik politischer Verführung und ihrer typischen Mehrfachkopplungen.
 
-- `03-Verfuehrung-als-Strukturproblem.md`  
-  Über die infrastrukturellen, institutionellen und materiellen Bedingungen, unter denen bestimmte Erzählungen leichter wirksam werden als andere.
 
-- `04-Leib-vor-Erzaehlung.md`  
-  Über Stimme, Rhythmus, Atmosphäre und die nicht rein semantischen Ebenen von Anschluss und Resonanz.
-
-- `05-KI-und-die-Kunst-der-Anschlussstelle.md`  
+- [05-KI-und-die-Kunst-der-Anschlussstelle.md](./05-KI-und-die-Kunst-der-Anschlussstelle.md)
   Über KI-Systeme als Verstärker, Spiegel oder Beschleuniger bereits angelegter Frames und Suchbewegungen.
 
 ---

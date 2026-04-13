@@ -62,10 +62,10 @@ Je stärker eine Erzählung solche Funktionen übernimmt, desto schwerer wird es
 - [`02-Warum-Kritik-wie-ein-Angriff-wirkt.md`](./02-Warum-Kritik-wie-ein-Angriff-wirkt.md)
   Über die affektive Logik, durch die Gegenrede zur Bedrohung innerer Stabilisierung werden kann.
 
-- `03-Das-Wir-als-Schutzraum.md`  
+- [`03-Das-Wir-als-Schutzraum.md`](./03-Das-Wir-als-Schutzraum.md)  
   Über Zugehörigkeit, Loyalität und die soziale Seite von Bindung.
 
-- `04-Die-Lust-es-durchschaut-zu-haben.md`  
+- [`04-Die-Lust-es-durchschaut-zu-haben.md`](./04-Die-Lust-es-durchschaut-zu-haben.md)  
   Über Neugier, Einsicht, intellektuelle Eitelkeit und die Attraktivität exklusiver Deutungsräume.
 
 ---

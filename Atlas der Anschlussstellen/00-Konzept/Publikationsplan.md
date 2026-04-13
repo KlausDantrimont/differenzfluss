@@ -28,10 +28,6 @@
 
 - `04-Grenzen-und-Korrekturen/03-Gibt-es-gute-Verfuehrung.md`
 
-
-## Als nächstes
-
-
 - `03-Medien-Politik-KI/05-KI-und-die-Kunst-der-Anschlussstelle.md`  
    Über KI-Systeme als Verstärker, Spiegel oder Beschleuniger bereits angelegter Frames und Suchbewegungen.
 
@@ -41,21 +37,31 @@
 - `05-Beobachtung-und-Praxis/01-Beobachtungsfaehigkeit.md`  
    Über die Fähigkeit, eigene Anschlussstellen, Resonanzen und Bindungsdynamiken mitzubeobachten.
 
-## Danach
-
 - `01-Grundmechaniken/02-Offene-Regelkreise.md`
-- `01-Grundmechaniken/03-Andockstellen.md`
-- `01-Grundmechaniken/04-Von-der-Verlockung-zur-Vereinnahmung.md`
-- `02-Affekt-Bindung-Identitaet/03-Das-Wir-als-Schutzraum.md`
-- `02-Affekt-Bindung-Identitaet/04-Die-Lust-es-durchschaut-zu-haben.md`
-- `03-Medien-Politik-KI/01-Milieumaschinen.md`
-- `05-Beobachtung-und-Praxis/03-Sieben-Fragen-gegen-die-sanfte-Uebernahme.md`
-- `05-Beobachtung-und-Praxis/04-Wann-Hilfe-in-Vereinnahmung-kippt.md`
-- `05-Beobachtung-und-Praxis/05-KI-gestuetzte-Strukturdiagnose.md`
 
-## Später / Tiefenschicht
+- `01-Grundmechaniken/03-Andockstellen.md`
+
+- `01-Grundmechaniken/04-Von-der-Verlockung-zur-Vereinnahmung.md`
+
+- `02-Affekt-Bindung-Identitaet/03-Das-Wir-als-Schutzraum.md`
+
+- `02-Affekt-Bindung-Identitaet/04-Die-Lust-es-durchschaut-zu-haben.md`
+
+- `03-Medien-Politik-KI/01-Milieumaschinen.md`
 
 - `04-Grenzen-und-Korrekturen/04-Die-Archaeologie-der-Offenheit.md`
+
+- `05-Beobachtung-und-Praxis/03-Sieben-Fragen-gegen-die-sanfte-Uebernahme.md`
+- `05-Beobachtung-und-Praxis/04-Wann-Hilfe-in-Vereinnahmung-kippt.md`
+
+- `05-Beobachtung-und-Praxis/05-KI-gestuetzte-Strukturdiagnose.md`
+
+
+## Als nächstes
+
+## Danach
+
+## Später / Tiefenschicht
 
 ## Notiz
 
@@ -70,3 +76,4 @@ Empfohlene Außenreihenfolge für Substack:
 6. KI und die Kunst der Anschlussstelle  
 7. Die Illusion der Immunität  
 8. Beobachtungsfähigkeit
+

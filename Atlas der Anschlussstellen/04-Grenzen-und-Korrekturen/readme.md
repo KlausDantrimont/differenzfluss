@@ -61,10 +61,10 @@ Dieses Verzeichnis hält den Atlas deshalb **beweglich und revidierbar**.
 - [`03-Gibt-es-gute-Verfuehrung.md`](03-Gibt-es-gute-Verfuehrung.md)  
   Über die schwierige Grenze zwischen Hilfe, Bildung, Therapie, Liebe und Vereinnahmung.
 
-- `04-Die-Archaeologie-der-Offenheit.md`  
+- [`04-Die-Archaeologie-der-Offenheit.md`](04-Die-Archaeologie-der-Offenheit.md)  
   Über frühe Prägung, formative Einpassung und die Frage, woher Andockbarkeit überhaupt kommt.
 
-- `05-Die-Illusion-der-Immunitaet.md`  
+- [`05-Die-Illusion-der-Immunitaet.md`](./05-Die-Illusion-der-Immunitaet.md)  
   Über den blinden Fleck kritischer Distanz und die Möglichkeit, sich gerade über Aufgeklärtheit neu zu binden.
 
 ---

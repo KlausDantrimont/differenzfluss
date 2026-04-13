@@ -56,19 +56,16 @@ Praxis heißt in diesem Zusammenhang vor allem: **mehr Spielraum inmitten von Bi
 
 ## Texte
 
-- `01-Beobachtungsfaehigkeit.md`  
+- [`01-Beobachtungsfaehigkeit.md`](./01-Beobachtungsfaehigkeit.md)  
   Über die Fähigkeit, eigene Anschlussstellen, Resonanzen und Bindungsdynamiken mitzubeobachten.
 
-- `02-Die-Illusion-der-Immunitaet.md`  
-  Über den Wunsch, unangreifbar zu werden, und den blinden Fleck solcher Fantasien.
-
-- `03-Sieben-Fragen-gegen-die-sanfte-Uebernahme.md`  
+- [`03-Sieben-Fragen-gegen-die-sanfte-Uebernahme.md`](./03-Sieben-Fragen-gegen-die-sanfte-Uebernahme.md)  
   Ein praktischer Fragetext zur Prüfung von Erzählungen, die beruhigen, aufwerten oder binden.
 
-- `04-Wann-Hilfe-in-Vereinnahmung-kippt.md`  
+- [`04-Wann-Hilfe-in-Vereinnahmung-kippt.md`](./04-Wann-Hilfe-in-Vereinnahmung-kippt.md)  
   Über diagnostische Unterscheidungen zwischen hilfreicher Stabilisierung und bindender Schließung.
 
-- `05-KI-gestuetzte-Strukturdiagnose.md`  
+- [`05-KI-gestuetzte-Strukturdiagnose.md`](./05-KI-gestuetzte-Strukturdiagnose.md)  
   Über den möglichen Einsatz von KI als Werkzeug zur Sichtbarmachung von Frames, Anschlussstellen und verdeckten Dynamiken.
 
 ---
