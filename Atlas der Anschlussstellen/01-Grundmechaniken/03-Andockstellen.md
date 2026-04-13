@@ -153,3 +153,8 @@ Vielleicht ist das die knappste Formel:
 > Andockstellen sind die Stellen,  
 > an denen menschliche Offenheit in Form überführt werden kann.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

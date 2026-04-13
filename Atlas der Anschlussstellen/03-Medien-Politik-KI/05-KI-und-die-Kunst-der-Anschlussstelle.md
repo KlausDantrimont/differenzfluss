@@ -119,3 +119,9 @@ Vielleicht ist das die nüchternste Formel:
 > Sie ist die Kunst der Anschlussstelle.
 
 Und genau deshalb beginnt guter KI-Gebrauch nicht mit Prompt-Optimierung, sondern mit der Beobachtung der eigenen Frage.
+
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

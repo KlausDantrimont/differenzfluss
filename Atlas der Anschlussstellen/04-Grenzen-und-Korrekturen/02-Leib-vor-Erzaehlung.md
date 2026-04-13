@@ -107,3 +107,8 @@ Sondern auch: **Wie wird der Leib eingestimmt, damit es sagbar, glaubhaft und bi
 
 Erst dort wird sichtbar, dass manche Bindungen schon begonnen haben, bevor das Denken überhaupt mit ihnen aufholt.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

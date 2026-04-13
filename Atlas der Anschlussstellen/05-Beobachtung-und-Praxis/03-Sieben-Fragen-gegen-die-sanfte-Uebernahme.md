@@ -109,3 +109,8 @@ Vielleicht ist das die knappste Formel:
 > Gute Gegenfragen zerstören Bindung nicht.  
 > Sie machen sie lesbarer.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

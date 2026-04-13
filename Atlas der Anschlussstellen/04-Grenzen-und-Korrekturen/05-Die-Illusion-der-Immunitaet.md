@@ -112,3 +112,9 @@ Vielleicht ist das die härteste, aber brauchbarste Form der Nüchternheit:
 
 > Wer sich für unverführbar hält,  
 > hat oft nur eine raffiniertere Verführung gefunden.
+
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

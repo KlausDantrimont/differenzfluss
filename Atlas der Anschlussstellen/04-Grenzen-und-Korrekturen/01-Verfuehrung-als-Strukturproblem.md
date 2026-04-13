@@ -93,3 +93,8 @@ Er sollte auch fragen: **Welche Welt macht dieses Andocken so wahrscheinlich?**
 
 Erst dort wird aus einer Psychologie der Verführung eine brauchbare Kartographie ihrer Bedingungen.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

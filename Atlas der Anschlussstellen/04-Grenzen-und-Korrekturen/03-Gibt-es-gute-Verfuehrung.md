@@ -117,3 +117,8 @@ Sondern: **Kann der andere aus ihr freier hervorgehen, als er in sie eingetreten
 
 Dort verläuft vermutlich die wichtigste Grenze.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

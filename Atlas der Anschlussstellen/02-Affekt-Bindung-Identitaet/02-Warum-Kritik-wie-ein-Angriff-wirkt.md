@@ -103,3 +103,8 @@ Oft wichtiger ist: **Was würde zusammenbrechen, wenn die Kritik träfe?**
 
 Erst dort wird sichtbar, warum ein Einwand sich manchmal anfühlt wie ein Schlag.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

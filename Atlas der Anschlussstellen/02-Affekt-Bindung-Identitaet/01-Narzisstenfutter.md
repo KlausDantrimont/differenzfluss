@@ -146,3 +146,9 @@ Und genau deshalb ist es mehr als eine Pointe. Es ist ein brauchbarer Name für 
 ---
 
 Dieser Text steht im Ordner 02-Affekt-Bindung-Identität. Er behandelt eine zentrale Andockstelle des Selbstwerts. Für die Verschränkung mit Medien und Politik siehe 03-Medien-Politik-KI, für praktische Beobachtungsübungen siehe 05-Beobachtung-und-Praxis.
+
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

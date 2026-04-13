@@ -124,3 +124,8 @@ Vielleicht ist das die knappste Formel:
 > wenn sie nicht mehr trägt, um freizugeben,  
 > sondern trägt, um zu halten.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

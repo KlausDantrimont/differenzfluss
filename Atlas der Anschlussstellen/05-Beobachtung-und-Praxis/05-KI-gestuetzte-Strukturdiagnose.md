@@ -173,3 +173,8 @@ Vielleicht ist das die knappste Formel:
 > macht nicht nur Antworten schneller,  
 > sondern den eigenen Schnitt fraglicher.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

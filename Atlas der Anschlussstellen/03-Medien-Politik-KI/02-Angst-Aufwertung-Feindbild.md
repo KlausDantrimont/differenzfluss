@@ -119,3 +119,8 @@ Man könnte den Zusammenhang auf einen einfachen Satz bringen:
 > wo Angst Druck erzeugt, Aufwertung Loyalität belohnt  
 > und ein Feindbild der Spannung Richtung gibt.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026

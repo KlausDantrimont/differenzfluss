@@ -115,3 +115,8 @@ Vielleicht ist das die knappste Formel:
 > Offenheit ist nicht nur das, was noch fehlt.  
 > Sie ist oft das, was in bestimmter Weise offen geblieben ist.
 
+---
+
+Dieses Dokument ist Teil des [Atlas der Anschlussstellen](https://github.com/KlausDantrimont/differenzfluss/tree/main/Atlas%20der%20Anschlussstellen#atlas-der-anschlussstellen)
+
+Klaus Dantrimont 2026
