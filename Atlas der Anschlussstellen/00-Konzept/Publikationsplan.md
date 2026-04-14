@@ -15,21 +15,28 @@
    https://open.substack.com/pub/klausdantrimont/p/warum-kritik-wie-ein-angriff-wirkt
    Über die affektive Logik, durch die Gegenrede zur Bedrohung innerer Stabilisierung werden kann.
    
----
 
 - `03-Medien-Politik-KI/02-Angst-Aufwertung-Feindbild.md`  
    Eine kleine Grammatik politischer Verführung und ihrer typischen Mehrfachkopplungen.
-
+   https://open.substack.com/pub/klausdantrimont/p/angst-aufwertung-feindbild
+   
 
 - `04-Grenzen-und-Korrekturen/01-Verfuehrung-als-Strukturproblem.md`  
    Über materielle, institutionelle und infrastrukturelle Bedingungen, die bestimmte Erzählungen begünstigen.
 
-- `03-Medien-Politik-KI/04-Leib-vor-Erzaehlung.md`
-
-- `04-Grenzen-und-Korrekturen/03-Gibt-es-gute-Verfuehrung.md`
-
 - `03-Medien-Politik-KI/05-KI-und-die-Kunst-der-Anschlussstelle.md`  
    Über KI-Systeme als Verstärker, Spiegel oder Beschleuniger bereits angelegter Frames und Suchbewegungen.
+   https://open.substack.com/pub/klausdantrimont/p/ki-und-die-kunst-der-anschlussstelle
+
+-  04-Grenzen-und-Korrekturen/02-Leib-vor-Erzaehlung.md
+   https://open.substack.com/pub/klausdantrimont/p/leib-vor-erzahlung
+
+
+- `04-Grenzen-und-Korrekturen/03-Gibt-es-gute-Verfuehrung.md`
+   https://open.substack.com/pub/klausdantrimont/p/gibt-es-gute-verfuhrung
+
+
+#######
 
 - `04-Grenzen-und-Korrekturen/05-Die-Illusion-der-Immunitaet.md`  
    Über den blinden Fleck kritischer Distanz und die neue Verführbarkeit des Aufgeklärten.
@@ -70,10 +77,10 @@ Empfohlene Außenreihenfolge für Substack:
 1. Die Mechanik der Verführung  
 2. Narzisstenfutter  
 3. Warum Kritik wie ein Angriff wirkt  
--
 4. Angst, Aufwertung, Feindbild  
 5. Verführung als Strukturproblem  
 6. KI und die Kunst der Anschlussstelle  
+
 7. Die Illusion der Immunität  
 8. Beobachtungsfähigkeit
 
