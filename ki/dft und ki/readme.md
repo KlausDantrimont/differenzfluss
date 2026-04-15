@@ -8,14 +8,6 @@ Dieses Modul beschreibt eine minimale Struktur zur **Operationalisierung der Dif
 
 ---
 
-> Vorschlag: Die **Differenzierungsfluss-Theorie (DFT)** als
-> **skaleninvariante Analyseschicht für KI-Systeme**.
-> Fokus ist nicht neue KI-Architektur, sondern eine **einheitliche Beschreibungssprache**,
-> die Framework-Wechsel reduziert und komplexe Analysen konsistent hält.
-
-- [Eine skaleninvariante Analyseschicht für KI-Systeme-v2](<Eine skaleninvariante Analyseschicht für KI-Systeme-v2.md>)
-
----
 
 Eine Theorie trifft eine Architektur
 
