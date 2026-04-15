@@ -2,13 +2,18 @@
 
 ---
 
-# **Wenn alles fließt, wie kann dann etwas stabil sein?**
+### **Heraklit:** *Alles fließ*t
 
+**Aber wenn alles fließt, wie kann dann etwas stabil sein?**
+
+---
 
 # Differenzfluss
 
 *Dieses Repository ist ein wachsendes Forschungsprojekt.
 Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum Prozess.*
+
+*bzw. sorry für die Unordnung*
 
 **Willkommen im Fluss.**
 
