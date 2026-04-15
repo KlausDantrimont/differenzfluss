@@ -377,11 +377,9 @@ DFT ist **keine**:
 * vollständige mathematische Theorie,
 * formale Logik mit globalen Axiomen,
 * physikalische Vorhersagetheorie,
-* Simulation,
-* Ontologie.
+* Simulation
 
-Sie ist ein **Operator-Template**,
-keine ontologisch geschlossene Weltbeschreibung.
+Sie ist benutzbar als **Operator-Template**.
 
 ---
 
