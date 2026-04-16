@@ -36,13 +36,22 @@
    https://open.substack.com/pub/klausdantrimont/p/gibt-es-gute-verfuhrung
 
 
-#######
-
 - `04-Grenzen-und-Korrekturen/05-Die-Illusion-der-Immunitaet.md`  
    Über den blinden Fleck kritischer Distanz und die neue Verführbarkeit des Aufgeklärten.
+   https://open.substack.com/pub/klausdantrimont/p/die-illusion-der-immunitat
+
 
 - `05-Beobachtung-und-Praxis/01-Beobachtungsfaehigkeit.md`  
    Über die Fähigkeit, eigene Anschlussstellen, Resonanzen und Bindungsdynamiken mitzubeobachten.
+   https://open.substack.com/pub/klausdantrimont/p/beobachtungsfahigkeit
+
+
+- `03-Medien-Politik-KI/01-Milieumaschinen.md`
+   https://open.substack.com/pub/klausdantrimont/p/milieumaschinen
+   
+   
+#######
+
 
 - `01-Grundmechaniken/02-Offene-Regelkreise.md`
 
@@ -54,7 +63,6 @@
 
 - `02-Affekt-Bindung-Identitaet/04-Die-Lust-es-durchschaut-zu-haben.md`
 
-- `03-Medien-Politik-KI/01-Milieumaschinen.md`
 
 - `04-Grenzen-und-Korrekturen/04-Die-Archaeologie-der-Offenheit.md`
 
@@ -80,7 +88,6 @@ Empfohlene Außenreihenfolge für Substack:
 4. Angst, Aufwertung, Feindbild  
 5. Verführung als Strukturproblem  
 6. KI und die Kunst der Anschlussstelle  
-
 7. Die Illusion der Immunität  
 8. Beobachtungsfähigkeit
 
