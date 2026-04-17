@@ -65,6 +65,7 @@ Die Texte sollen nicht die Gegenwart erschöpfend erklären, sondern einige ihre
 - [Kontrolldruck als Symptom brüchiger Tragfähigkeit](./03-Kontrolldruck-als-Symptom-bruechiger-Tragfaehigkeit.md)
 - [Sprechfähigkeit als Krisenindikator](./04-Sprechfaehigkeit-als-Krisenindikator.md)
 - [Symbolische Befriedung und die Ruhe vor der Drift](./05-Symbolische-Befriedung-und-die-Ruhe-vor-der-Drift.md)
+- [06-Wenn-Sichtbarkeit-Ursache-ersetzt](./06-Wenn-Sichtbarkeit-Ursache-ersetzt.md)
 
 ---
 

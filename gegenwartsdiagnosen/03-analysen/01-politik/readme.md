@@ -81,7 +81,8 @@ Politische Texte in diesem Bereich fragen zum Beispiel:
 ## Bisherige Analysen
 
 - [Verantwortung oben, Vergleich unten](./01-Verantwortung-oben-Vergleich-unten.md)
-
+- [Wohnungsmarkt und Nahfeindbildung](./02-Wohnungsmarkt-und-Nahfeindbildung.md)
+- [Die Umgestaltung des Bürgergelds zur neuen Grundsicherung 2026](./03-Die Umgestaltung-des-Buergergelds-zur-neuen-Grundsicherung-2026.md)
 ---
 
 ## Verhältnis zu den anderen Bereichen
