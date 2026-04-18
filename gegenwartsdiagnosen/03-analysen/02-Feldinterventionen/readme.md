@@ -187,3 +187,28 @@ sondern:
 Und weiter:
 
 > **Wo wächst Eingriffsfähigkeit, noch bevor sie offen als Zwang erscheint?**
+
+---
+
+Beim Wehrpflichtrecht wurde nicht einfach „nichts geändert“, sondern ein rechtlicher Zugriffspunkt vorbereitet: Das BMVg erklärte am 8. April 2026, die Genehmigungspflicht für längere Auslandsaufenthalte gelte seit der Gesetzesänderung grundsätzlich auch in Friedenszeiten; derzeit werde sie nur per Ausnahme ausgesetzt. Das ist kein flächiger Vollzug, sondern **bereitgestellte Zugriffsfähigkeit**, die administrativ weichgeschaltet wird. 
+
+- [2026 Wehrpflichtrecht Auslandsaufenthalte](./2026-Wehrpflichtrecht-Auslandsaufenthalte.md)
+
+
+Im Plattformraum entsteht keine offene Staatszensur, sondern ein zertifizierter Vorrangkanal für Eingriffe. Bestimmte Meldungen laufen nicht mehr im allgemeinen Strom mit, sondern erhalten institutionell beschleunigten Zugang zu Moderationsentscheidungen; der Staat löscht nicht selbst, baut aber die Struktur, beaufsichtigt ihre Träger und koppelt sie an Beschwerde- und Koordinationswege.
+So verschiebt sich das Feld nicht primär durch das sichtbare Verbot, sondern durch die ungleiche Gewichtung von Meldungen und die dadurch entstehende asymmetrische Steuerbarkeit von Sichtbarkeit und Reichweite.
+
+- [2024 Trusted Flagger](./2024-Trusted-Flagger.md)
+
+
+Vor der Bundestagswahl 2025 erklärte das BMI, Plattformbetreiber müssten Maßnahmen gegen Desinformation verstärken und strafbare Inhalte schneller entfernen; parallel publizierte das Ministerium Material zum Schutz der Wahl vor hybriden Bedrohungen einschließlich Desinformation. Memetisch ist das wichtig, weil unter dem Frame „Wahlschutz“ oder „hybride Bedrohung“ die Toleranz für Vorfeldsteuerung steigt.
+- [2025 Wahl- und Desinformationsschutz](./2025-Wahl-und-Desinformationsschutz.md)
+
+---
+
+## Machthack: Wie Macht Grenzen testet
+
+Dieser Text steht hier etwas quer zum Raster des Ordners — dehalb passt er hierhin. Er markiert keinen weiteren Einzelfall, sondern benennt das übergreifende Muster, das viele dieser Fälle verbindet: Politik nicht nur als Entscheidung oder Verwaltung, sondern als Suchbewegung im Widerstandsraum. Wo systematisch getestet wird, was sich ohne ernsten Gegendruck verschieben, vorverlagern oder durchsetzen lässt, erscheint Eingriff nicht mehr nur als Maßnahme, sondern als Hacking des öffentlichen Raums.
+- [Politik als Hacking des öffentlichen Raums](./Politik-als-Hacking-des-oeffentlichen-Raums.md)
+
+
