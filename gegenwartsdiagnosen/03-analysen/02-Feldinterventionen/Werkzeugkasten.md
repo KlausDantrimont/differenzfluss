@@ -428,3 +428,10 @@ sondern:
 Und weiter:
 
 > **Wo wächst Eingriffsfähigkeit, noch bevor sie offen als Zwang erscheint?**
+
+---
+Filmtipp: 
+They Live – John Carpenter, 1988.
+Roddy Piper findet eine Sonnenbrille, mit der er sieht: die Oberschicht sind Skelett-Aliens, und alle Werbung, alle Medien sind Befehle: OBEY. CONSUME. DO NOT QUESTION AUTHORITY. MARRY AND REPRODUCE.
+
+
