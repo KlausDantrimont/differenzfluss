@@ -41,8 +41,6 @@ Das Problem ist deshalb nicht bloß Arroganz. Es ist eine **Asymmetrie der Risik
 
 **Politik kippt dort ins Hacking, wo sie nicht mehr fragt, was legitim ist, sondern systematisch testet, was ohne ernsten Widerstand durchgeht.**
 
-Wenn du willst, mache ich dir direkt noch eine zweite, noch schärfer verdichtete Version im Stil „Politik-Ordner / kompakter Kommentar“.
-
 [1]: https://www.handelsblatt.com/politik/deutschland/junckers-beste-sprueche-wir-haben-die-folterwerkzeuge-im-keller/7545960.html?utm_source=chatgpt.com "Junckers beste Sprüche: „Wir haben die Folterwerkzeuge ..."
 [2]: https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/02/massnahmen-gegen-rechtsextremismus.html?utm_source=chatgpt.com "BMI - Presse - Rechtsextremismus entschlossen bekämpfen"
 [3]: https://www.schleswig-holstein.de/DE/justiz/gerichte-und-justizbehoerden/OVG/Presse/PI_VG/2026_02_05_Antrag_Nius_gg_Aeusserung_MP_erfolglos?utm_source=chatgpt.com "Betreiberin des Nachrichtenportals Nius hat keinen ..."
