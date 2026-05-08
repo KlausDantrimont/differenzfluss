@@ -138,7 +138,17 @@ Texte zu Größen wie Affekt, Aufmerksamkeit, Verantwortung, Legitimität oder S
 ### 3. Analysen
 Konkrete Gegenwartsdiagnosen zu einzelnen Fällen, Maßnahmen, Debatten oder Konstellationen.
 
-So entsteht mit der Zeit nicht nur eine Sammlung einzelner Beobachtungen, sondern ein wachsendes Archiv zeitgenössischer Flussformen.
+
+### 4. Begriffsanalysen
+
+Begriffe sind in Gegenwartsdiskursen nicht nur Bezeichnungen, sondern oft verdichtete Operatoren.  
+Sie aktivieren Differenzen, markieren Zugehörigkeiten, verschieben Legitimität, bündeln Affekte und strukturieren Sagbarkeit.
+
+Dieser Bereich sammelt Analysen solcher Begriffe, Frames und Etiketten.  
+Nicht mit dem Ziel, endgültig festzulegen, was ein Begriff „wirklich bedeutet“, sondern um sichtbar zu machen, was er im Feld tut.
+
+
+Hier entsteht mit der Zeit ein wachsendes Archiv zeitgenössischer Flussformen.
 
 ---
 
