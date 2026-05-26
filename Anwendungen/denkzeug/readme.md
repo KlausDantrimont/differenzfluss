@@ -320,3 +320,5 @@ Sie brauchen Werkzeuge, um zu erkennen, wann Meinung durch Druck, Zugehörigkeit
 
 **Denkzeug ist diese Werkzeugkiste.**
 
+Lizenz: CC BY-SA 4.0
+
