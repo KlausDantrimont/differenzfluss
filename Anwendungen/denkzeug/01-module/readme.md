@@ -62,6 +62,9 @@ Eine mögliche Struktur:
 8. **Werkzeugkarte**  
    Eine kurze, merkbare Formel für den Alltag.
 
+9. **Beziehungsrollen und Loyalität**  
+   Wie man merkt, ob eine Beziehung beim Wachsen hilft — oder einen in einer alten Rolle festhält
+
 ---
 
 ## Didaktisches Prinzip
