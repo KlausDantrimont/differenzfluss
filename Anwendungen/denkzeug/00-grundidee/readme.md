@@ -151,6 +151,7 @@ Sie brauchen Werkzeuge, um zu erkennen, wann Meinung durch Druck, Angst, Scham, 
 
 ---
 
+```
 00-grundidee/
   README.md
   01-grundformel.md
@@ -161,3 +162,5 @@ Sie brauchen Werkzeuge, um zu erkennen, wann Meinung durch Druck, Angst, Scham, 
   06-denkzeug-methode.md
   07-ki-rolle.md
   08-qualitaetskriterien.md
+  09-anschlussstellen-und-referenzen.md
+```
