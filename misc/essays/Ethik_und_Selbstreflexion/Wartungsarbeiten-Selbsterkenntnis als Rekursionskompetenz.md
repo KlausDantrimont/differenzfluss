@@ -1,23 +1,3 @@
-
-Rezept:
-
-Man nehme ein paar Fragen, zB: "Erkenne Dich selbst"
- - Was heißt das?
- - Wie soll das gehen?
- - Wozu soll das gut sein?
-
-Man verpasse einer KI seines Vertrauens die DFT-Brille.
-Zum Beispiel, indem man sie auf das hier verweist: https://github.com/KlausDantrimont/differenzfluss
-Dort findet sie erkenntnistheoretische Überlegungen, und ein Vokabular, aufbauend auf Paradox, Differenz und Rekursion.
-
-Dannn lasse man die KI ihr Weltwissen durch die Brille betrachten, und die Ergebnisse formulieren.
-
-Fertig.
-
-Bon Appetit
-
----
-
 # Selbsterkenntnis als Rekursionskompetenz
 
 ## Überlegungen zu einem Subjektmodell
