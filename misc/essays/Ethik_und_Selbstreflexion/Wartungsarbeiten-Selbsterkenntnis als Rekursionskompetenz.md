@@ -20,6 +20,8 @@ Bon Appetit
 
 # Selbsterkenntnis als Rekursionskompetenz
 
+## Überlegungen zu einem Subjektmodell
+
 ## Teil 1–2: Der alte Spruch und sein verborgenes Problem
 
 Es gibt Sätze, die so alt sind, dass man leicht vergisst, wie seltsam sie eigentlich sind.
