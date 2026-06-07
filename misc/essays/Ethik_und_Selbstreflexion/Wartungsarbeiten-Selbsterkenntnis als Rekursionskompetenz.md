@@ -217,7 +217,7 @@ Wer sagt: „In solchen Situationen springt bei mir zuverlässig Schleife X an�
 
 Damit wird Verantwortung nicht abgeschafft, sondern präziser. Man ist nicht einfach Opfer seiner Muster, aber man ist auch nicht deren souveräner Schöpfer aus dem Nichts. Man ist eher ein mitlaufendes, lernfähiges System, das gewisse Stabilitäten geerbt, trainiert, erlitten und verstärkt hat — und das unter bestimmten Bedingungen neue Stabilitäten aufbauen kann.
 
-Diese Sicht passt auch zu deiner wiederkehrenden Intuition, dass Erkenntnis tatsächlich etwas ändern kann, besonders wenn sie emotional gekoppelt ist. Aus DFT-Perspektive ist das sehr plausibel: Reine Beschreibung verändert ein System nur begrenzt. Aber wenn eine neue Unterscheidung mit Relevanz, Körpermarkierung und Handlungsmöglichkeit gekoppelt wird, kann sie eine bestehende Schleife umkonfigurieren oder zumindest abschwächen.
+Diese Sicht passt auch zur Intuition, dass Erkenntnis tatsächlich etwas ändern kann, besonders wenn sie emotional gekoppelt ist. Aus DFT-Perspektive ist das sehr plausibel: Reine Beschreibung verändert ein System nur begrenzt. Aber wenn eine neue Unterscheidung mit Relevanz, Körpermarkierung und Handlungsmöglichkeit gekoppelt wird, kann sie eine bestehende Schleife umkonfigurieren oder zumindest abschwächen.
 
 Erkenntnis ist dann nicht bloß Inhalt. Sie ist ein möglicher **Umschaltpunkt** im rekursiven System.
 
@@ -324,7 +324,7 @@ Ein häufiger Fehler ist, dass man einen Momentzustand (z.B. Angst) als „Wahrh
 Der DFT-Blick entdramatisiert:
 Es sind **Programme**, die sich bewährt haben, weil sie Stabilität liefern. Aber Programme können umgeschrieben werden — nicht beliebig, nicht sofort, nicht vollständig, aber real.
 
-Und hier kommt dein zweiter wichtiger Punkt ins Spiel: **Erkenntnis kann alles ändern** — vor allem dann, wenn sie an Motivation und Emotion gekoppelt ist.
+Und hier kommt der zweite wichtige Punkt ins Spiel: **Erkenntnis kann alles ändern** — vor allem dann, wenn sie an Motivation und Emotion gekoppelt ist.
 
 In einem rein kognitiven Modell klingt das übertrieben. In einem Rückkopplungsmodell ist es plausibel: Eine neue Unterscheidung kann einen ganzen Regelkreis umlenken, wenn sie:
 
@@ -558,7 +558,7 @@ Erklärung ersetzt Handlung.
 
 ## Balancer (DFT-kompatibel)
 
-Hier passen deine „Haltungsoperatoren“ perfekt als Gegenkräfte:
+Hier passen „Haltungsoperatoren“ als Gegenkräfte:
 
 * **Demut:** Ich erkenne, dass mein Modell begrenzt ist — also bleibe ich beweglich.
 * **Achtung:** Ich beobachte mich ohne Selbstverachtung.
