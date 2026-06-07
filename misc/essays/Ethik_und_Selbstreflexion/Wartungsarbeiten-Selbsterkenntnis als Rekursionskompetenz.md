@@ -307,7 +307,7 @@ Das ist oft der wahre Schlüssel. Nicht „was ist wahr?“, sondern: „was wir
 
 ## Langfristprogramme: Bewusstsein als Konfigurator
 
-Hier passt dein Gedanke vom Unterbewusstsein als Langfristprogramm-Manager sehr gut:
+Man kann sich das Unterbewusstsein als Langfristprogramm-Manager vorstellen:
 Das Bewusstsein fährt nicht die ganze Maschine. Es konfiguriert, priorisiert, setzt Rahmen — aber vieles läuft in längerfristigen Regelkreisen, die sich langsam ändern, außer wenn etwas wirklich einschlägt.
 
 Man kann sich das wie mehrere Schichten vorstellen:
