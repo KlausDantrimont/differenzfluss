@@ -44,7 +44,9 @@ Der Text zeigt, wie Metaphern als **dynamische Brücken zwischen Begriffsräumen
 ### 📄 *Ein kleines Handbuch zur psychischen Statik*
 Man findet sich vor, und fragt sich -  mit Begriffen.
 
-[Ein kleines Handbuch zur psychischen Statik.md](<Ein kleines Handbuch zur psychischen Statik.md>)
+"Kleines Handbuch zur psychischen Statik"  
+ist erhältlich als Buch.
+
 
 
 
