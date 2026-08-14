@@ -2,6 +2,8 @@
 
 ## Eine epistemische Zwischensprache für KI-Systeme
 
+Klaus Dantrimont 2026
+
 Künstliche Intelligenz kann erstaunlich gute Antworten geben.
 
 Sie kann analysieren, vergleichen, erklären, Hypothesen bilden, Szenarien entwickeln und Widersprüche finden. Trotzdem bleibt bei vielen dieser Leistungen etwas merkwürdig unsichtbar:

@@ -2,6 +2,8 @@
 
 ## An Epistemic Intermediate Language for AI Systems
 
+Klaus Dantrimont 2026
+
 Artificial intelligence can produce remarkably good answers.
 
 It can analyze, compare, explain, generate hypotheses, develop scenarios, and identify contradictions. Yet something remains strangely invisible in many of these achievements:
