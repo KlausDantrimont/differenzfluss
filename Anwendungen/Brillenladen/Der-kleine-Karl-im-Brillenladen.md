@@ -85,7 +85,7 @@ Er trug keine Brille.
 Der alte Mann betrachtete den Brillenhaufen auf Karls Nase.  
 „Und?“  
 Karl nahm die Brillen herunter.  
-„Ich glaube, es gibt keine beste.“  
+„Ich habe sie nicht gefunden, vielleicht gibt es keine beste.“  
 Der Mann nickte.  
 „Schade“, sagte Karl.  
 „Warum?“  
