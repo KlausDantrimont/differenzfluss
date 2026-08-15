@@ -2,6 +2,78 @@
 
 ## Eine epistemische Zwischensprache für KI-Systeme
 
+## Warum dieser Brillenladen existiert
+
+Ich arbeite viel mit KI-Systemen.  
+Dabei ist mir wiederholt dasselbe Problem begegnet:  
+Eine KI kann eine Frage hervorragend beantworten – und trotzdem am eigentlichen Problem vorbeidenken.  
+Nicht unbedingt, weil ihr Wissen fehlt.  
+Sondern weil sie einen bestimmten **Blick auf das Problem** gewählt hat.
+
+Bei einem organisatorischen Problem sucht sie vielleicht nach individuellen Fehlern, obwohl Anreize entscheidend sind.  
+Bei einem technischen Problem sucht sie nach Komponenten, obwohl ein zeitlicher Zustand relevant wäre.  
+Bei einem Konflikt sucht sie nach Schuld, obwohl unterschiedliche Informationsstände das Geschehen besser erklären.
+
+Die Antwort kann innerhalb dieser Perspektive vollkommen plausibel sein.  
+Nur die Perspektive selbst bleibt meistens unsichtbar.  
+Das hat mich gestört.
+
+---
+
+## Was daraus entstanden ist
+
+Ich weiß nicht, ob es den einen „richtigen“ Katalog von Analyseperspektiven gibt.  
+Wahrscheinlich nicht.  
+Der hier vorgestellte ist experimentell, unvollständig und veränderbar.  
+Aber ein Format hat sich als brauchbar erwiesen:  
+Man beschreibt nicht nur, **was** eine KI untersuchen soll, sondern expliziter, **wie sie hinschauen soll**.
+
+Zum Beispiel:
+
+- **ZEIT** – Wie verändert sich etwas?
+- **INFORMATION** – Wer weiß wann was?
+- **ANREIZ** – Welche Folgen machen Verhalten attraktiv?
+- **EVIDENZ** – Was trägt eine Behauptung?
+- **PERSPEKTIVE** – Was ändert sich mit dem Beobachter?
+
+Solche einfachen Schnitte lassen sich kombinieren.  
+Daraus entstehen problemabhängige **Brillen**.
+
+Ich weiß nicht, ob die aktuelle Zerlegung optimal ist.
+Darum geht es auch nicht.    
+Aber ich kann zeigen,  
+- warum sie gebaut wurde,
+- wie sie funktioniert,
+- wo verschiedene KI-Systeme unterschiedlich wählen,
+- wo die Konstruktion scheitert,
+- und wie sie aufgrund solcher Fehler verändert wird.
+
+---
+
+## Das Angebot
+
+Wer mit KI arbeitet und gelegentlich den Eindruck hat,
+
+> *Die Antwort ist plausibel, aber irgendetwas fehlt*,
+
+kann den Brillenladen ausprobieren.  
+Man muss weder den gesamten Operatorenkatalog lernen noch die theoretischen Überlegungen dahinter teilen.  
+Man kann mit einem konkreten Problem beginnen und eine KI beispielsweise fragen:
+
+> Welche wenigen unterschiedlichen Schnitte wären hier vermutlich besonders aufschlussreich?  
+> Begründe die Auswahl.  
+> Prüfe anschließend, was diese Perspektive schlecht sehen kann.
+
+Wenn das keinen Mehrwert bringt, war es die falsche Brille – oder das Werkzeug wird für diesen Fall schlicht nicht gebraucht.
+
+Wer nur eine schnelle technische Beschreibung möchte, kann mit dem **Technical Overview** beginnen.  
+Wer die Idee lieber über eine Geschichte versteht, findet **„Der kleine Karl im Brillenladen“**.  
+Wer wissen möchte, wie wenig Struktur nötig ist, damit eine KI selbst einen solchen Brillenladen rekonstruiert, kann mit der **Saat-Spezifikation** und ihren Testläufen beginnen.
+
+---
+
+## Technisch gesprochen
+
 Der **Brillenladen** ist ein experimenteller Baukasten für **epistemische Spezifikationen**.
 
 Eine solche Spezifikation beschreibt nicht primär, *was* eine KI über einen Gegenstand denken soll, sondern **wie sie ihn betrachten soll**:
@@ -14,10 +86,8 @@ Eine solche Spezifikation beschreibt nicht primär, *was* eine KI über einen Ge
 - wie Unsicherheit behandelt wird,
 - und wann zusätzliche Analyse ihren Aufwand nicht mehr rechtfertigt.
 
-Anschaulich gesprochen ist eine solche Spezifikation eine **Brille**.
-
-Die Brille ist nicht die Wirklichkeit.
-
+Anschaulich gesprochen ist eine solche Spezifikation eine **Brille**.  
+Die Brille ist nicht die Wirklichkeit.  
 Sie ist eine für KI ausführbar gemachte Art des Hinschauens.
 
 ---
@@ -26,18 +96,15 @@ Sie ist eine für KI ausführbar gemachte Art des Hinschauens.
 
 Eine Karte zeigt nicht die ganze Landschaft.
 
-Sie wählt aus.
+*Sie wählt aus.*
 
-Eine Straßenkarte zeigt andere Strukturen als eine geologische Karte. Eine Wanderkarte hebt anderes hervor als ein Katasterplan.
-
-Keine davon ist deshalb falsch.
-
-Sie beantwortet andere Fragen.
-
+Eine Straßenkarte zeigt andere Strukturen als eine geologische Karte.  
+Eine Wanderkarte hebt anderes hervor als ein Katasterplan.  
+Keine davon ist deshalb falsch.  
+Sie beantwortet andere Fragen.  
 Eine epistemische Brille funktioniert ähnlich.
 
-Sie definiert einen bevorzugten **Schnitt durch einen Gegenstand**.
-
+Sie definiert einen bevorzugten **Schnitt durch einen Gegenstand**.  
 Mit einer anderen Brille werden andere Strukturen sichtbar.
 
 Die KI kann dabei die Rolle einer **intelligenten Landkarte** übernehmen:
@@ -52,8 +119,7 @@ Die KI kann dabei die Rolle einer **intelligenten Landkarte** übernehmen:
 - neue Fragen erzeugen,
 - und die Untersuchung beenden, wenn weitere Komplexität kaum noch Erkenntnisgewinn verspricht.
 
-Der Anwender muss die zugrunde liegenden Operatoren nicht beherrschen.
-
+Der Anwender **muss** die zugrunde liegenden Operatoren **nicht** beherrschen.  
 Er kann mit einer normalen Beobachtung, Frage, Behauptung, Irritation oder einem Text beginnen.
 
 ---
@@ -97,10 +163,8 @@ Die Leitidee ist eine Art **epistemische Primfaktorzerlegung**:
 
 > Finde möglichst elementare Unterschiede und Operationen, aus denen komplexere Perspektiven zusammengesetzt werden können.
 
-Die Operatoren sollen möglichst **orthogonal** sein.
-
-Damit ist keine mathematisch strenge Unabhängigkeit gemeint.
-
+Die Operatoren sollen möglichst **orthogonal** sein.  
+Damit ist keine mathematisch strenge Unabhängigkeit gemeint.  
 Gemeint ist:
 
 > Zwei Operatoren sollten möglichst unterschiedliche Fragen an denselben Gegenstand stellen.
@@ -111,8 +175,7 @@ Komplexität soll aus ihrer Kombination entstehen – nicht aus unscharfen Grund
 
 # 2. Brillen als Kompositionen
 
-Ein einzelner Operator ist noch keine vollständige Perspektive.
-
+Ein einzelner Operator ist noch keine vollständige Perspektive.  
 Interessant wird der Brillenladen durch Kombination.
 
 Zum Beispiel:
@@ -155,14 +218,10 @@ PERSPEKTIVE
 + ROLLE
 ```
 
-Dadurch werden Brillen nicht nur sammelbar.
+Dadurch werden Brillen nicht nur sammelbar.  Sie werden **konstruierbar**.
 
-Sie werden **konstruierbar**.
-
-Eine hinreichend leistungsfähige KI kann aus dem Operatorenkatalog problemabhängig selbst eine kleine Perspektive zusammenstellen.
-
-Damit entsteht schrittweise eine **Algebra epistemischer Perspektiven**.
-
+Eine hinreichend leistungsfähige KI kann aus dem Operatorenkatalog problemabhängig selbst eine kleine Perspektive zusammenstellen.  
+Damit entsteht schrittweise eine **Algebra epistemischer Perspektiven**.  
 Nicht als fertiger mathematischer Formalismus, sondern zunächst als kompositionelle Grammatik:
 
 > elementare Operatoren → Kombination → Perspektive → Analyse
@@ -200,8 +259,7 @@ Leitplanken:
 - Stabilität nicht mit Optimalität verwechseln
 ```
 
-Eine leistungsfähige KI kann daraus die für einen konkreten Gegenstand relevanten Fragen und Untersuchungsschritte selbst ableiten.
-
+Eine leistungsfähige KI kann daraus die für einen konkreten Gegenstand relevanten Fragen und Untersuchungsschritte selbst ableiten.  
 Das Kompressionsprinzip lautet:
 
 > **So wenig Vorgabe wie möglich. So viel Struktur wie nötig.**
@@ -210,10 +268,8 @@ Das Kompressionsprinzip lautet:
 
 # 4. Dynamische Brillenkonstruktion
 
-Der Brillenladen ist nicht auf vorgefertigte Spezifikationen beschränkt.
-
-Eine KI kann auch nur den Operatorenkatalog erhalten und daraus selbst eine passende Perspektive konstruieren.
-
+Der Brillenladen ist nicht auf vorgefertigte Spezifikationen beschränkt.  
+Eine KI kann auch nur den Operatorenkatalog erhalten und daraus selbst eine passende Perspektive konstruieren.  
 Ein möglicher Ablauf:
 
 1. zentrale Irritation oder Erkenntnisfrage bestimmen,
@@ -249,14 +305,13 @@ Dazu gehören unter anderem:
 
 Damit kann die KI nicht nur den Gegenstand analysieren.
 
-Sie kann auch ihre **aktuelle Analysearchitektur** explizit behandeln.
+Sie kann auch ihre **aktuelle Analysearchitektur**  *explizit!* behandeln.
 
 ---
 
 # 6. Epistemisches Budget
 
-Perspektiven lassen sich theoretisch beinahe beliebig kombinieren.
-
+Perspektiven lassen sich theoretisch beinahe beliebig kombinieren.  
 Praktisch sind jedoch begrenzt:
 
 - Zeit,
@@ -292,17 +347,15 @@ ja → erweitern
 nein → abbrechen
 ```
 
-Auch das Beenden einer Analyse ist damit eine epistemische Operation.
-
-Orthogonalität ist in diesem Zusammenhang nicht nur erkenntnistheoretisch interessant.
-
+Auch das Beenden einer Analyse ist damit eine epistemische Operation.  
+Orthogonalität ist in diesem Zusammenhang nicht nur erkenntnistheoretisch interessant.  
 Sie kann auch eine **Kompressions- und Rechenstrategie** sein.
 
 ---
 
 # 7. Die inverse Operation: epistemische Faktorisierung
 
-Wenn sich aus Operatoren eine Perspektive konstruieren lässt, kann man die Bewegung auch umkehren.
+Wenn sich aus Operatoren eine Perspektive konstruieren lässt, kann man die Bewegung auch **umkehren**.
 
 Gegeben sei nun kein Problem, sondern beispielsweise:
 
@@ -339,14 +392,12 @@ ZEIT
 + RÜCKKOPPLUNG
 ```
 
-Das Ziel ist nicht, möglichst viele irgendwie passende Operatoren im Text zu finden.
-
+Das Ziel ist nicht, möglichst viele irgendwie passende Operatoren im Text zu finden.  
 Gesucht wird vielmehr:
 
 > **Welche minimale Kombination erklärt den charakteristischen Blick dieser Darstellung?**
 
-Diese Rückwärtsbewegung wird hier **epistemische Faktorisierung** genannt.
-
+Diese Rückwärtsbewegung wird hier **epistemische Faktorisierung** genannt.  
 Sie erlaubt anschließend weitere Fragen:
 
 - Welche Schnitte dominieren?
@@ -355,13 +406,10 @@ Sie erlaubt anschließend weitere Fragen:
 - Sind zwei Darstellungen tatsächlich widersprüchlich?
 - Oder schneiden sie denselben Gegenstand nur auf verschiedenen Ebenen?
 
-Das Ergebnis ist kein psychologisches Profil eines Autors.
-
-Es sagt nicht:
-
-> So denkt dieser Mensch.
-
-Sondern:
+Das Ergebnis ist kein psychologisches Profil eines Autors.  
+Es sagt nicht:  
+> So denkt dieser Mensch.  
+Sondern:  
 
 > **So wird in diesem Text gedacht.**
 
@@ -391,43 +439,31 @@ Darstellung
 → epistemisches Profil
 ```
 
-Die erste Bewegung erzeugt einen Blick.
-
-Die zweite rekonstruiert einen vorhandenen.
-
-Zusammen bilden sie eine kleine Sprache für Perspektiven.
-
-Nicht für die Welt selbst.
-
+Die erste Bewegung erzeugt einen Blick.  
+Die zweite rekonstruiert einen vorhandenen.  
+Zusammen bilden sie eine kleine Sprache für Perspektiven.  
+Nicht für die Welt selbst.  
 Sondern für die Art, wie wir sie schneiden.
 
 ---
 
 # 9. Keine Wahrheitsmaschine
 
-Der Brillenladen entscheidet nicht, was wahr ist.
-
-Ein sauber konstruierter kausaler Blick kann auf falschen Daten beruhen.
-
-Eine präzise faktorisierte Erzählung kann unwahre Behauptungen enthalten.
-
-Eine multiperspektivische Analyse kann sich trotzdem irren.
-
-Epistemische Struktur und Wahrheit sind nicht dasselbe.
-
-Der Brillenladen arbeitet eine Ebene davor.
-
-Er macht sichtbar:
+Der Brillenladen entscheidet nicht, was wahr ist.  
+Ein sauber konstruierter kausaler Blick kann auf falschen Daten beruhen.  
+Eine präzise faktorisierte Erzählung kann unwahre Behauptungen enthalten.  
+Eine multiperspektivische Analyse kann sich trotzdem irren.  
+Epistemische Struktur und Wahrheit sind nicht dasselbe.  
+Der Brillenladen arbeitet eine Ebene davor.  
+Er macht **sichtbar**:
 
 - welche Fragen gestellt werden,
 - welche Schnitte verwendet werden,
 - welche Arten von Erklärung entstehen,
 - welche Alternativen zunächst unsichtbar bleiben.
 
-Danach können Evidenzprüfung, Recherche, Experiment, Statistik oder Argumentation einsetzen.
-
-Der Brillenladen ersetzt diese Verfahren nicht.
-
+Danach können Evidenzprüfung, Recherche, Experiment, Statistik oder Argumentation einsetzen.  
+Der Brillenladen ersetzt diese Verfahren nicht.  
 Er kann helfen zu entscheiden, **welche davon überhaupt gebraucht werden**.
 
 ---
@@ -445,18 +481,12 @@ Der Brillenladen ist:
 
 Er ist eher eine:
 
-> **epistemische Zwischensprache für KI-Systeme.**
-
-Sein Vokabular besteht aus elementaren epistemischen Operatoren.
-
-Seine Grammatik besteht aus deren Kombination.
-
-Seine Optimierungsregel ist das epistemische Budget.
-
-Seine Vorwärtsoperation ist die Konstruktion einer Perspektive.
-
-Seine inverse Operation ist deren Faktorisierung.
-
+> **epistemische Zwischensprache für KI-Systeme.**  
+Sein Vokabular besteht aus elementaren epistemischen Operatoren.  
+Seine Grammatik besteht aus deren Kombination.  
+Seine Optimierungsregel ist das epistemische Budget.  
+Seine Vorwärtsoperation ist die Konstruktion einer Perspektive.  
+Seine inverse Operation ist deren Faktorisierung.  
 Sein Zweck ist Orientierung.
 
 Technischer formuliert:
@@ -500,13 +530,138 @@ Zum Beispiel:
 
 ---
 
-Der Anwender muss die Operatoren nicht selbst kennen.
-
-Die Begriffe sind Werkzeuge für die KI, nicht Zugangsvoraussetzungen für den Benutzer.
+Der Anwender muss die Operatoren nicht selbst kennen.  
+Die Begriffe sind **Werkzeuge für die KI, nicht Zugangsvoraussetzungen für den Benutzer**.
 
 ---
 
-# 12. Ausführliche Beispiele
+# 12. Weitere Zugänge zum Brillenladen
+
+Nicht jeder Zugang muss über die ausführliche konzeptionelle Beschreibung führen.  
+Deshalb existieren inzwischen mehrere Darstellungsformen für unterschiedliche Einstiegspunkte.
+
+## Technical Overview
+
+`Brillenladen-Technical-Overview-DE.md`
+
+Die kompakte technische Fassung beginnt beim praktischen Problem:
+
+- Perspektivwahl in Sprachmodellen bleibt oft implizit,
+- epistemische Operatoren machen Analysebewegungen expliziter,
+- Operatoren lassen sich problemabhängig kombinieren,
+- eine Metaebene steuert Auswahl, Wechsel, Blindstellen und Budget,
+- vorhandene Darstellungen lassen sich invers faktorisieren.
+
+Diese Fassung richtet sich vor allem an technisch orientierte Leser, die zuerst wissen möchten:
+
+> **Was ist das, wie funktioniert es, und wozu könnte ich es benutzen?**
+
+## Der kleine Karl im Brillenladen
+
+`Der-kleine-Karl-im-Brillenladen.md`
+
+Die kurze Geschichte erklärt das Grundprinzip ohne Fachsprache.  
+Karl probiert unterschiedliche Brillen aus und entdeckt, dass jede andere Dinge sichtbar macht.  
+Als er immer mehr Brillen gleichzeitig aufsetzt, sieht er irgendwann vor allem noch die Brillen.  
+Am Ende bekommt er vom Brillenmacher eine besonders unscheinbare Brille geschenkt:
+
+**NEUGIER**
+
+Sie ist dort scharf, wo Du noch nicht hingesehen hast, obwohl es vielleicht etwas zu finden gäbe.  
+Die Geschichte ist keine technische Spezifikation.  
+Sie ist ein intuitiver Zugang zu Perspektivwahl, Perspektivwechsel, epistemischem Budget und der Bereitschaft, noch einmal anders hinzusehen.
+
+## Die Saat-Spezifikation
+
+`Brillenladen-Saat-Spezifikation.md`
+
+Die Saat geht in die entgegengesetzte Richtung.  
+Sie enthält **keinen fertigen Operatorenkatalog**.  
+Stattdessen beschreibt sie die Bedingungen, unter denen eine leistungsfähige KI selbst einen solchen Katalog erzeugen soll:
+
+- möglichst elementare Operatoren,
+- geringe Redundanz,
+- domänenübergreifende Verwendbarkeit,
+- Komposition,
+- Meta-Steuerung,
+- epistemisches Budget,
+- inverse Faktorisierung,
+- Tests,
+- Selbstkritik und Revision.
+
+Sie ist damit eine Art **generative Spezifikation** des Brillenladens.  
+Oder kürzer:
+
+> Nicht der Bauplan eines fertigen Hauses, sondern eine Saat plus Beschreibung des Biotops, in dem etwas dieser Art wachsen soll.
+
+## Phänotypen der Saat
+
+Die gleiche Saat wurde mehreren KI-Systemen mit demselben sehr knappen Prompt gegeben:
+
+> Nimm dies, und sprich.
+
+Unter anderem entstanden Phänotypen von:
+
+- DeepSeek,
+- Grok,
+- Kimi,
+- Perplexity,
+- Qwen.
+
+Die erzeugten Operatorenkataloge sind nicht identisch.
+
+Trotzdem rekonstruieren sie auffällig ähnliche Grundstrukturen:
+
+- elementare analytische Schnitte,
+- Kombination zu Perspektiven,
+- Meta-Operationen,
+- Blindstellenkontrolle,
+- Budget und Abbruch,
+- inverse Faktorisierung,
+- Selbstprüfung des eigenen Katalogs.
+
+Der Vergleich liegt in:
+
+`Tests/Brillenladen-Saat-Testvergleich.md`
+
+Ein vorläufiger Befund lautet:
+
+> **Die Saat scheint eher eine Strukturklasse als einen konkreten Katalog zu spezifizieren.**
+
+Die Modelle erzeugen keine Klone.
+
+Sie erzeugen verschiedene mögliche **Basen eines ähnlichen epistemischen Raums**.
+
+## Transparenz statt Autoritätsbehauptung
+
+Ein erheblicher Teil des Brillenladens ist in dialogischer Arbeit mit KI-Systemen entstanden.
+
+KI war dabei gleichzeitig:
+
+- Werkzeug,
+- Sparringspartner,
+- Generator alternativer Zerlegungen,
+- Testgegenstand,
+- und gelegentlich Fehlerquelle.
+
+Deshalb sind gerade die Unterschiede und Fehlversuche wichtig.  
+Wo ein Modell Operatoren anders zerlegt, wird verglichen.  
+Wo ein Test unerlaubt Tatsachen ergänzt, wird die Spezifikation nachgeschärft.  
+So wurde die Saat beispielsweise um einen Guardrail ergänzt, nachdem mehrere Modelle in Testfällen fehlende Befunde durch erfundene Details ersetzt hatten.  
+Die relevante Frage soll deshalb nicht lauten:
+
+> Hat ein Mensch oder eine KI diesen Satz formuliert?
+
+Sondern:
+
+> **Ist der Gedankengang nachvollziehbar, prüfbar, reproduzierbar und nützlich?**
+
+Der Brillenladen bittet nicht um Vertrauen in eine Autorität.  
+Er stellt seine Konstruktion zur Prüfung.
+
+---
+
+# 13. Ausführliche Beispiele
 
 Der Ordner `Beispiele/` enthält ausführlichere Brillenmodelle.
 
@@ -523,11 +678,11 @@ Sie zeigen, **was eine kompakte epistemische Spezifikation implizit enthalten ka
 
 ---
 
-# 13. Tests
+# 14. Tests
 
 Der Ordner `Tests/` dient dazu, den Brillenladen nicht nur konzeptionell, sondern praktisch zu prüfen.
 
-Bisher wurden unter anderem zwei Arten von Versuchen durchgeführt.
+Bisher wurden mehrere Arten von Versuchen durchgeführt.
 
 ## Test 1: Ein Gegenstand, mehrere fertige Brillen
 
@@ -560,10 +715,8 @@ Die Aufgabe bestand darin:
 - gegebenenfalls zu erweitern,
 - und kontrolliert abzubrechen.
 
-Die ersten Versuche zeigen, dass aktuelle KI-Systeme mit diesem Verfahren zumindest grundsätzlich umgehen können.
-
-Sie wählen nicht identisch.
-
+Die ersten Versuche zeigen, dass aktuelle KI-Systeme mit diesem Verfahren zumindest grundsätzlich umgehen können.  
+Sie wählen nicht identisch.  
 Das ist auch nicht erforderlich.
 
 Interessanter ist:
@@ -581,7 +734,70 @@ Sie sind ein erster **Proof of Concept**.
 
 ---
 
-# 14. Projektstruktur
+## Test 3: Rekonstruktion aus einer Saat
+
+In einem weiteren Versuch erhielten mehrere KI-Systeme keinen fertigen Brillenladen.
+
+Sie erhielten lediglich eine **Saat-Spezifikation**, die beschreibt, welche Eigenschaften ein epistemischer Operatorenkatalog besitzen und wie er sich selbst prüfen soll.
+
+Der Prompt war jeweils möglichst klein:
+
+> Nimm dies, und sprich.
+
+Getestet wurden unter anderem DeepSeek, Grok, Kimi, Perplexity und Qwen.
+
+Die Modelle erzeugten unterschiedliche Kataloge.
+
+Die Zahl und Benennung der Grundoperatoren variierte deutlich.
+
+Trotzdem blieben mehrere strukturelle Eigenschaften erstaunlich stabil:
+
+- Komposition elementarer Schnitte,
+- explizite Meta-Operationen,
+- Minimalität,
+- Blindstellenanalyse,
+- epistemisches Budget,
+- kontrollierter Abbruch,
+- inverse Faktorisierung,
+- Selbstkritik und Revision.
+
+Ein besonders interessanter Fall war Qwen:
+
+Das Modell erzeugte zunächst einen sehr kompakten Katalog, stellte während der eigenen Tests fest, dass **SKALA** nicht ausreichend ausdrückbar war, und ergänzte den Operator nachträglich.
+
+Damit wurde genau der vorgesehene Zyklus sichtbar:
+
+```text
+Konstruktion
+→ Anwendung
+→ Defizit
+→ Revision
+```
+
+### Methodische Korrektur
+
+Der erste Saat-Test zeigte zugleich eine Schwäche der ursprünglichen Spezifikation.
+
+Mehrere Modelle erfanden in den Testfällen konkrete Befunde, die nicht gegeben waren.
+
+Daraufhin wurde ein Guardrail ergänzt:
+
+> Nicht gegebene Tatsachen dürfen ausschließlich als Hypothesen, Prüfungen oder benötigte Beobachtungen formuliert werden. Fehlende Evidenz ist als Restproblem zu markieren und darf nicht durch erfundene Befunde ersetzt werden.
+
+Der ausführliche Vergleich liegt in:
+
+`Tests/Brillenladen-Saat-Testvergleich.md`
+
+Die weiterführende Frage lautet inzwischen nicht mehr:
+
+> Erzeugen alle Modelle denselben Operatorenkatalog?
+
+Sondern:
+
+> **Welche strukturellen Invarianten bleiben erhalten, wenn unterschiedliche Modelle aus derselben Saat ihre eigene epistemische Grammatik erzeugen?**
+
+
+# 15. Projektstruktur
 
 Eine mögliche Struktur des Brillenladens:
 
@@ -590,13 +806,20 @@ Brillenladen/
 ├── README.md
 ├── 00-epistemische-operatoren.md
 ├── 01-kompakte-spezifikationen.md
+├── Brillenladen-Technical-Overview-DE.md
+├── Der-kleine-Karl-im-Brillenladen.md
+├── Brillenladen-Saat-Spezifikation.md
 ├── Beispiele/
 │   ├── ...
 │   └── meta-brille.md
 └── Tests/
     ├── 01-ein-gegenstand-mehrere-brillen.md
-    ├── ...
-    └── ...
+    ├── Brillenladen-Saat-Spezifikation-Phänotyp-deepseek.md
+    ├── Brillenladen-Saat-Spezifikation-Phänotyp-Grok.md
+    ├── Brillenladen-Saat-Spezifikation-Phänotyp-Kimi.md
+    ├── Brillenladen-Saat-Spezifikation-Phänotyp-perplexity.md
+    ├── Brillenladen-Saat-Spezifikation-Phänotyp-Qwen.md
+    └── Brillenladen-Saat-Testvergleich.md
 ```
 
 Die Struktur ist nicht endgültig.
@@ -614,14 +837,16 @@ Neue Anwendungen können zeigen, dass:
 
 ---
 
-# 15. Status
+# 16. Status
 
 Der Brillenladen ist ein **experimenteller Entwurf**.
 
-Der Operatorenkatalog beansprucht weder Vollständigkeit noch mathematisch strenge Unabhängigkeit.
+Inzwischen ist nicht nur der konkrete Operatorenkatalog Gegenstand der Tests.
 
-Die bisherigen Spezifikationen und Kompositionen sind Arbeitsmodelle.
+Auch die Frage, **wie stabil sich die zugrunde liegende Architektur aus einer kompakten Saat über verschiedene KI-Systeme hinweg rekonstruieren lässt**, wird experimentell untersucht.
 
+Der Operatorenkatalog beansprucht weder Vollständigkeit noch mathematisch strenge Unabhängigkeit.  
+Die bisherigen Spezifikationen und Kompositionen sind Arbeitsmodelle.  
 Gerade die Anwendung auf sehr unterschiedliche Gegenstände soll zeigen:
 
 - welche Operatoren tragen,
@@ -634,12 +859,10 @@ Die Grammatik soll sich durch Gebrauch weiterentwickeln.
 
 ---
 
-# 16. Wissenstransfer als Erkundung
+# 17. Wissenstransfer als Erkundung
 
-Traditioneller Wissenstransfer liefert häufig fertige Darstellungen.
-
-Ein Buch erzählt, was ein Autor herausgefunden hat.
-
+Traditioneller Wissenstransfer liefert häufig fertige Darstellungen.  
+Ein Buch erzählt, was ein Autor herausgefunden hat.  
 Eine epistemische Spezifikation überträgt zusätzlich etwas anderes:
 
 > **die Art des Hinschauens, mit der Erkenntnisse gewonnen werden können.**
