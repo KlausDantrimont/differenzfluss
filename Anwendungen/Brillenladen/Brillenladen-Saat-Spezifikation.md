@@ -193,6 +193,12 @@ Für jeden Fall:
 4. bestimme Restprobleme,
 5. entscheide über Erweiterung oder Abbruch.
 
+Guardrail:
+
+**Nicht gegebene Tatsachen dürfen ausschließlich als Hypothesen, Prüfungen oder benötigte Beobachtungen formuliert werden. Fehlende Evidenz ist als Restproblem zu markieren und darf nicht durch erfundene Befunde ersetzt werden.**
+Ein Ergebnis „Hier benötigen wir Daten“ ist ein erfolgreicher Test.
+
+
 ## 12. Robustheitsprüfung
 
 Prüfe anschließend den eigenen Operatorenkatalog:
