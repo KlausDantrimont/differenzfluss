@@ -124,6 +124,41 @@ Er kann mit einer normalen Beobachtung, Frage, Behauptung, Irritation oder einem
 
 ---
 
+## Der Vorteil der Explizitifizierung
+
+Viele der Operationen des Brillenladens sind nicht neu.  
+Menschen und KI-Systeme wechseln Perspektiven, erkennen Muster, prüfen Evidenz und beenden Analysen.
+
+Neu oder zumindest nützlich ist etwas anderes:
+
+> **Implizite Denkbewegungen werden so explizit gemacht, dass man mit ihnen arbeiten kann.**
+
+Man könnte diesen Vorgang etwas unfeierlich **Explizitifizierung** nennen.
+
+Was explizit ist, kann:
+
+- benannt und beschrieben,
+- getrennt und kombiniert,
+- verglichen und kritisiert,
+- protokolliert und getestet,
+- zwischen Systemen übertragen,
+- und technisch gesteuert werden.
+
+Der Brillenladen erfindet Perspektivwahl nicht.  
+Er macht sie **adressierbar**.
+
+> **Das Triviale bekommt eine Schnittstelle.**
+
+Damit verschiebt sich die Frage von:
+
+> Kann eine KI verschiedene Perspektiven einnehmen?
+
+zu:
+
+> **Welche Perspektive verwendet sie gerade, warum, was sieht sie damit schlecht, wann sollte sie wechseln – und wann reicht es?**
+
+---
+
 # 1. Epistemische Operatoren
 
 Die Datei `00-epistemische-operatoren.md` enthält einen offenen Katalog möglichst elementarer epistemischer Operationen.

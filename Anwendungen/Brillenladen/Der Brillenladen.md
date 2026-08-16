@@ -76,6 +76,50 @@ Aber keine ist die Situation selbst.
 
 ---
 
+## Der Vorteil der Explizitifizierung
+
+Viele der Operationen des Brillenladens sind für sich genommen nicht neu.  
+Menschen wechseln Perspektiven.  
+Experten erkennen Muster.  
+Analysen werden beendet, wenn weitere Arbeit kaum noch etwas bringt.  
+Texte bevorzugen bestimmte Arten von Erklärung.  
+KI-Systeme tun vieles davon ebenfalls.
+
+Der entscheidende Schritt liegt woanders:
+
+> **Etwas, das bisher implizit geschieht, wird so explizit gemacht, dass man damit arbeiten kann.**
+
+Man könnte diesen Vorgang etwas unfeierlich **Explizitifizierung** nennen.
+
+Was explizit ist, kann benannt, beschrieben, getrennt, kombiniert, verglichen, kritisiert, protokolliert und getestet werden.  
+Es kann zwischen Systemen übertragen und technisch gesteuert werden.
+
+Der Brillenladen erfindet Perspektivwahl nicht.  
+Er macht sie explizit.
+
+Er erfindet auch nicht den Perspektivwechsel, die Blindstelle, das Aufhören oder die Gegenprobe.  
+Er versucht, solche ohnehin stattfindenden Denkbewegungen **adressierbar** zu machen.
+
+> **Das Triviale bekommt eine Schnittstelle.**
+
+Damit verändert sich auch die Frage an KI-Systeme.
+
+Nicht nur:
+
+**Kann die KI verschiedene Perspektiven einnehmen?**
+
+Sondern:
+
+**Kann sie sichtbar machen, welche sie gewählt hat?**  
+**Kann sie begründen, warum?**  
+**Kann sie erkennen, wann die Perspektive nicht mehr trägt?**  
+**Kann sie eine andere wählen?**  
+**Kann sie aufhören?**
+
+Gerade darin liegt möglicherweise der praktische Wert der Explizitifizierung.
+
+---
+
 ## Epistemische Operatoren
 
 Der Brillenladen beginnt mit einer einfachen Idee:
