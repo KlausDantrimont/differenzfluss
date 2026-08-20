@@ -284,3 +284,6 @@ Der epistemische Linter bewacht nicht die Wahrheit.
 Er bewacht den **Einstieg in die Suche nach ihr**.
 
 Vielleicht ist das eine der sinnvolleren Aufgaben, die man einer intelligenten Maschine geben kann.
+
+
+
