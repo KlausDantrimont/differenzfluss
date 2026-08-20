@@ -2,13 +2,36 @@
 
 ---
 
-### **Heraklit:** *Alles fließ*t
+### **Heraklit:** *Alles fließt*
 
 **Aber wenn alles fließt, wie kann dann etwas stabil sein?**
 
 ---
 
+
+# Meine Arbeit ist Neugier
+
+Ich habe den Differenzfluss nicht ausgedacht und anschließend niedergeschrieben.  
+Er ist aus Fragen entstanden, aus Beobachtungen als Mensch, aus Erfahrungen als Softwareentwickler.
+
+Ungefragt in die Existenz geworfen, stellen sich mir Fragen.  
+Diese wollte ich nach Möglichkeit klären, vor dem ungefragten Rauswurf.
+
+Meine eigentliche Arbeit am Differenzfluss ist Neugier: etwas bemerken, nachfragen, einer Spur folgen, Unterschiede suchen, Widersprüche ernst nehmen und sehen, wohin das führt.
+
+KI-Systeme spielen dabei inzwischen eine wesentliche Rolle. Sie formulieren, strukturieren, widersprechen, vergleichen, erweitern und zeigen Anschlussstellen, die ich allein oft nicht oder wesentlich später gefunden hätte. Dadurch ist der Differenzfluss nicht allein mein Gedankengebäude.  
+**Er ist das Ergebnis eines gekoppelten Erkenntnisprozesses.**
+
+Von mir stammt die Saat.
+
+Ich erzeuge nicht jeden Satz selbst. Ich bestimme auch nicht im Voraus, wohin die Reise führt. Meine Rolle ist eher, die nächste interessante Frage zu erkennen – und zu entscheiden, welcher Spur es sich lohnt zu folgen.
+
+Vielleicht ist dieses Repository deshalb weniger das Archiv einer Theorie als das **Protokoll einer Erkundung**.
+
+---
+
 # Differenzfluss
+
 
 *Dieses Repository ist ein wachsendes Forschungsprojekt.
 Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum Prozess.*
