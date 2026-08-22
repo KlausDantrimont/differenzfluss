@@ -48,29 +48,20 @@ Eine überzeugende Anzeige kann falsch sein.
 Eine elegante Karte kann die falsche Küste zeigen.
 Eine klare Antwort kann aus einer schlechten Frage entstanden sein.
 
-Deshalb wird Fragen selbst zu einer Navigationskunst.
-
-Welche Richtung habe ich noch nicht betrachtet?
-
-Welche Annahme steckt in meiner Karte?
-
-Welche Grenze habe ich gezogen?
-
-Welche Perspektive fehlt?
-
-Was müsste ich beobachten, damit ich meinen Kurs ändere?
-
-So verstanden ist Erkenntnis keine Reise von Unwissen zu vollständigem Wissen.
-
+Deshalb wird Fragen selbst zu einer Navigationskunst.  
+Welche Richtung habe ich noch nicht betrachtet?  
+Welche Annahme steckt in meiner Karte?  
+Welche Grenze habe ich gezogen?  
+Welche Perspektive fehlt?  
+Was müsste ich beobachten, damit ich meinen Kurs ändere?  
+So verstanden ist Erkenntnis keine Reise von Unwissen zu vollständigem Wissen.  
 Sie ist fortgesetzte Orientierung.
 
-Vielleicht ist das der eigentliche Wandel:
-
-Nicht mehr der Gelehrte, der möglichst viel besitzt.
-
+Vielleicht ist das der eigentliche Wandel:  
+Nicht mehr der Gelehrte, der möglichst viel besitzt.  
 Sondern der Navigator, der sich in einem Raum bewegen kann, den er niemals vollständig überblickt.
 
-Das Bild darf dabei ruhig etwas mittelalterlich und etwas cyberpunkig sein.
+Ein Bild dazu darf dabei ruhig etwas mittelalterlich und etwas cyberpunkig sein.
 
 Holz, Tauwerk und Sterne.
 
