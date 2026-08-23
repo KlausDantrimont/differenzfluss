@@ -1275,18 +1275,6 @@ Und aus einer Sammlung von Dingen, die schlecht funktionieren, würde eine Theor
 
 ---
 
-# 16. Perspektive
-
-Sollte sich die Faktorisierung bewähren, ließe sich aus einer großen Sammlung benannter Kommunikationsprobleme ein kleines konstruktives Instrumentarium gewinnen:
-
-**beobachten → zerlegen → Operation erkennen → Dynamik prüfen → Gegenoperation bestimmen**
-
-Dann wäre die Liste der Antipatterns nicht mehr das eigentliche Modell.
-
-Sie wäre die sichtbare Oberfläche einer darunterliegenden Algebra.
-
-Und aus einer Sammlung von Dingen, die schlecht funktionieren, würde eine Theorie darüber, **wie kommunikative Systeme ihre Differenzierungs- und Lernfähigkeit verlieren – und wie sie wieder geöffnet werden kann.**
-
 
 * [Kommunikations-Antipatterns im Differenzfluss.md](<Kommunikations-Antipatterns im Differenzfluss.md>)
 
