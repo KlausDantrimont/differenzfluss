@@ -8,6 +8,10 @@
 
 ---
 
+Zen: Gehe aus der Wertung!
+
+---
+
 
 # Meine Arbeit ist Neugier
 
@@ -22,7 +26,8 @@ Meine eigentliche Arbeit am Differenzfluss ist Neugier: etwas bemerken, nachfrag
 KI-Systeme spielen dabei inzwischen eine wesentliche Rolle. Sie formulieren, strukturieren, widersprechen, vergleichen, erweitern und zeigen Anschlussstellen, die ich allein oft nicht oder wesentlich später gefunden hätte. Dadurch ist der Differenzfluss nicht allein mein Gedankengebäude.  
 **Er ist das Ergebnis eines gekoppelten Erkenntnisprozesses.**
 
-Von mir stammt die Saat.
+Von mir stammt die Saat.  
+Und ich jäte und trimme.
 
 Ich erzeuge nicht jeden Satz selbst. Ich bestimme auch nicht im Voraus, wohin die Reise führt. Meine Rolle ist eher, die nächste interessante Frage zu erkennen – und zu entscheiden, welcher Spur es sich lohnt zu folgen.
 
@@ -34,15 +39,15 @@ Vielleicht ist dieses Repository deshalb weniger das Archiv einer Theorie als da
 
 
 *Dieses Repository ist ein wachsendes Forschungsprojekt.
-Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum Prozess.*
+Manche Teile sind ausgereift, andere roh, manche humorvoll – alles gehört zum Prozess.  
+Ich spiele hier ernsthaft.  
+Welch ein Luxus.  
+Danke.*
 
-*bzw. sorry für die Unordnung*
+*Sorry für die Unordnung*
 
 **Willkommen im Fluss.**
 
----
-
-*Obacht: Die Welt ist mehr, als jede Beschreibung*
 
 ---
 
