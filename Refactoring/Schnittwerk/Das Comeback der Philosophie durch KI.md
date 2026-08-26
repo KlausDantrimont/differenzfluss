@@ -134,3 +134,10 @@ Vielleicht besteht sie darin, uns dabei zu helfen, **besser mit einer Maschine z
 Dann wäre KI keine Bedrohung für die Philosophie.
 
 Sie wäre ihre bislang größte neue Anwendungsplattform.
+
+---
+
+Wer wissen möchte, wie ich mir das konkret vorstelle:
+
+- [Schnittwerk](https://github.com/KlausDantrimont/differenzfluss/tree/main/Refactoring/Schnittwerk)
+
