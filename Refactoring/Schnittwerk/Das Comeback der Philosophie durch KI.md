@@ -86,24 +86,21 @@ Sondern:  Prüfe diesen Diskurs systematisch auf Kategorienfehler.
 Philosophische Konzepte könnten als epistemische Operatoren beschrieben werden!
 
 Als Perspektiven, Prüfungen und Transformationen, die Menschen und Maschinen gezielt auf Problemräume anwenden können.  
-Philosophie bekäme damit etwas, das sie bisher nur eingeschränkt hatte:
-
-**eine ausführbare Form.**
+Philosophie bekäme damit etwas, das sie bisher nur eingeschränkt hatte: **eine ausführbare Form.**
 
 ## Dafür braucht man Philosophen
 
 Es wäre ein Fehler, diese Arbeit allein den KI-Entwicklern zu überlassen.  
-Denn die Schwierigkeit liegt nicht nur in der Software.  
+Denn die Schwierigkeit liegt nicht nur in der Software.
 
-Die schwierigeren Fragen lauten:  
-
-Welche Unterscheidungen tragen?
-Welche Perspektiven sind voneinander unabhängig?
-Welche Begriffe werden häufig verwechselt?
-Welche Prüfungen gehören zusammen?
-Welche philosophischen Schulen liefern unterschiedliche, aber jeweils produktive Sichtweisen?
-Wo liegen die Grenzen einer Perspektive?
-Wann erzeugt eine Methode Erkenntnis – und wann nur den Eindruck davon?
+Die schwierigeren Fragen lauten:
+- Welche Unterscheidungen tragen?
+- Welche Perspektiven sind voneinander unabhängig?
+- Welche Begriffe werden häufig verwechselt?
+- Welche Prüfungen gehören zusammen?
+- Welche philosophischen Schulen liefern unterschiedliche, aber jeweils produktive Sichtweisen?
+- Wo liegen die Grenzen einer Perspektive?
+- Wann erzeugt eine Methode Erkenntnis – und wann nur den Eindruck davon?
 
 Das sind keine primär technischen Fragen.  
 Es sind philosophische.  
