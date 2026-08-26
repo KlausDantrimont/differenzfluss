@@ -74,25 +74,16 @@ Sie können zu Werkzeugen für KI-Systeme werden.
 
 Vielleicht entsteht daraus eine neue Form philosophischer Arbeit.
 
-Nicht nur:  
-> Was hat Kant über Erkenntnis gesagt?
+Nicht nur:  Was hat Kant über Erkenntnis gesagt?  
+Sondern:  Welche erkenntnistheoretische Unterscheidung aus Kant hilft bei diesem konkreten Problem?
 
-Sondern:  
-> Welche erkenntnistheoretische Unterscheidung aus Kant hilft bei diesem konkreten Problem?
+Nicht nur:  Was bedeutet Hermeneutik?  
+Sondern:  Wie müsste eine KI arbeiten, wenn sie eine hermeneutische Perspektive explizit einnehmen soll?
 
-Nicht nur:  
-> Was bedeutet Hermeneutik?
+Nicht nur: Was ist ein Kategorienfehler?  
+Sondern:  Prüfe diesen Diskurs systematisch auf Kategorienfehler.
 
-Sondern:  
-> Wie müsste eine KI arbeiten, wenn sie eine hermeneutische Perspektive explizit einnehmen soll?
-
-Nicht nur:  
-> Was ist ein Kategorienfehler?
-
-Sondern:  
-> Prüfe diesen Diskurs systematisch auf Kategorienfehler.
-
-Philosophische Konzepte könnten als epistemische Operatoren beschrieben werden.
+Philosophische Konzepte könnten als epistemische Operatoren beschrieben werden!
 
 Als Perspektiven, Prüfungen und Transformationen, die Menschen und Maschinen gezielt auf Problemräume anwenden können.  
 Philosophie bekäme damit etwas, das sie bisher nur eingeschränkt hatte:
