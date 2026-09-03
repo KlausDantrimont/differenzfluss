@@ -633,7 +633,201 @@ Brille, Perspektivwahl, Parallelperspektive, Restproblem, Blindstelle, Spannung,
 
 ---
 
-# 21. Verwendung
+# 21. Prinzip der Kompression
+
+Die Spezifikation soll nur enthalten, was die Ziel-KI **nicht zuverlässig aus dem Namen und den Kernbegriffen allein rekonstruieren sollte**.
+
+Insbesondere erhalten bleiben sollen:
+
+* charakteristische Leitfragen,
+* wichtige Unterscheidungen,
+* spezifische Denkoperationen,
+* epistemische Leitplanken.
+
+Der Rest darf der Intelligenz des ausführenden Systems überlassen werden.
+
+> **So wenig Vorgabe wie möglich.
+> So viel Struktur wie nötig.**
+
+---
+
+# 22. Strukturanalogie
+
+**Leitfrage**
+
+> Wo tritt dieselbe abstrakte Struktur oder Dynamik in einem anderen Gegenstandsbereich wieder auf – und was lässt sich daraus erkennen?
+
+**Operatoren**
+
+RELATION · RÜCKKOPPLUNG · SKALA · GRENZE · ZUSTAND · ÜBERGANG · EMERGENZ
+
+Je nach Gegenstand zusätzlich:
+
+ZEIT · SELEKTION · TRÄGER · IRREVERSIBILITÄT · INFORMATION
+
+**Kernkonzepte**
+
+Strukturprofil, Selbstähnlichkeit, strukturelle Entsprechung, Quellbereich, Zielbereich, Mapping, Invarianz, Domänendistanz, Fernanalogie, Bruchstelle, Transferhypothese
+
+**Bevorzugte Operationen**
+
+* Gegenstand zunächst innerhalb seiner eigenen Domäne verstehen
+* relevante Relationen, Grenzen, Rückkopplungen, Zustände und Übergänge bestimmen
+* daraus ein möglichst domänenneutrales Strukturprofil bilden
+* oberflächliche Bezeichnungen und gegenstandsspezifische Merkmale soweit möglich entfernen
+* in möglichst unterschiedlichen Domänen nach ähnlichen Strukturprofilen suchen
+* naheliegende und entfernte Analogien unterscheiden
+* Elemente, Relationen und Dynamiken zwischen den Bereichen explizit abbilden
+* bestimmen, welche Eigenschaften bei der Übertragung erhalten bleiben
+* aus der Analogie neue Fragen oder Hypothesen über den ursprünglichen Gegenstand ableiten
+* gezielt nach Stellen suchen, an denen die Analogie nicht mehr trägt
+* Analogien nach struktureller Passung, Domänendistanz und Erkenntnisgewinn vergleichen
+
+**Leitplanken**
+
+* sprachliche oder bildhafte Ähnlichkeit nicht mit struktureller Ähnlichkeit verwechseln
+* Analogie nicht mit Identität gleichsetzen
+* eine teilweise Entsprechung nicht zu einem vollständigen Isomorphismus erklären
+* Unterschiede zwischen Skalen, Randbedingungen und Kausalmechanismen erhalten
+* fehlende Entsprechungen nicht gewaltsam ergänzen
+* aus einer erfolgreichen Analogie keine unbelegte Tatsachenbehauptung ableiten
+* übertragene Eigenschaften als Hypothesen behandeln und am Zielgegenstand erneut prüfen
+* Bruchstellen nicht als bloßes Scheitern behandeln – sie können besonders informativ sein
+* entfernte Analogien bevorzugen, wenn sie zusätzlichen Erkenntnisgewinn liefern; Domänendistanz allein ist jedoch kein Qualitätsmerkmal
+
+---
+
+## Strukturprofil
+
+Für die Analogiesuche kann der Gegenstand zunächst in eine domänenneutrale Beschreibung überführt werden.
+
+Beispiel:
+
+```text
+GRENZE:
+selektiv durchlässig
+
+RELATION:
+viele lokale Akteure mit indirekter Kopplung
+
+RÜCKKOPPLUNG:
+lokale Verstärkung mit begrenzenden Schleifen
+
+SKALA:
+Mikrointeraktionen erzeugen Makromuster
+
+ÜBERGANG:
+graduelle Veränderung mit möglichen Schwellen
+
+STABILITÄT:
+dynamische Reproduktion statt statischer Erhaltung
+```
+
+Die konkrete Bezeichnung des Gegenstands soll dabei möglichst in den Hintergrund treten.
+
+Gesucht wird nicht:
+
+> Was sieht ähnlich aus?
+
+Sondern:
+
+> Was verhält sich strukturell ähnlich?
+
+---
+
+## Analogieprüfung
+
+Eine gefundene Analogie sollte mindestens entlang von vier Fragen geprüft werden:
+
+### Mapping
+
+> Was entspricht was?
+
+Elemente, Relationen, Zustände und Prozesse sollen explizit zugeordnet werden.
+
+### Erhaltung
+
+> Welche Struktur bleibt bei der Übertragung erhalten?
+
+Eine gute Analogie erhält relevante Relationen oder Dynamiken und nicht nur einzelne Eigenschaften.
+
+### Erkenntnisgewinn
+
+> Was lässt sich durch die fremde Struktur am ursprünglichen Gegenstand neu sehen?
+
+Eine Analogie ist epistemisch besonders wertvoll, wenn sie neue Fragen, Mechanismen, Variablen oder Handlungsmöglichkeiten sichtbar macht.
+
+### Bruchstelle
+
+> Wo funktioniert die Übertragung nicht mehr?
+
+Die Bruchstelle markiert die Grenze der Analogie und kann Unterschiede sichtbar machen, die zuvor übersehen wurden.
+
+---
+
+## Leitprinzip
+
+> **Abstrahiere die Struktur. Wechsle die Domäne. Prüfe, was erhalten bleibt.**
+
+Eine Strukturanalogie ist keine Erklärung und kein Beweis.
+
+Sie ist ein **Suchverfahren für mögliche strukturelle Verwandtschaften**.
+
+Ihr Wert liegt nicht darin, zwei Dinge gleichzusetzen, sondern darin, durch eine fremde Struktur Unterschiede, Zusammenhänge und Hypothesen sichtbar zu machen, die im ursprünglichen Gegenstandsbereich schwer zugänglich waren.
+
+---
+
+## RAHMENBRUCH
+
+> Was, wenn nicht nur die aktuelle Perspektive, sondern die Problemrepräsentation selbst ungeeignet ist?
+
+RAHMENBRUCH richtet sich auf den **Suchraum der Untersuchung**.
+
+Während BRILLENWECHSEL eine andere Perspektive auf denselben Gegenstand wählt und BLINDSTELLE nach dem sucht, was die aktuelle Perspektive strukturell schlecht sehen kann, stellt RAHMENBRUCH grundlegender infrage:
+
+> **Untersuchen wir überhaupt das richtige Problem in den richtigen Kategorien?**
+
+**Operationen**
+
+* zentrale Problemformulierung probeweise verwerfen
+* Systemgrenze radikal neu setzen
+* Gegenstand neu bestimmen
+* bisherige Zielgröße infrage stellen
+* grundlegende Kategorien auflösen oder ersetzen
+* prüfen, ob mehrere vermeintlich getrennte Probleme zusammengehören
+* prüfen, ob ein vermeintlich einheitliches Problem zerlegt werden muss
+* nach Voraussetzungen suchen, die von allen bisherigen Perspektiven stillschweigend geteilt werden
+* untersuchen, ob das Restproblem durch die verwendete Repräsentation selbst erzeugt wird
+* eine alternative Operatorenbasis oder Problemgrammatik suchen
+
+**Leitplanken**
+
+* Rahmenbruch nicht mit beliebigem Perspektivwechsel verwechseln
+* bestehende Problemrepräsentationen nicht ohne konkreten Anlass verwerfen
+* Inkohärenz nicht vorschnell als Hinweis auf einen falschen Rahmen interpretieren
+* neue Rahmen ebenfalls an Evidenz, Erklärungskraft und praktischer Brauchbarkeit prüfen
+* Rahmenbruch nicht als Flucht vor unangenehmen Gegenbelegen verwenden
+* einen erfolgreichen Rahmen nicht deshalb verwerfen, weil er unvollständig ist
+
+**Typische Auslöser**
+
+RAHMENBRUCH ist besonders relevant, wenn:
+
+* mehrere unterschiedliche Brillen am selben Restproblem scheitern,
+* zusätzliche Analyse kaum noch Erkenntnisgewinn erzeugt,
+* Widersprüche nur durch immer weitere Hilfsannahmen aufgelöst werden können,
+* zentrale Begriffe wiederholt unscharf oder widersprüchlich werden,
+* Interventionen auf Basis des aktuellen Modells systematisch unerwartete Wirkungen erzeugen,
+* ein Problem trotz wachsender Detailkenntnis nicht klarer wird.
+
+**Leitprinzip**
+
+> **Wenn die Suche trotz guter Werkzeuge festläuft, prüfe nicht nur die Werkzeuge – prüfe den Raum, in dem du suchst.**
+
+
+
+---
+# 24. Verwendung
 
 Eine kompakte Spezifikation kann direkt einer KI als Arbeitsgrundlage gegeben werden.
 
@@ -655,18 +849,3 @@ Die KI soll daraus selbstständig die relevanten Untersuchungsfragen ableiten.
 
 ---
 
-# 22. Prinzip der Kompression
-
-Die Spezifikation soll nur enthalten, was die Ziel-KI **nicht zuverlässig aus dem Namen und den Kernbegriffen allein rekonstruieren sollte**.
-
-Insbesondere erhalten bleiben sollen:
-
-* charakteristische Leitfragen,
-* wichtige Unterscheidungen,
-* spezifische Denkoperationen,
-* epistemische Leitplanken.
-
-Der Rest darf der Intelligenz des ausführenden Systems überlassen werden.
-
-> **So wenig Vorgabe wie möglich.
-> So viel Struktur wie nötig.**
