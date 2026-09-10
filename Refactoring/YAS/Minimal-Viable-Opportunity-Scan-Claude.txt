@@ -1,0 +1,79 @@
+Input: 
+- Capability Model.md
+- Problem-Radar.md
+- prompt: willst Du's mal versuchen, oder überfordere ich Dich? ;-)
+
+Claude:
+
+Versuchen wir's – live, nicht nur als Konzept. Ich fahre das jetzt tatsächlich als Minimal Viable Problem-Radar aus Abschnitt 16: echte Websuche gegen euer Fähigkeitsmodell, Modus Exploration, ein einzelner Durchlauf ohne Scheduler.
+
+Kurz zur Methode, bevor der Fund kommt: gut ein Dutzend Suchanfragen über fünf Domänen aus dem Fähigkeitsmodell (Datenintegration/Cloud, KI-Workflow-Unzufriedenheit, festgefahrene Architekturentscheidungen, Tribal-Knowledge-Verlust, ETL-Altsysteme/SSIS), dazu Volltextabruf der vielversprechendsten Threads. Nur eine Spur hat die Evidenzschwelle aus Abschnitt 16 („nur ausreichend belegte Kandidaten") wirklich erreicht – das ist selbst ein Ergebnis, dazu unten mehr.
+
+## Fund
+
+**Problem:**
+Microsoft-Fabric-Pipelines, die per Copy-Data-Aktivität in Lakehouse- oder Warehouse-Tabellen schreiben, produzieren wiederkehrend und nicht-deterministisch falsche Zeilenzahlen – mal doppelt, mal fehlend –, ohne dass sich die Ursache aus der Pipeline selbst ablesen lässt. Weder Betroffene noch der Microsoft-Support können in den dokumentierten Fällen regelmäßig eine eindeutige Ursache benennen; vorhandene „Lösungen" sind überwiegend inoffizielle Workarounds, keine strukturellen Fixes.
+
+**Quelle:**
+community.fabric.microsoft.com, Thread „QUESTION::PIPELINE::COPY DATA::DUPLICATE DATA COPY" (Original April 2025, Folgemeldungen bis März 2026), plus mehrere verwandte Threads im selben Forum und offizielle Microsoft-Learn-Dokumentation (Stand Mai 2026). Volle Liste unten als Links.
+
+**Beleg:**
+Der Ausgangsthread beschreibt eine stündlich laufende Pipeline, die wiederholt doppelte Zeilen schreibt, ohne erkennbares Muster bei Zeitpunkt oder Häufigkeit – obwohl die zugrunde liegende Kopierlogik auf einer einfachen, als deterministisch angenommenen ID-Sequenz beruht. Der Support räumte trotz offiziellem Ticket ein, dass die Konfiguration korrekt erschien und das Verhalten eher auf ein plattformseitiges Problem als auf einen Bedienfehler hindeutete. Als einzig funktionierender Workaround verblieb ein Skript, das der zuständige Microsoft-Produktmanager selbst ausdrücklich mit Warnhinweisen versah, weil es auf keiner offiziellen, dokumentierten Grundlage steht.
+
+Laut Zeitstempeln der Seite (nicht unabhängig verifizierbar) meldeten sich einige Monate später zwei weitere, unabhängige Nutzer im selben Thread mit strukturell ähnlichen Symptomen: einmal komplett doppelt geschriebene Datensätze mit nur Sekunden Abstand zwischen den Duplikaten, einmal 64,8 Millionen exakt duplizierte Zusatzdatensätze in einer sonst unveränderten Pipeline. Ein separater, von Microsofts eigenen Community-Betreuern bestätigter Thread beschreibt dieselbe Problemfamilie aus der Gegenrichtung – fehlende statt doppelte Zeilen durch verzögerte Lakehouse-Synchronisation – und wird dort ausdrücklich als bekanntes Problem im Metadaten-Synchronisationsprozess bezeichnet, dessen ursprünglich für Ende Juli zugesagter Fix auf September verschoben wurde. In einem weiteren Fall half am Ende nur, das Lakehouse zweimal umzubenennen, um Fabric zum Neuaufbau der Metadaten zu zwingen – ein klassisches Symptom für Reparatur statt Verständnis.
+
+Microsofts aktuelle offizielle Dokumentation bestätigt das Phänomen mittlerweile grundsätzlich: ein Hintergrundprozess synchronisiert Lakehouse-Änderungen zum SQL-Analytics-Endpoint, unter normalen Bedingungen in unter einer Minute, in bestimmten Situationen aber deutlich länger – ersetzt die kursierenden Community-Workarounds aber nicht durch eine strukturelle Lösung. Im Fabric-Ideas-Board liegt dazu ein offener Feature-Request mit Status „New", verbunden mit dem Wunsch nach einer Transaktionsoption, die explizit auf den Abschluss der Synchronisation wartet, statt dass Nutzer sich selbst darum kümmern müssen. Ein Fall vom März 2026 zeigt, dass verwandte Zugriffsprobleme weiter auftreten: Zugriff auf den SQL-Endpoint funktionierte zunächst, schlug dann nach einer Weile fehl – ein Muster, das eher auf Token-Refresh oder Autorisierung als auf Konfiguration hindeutet.**Betroffener:**
+Organisationen, die produktive Datenpipelines über Microsoft Fabric betreiben – konkret die Data-Engineering-Teams, die die Pipelines bauen und verantworten, mittelbar alle, die sich auf die daraus gespeisten Berichte verlassen.
+
+**Vermutete Ursache:**
+Kein einzelner Fehler, sondern ein Bündel struktureller Schwachstellen im Schreib-/Sync-Pfad von Fabric: (a) fehlende Idempotenz beim Copy-Data-Schreiben – keine Constraints auf Lakehouse-Tabellen, die Duplikate verhindern würden; (b) eine asynchrone Metadaten-Synchronisation zwischen Lakehouse und SQL-Analytics-Endpoint/Warehouse, gegen die Pipelines standardmäßig nicht absichern; (c) Edge Cases bei Paginierung/Schema-Mapping komplexerer Quellen. Alle drei sind in verschiedenen Threads belegt, aber nicht einheitlich – die Ursache ist fallabhängig, nicht eine einzige.
+
+**Passende Fähigkeiten:**
+Direkter Treffer, kein exploratives Matching nötig: „Daten und Datenintegration" nennt Azure Data Factory und Azure Synapse explizit als Werkzeuge – Fabric ist deren Nachfolge-/Vereinigungsplattform. „Ursachen schwer nachvollziehbarer Datenfehler lokalisieren" (3.1) trifft wörtlich zu, ebenso Ursachenanalyse (4.5): Symptom bekannt, Ursache unklar, mehrere plausible Erklärungen, lokale Reparaturen verschieben das Problem nur.
+
+**Mögliche Intervention:**
+Eine begrenzte, unabhängige Diagnose (geschätzt 2–4 Tage) an einer konkreten Fabric-Pipeline: Sync-/Schreibpfad rekonstruieren, aufgetretene Symptome den bekannten Fehlerklassen zuordnen, die kursierenden inoffiziellen Skript-Workarounds durch ein verifizierbares, idempotentes Schreibmuster ersetzen (Merge/Upsert auf Business-Key statt Append, expliziter Sync-Wait statt Trial-and-Error), plus ein kurzes schriftliches Modell, warum der Fehler auftrat und wie stabil die Lösung gegen künftige Fabric-Updates ist.
+
+**Möglicher Käufer:**
+Nicht identifiziert. Die Threads sind überwiegend pseudonym, keiner lässt sich verlässlich einer Organisation zuordnen. Plausibel, aber Hypothese: Data-Engineering-Leads oder BI-Verantwortliche in Unternehmen mit produktiver Fabric-Migration.
+
+**Warum möglicherweise wirtschaftlich relevant:**
+Stille Datenverdopplung oder fehlende Zeilen in Reporting-Tabellen führen typischerweise zu falschen Kennzahlen – oft unbemerkt, bis jemand eine Zahl hinterfragt. Dass mehrere unabhängige Organisationen über gut ein Jahr denselben Problemtyp melden und Microsoft einen Fix mehrfach verschoben hat, spricht für anhaltenden, nicht-trivialen Aufwand bei den Betroffenen. Harte Zahlen zu Kosten oder Umsatzeffekt liegen aber nicht vor – das ist Einschätzung, kein Beleg.
+
+**Bewertung:**
+
+| Dimension | Wert |
+|---|---|
+| Problemklarheit | 4/5 |
+| Evidenz | 5/5 |
+| Fähigkeitsfit | 5/5 |
+| Interventionsklarheit | 3/5 |
+| Wirtschaftliche Relevanz | 3/5 |
+| Käuferklarheit | 2/5 |
+| Zugänglichkeit | 3/5 |
+| Aktualität | 5/5 |
+| Neuigkeitswert | 4/5 |
+| Unsicherheit* | 2/5 |
+
+*\*Skala hier so gepolt, dass niedrig = wenig Interpretation/hohe Sicherheit, damit sie zu den anderen Dimensionen (hoch = gut) passt. Abschnitt 8 definiert die Richtung nicht eindeutig – evtl. was für v0.2.*
+
+**Unsicherheit:**
+Belegt: dass das Symptom real, wiederkehrend und aktuell ist, und dass Microsoft es teilweise offiziell bestätigt, ohne es strukturell zu lösen. Nicht belegt: welche konkrete Organisation gerade jetzt betroffen und zahlungsbereit wäre, wie hoch der tatsächliche Schaden im Einzelfall ist, und ob Microsoft das Problem in den nächsten Monaten doch noch strukturell löst – was den Bedarf an externer Diagnose reduzieren würde.
+
+**Nächster sinnvoller Schritt:**
+Quelle vertiefen (Ideas-Board und jüngste Threads auf Status-/Wortmeldungsänderungen beobachten) und kleine Analyse erstellen: die drei belegten Fehlerklassen plus idempotentes Zielmuster in einem kurzen, technisch präzisen Text zusammenfassen – als eigenständig nützliches Diagnosestück, unabhängig davon, ob daraus ein Auftrag wird. Ausdrücklich nicht: automatisierte Kontaktaufnahme (Abschnitt 11).
+
+**Epistemische Gegenprüfung (O10):** Beobachtet ist das Muster selbst – mehrfach, unabhängig, mit Zahlen/Screenshots belegt, teils von Microsoft bestätigt. Inferiert ist alles rund um Zahlungsbereitschaft und konkreten Käufer. Alternative Lesart: ein Nischenproblem für eine Minderheit der Fabric-Nutzer, die meisten kommen offenbar klar. Um den Bias „das Fähigkeitsmodell sieht überall ein passendes Problem" zu prüfen, habe ich bewusst vier weitere Domänen durchsucht, die zu keinem Fund geführt haben.
+
+### Was nicht funktioniert hat
+
+- **KI-Workflow-Unzufriedenheit:** reichlich Treffer, aber fast ausschließlich Marketing-/Thought-Leadership-Content von KI-Beratungen, der genau dieses Problem verkauft, statt eine konkrete betroffene Organisation zu zeigen.
+- **Festgefahrene Architekturentscheidung** (Monolith vs. Microservices etc.): viele generische Ratgeberartikel, kein aktueller Einzelfall mit erkennbarem Akteur.
+- **Tribal Knowledge / Wissensverlust:** reale, aber überwiegend ältere oder anekdotische Treffer (2014–2022), nichts aktuell genug.
+- **SSIS-Altsysteme mit sporadischen Fehlern:** strukturell ähnliches Muster wie der Fabric-Fund, aber ältere Threads mit meist banaleren Ursachen (Rechte, fehlende Dateien) – weniger echte Sackgasse.
+
+Das ist selbst ein kleines Ergebnis: generische Websuche (Modus A) findet vor allem redaktionellen/werblichen Content, der Schlagworte trifft, aber keinen „Betroffener beschreibt eigenes Problem"-Beleg. Die Treffer, die funktioniert haben, kamen aus strukturierten Support-/Community-Foren mit Ticket-Charakter und Zeitstempeln, nicht aus Reddit oder Hacker News – dort liefert die verfügbare Suche kaum Volltreffer auf Thread-Ebene. Für einen produktiven Betrieb spräche das für Modus B (gezielte Quellenbeobachtung, z. B. über Reddit-/HN-APIs) statt für Modus A allein.
+
+Zur Forschungsfrage aus Abschnitt 17: So ein Fund wäre über klassische Job- oder Keyword-Suche kaum auffindbar gewesen – niemand schreibt eine Stellenanzeige für „jemand soll unsere Dateninkonsistenzen in Fabric diagnostizieren". Er ist aber (noch) kein Auftrag, sondern ein gut belegter Kandidat mit unklarem Käufer – die „technisch plausibel, wirtschaftlich noch unklar"-Kategorie aus Abschnitt 9.
+
+Magst du, dass ich das vertiefe (z. B. die kleine Analyse wirklich schreibe), oder soll ich eine zweite Runde mit engerem Fokus fahren?

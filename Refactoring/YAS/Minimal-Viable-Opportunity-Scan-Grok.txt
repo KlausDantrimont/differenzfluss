@@ -1,0 +1,141 @@
+Input: 
+- Capability Model.md
+- Problem-Radar.md
+- prompt: willst Du's mal versuchen, oder überfordere ich Dich? ;-)
+
+Grok:
+
+**Ja, Versuch läuft.** Hier der erste **Minimal-Viable-Opportunity-Scan** (öffentliche Quellen, Stand ca. August 2026). Ich habe gezielt nach strukturellen Problemsignalen gesucht (Legacy-Rekonstruktion, Datenchaos, fehlendes Gesamtmodell, unzuverlässiger KI-Einsatz, festgefahrene Architektur-Entscheidungen) – nicht nach Stellenanzeigen oder reinen Keyword-Treffern.
+
+Die Evidenz ist überwiegend aus Fachartikeln, Fallbeschreibungen und Community-Diskussionen (HN, technische Blogs, StackExchange-ähnliche Quellen). Viele sind generalisierte Beobachtungen statt einzelner aktueller Posts mit klarem Ansprechpartner. Das ist für den ersten Test normal und wird in den Unsicherheiten markiert.
+
+### Fund 1 (hoher Fit)
+
+**Problem:**  
+Historisch gewachsene Datenintegrationsarchitektur mit fehlender Nachvollziehbarkeit: mehrere ETL-/Pipeline-Strecken, redundante oder widersprüchliche Transformationen, Ownership unklar, niemand kann erklären, warum bestimmte Daten doppelt oder inkonsistent landen.
+
+**Quelle:**  
+Mehrere aktuelle Analysen (u. a. DQOps 2024/25, Lumenalta 2026, EY zu Legacy-ETL, TechTarget zu AI-Druck auf Pipelines, Classic Informatics 2026). Typische Formulierungen: „Nobody Knows How It Works“, „key developers leave … no one knows how to fix it“, „undocumented business logic“, „pipeline debt“.
+
+**Beleg:**  
+„Sometimes, key developers leave the team, taking valuable knowledge … If something breaks, no one knows how to fix it.“ + wiederkehrende Beschreibung von Schema-Drift, silent failures und manuellen Workarounds.
+
+**Betroffener:**  
+Data-Engineering-Teams / Analytics-Leads in Unternehmen mit gewachsenen Data-Stacks (Warehouse + mehrere Quellen).
+
+**Vermutete Ursache (Hypothese):**  
+Inkrementelle Erweiterungen ohne explizite Architektur- und Ownership-Kontrolle; Wissen nur in Köpfen; fehlende Lineage und Tests.
+
+**Passende Fähigkeiten:**  
+Daten- und Datenintegration + Legacy-Rekonstruktion + Strukturdiagnose + Ursachenanalyse + Explizierung. Sehr guter Fit für „Rekonstruktion unbekannter Systeme“ und „historisch gewachsene Integrationsarchitekturen vereinfachen“.
+
+**Mögliche Intervention:**  
+2–4-tägige unabhängige Diagnose: Rekonstruktion der tatsächlichen Datenflüsse, Identifikation von Redundanzen/Widersprüchen/Ownership-Lücken, struktureller Problembericht mit priorisierten Handlungsoptionen (kein Rewrite-Plan, sondern klares Modell).
+
+**Möglicher Käufer:**  
+Head of Data / CTO / Data-Platform-Lead (Budget für Diagnose oft vorhanden, wenn operative Belastung hoch ist).
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+Wiederkehrende manuelle Fixes, verzögerte AI-/Analytics-Projekte, Risiko falscher Zahlen in Reports, hohe Wartungskosten.
+
+**Bewertung (0–5):**  
+Problemklarheit 4 | Evidenz 3–4 | Fähigkeitsfit 5 | Interventionsklarheit 5 | wirtschaftliche Relevanz 4 | Käuferklarheit 3 | Zugänglichkeit 2–3 | Aktualität 4 | Neuigkeitswert 3 | Unsicherheit 3
+
+**Unsicherheit:**  
+Keine einzelne aktuelle Organisation mit öffentlichem Hilferuf gefunden; Muster ist stark belegt, aber konkreter Ansprechpartner fehlt.
+
+**Nächster sinnvoller Schritt:**  
+Source Scan in r/dataengineering + gezielte Suche nach aktuellen „nobody understands our pipelines“-Posts; Organisation recherchieren, sobald konkreter Thread auftaucht.
+
+---
+
+### Fund 2 (sehr hoher Fit)
+
+**Problem:**  
+Legacy-System / Monolith, das noch funktioniert, aber kaum veränderbar ist: niemand versteht das Ganze, Angst vor Änderungen („afraid to touch“), Dokumentation und Realität divergieren, technisches Wissen erodiert.
+
+**Quelle:**  
+Zahlreiche 2025/26-Artikel und Fallstudien (Forbes, Taazaa, ScienceDirect zu Microservices-Debt, StackExchange-Diskussionen, Feathers-Definitionen in aktuellen Texten). Typische Signale: „spaghetti code with the framework that nobody knows“, „developers are afraid to change“, „knowledge erosion“.
+
+**Beleg:**  
+„The process of solving the problem is identical with the process of understanding its nature.“ + Berichte über Domino-Effekt-Angst und fehlende SMEs.
+
+**Betroffener:**  
+Engineering-Teams / CTOs mit 10–30 Jahre alten Kernsystemen (besonders regulierte Branchen oder erfolgreiche Scale-ups).
+
+**Vermutete Ursache (Hypothese):**  
+Historisches Wachstum + Personalfluktuation + fehlende explizite Architektur-Rekonstruktion.
+
+**Passende Fähigkeiten:**  
+Legacy-Systeme + Softwarearchitektur + Rekonstruktion unbekannter Systeme + Refactoring + Strukturdiagnose + Second Opinion. Kernstärke des Modells.
+
+**Mögliche Intervention:**  
+Begrenzte Legacy-Rekonstruktion + Architektur-Review: explizites Modell der tatsächlichen Struktur, Identifikation notwendiger vs. historischer Komplexität, risikoarme Refactoring-Optionen oder Strangler-Fig-Schritte.
+
+**Möglicher Käufer:**  
+CTO / VP Engineering / Architektenteam (besonders vor Modernisierungsentscheidungen).
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+Wartungskosten 60–80 % des IT-Budgets in vielen Organisationen; Modernisierungsrisiken und verpasste AI-/Feature-Geschwindigkeit.
+
+**Bewertung:**  
+Problemklarheit 5 | Evidenz 4 | Fähigkeitsfit 5 | Interventionsklarheit 5 | wirtschaftliche Relevanz 5 | Käuferklarheit 3 | Zugänglichkeit 2 | Aktualität 4 | Neuigkeitswert 3 | Unsicherheit 3
+
+**Unsicherheit:**  
+Viele generische Beschreibungen; konkrete, kontaktierbare Fälle selten öffentlich.
+
+**Nächster sinnvoller Schritt:**  
+Deep Dive in aktuelle HN-/Reddit-Threads zu „legacy modernization failure“ oder „afraid to touch the monolith“; nach Unternehmen suchen, die öffentlich über Modernisierungsstuckness sprechen.
+
+---
+
+### Fund 3 (guter Fit, KI-bezogen)
+
+**Problem:**  
+Unbefriedigender KI-Einsatz: LLM-/Agent-Workflows liefern inkonsistente oder oberflächliche Ergebnisse, erfordern massiv manuelle Nacharbeit, fehlende Prüf- und Feedbackschleifen, „80 prompts, zero evals“.
+
+**Quelle:**  
+HN-Diskussionen 2026, Blog-Posts (z. B. Enrico Teotti zu einem 80-Prompt-Pipeline-Desaster), arXiv- und Community-Berichte zu LLM-Zuverlässigkeit und Cognitive Debt durch AI-Coding.
+
+**Beleg:**  
+„By month five, operators were archiving 70-80% of the AI’s output.“ + wiederkehrende Klagen über fehlende Evals, Halluzinationen und dass Review länger dauert als selbst machen.
+
+**Betroffener:**  
+Teams, die KI in Produktionsworkflows (Dokumentenextraktion, Code-Generierung, Analyse) einsetzen.
+
+**Vermutete Ursache (Hypothese):**  
+Fehlende deklarative Spezifikation + fehlende diagnostische Feedback-Struktur + Behandlung von KI als „Textgenerator“ statt als strukturiertes Werkzeug.
+
+**Passende Fähigkeiten:**  
+KI-Workflow-Diagnose + deklarative KI-Spezifikationen + epistemische Analyse + Epistemischer Linter + Second Opinion. Sehr guter Match zu Abschnitt 7 des Fähigkeitsmodells.
+
+**Mögliche Intervention:**  
+KI-Workflow-Audit: Analyse der bestehenden Prompt-/Agent-Struktur, Explizierung von Anforderungen und Qualitätskriterien, Entwurf robusterer Prüfschleifen und ggf. kleiner Prototyp einer deklarativen Spezifikation.
+
+**Möglicher Käufer:**  
+Product-/Engineering-Lead, der den KI-Einsatz verantwortet und die manuelle Nacharbeit spürt.
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+Hohe versteckte Kosten durch Nacharbeit und unzuverlässige Outputs; viele Agent-Projekte werden laut Prognosen wieder eingestellt.
+
+**Bewertung:**  
+Problemklarheit 4 | Evidenz 4 | Fähigkeitsfit 5 | Interventionsklarheit 4 | wirtschaftliche Relevanz 4 | Käuferklarheit 3 | Zugänglichkeit 3 | Aktualität 5 | Neuigkeitswert 4 | Unsicherheit 2–3
+
+**Unsicherheit:**  
+Einige sehr konkrete Fallbeschreibungen vorhanden; Kontaktaufnahme oft über öffentliche Threads möglich.
+
+**Nächster sinnvoller Schritt:**  
+Source Scan auf HN und relevanten Subreddits zu aktuellen „LLM pipeline“ / „AI workflow reliability“-Threads; bei klarem Hilferuf Gespräch suchen.
+
+---
+
+### Kurzes Fazit des Scans
+
+- Die **typischen Problemsituationen** aus dem Capability Model (technische Sackgasse, historisch gewachsene Komplexität, niemand versteht das Ganze, Informations-/Datenchaos, unbefriedigender KI-Einsatz) sind in öffentlichen Quellen **sehr präsent**.
+- Konkrete, leicht erreichbare Einzelakteure mit „Wir haben genau dieses Problem und suchen Hilfe“ sind seltener – das ist der klassische Gap zwischen beobachtetem Problem und zahlungsbereitem Käufer.
+- Stärkster Fit: Legacy-Rekonstruktion + Datenintegrations-Diagnose + KI-Workflow-Audit.
+- Anti-Matching hat gegriffen: reine Implementierungs- oder Kapazitätsanfragen wurden ignoriert.
+
+Das ist der erwartete Output eines ersten MVP-Tests. Die zentrale Hypothese („Fähigkeiten finden ihre Probleme“) funktioniert auf Muster-Ebene gut; die Lücke liegt bei Zugänglichkeit und konkreter Käuferklarheit.
+
+Willst du, dass ich einen der Funds tiefer gehe (Deep Dive), einen Domain Scan (z. B. nur Datenarchitektur oder nur KI-Workflows) mache, oder gezielt in bestimmten Quellen (bestimmte Subreddits, HN) weiter suche? Oder soll ich das Ranking/Scoring anpassen?

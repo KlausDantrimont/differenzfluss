@@ -1,0 +1,312 @@
+Input: 
+- Capability Model.md
+- Problem-Radar.md
+- prompt: willst Du's mal versuchen, oder überfordere ich Dich? ;-)
+
+Kimi K3:
+
+ Na, ich bin gespannt. Lass mich das mal ernsthaft durchziehen – nach den Regeln aus deiner Spezifikation. Ich suche jetzt aktiv nach aktuellen Problemsignalen in öffentlichen Quellen und matche sie gegen dein Fähigkeitsmodell. Nicht nach Jobs, nicht nach Keywords – nach echten Problemen. 
+ Die ersten Treffer waren noch zu wenig „echte Problemsignale“. Ich suche jetzt gezielter in echten Community-Quellen – mit konkreten Problemformulierungen, nicht mit Marketing-Content.  
+  Gute erste Treffer – besonders der HN-Thread über Enterprise-Legacy und der SSIS-ETL-Fall sind vielversprechend. Ich vertiefe die vielversprechendsten Quellen und suche parallel nach weiteren aktuellen Signals.  
+   Sehr gut – der Enterprise-Legacy-Kommentar und der SSIS-Datenverlust sind konkrete Signals. Ich suche jetzt noch gezielter nach aktuellen, greifbaren Problemsituationen in verschiedenen Communities.   
+    Die Reddit-Suchen waren zu eng. Ich wechsle die Strategie und suche breiter nach konkreten Problemformulierungen – auch auf HN, Stack Overflow, LinkedIn und in deutschen Tech-Communities.    
+    Das sieht jetzt richtig gut aus. Ich habe mehrere hochrelevante Treffer – darunter ein S-level-ArXiv-Paper und einen aktuellen HN-Thread, der perfekt passt. Ich vertiefe die vielversprechendsten Quellen.    
+      Sehr gute Quellen. Ich mache noch eine abschließende Suche nach deutschsprachigen Signals und konkreten Datenintegrationsproblemen, dann strukturiere ich die Funds.       
+           Ich habe jetzt genug Material für einen ersten echten Durchlauf. Hier sind die Funds, strukturiert nach deiner Spezifikation – mit den 10 Analyseoperatoren, Bewertungen und epistemischer Gegenprüfung.
+
+---
+
+# Problem-Radar Durchlauf – Ergebnisse
+
+## Fund 1: Kumulative AI-Technical-Debt in Produktionscodebases
+
+**Problem:**  
+AI-Coding-Assistenten führen systematisch technische Schulden in Produktionsrepositories ein, die nicht schnell genug beseitigt werden. Die kumulative Menge ungelöster Issues wächst exponentiell und überfordert bestehende Review-Prozesse.
+
+**Quelle:**  
+ArXiv-Paper „Debt Behind the AI Boom“ (SMU/HUST, März 2026)  
+[https://arxiv.org/html/2603.28592v1](https://arxiv.org/html/2603.28592v1)  
+
+
+**Beleg:**  
+- 304.362 verifizierte AI-Commits aus 6.275 GitHub-Repos analysiert  
+- 484.606 identifizierte Issues (Code Smells 89,1%, Runtime Bugs 5,8%, Security Issues 5,1%)  
+- 24,2% der Issues überleben bis zum aktuellen HEAD  
+- Kumulatives Wachstum von wenigen Hundert (Anfang 2025) auf über 110.000 ungelöste Issues (Februar 2026)  
+- Alle 5 untersuchten Tools (Copilot, Claude, Cursor, Gemini, Devin) zeigen das gleiche Muster: >15% der Commits führen Issues ein
+
+**Betroffener:**  
+Open-Source-Maintainer, Enterprise-Engineering-Teams, CTOs von Unternehmen mit hohem AI-Coding-Adoption
+
+**Vermutete Ursache:**  
+- Over-Trust der Entwickler gegenüber AI-Output (bestätigt in anderen Studien)  
+- Review-Prozesse skalieren nicht mit der 3-4x höheren Code-Volume  
+- AI generiert lokal korrekten Code, der aber Architektur-Konventionen, Kontext und Sicherheitsimplikationen missachtet  
+- Code Smells werden übersehen, weil sie nicht sofort brechen
+
+**Passende Fähigkeiten:**  
+- KI-Workflow-Diagnose (7.3) – Audit bestehender AI-Einsatz, Aufgabenteilung Mensch/KI  
+- Softwarearchitektur (3.1) – Identifikation struktureller Schwächen, Kopplung  
+- Refactoring (4.3) – Systematische Reduktion von Duplikation und Inkonsistenz  
+- Epistemischer Audit (5.6, 6.4) – Blindstellenanalyse: Was kann im aktuellen Workflow nicht gesehen werden?  
+- Second Opinion (4.6) – Unabhängige Prüfung von AI-getriebenen Architekturentscheidungen
+
+**Mögliche Intervention:**  
+> „KI-Workflow-Audit: Analyse des bestehenden AI-gestützten Entwicklungsprozesses auf strukturelle Schwächen. Identifikation, welche AI-generierten Commits welche Issue-Kategorien einführen. Entwicklung einer robusteren Aufgaben-, Prüf- und Feedbackstruktur zwischen Mensch und KI. Ergebnis: Explizierter Prozess mit Qualitätsgates, der die Geschwindigkeit bewahrt und die Schuldenbildung reduziert.“
+
+**Möglicher Käufer:**  
+CTO, VP Engineering, Head of Platform Engineering in Unternehmen mit >50 Entwicklern und aktiver AI-Tool-Nutzung
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+- Gartner „Predicts 2026“: 75% der Unternehmen werden moderate bis schwere Technical Debt durch AI-Entwicklung haben  
+- Forrester: Wartungskosten im 2. Jahr 4x höher als bei traditioneller Entwicklung, wenn nicht aktiv gemanagt  
+- Security-Issues haben 41,1% Survival-Rate – latente Sicherheitsrisiken
+
+**Bewertung (0-5):**
+| Kriterium | Score |
+|---|---|
+| Problemklarheit | 5 |
+| Evidenz | 5 |
+| Fähigkeitsfit | 5 |
+| Interventionsklarheit | 4 |
+| Wirtschaftliche Relevanz | 5 |
+| Käuferklarheit | 4 |
+| Zugänglichkeit | 3 |
+| Aktualität | 5 |
+| Neuigkeitswert | 5 |
+| Unsicherheit | 2 |
+
+**Unsicherheit:**  
+- Daten stammen aus Open-Source-Repos (≥100 Stars); Enterprise-Private-Repos könnten anders aussehen  
+- Keine direkte Aussage über Zahlungsbereitschaft der betroffenen Unternehmen  
+- Die 110.000 Issues sind kumulativ über viele Repos verteilt – das Problem ist breit, aber nicht zentralisiert
+
+**Nächster sinnvoller Schritt:**  
+Quelle vertiefen + Organisationen recherchieren, die öffentlich AI-Coding-Tools einsetzen und gleichzeitig über Qualitätsprobleme berichten (z.B. auf HN, in Engineering-Blogs). Deep Dive in spezifische Repos mit hoher Issue-Dichte.
+
+---
+
+## Fund 2: Cognitive Debt – Verlust des Systemverständnisses durch AI-Assisted Development
+
+**Problem:**  
+Teams, die intensiv AI-Coding-Tools nutzen, verlieren das gemeinsame mentale Modell ihrer Systeme. Sie können nicht mehr erklären, warum bestimmte Designentscheidungen getroffen wurden oder wie Komponenten zusammenwirken. Das ist nicht Technical Debt im Code, sondern ein Verständnisdefizit in den Köpfen der Entwickler.
+
+**Quelle:**  
+Hacker News Diskussion „Accumulation of cognitive debt when using an AI assistant“ (Januar 2026)  
+[https://news.ycombinator.com/item?id=46712678](https://news.ycombinator.com/item?id=46712678)  
+
+
+Zusätzlich: Margaret-Anne Storey (University of Victoria), Februar 2026  
+
+
+**Beleg:**  
+- Storey beschreibt ein Studententeam: Woche 1-6 schnelle Fortschritte durch AI, ab Woche 7-8 „hit a wall“ – keine einfachen Änderungen mehr möglich ohne unerwartete Seiteneffekte  
+- HN-Kommentare bestätigen das Muster aus der Praxis: „I can feel my situational awareness slipping from my grasp“  
+- Ein HN-User berichtet: „The AI group scored 17% lower on conceptual understanding, debugging, and code reading“  
+- Weiterer Beleg aus HN: „developers can't even talk about the work they are vibe-coding on in a coherent way“
+
+**Betroffener:**  
+Software-Teams in Unternehmen mit hohem AI-Adoption, besonders bei Junior-lastigen Teams oder bei Managern, die „vibe coden“ und dann an Entwickler übergeben
+
+**Vermutete Ursache:**  
+- Shift von „Schreiben + Verstehen“ zu „Prompten + Reviewen“ eliminiert den kognitiven Verankerungsprozess  
+- AI-Output wird als black box akzeptiert; Designentscheidungen bleiben implizit  
+- Teams entwickeln kein gemeinsames mentales Modell mehr  
+- Das Problem ist strukturell, nicht technisch – es betrifft den Lern- und Verständnisprozess
+
+**Passende Fähigkeiten:**  
+- Epistemische Fähigkeiten (5.1-5.7) – Explizierung, Perspektivanalyse, Blindstellenanalyse  
+- Rekonstruktion unbekannter Systeme (4.2) – Aus fragmentiertem Wissen ein belastbares Modell erzeugen  
+- Schnittwerk / Brillenmodelle (6.1, 6.2) – Strukturierung von Problemräumen und Perspektiven  
+- KI als kognitives Werkzeug (7.1) – Nutzung von KI zur Diagnose statt zur Generierung  
+- Problem-Refactoring (4.3) – Die Frage „Was ist unser System?“ neu stellen
+
+**Mögliche Intervention:**  
+> „Epistemischer Audit des Entwicklungsteams: Diagnose des aktuellen Systemverständnisses. Rekonstruktion der impliziten Architektur und Designentscheidungen aus Code, Commits und Dokumentation. Erstellung eines expliziten, gemeinsamen Systemmodells. Entwicklung von Workflows, bei denen AI als Strukturspiegel und diagnostisches Werkzeug dient, nicht als Ersatz für Verständnis. Ergebnis: Wiederherstellung einer geteilten, prüfbaren Systemtheorie.“
+
+**Möglicher Käufer:**  
+Engineering Manager, Team Lead, CTO in Unternehmen, die AI-Coding-Tools flächendeckend eingeführt haben und nun Produktivitätseinbrüche beobachten
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+- Wenn ein Team kein System mehr versteht, kann es keine Bugs beheben, keine Features entwickeln, keine Security-Issues bewerten  
+- Das Problem ist irreversibel ohne externe Intervention – „the only way to repay cognitive debt is to re-read and re-comprehend the entire codebase“  
+- Betrifft direkt die Fähigkeit eines Unternehmens, sein Kerngeschäft weiterzuentwickeln
+
+**Bewertung (0-5):**
+| Kriterium | Score |
+|---|---|
+| Problemklarheit | 4 |
+| Evidenz | 4 |
+| Fähigkeitsfit | 5 |
+| Interventionsklarheit | 4 |
+| Wirtschaftliche Relevanz | 5 |
+| Käuferklarheit | 3 |
+| Zugänglichkeit | 3 |
+| Aktualität | 5 |
+| Neuigkeitswert | 5 |
+| Unsicherheit | 3 |
+
+**Unsicherheit:**  
+- „Cognitive Debt“ ist ein neues, noch nicht etabliertes Konzept – möglicherweise haben Unternehmen noch keinen Begriff dafür und erkennen das Problem nicht als solches  
+- Evidenz basiert auf akademischer Fallstudie (Storey) und anekdotischen HN-Berichten – keine großangelegte empirische Studie in Enterprise-Kontexten  
+- Käuferklarheit ist schwierig, weil das Problem nicht in Budgetposten abbildbar ist
+
+**Nächster sinnvoller Schritt:**  
+Weitere Quellen suchen, bei denen Enterprise-Teams explizit über „Wir verstehen unseren AI-generierten Code nicht mehr“ berichten. LinkedIn-Posts, Engineering-Blogs, Konferenztalks. Hypothese: Das Problem existiert, aber wird noch nicht so benannt.
+
+---
+
+## Fund 3: Enterprise-Legacy-Systeme mit ausscheidenden Originalentwicklern
+
+**Problem:**  
+Große Unternehmen betreiben extrem angepasste Software-Stacks, die seit 30 Jahren kaum verändert wurden. Die ursprünglichen Entwickler gehen in Rente oder kündigen. Neue Mitarbeiter wollen diese Systeme nicht lernen. Das Wissen stirbt aus, die Systeme können aber nicht einfach ersetzt werden.
+
+**Quelle:**  
+Hacker News Kommentar im Thread „Technical debt as a lack of understanding“ (November 2020, aber beschreibt ein dauerhaftes Strukturproblem)  
+[https://news.ycombinator.com/item?id=25008587](https://news.ycombinator.com/item?id=25008587)  
+
+
+**Beleg:**  
+> „I work in an huge enterprise. We have incredibly customized software and stacks that have not changed much for 30 years, because they did not need to. Now the people who wrote those stacks and who understand them are retiring/quitting. Kids coming out of school don't want to learn these systems, nor do people off the streets. You can only pay people to come out of retirement so many times to keep the plant running. [...] We really struggle to add new features/releases and add new software to drive revenue. The IT overhead that just goes into keeping the plant running every day is astounding.“
+
+**Betroffener:**  
+Große Enterprise-Unternehmen (Fertigung, Finanzen, Versicherungen, Telekommunikation) mit historisch gewachsenen, hochgradig individualisierten Systemen
+
+**Vermutete Ursache:**  
+- 30 Jahre kontinuierlicher Betrieb ohne strategische Modernisierung  
+- Wissen war in Köpfen der Originalentwickler verankert, nicht im Code oder in Dokumentation  
+- Neue Technologien und Karrieremuster machen Legacy-Systeme unattraktiv für Nachwuchs  
+- „Not invented here“-Anpassungen verhindern Migration auf Standardsoftware  
+- Kosten-Nutzen-Analyse für Re-Platforming ist unklar
+
+**Passende Fähigkeiten:**  
+- Legacy-Systeme (3.1) – Einstieg in unbekannte Systeme, Rekonstruktion historischer Strukturen  
+- Rekonstruktion unbekannter Systeme (4.2) – Implizite Regeln herausarbeiten, explizites Modell erzeugen  
+- Softwarearchitektur (3.1) – Analyse bestehender Architekturen, Systemgrenzen bestimmen  
+- Strukturdiagnose (4.1) – Unterscheidung notwendiger vs. historischer Komplexität  
+- Explizierung (5.1) – Überführung impliziten Wissens in adressierbare Repräsentation
+
+**Mögliche Intervention:**  
+> „Legacy-Rekonstruktion: Unabhängige Analyse des bestehenden Software-Stacks. Rekonstruktion der tatsächlichen Architektur, Datenflüsse und Abhängigkeiten. Erstellung eines belastbaren Modells, das auch für neue Entwickler verständlich ist. Identifikation von Risiken bei Änderungen und Entwicklung einer schrittweisen Modernisierungsstrategie, die bestehende Funktionalität erhält. Ergebnis: Ein dokumentiertes, verständliches Systemmodell als Basis für Wissenstransfer und gezieltes Refactoring.“
+
+**Möglicher Käufer:**  
+CTO, Head of IT, Plant Manager, Digital Transformation Lead in großen Industrieunternehmen
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+- „The IT overhead that just goes into keeping the plant running every day is astounding“ – direkte Kosten  
+- Unfähigkeit, neue Features zu liefern oder neue Software zu integrieren = Wettbewerbsnachteil  
+- Risiko des totalen Systemausfalls, wenn letzte Experten ausscheiden  
+- Regulatorische Risiken, wenn Systeme nicht mehr auditiert werden können
+
+**Bewertung (0-5):**
+| Kriterium | Score |
+|---|---|
+| Problemklarheit | 5 |
+| Evidenz | 4 |
+| Fähigkeitsfit | 5 |
+| Interventionsklarheit | 5 |
+| Wirtschaftliche Relevanz | 5 |
+| Käuferklarheit | 4 |
+| Zugänglichkeit | 3 |
+| Aktualität | 4 |
+| Neuigkeitswert | 3 |
+| Unsicherheit | 2 |
+
+**Unsicherheit:**  
+- Einzelkommentar ohne Identifikation des spezifischen Unternehmens  
+- Das Problem ist bekannt und wird teilweise von spezialisierten Legacy-Beratungen adressiert – aber die Kombination aus Rekonstruktion + epistemischer Modellbildung ist unterscheidend  
+- Zeithorizont: Das Problem besteht seit Jahrzehnten, ist aber akut durch den Rentenwellen-Effekt
+
+**Nächster sinnvoller Schritt:**  
+Weiter beobachten + gezielt nach Enterprise-Posts suchen, in denen ähnliche Problemsignale auftauchen (z.B. in r/sysadmin, r/cobol, spezialisierten Foren). Parallel: Recherche nach Branchen mit besonders hohem Legacy-Anteil (Versicherungen, Banken, Fertigung).
+
+---
+
+## Fund 4: SSIS-ETL-Pattern mit stillem Datenverlust in Data Warehouse
+
+**Problem:**  
+Ein etabliertes SSIS-ETL-Pattern zur inkrementellen Datensynchronisation zwischen Quell- und Zieldatenbank verliert aufgrund eines subtilen race condition-bedingten rowversion-Problems regelmäßig Datensätze. Die Datenbankkonfiguration kann nicht geändert werden, weil die BI-Abteilung weniger Gewicht hat als die Produktions-DBA-Team.
+
+**Quelle:**  
+Stack Overflow Frage (Februar 2025)  
+[https://stackoverflow.com/questions/58753307](https://stackoverflow.com/questions/58753307)  
+
+
+**Beleg:**  
+> „However lately we discovered despite running daily our import has actually missed rows from last month, leaving them out of our data warehouse entirely!“  
+> „The flaw seems to be related to the fact that the SQL column rowversion gets its value when an insert/update starts, not when it commits, which can lead to rows not being available at package execution time, but getting committed later with rowversion values less than your stored ETLRowversion value, so next time your job runs they get skipped.“  
+> „Unfortunately both change tracking and allow_snapshot_isolation are both OFF for the source database..and I am pessimistic about my chances of getting these features turned on. For better or worse our BI concerns carry far less weight than performance concerns of the production application/DB that is our source.“
+
+**Betroffener:**  
+BI-Team / Data Engineering-Team in einem Unternehmen mit getrennten DBA- und BI-Verantwortlichkeiten
+
+**Vermutete Ursache:**  
+- rowversion wird beim Transaktionsstart vergeben, nicht beim Commit  
+- ETL liest bis zur aktuellen max rowversion, aber später committete Transaktionen mit niedrigerer rowversion werden übersprungen  
+- Keine Snapshot-Isolation, kein Change Tracking verfügbar  
+- Organisatorische Machtstruktur verhindert technische Lösung auf DB-Ebene
+
+**Passende Fähigkeiten:**  
+- Daten und Datenintegration (3.1) – ETL, SSIS, SQL, Datenflüsse  
+- Ursachenanalyse (4.5) – Hypothesen bilden, Gegenhypothesen prüfen, Evidenz unterscheiden  
+- Problemzerlegung (4.4) – Trennung technischer und organisatorischer Dimension  
+- Perspektivanalyse (5.2) – DBA-Perspektive vs. BI-Perspektive sichtbar machen
+
+**Mögliche Intervention:**  
+> „Diagnose des ETL-Patterns und der Datenflüsse: Analyse des rowversion-Verhaltens unter Transaktionsbedingungen. Rekonstruktion der tatsächlichen Datenherkunft und Identifikation der Lücken. Entwicklung eines alternativen Inkrementalitätsmusters (z.B. zeitbasiert mit Überlappung, oder zusätzliche Validierungsschicht), das ohne DB-Konfigurationsänderung auskommt. Ergebnis: Ein robustes ETL-Pattern, das den Datenverlust eliminiert, plus Dokumentation der impliziten Annahmen des alten Patterns.“
+
+**Möglicher Käufer:**  
+BI-Teamleiter, Data Engineering Lead, oder der verantwortliche DBA (wenn das Problem eskaliert)
+
+**Warum möglicherweise wirtschaftlich relevant:**  
+- Stiller Datenverlust in einem Data Warehouse = falsche Business-Entscheidungen  
+- „missed rows from last month“ – historische Daten sind potenziell dauerhaft verloren oder müssen teuer nachgeladen werden  
+- Wiederkehrende manuelle Korrekturen oder komplette Re-Loads sind teuer
+
+**Bewertung (0-5):**
+| Kriterium | Score |
+|---|---|
+| Problemklarheit | 5 |
+| Evidenz | 5 |
+| Fähigkeitsfit | 4 |
+| Interventionsklarheit | 4 |
+| Wirtschaftliche Relevanz | 4 |
+| Käuferklarheit | 3 |
+| Zugänglichkeit | 2 |
+| Aktualität | 4 |
+| Neuigkeitswert | 3 |
+| Unsicherheit | 2 |
+
+**Unsicherheit:**  
+- Kein Kontakt zur Person möglich; Stack Overflow ist anonym  
+- Unklar, ob das Problem bereits gelöst wurde (Post ist vom Februar 2025)  
+- Die Intervention ist technisch klar, aber die organisatorische Blockade (DBA-Team) könnte extern nicht überwunden werden
+
+**Nächster sinnvoller Schritt:**  
+Ignorieren oder als Beispiel für ein wiederkehrendes Muster archivieren. Das spezifische Problem ist gut dokumentiert, aber der Akteur nicht erreichbar. Für zukünftige Scans: Nach ähnlichen SSIS/ETL-Problemen mit rowversion oder CDC-Problemen suchen.
+
+---
+
+## Zusammenfassung & Priorisierung
+
+| Fund | Problemklarheit | Fähigkeitsfit | Wirtschaftliche Relevanz | Gesamt-Eindruck |
+|---|---|---|---|---|
+| 1 – AI-Technical-Debt | 5 | 5 | 5 | **Höchste Priorität** |
+| 2 – Cognitive Debt | 4 | 5 | 5 | **Höchste Priorität** |
+| 3 – Enterprise Legacy | 5 | 5 | 5 | **Hohe Priorität** |
+| 4 – SSIS ETL Verlust | 5 | 4 | 4 | Mittlere Priorität |
+
+**Beobachtung zum Modell:**  
+Die Suche hat bestätigt, dass das zentrale Forschungsproblem von Problem-Radar greift: Die interessantesten Probleme (Cognitive Debt, AI-Technical-Debt als strukturelles Phänomen) werden nicht als „Jobs“ oder „Ausschreibungen“ formuliert, sondern als Diskussionen in Communities. Die Fähigkeitskombination aus technischer Architekturdiagnose + epistemischen Methoden + KI-Workflow-Verständnis hat einen ungewöhnlich guten Fit bei Fund 1 und 2 – ein Standard-Entwickler oder ein klassischer Berater würde hier anders intervenieren.
+
+**Exploratives Matching:**  
+Fund 2 (Cognitive Debt) ist ein Beispiel für exploratives Matching: Die epistemischen Werkzeuge (Schnittwerk, Brillenmodelle, Explizierung) wurden ursprünglich für Softwarearchitektur und Problemrefactoring entwickelt, sind aber direkt auf das neu entstehende Problem des Systemverständnis-Verlusts durch AI übertragbar. Die Übertragbarkeit ist Hypothese, aber die Quellen geben erste Evidenz.
+
+**Lernschleife:**  
+- Fund 1 und 2 sollten als „interessant“ markiert und weiter beobachtet werden  
+- Fund 3 ist ein bekannter Problemtyp, aber mit ungewöhnlich gutem Fit  
+- Fund 4 ist eher als archetypisches Beispiel für Datenintegrationschaos relevant
+
+---
+
+Soll ich einen der Funds vertiefen – z.B. den HN-Thread zu „cognitive debt“ noch weiter auslesen, oder gezielt nach Enterprise-Kontakten suchen, die öffentlich über AI-Code-Qualitätsprobleme berichten? Oder einen anderen Betriebsmodus starten (z.B. Domain Scan auf „KI in Unternehmen“)?

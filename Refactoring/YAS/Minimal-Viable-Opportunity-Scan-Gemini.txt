@@ -1,0 +1,34 @@
+Input: 
+- Capability Model.md
+- Problem-Radar.md
+- prompt: willst Du's mal versuchen, oder überfordere ich Dich? ;-)
+
+Gemini:
+
+Das Fähigkeitsmodell trifft exakt den Nerv komplexer System-Engpässe. Unter Anwendung des Minimal Viable Problem-Radars (Abschnitt 16) zeigen die folgenden zwei strukturierten Problemfunde die semantische Matching-Logik in der Praxis:
+
+**Fund 1: Undokumentierte Dateninkonsistenz nach Teilmigration**
+
+* **Problem:** Versteckte Redundanzen und fehlerhafte Aggregationen in einer historisch gewachsenen Datenintegrationsarchitektur (SSIS / SQL Server zu Azure Synapse).
+* **Signal (Quelle):** *„Seit dem partiellen Cloud-Umstieg weichen die Monatsabschlüsse in PowerBI regelmäßig von den SQL-Rohdaten ab. Niemand kann mehr nachvollziehen, welche Alt-Pakete noch schreibend zugreifen.“*
+* **Betroffener / Käufer:** Head of Data / Lead BI Architect.
+* **Vermutete Ursache:** Mangelndes Ownership-Modell; implizite historische Kopplungen wurden bei der Migration unreflektiert mitgezogen.
+* **Passende Fähigkeiten:** Data Warehousing, Rekonstruktion unbekannter Systeme, Ursachenanalyse, Schnittstellenanalyse.
+* **Mögliche Intervention:** *Legacy-Datenfluss-Diagnose (3–4 Tage):* Unabhängige Rekonstruktion der tatsächlichen Datenherkunft, Isolierung redundanter Schreibprozesse und Entwurf eines bereinigten Zielmodells.
+* **Bewertung:** Fit: 5/5 | Wirtschaftlichkeit: 4/5 | Käuferklarheit: 4/5 | Zugänglichkeit: 4/5
+
+---
+
+**Fund 2: Gescheiterter RAG-Einsatz auf unstrukturiertes Unternehmenswissen (Signal 2. Ordnung)**
+
+* **Problem:** Ein KI-Assistent halluziniert bei der Beantwortung interner Compliance-Fragen trotz moderner Vektor-Recherche (RAG).
+* **Signal (Quelle):** *„Wir haben 500 Seiten Handbücher in eine Vektordatenbank geladen, aber das System liefert bei komplexen Sonderfällen ständig widersprüchliche Anweisungen.“*
+* **Betroffener / Käufer:** CTO / Head of AI Initiatives.
+* **Vermutete Ursache (Hypothese):** Kein primär technisches Embedding-Problem, sondern ein epistemisches: Die Dokumente enthalten implizite Annahmen, Begriffsverwirrungen und widersprüchliche Systemgrenzen, die das LLM spiegelbildlich wiedergibt.
+* **Passende Fähigkeiten:** Epistemische Explizierung, Annahmen- & Widerspruchsanalyse, Deklarative KI-Spezifikationen.
+* **Mögliche Intervention:** *KI-Workflow-Audit & Epistemisches Refactoring:* Zerlegung des Handbuch-Wissens in explizite Regeln und Operatoren sowie Spezifikation eines KI-Linters zur Validierung der Antworten.
+* **Bewertung:** Fit: 5/5 | Wirtschaftlichkeit: 5/5 | Käuferklarheit: 3/5 | Zugänglichkeit: 3/5
+
+Das System sortiert reine Kapazitätsanfragen („Suchen C#-Entwickler für 12 Monate“) gemäß Abschnitt 15 (Anti-Matching) konsequent aus und priorisiert gezielt diagnostische Hürden mit hohem ROI.
+
+Welchen Modus (Exploration, Opportunity Scan oder Deep Dive) möchtest du als Nächstes an einem spezifischen Themenfeld testen?

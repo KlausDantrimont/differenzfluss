@@ -1,0 +1,81 @@
+Input: 
+- Capability Model.md
+- Problem-Radar.md
+- prompt: willst Du's mal versuchen, oder überfordere ich Dich? ;-)
+
+Qwen3.7-Plus:
+
+Herausforderung angenommen. Problem-Radar (Minimal Viable Mode) wird initialisiert...
+Fähigkeitsmodell geladen.
+Suchmodus: **Opportunity Scan** (Fokus: KI-Workflows, Datenpipelines, strukturelle Sackgassen).
+Scan öffentlicher Quellen (Reddit-Diskussionen, Tech-Blogs, LinkedIn-Reflexionen) abgeschlossen.
+
+Ich habe nicht nach Stellenanzeigen oder klassischen Aufträgen gesucht, sondern nach Situationen, in denen Akteure unter der Komplexität ihrer eigenen Systeme leiden. Hier ist ein hochrelevanter Fund, der exakt auf die Schnittstelle aus technischer Architektur, epistemischer Diagnose und KI-Workflow-Refactoring passt:
+
+***
+
+### Fund
+
+**Problem:**
+Die versteckten "Supervision Costs" und die strukturelle Brüchigkeit ("brittle mess") von KI-Agenten-Workflows in der Produktionsrealität.
+
+**Quelle:**
+Aktuelle Tech-Diskussionen (Reddit r/AI_Agents, r/LocalLLaMA, reflektiert auf LinkedIn/Dev.to, August 2025).
+
+**Beleg:**
+"The expensive part of an unreliable agent is not the API cost. It is the supervision cost." [[27]] / "Ask it for a data pipeline and you'll get a brittle mess." [[26]] / "If Your AI Agent Needs Babysitting, It Isn't Automation Yet." [[32]]
+
+**Betroffener:**
+CTOs, VP of Engineering, Lead AI Engineers und Product Owner, die KI-Agenten zur Automatisierung komplexer Workflows einführen, aber in der "Productivity Theater"-Falle landen.
+
+**Vermutete Ursache:**
+Vermischung probabilistischer LLM-Aktionen mit deterministischen Systemanforderungen. Fehlende Explizierung von Annahmen, fehlende Systemgrenzen und das Fehlen deklarativer Prüf- und Feedbackschleifen. Der Workflow verlässt sich auf die "Magie" des Modells statt auf eine robuste epistemische und technische Architektur.
+
+**Passende Fähigkeiten:**
+- **KI-Workflow-Diagnose (7.3):** Bestehenden KI-Einsatz untersuchen, schlechte Prompt-/Workflow-Strukturen erkennen.
+- **Deklarative KI-Spezifikationen (7.2):** Aufgaben, Regeln und Grenzen für die KI explizieren, statt nur prozedural zu prompten.
+- **Epistemische Fähigkeiten (5.1, 5.4):** Implizite Annahmen im Agenten-Design sichtbar machen (z.B. "Das Modell wird den Fehler schon selbst erkennen").
+- **Strukturdiagnose & Refactoring (4.1, 4.3):** Die "brittle pipeline" in unabhängige, überwachbare Teilprobleme zerlegen.
+
+**Mögliche Intervention:**
+*Zweitägiges KI-Workflow-Audit und Architektur-Refactoring.*
+- **Was wird getan?** Analyse des bestehenden Agenten-Workflows, Identifikation der "Supervision-Fallen" (wo muss der Mensch aktuell Babysitting betreiben?) und Rekonstruktion der Workflow-Struktur.
+- **Was erhält der Kunde?** Ein belastbares Modell seiner KI-Architektur, einen Katalog struktureller Schwachstellen (Epistemischer Linter) und den Entwurf einer robusteren Aufgaben-, Prüf- und Feedbackstruktur (z.B. durch deterministische Guardrails und deklarative Zustandsmaschinen).
+- **Eingriff:** Begrenzt, diagnostisch, architektonisch.
+- **Nutzen:** Drastische Reduktion der manuellen Nacharbeit ("Supervision Cost"), Erhöhung der Zuverlässigkeit, Übergang von "Babysitting" zu echter Automatisierung.
+
+**Möglicher Käufer:**
+CTO / Head of AI / Engineering Manager (Budgethalter und Entscheider, die unter den ineffizienten KI-Investitionen und der Frustration ihrer Teams leiden).
+
+**Warum möglicherweise wirtschaftlich relevant:**
+Die API-Kosten sind trivial im Vergleich zu den Personalkosten für das ständige Überwachen, Korrigieren und Reparieren der fragilen KI-Pipelines. Wenn ein Team 20% seiner Zeit mit "Babysitting" von Agenten verbringt, ist das ein massiver Geldverlust und operative Belastung.
+
+**Bewertung:**
+- Problemklarheit: 5/5
+- Evidenz: 4/5
+- Fähigkeitsfit: 5/5
+- Interventionsklarheit: 5/5
+- wirtschaftliche Relevanz: 5/5
+- Käuferklarheit: 4/5
+- Zugänglichkeit: 3/5
+- Aktualität: 5/5
+- Neuigkeitswert: 4/5
+- Unsicherheit: 3/5
+
+**Unsicherheit:**
+Wir wissen nicht, ob die spezifischen Akteure in den Threads bereits interne Taskforces gebildet haben oder ob sie eher nach dem "nächsten besseren Framework" suchen (Technologie-Bias) statt die strukturelle Architektur zu hinterfragen. Zudem ist die direkte Kontaktaufnahme über Reddit oft schwierig (Zugänglichkeit).
+
+**Nächster sinnvoller Schritt:**
+**Deep Dive & Prototyping.**
+1. Die typischen Fehlermuster aus den Diskussionen extrahieren.
+2. Einen "Epistemischen Linter für AI-Workflows" (z.B. als Checkliste oder kleines KI-Tool) als Prototyp bauen.
+3. Einen fundierten Artikel/Thread ("Why your AI Agent needs babysitting – and how to fix the architecture") verfassen, um als unabhängige Zweitmeinung (Second Opinion) organisch von den betroffenen Entscheidern gefunden zu werden (Inbound-Strategie statt kalter Akquise, vgl. Regel 11).
+
+***
+
+### Epistemische Gegenprüfung (O10)
+Habe ich hier nur ein Buzzword ("AI Agents") genommen und mein Fähigkeitsmodell darauf projiziert?
+*Nein.* Das Problem ist nicht die KI selbst, sondern die *architektonische und epistemische Vermischung* von probabilistischer Generation und deterministischer Systemlogik. Das erzeugt die "Supervision Cost". Genau hier greifen die Fähigkeiten zur Problemzerlegung (4.4), zum Refactoring (4.3) und zur Explizierung (5.1). Es handelt sich um ein strukturelles Problem, kein operatives Ticket-Problem.
+
+Überforderung? Keineswegs. Das System funktioniert.
+Soll ich in den **Deep Dive** Modus wechseln und die diskutierten Fehlermuster analysieren, um den "Epistemischen Linter für KI-Workflows" zu spezifizieren?
