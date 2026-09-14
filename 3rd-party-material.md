@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=TCLvGLA3WPM
 
 ---
 
-Nice video about lambda calculus and touring machines:
+Nice video about lambda calculus and turing machines:
 
 [Lambda Calculus vs. Turing Machines (Theory of Computation)](<https://www.youtube.com/watch?v=ruOnPmI_40g>)
 
