@@ -511,7 +511,7 @@ Apropos:
 - ["Buch der Räume" - über Freiheit im Differenzfluss](https://buchshop.bod.de/buch-der-raeume-klaus-dantrimont-9783759775467)\
   eine Einladung
   
-- [Kleines Handbuch zur psychischen Statik](https://buchshop.bod.de/kleines-handbuch-zur-psychischen-statik-klaus-dantrimont-9783695716647)\
+- [Kleines Handbuch zur psychischen Statik 2te Auflage](https://buchshop.bod.de/kleines-handbuch-zur-psychischen-statik-klaus-dantrimont-9783696762155)\
   Wie man sich als Wesen selbst verortet, ohne wahnsinnig zu bleiben
   
  erschienen bei BoD
