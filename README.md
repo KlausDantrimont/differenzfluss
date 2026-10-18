@@ -516,5 +516,11 @@ Apropos:
   
  erschienen bei BoD
 
+
+------------
+## Ein Spiel gefällig?
+- [Hexwars](./hexwars)
+
+
 ## kontakt
 mailto: klaus(dot)dantrimont(at)itnovation.de
