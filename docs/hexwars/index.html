@@ -30,7 +30,7 @@ button,select{font:inherit}button{cursor:pointer}button:disabled{opacity:.4;curs
 #message{min-height:39px;color:#dec998;font-size:12px;padding:13px 0 0}
 .controls{display:grid;grid-template-columns:1fr 1fr;gap:9px}.btn{min-height:38px;border:1px solid #63738470;border-radius:7px;background:linear-gradient(#3a4a5b,#303e4c);color:#e8eff3;font-size:12px;font-weight:600;transition:background .15s,border-color .15s}.btn:hover:not(:disabled){background:linear-gradient(#45586b,#394c5d);border-color:#94aabd77}.btn:active:not(:disabled){transform:translateY(1px)}.btn.primary{background:linear-gradient(#8b7656,#6c5a40);border-color:#e7c68b66;color:#fff5df}.btn.primary:hover:not(:disabled){background:linear-gradient(#a18a64,#766346)}
 #stats{display:flex;flex-direction:column;gap:10px}.team{display:grid;grid-template-columns:13px minmax(0,1fr) 42px 46px 37px;align-items:center;gap:8px;font-size:12px;padding:6px 0}.team:not(:last-child){border-bottom:1px solid #ffffff11}.team .name{font-weight:650;white-space:nowrap}.team .value{font-variant-numeric:tabular-nums;text-align:right;color:#c8d3db}.team .name small{color:#8696a3;font-size:9px;display:block;font-weight:500}.team.dead{opacity:.35}.stathead{display:grid;grid-template-columns:13px minmax(0,1fr) 42px 46px 37px;gap:8px;font-size:9px;color:#8495a3;text-transform:uppercase;letter-spacing:.07em;margin-top:-2px}
-.settings{display:grid;grid-template-columns:1fr 1fr;gap:10px}.setting-title{font-size:11px;color:#a6b5bf;margin-bottom:7px}select{width:100%;background:#273644;color:#e7f0f5;border:1px solid #65778973;border-radius:6px;padding:8px 6px;min-height:34px;font-size:11px}
+.setting-title{font-size:11px;color:#a6b5bf;margin-bottom:7px}select{width:100%;background:#273644;color:#e7f0f5;border:1px solid #65778973;border-radius:6px;padding:8px 6px;min-height:34px;font-size:11px}
 #hint{font-size:12px;color:#afbdc7;line-height:1.65;min-height:60px}#hint b{color:#e8ddc1;font-weight:650}
 .foot{font-size:10px;color:#8799a7;letter-spacing:.01em;line-height:1.8;margin-top:auto;padding-top:19px}.kbd{padding:2px 5px;border:1px solid #697b8980;border-radius:4px;color:#d6e0e8;font-family:Consolas,monospace;font-size:10px;background:#18212b}
 #startup{position:absolute;inset:0;z-index:5;display:flex;align-items:center;justify-content:center;background:#141c24ed;backdrop-filter:blur(9px);padding:24px;text-align:center}#startup.hidden{display:none}.loader-card{max-width:390px;padding:33px 29px;border-radius:14px;border:1px solid #637b8b6c;box-shadow:0 20px 75px #0008;background:linear-gradient(135deg,#263544,#1c2732)}.loader-mark{font-size:39px;color:#e3c481;margin-bottom:13px}.loader-card h2{font-size:18px;margin:0 0 9px;letter-spacing:.05em}.loader-card p{font-size:13px;line-height:1.6;color:#adbcca}.pulse{width:170px;height:3px;background:#fff2;margin:23px auto 0;border-radius:4px;overflow:hidden}.pulse:after{content:"";display:block;width:38%;height:100%;background:#dfc18a;animation:loading 1.8s ease-in-out infinite}@keyframes loading{0%{transform:translateX(-100%)}100%{transform:translateX(450%)}}
@@ -56,7 +56,7 @@ body.mini #app{grid-template-columns:minmax(0,1fr) 55px}body.mini #sidebar{paddi
 <div id="message">Engine wird initialisiert …</div>
 <div class="section"><div class="label">SPIELSTEUERUNG</div><div class="controls"><button class="btn primary" id="pause">Pause</button><button class="btn" id="step">Schritt</button><button class="btn" id="end">Zug beenden</button><button class="btn" id="reset">Wiederholen</button><button class="btn" id="prev">‹ Karte</button><button class="btn" id="next">Karte ›</button></div></div>
 <div class="section"><div class="label">PARTEIEN</div><div class="stathead"><span></span><span>Partei</span><span>EP</span><span>Trupp.</span><span>Städte</span></div><div id="stats"></div></div>
-<div class="section"><div class="label">DARSTELLUNG</div><div class="settings"><div><div class="setting-title">Landschaft · G</div><select id="terrainMode"><option value="gray">Grau</option><option value="color">Naturfarben</option></select></div><div><div class="setting-title">Textur · H</div><select id="detailMode"><option value="normal">Normal</option><option value="strong">Stark</option><option value="off">Aus</option></select></div></div></div>
+<div class="section"><div class="label">SPIELFELD</div><div class="setting-title">Kartengröße</div><select id="boardSize" aria-label="Kartengröße"><option value="7">7 × 7</option><option value="9">9 × 9</option><option value="11">11 × 11</option><option value="13">13 × 13</option><option value="15">15 × 15</option><option value="17">17 × 17</option><option value="19">19 × 19</option><option value="21">21 × 21</option></select></div>
 <div class="section"><div class="label">AUSWAHL</div><div id="hint">Klicke auf ein <b>farbiges Feld</b>, um deine Partei zu wählen.</div></div>
 <div class="foot"><span class="kbd">LEER</span> Pause &nbsp; <span class="kbd">N</span> Schritt &nbsp; <span class="kbd">E</span> Zugende<br><span class="kbd">Strg+R</span> Neustart &nbsp; <span class="kbd">+/−</span> Karte &nbsp; <span class="kbd">1–4</span> Tempo<br>Spielregeln und NeedAgent aus der Python-Version 1.15</div>
 </aside>
@@ -73,12 +73,12 @@ const mix=(hex,b,f)=>{let u=parseInt(hex.slice(1),16),v=parseInt(b.slice(1),16);
 const clamp=(x,a,b)=>Math.min(b,Math.max(a,x));
 const smooth=t=>t*t*(3-2*t);
 const stored=()=>{try{return JSON.parse(localStorage.getItem('hexwars.browser.settings')||'{}')}catch(_){return {}}};
-const settings={terrain:'gray',detail:'normal',seed:1,size:13,...stored()};
+const previous=stored();
+const settings={seed:Number.isInteger(previous.seed)?previous.seed:1,size:[7,9,11,13,15,17,19,21].includes(Number(previous.size))?Number(previous.size):13};
 function save(){try{localStorage.setItem('hexwars.browser.settings',JSON.stringify(settings));}catch(_){}}
-$('terrainMode').value=settings.terrain==='color'?'color':'gray';
-$('detailMode').value=['normal','strong','off'].includes(settings.detail)?settings.detail:'normal';
+$('boardSize').value=String(settings.size);
 let pyodide=null, pyCall=null, game=null, selected=-1,legal=[],paused=false,stepping=false,busy=false,animation=null,frame=0,aiDelay=300,lastAi=0;let note='';
-let dpr=1,W=1,H=1,radius=20,layout=[],noiseCanvas=null,noiseSignature='';
+let dpr=1,W=1,H=1,radius=20,layout=[];
 const SQ=Math.sqrt(3);
 function setNote(t){note=t;$('message').textContent=t;}
 function bridge(op, data={}){
@@ -107,37 +107,11 @@ function coords(){
 function resize(){
   const bounds=arena.getBoundingClientRect();W=Math.max(1,Math.round(bounds.width));H=Math.max(1,Math.round(bounds.height));
   dpr=Math.min(2,window.devicePixelRatio||1);canvas.width=Math.round(W*dpr);canvas.height=Math.round(H*dpr);
-  ctx.setTransform(dpr,0,0,dpr,0,0);coords();noiseSignature='';refreshNoise();render(performance.now());
+  ctx.setTransform(dpr,0,0,dpr,0,0);coords();render(performance.now());
 }
 function path(vertices){ctx.beginPath();ctx.moveTo(vertices[0][0],vertices[0][1]);for(let i=1;i<vertices.length;i++)ctx.lineTo(vertices[i][0],vertices[i][1]);ctx.closePath();}
 function pointInPoly(px,py,verts){let inside=false;for(let i=0,j=verts.length-1;i<verts.length;j=i++){const a=verts[i],b=verts[j];if((a[1]>py)!==(b[1]>py) && px<(b[0]-a[0])*(py-a[1])/(b[1]-a[1])+a[0])inside=!inside;}return inside;}
 function cellAt(x,y){for(let i=0;i<layout.length;i++){let p=layout[i];if(Math.abs(x-p.x)>radius || Math.abs(y-p.y)>radius)continue;if(pointInPoly(x,y,p.poly))return i;}return -1;}
-function h2(x,y,s){let z=(Math.imul(x^s,374761393)+Math.imul(y^s,668265263))|0;z=Math.imul(z^(z>>>13),1274126177);return ((z^(z>>>16))>>>0)/4294967295;}
-function vnoise(x,y,seed){const ix=Math.floor(x),iy=Math.floor(y),fx=smooth(x-ix),fy=smooth(y-iy);return (h2(ix,iy,seed)*(1-fx)+h2(ix+1,iy,seed)*fx)*(1-fy)+(h2(ix,iy+1,seed)*(1-fx)+h2(ix+1,iy+1,seed)*fx)*fy;}
-function refreshNoise(){
-  if(!game)return;
-  const signature=[game.seed,game.width,game.height,W,H,settings.terrain,settings.detail].join(':');if(signature===noiseSignature)return;
-  noiseSignature=signature;const w=Math.max(160,Math.round(W*.56)),h=Math.max(140,Math.round(H*.56));
-  noiseCanvas=document.createElement('canvas');noiseCanvas.width=w;noiseCanvas.height=h;
-  const nc=noiseCanvas.getContext('2d');let id=nc.createImageData(w,h),dat=id.data;
-  const nx=game.width*1.414,ny=game.height*1.414;
-  const detailStrength=({off:0,normal:13,strong:25})[settings.detail]||0;
-  for(let y=0;y<h;y++)for(let x=0;x<w;x++){
-    const a=x/w,b=y/h,S=game.seed|0;
-    const broad=vnoise(a*nx/3.8,b*ny/3.8,S+1103),mid=vnoise(a*nx/1.7,b*ny/1.7,S+1907);
-    const tiny=vnoise(a*nx/.98,b*ny/.98,S+2609),fine=vnoise(a*nx/.44,b*ny/.44,S+3251);
-    let level=clamp(.78*broad+.16*mid+.06*tiny,0,1);level=smooth(clamp((level-.36)/.28,0,1));
-    const noise=(fine-.5)*detailStrength +(tiny-.5)*detailStrength*.44;
-    const idx=(y*w+x)*4;
-    if(settings.terrain==='gray'){
-      let g=clamp(Math.round(107+level*79+noise),0,255);dat[idx]=dat[idx+1]=dat[idx+2]=g;
-    }else{
-      for(let k=0;k<3;k++){const low=[110,136,97],high=[190,180,129];dat[idx+k]=clamp(Math.round(low[k]*(1-level)+high[k]*level+noise),0,255);}
-    }
-    dat[idx+3]=255;
-  }
-  nc.putImageData(id,0,0);
-}
 function paintTile(cell,g,i){
   const [owner,water,city,cap,port]=cell;
   const base=owner==null?'#89918c':colors[owner],foot=g.poly,top=g.top;
@@ -148,12 +122,7 @@ function paintTile(cell,g,i){
   }
   ctx.save();path(top);ctx.clip();
   if(water){ctx.fillStyle='#88aabf';ctx.fillRect(g.x-radius,g.y-radius,radius*2,radius*2);}
-  else{
-    const x=Math.max(0,Math.floor(g.x-radius)),y=Math.max(0,Math.floor(g.y-radius));
-    const x2=Math.min(W,Math.ceil(g.x+radius)),y2=Math.min(H,Math.ceil(g.y+radius));
-    if(noiseCanvas && x2>x && y2>y)ctx.drawImage(noiseCanvas,x/W*noiseCanvas.width,y/H*noiseCanvas.height,(x2-x)/W*noiseCanvas.width,(y2-y)/H*noiseCanvas.height,x,y,x2-x,y2-y);
-    ctx.fillStyle=owner==null?'rgba(168,177,174,.06)':rgba(colors[owner],.67);ctx.fillRect(g.x-radius,g.y-radius,radius*2,radius*2);
-  }
+  else{ctx.fillStyle=owner==null?'#b4b194':mix('#b4b194',colors[owner],.77);ctx.fillRect(g.x-radius,g.y-radius,radius*2,radius*2);}
   if(legal.includes(i) && i!==selected){ctx.fillStyle='rgba(245,252,230,.28)';ctx.fillRect(g.x-radius,g.y-radius,radius*2,radius*2);}
   if(i===selected){ctx.fillStyle='rgba(255,230,153,.43)';ctx.fillRect(g.x-radius,g.y-radius,radius*2,radius*2);}
   ctx.restore();
@@ -233,7 +202,7 @@ function actResult(response){
 }
 function reset(seed=game?.seed??settings.seed){if(!pyCall||busy)return;busy=true;try{
     const result=bridge('reset',{seed,size:settings.size});game=result.state;settings.seed=seed;save();animation=null;selected=-1;legal=[];paused=false;stepping=false;lastAi=0;
-    coords();noiseSignature='';refreshNoise();setNote('Wähle deine Partei mit einem Klick auf ein farbiges Feld.');updateUI();
+    coords();setNote('Wähle deine Partei mit einem Klick auf ein farbiges Feld.');updateUI();
   }catch(err){setNote('Fehler: '+err.message);}finally{busy=false;}}
 function clickBoard(event){
   if(!game||busy||animation||game.winner!=null)return;
@@ -259,15 +228,17 @@ function aiStep(ts){
 function loop(t){render(t);aiStep(t);frame=requestAnimationFrame(loop);}
 function togglePause(){paused=!paused;stepping=false;updateUI();}
 function step(){if(!paused){paused=true;}stepping=true;updateUI();}
-function changeTerrain(value){settings.terrain=value;save();noiseSignature='';refreshNoise();setNote(value==='gray'?'Graue Landschaft aktiviert.':'Naturfarbene Landschaft aktiviert.');}
-function changeDetail(value){settings.detail=value;save();noiseSignature='';refreshNoise();setNote('Feinstruktur: '+({normal:'normal',strong:'stark',off:'aus'})[value]);}
 canvas.addEventListener('pointerdown',clickBoard);
 $('pause').onclick=togglePause;$('step').onclick=step;
 $('end').onclick=()=>{if(game?.human==null||busy||animation)return;try{actResult(bridge('end'));}catch(e){setNote(e.message)}};
 $('reset').onclick=()=>{if(game && window.confirm('Aktuelles Spiel wirklich neu starten? Der Spielstand geht verloren.'))reset();};$('prev').onclick=()=>reset(Math.max(0,(game?.seed||0)-1));$('next').onclick=()=>reset((game?.seed||0)+1);
 $('collapse').onclick=()=>{document.body.classList.toggle('mini');$('collapse').textContent=document.body.classList.contains('mini')?'‹':'›';setTimeout(resize,50);};
-$('terrainMode').onchange=e=>changeTerrain(e.target.value);
-$('detailMode').onchange=e=>changeDetail(e.target.value);
+$('boardSize').onchange=e=>{
+  const previous=settings.size,next=Number(e.target.value);
+  if(next===previous)return;
+  if(game && !window.confirm(`Neue Kartengröße ${next} × ${next} wählen? Das aktuelle Spiel wird neu gestartet.`)){e.target.value=String(previous);return;}
+  settings.size=next;reset(game?.seed??settings.seed);
+};
 window.addEventListener('resize',resize);
 document.addEventListener('keydown',e=>{
   if(e.target.tagName==='SELECT'||e.target.tagName==='INPUT')return;
@@ -275,9 +246,7 @@ document.addEventListener('keydown',e=>{
   if(k==='r' && e.ctrlKey){e.preventDefault();if(!e.repeat)reset();return;}
   if(e.ctrlKey||e.altKey||e.metaKey)return;if([' ','tab','+','-','='].includes(k))e.preventDefault();
   if(k===' ')togglePause();else if(k==='n')step();else if(k==='e')$('end').click();
-  else if(k==='r')setNote('Reset gesichert: Strg+R zum Wiederholen.');else if(k==='g'){$('terrainMode').value=settings.terrain==='gray'?'color':'gray';changeTerrain($('terrainMode').value);}
-  else if(k==='h'){const list=['normal','strong','off'];let next=list[(list.indexOf(settings.detail)+1)%3];$('detailMode').value=next;changeDetail(next);}
-  else if(k==='tab')$('collapse').click();else if(k==='+'||k==='=')$('next').click();else if(k==='-')$('prev').click();
+  else if(k==='r')setNote('Reset gesichert: Strg+R zum Wiederholen.');else if(k==='tab')$('collapse').click();else if(k==='+'||k==='=')$('next').click();else if(k==='-')$('prev').click();
   else if(['1','2','3','4'].includes(k)){aiDelay=[1000,400,140,0][Number(k)-1];setNote('KI-Tempo: '+['langsam','normal','schnell','sofort'][Number(k)-1]);}
 });
 async function start(){
